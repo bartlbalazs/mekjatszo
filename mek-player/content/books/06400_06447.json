@@ -1,0 +1,355 @@
+{
+  "id": "06400_06447",
+  "title": "Budapest a világörökség része",
+  "author": "",
+  "lead": "\"Akik jártak Barcelonában, bizonyára szívesen emlékeznek vissza a Pueblo Espagnolra. Ugyanezzel az ötlettel de korábban épült a városligeti Széchenyi-szigeten a velünk szembenálló épületegyüttes, amely csaknem valamennyi építőművészeti stílust a történelmi Magyarország híres műemlékei egyes részeinek hű másolatával mutatja be.\"",
+  "cover": null,
+  "description": null,
+  "audio_files": [
+    {
+      "url": "001.mp3",
+      "title": "001.mp3 - Beköszöntő"
+    },
+    {
+      "url": "002.mp3",
+      "title": "002.mp3 - Történelmi visszatekintés"
+    },
+    {
+      "url": "003.mp3",
+      "title": "003.mp3 - Budapest ma"
+    },
+    {
+      "url": "004.mp3",
+      "title": "004.mp3 - A programunk"
+    },
+    {
+      "url": "005.mp3",
+      "title": "005.mp3 - Hasznos tudnivalók"
+    },
+    {
+      "url": "006.mp3",
+      "title": "006.mp3 - Az induló helyszín megközelítése"
+    },
+    {
+      "url": "007.mp3",
+      "title": "007.mp3 - A Hősök tere"
+    },
+    {
+      "url": "008.mp3",
+      "title": "008.mp3 - A Millenniumi emlékmű"
+    },
+    {
+      "url": "009.mp3",
+      "title": "009.mp3 - A Szépművészeti Múzeum"
+    },
+    {
+      "url": "010.mp3",
+      "title": "010.mp3 - A Műcsarnok"
+    },
+    {
+      "url": "011.mp3",
+      "title": "011.mp3 - Az időkerék"
+    },
+    {
+      "url": "012.mp3",
+      "title": "012.mp3 - Az 56-osok emlékműve"
+    },
+    {
+      "url": "013.mp3",
+      "title": "013.mp3 - A Városligeti Műjégpálya"
+    },
+    {
+      "url": "014.mp3",
+      "title": "014.mp3 - Vajdahunyad Vár"
+    },
+    {
+      "url": "015.mp3",
+      "title": "015.mp3 - Széchenyi Gyógyfürdő"
+    },
+    {
+      "url": "016.mp3",
+      "title": "016.mp3 - Fővárosi Állatkert"
+    },
+    {
+      "url": "017.mp3",
+      "title": "017.mp3 - Fővárosi Nagycirkusz"
+    },
+    {
+      "url": "018.mp3",
+      "title": "018.mp3 - Vidámpark"
+    },
+    {
+      "url": "019.mp3",
+      "title": "019.mp3 - Közlekedési Múzeum"
+    },
+    {
+      "url": "020.mp3",
+      "title": "020.mp3 - Repüléstörténeti és Űrhajózási Kiállítás"
+    },
+    {
+      "url": "021.mp3",
+      "title": "021.mp3 - Magyar Sportmúzeum"
+    },
+    {
+      "url": "022.mp3",
+      "title": "022.mp3 - Séta az Ötvenhatosok terén"
+    },
+    {
+      "url": "023.mp3",
+      "title": "023.mp3 - Az Andrássy út története és szakaszai"
+    },
+    {
+      "url": "024.mp3",
+      "title": "024.mp3 - Az Andrássy út a Dózsa György"
+    },
+    {
+      "url": "025.mp3",
+      "title": "025.mp3 - Hopp Ferenc Kelet-Ázsiai Múzeum"
+    },
+    {
+      "url": "026.mp3",
+      "title": "026.mp3 - Ráth György Múzeum és a Fasor"
+    },
+    {
+      "url": "027.mp3",
+      "title": "027.mp3 - A Körönd és a Kodály Emlékmúzeum"
+    },
+    {
+      "url": "028.mp3",
+      "title": "028.mp3 - Az Andrássy út a Köröndtől az Oktogonig"
+    },
+    {
+      "url": "029.mp3",
+      "title": "029.mp3 - Képzőművészeti Egyetem és a Régi Műcsarnok"
+    },
+    {
+      "url": "030.mp3",
+      "title": "030.mp3 - Lukács Cukrászda és Kávézó"
+    },
+    {
+      "url": "031.mp3",
+      "title": "031.mp3 - Régi Zeneakadémia és Liszt Emlékmúzeum"
+    },
+    {
+      "url": "032.mp3",
+      "title": "032.mp3 - Terror Háza Múzeum"
+    },
+    {
+      "url": "033.mp3",
+      "title": "033.mp3 - Az Oktogon"
+    },
+    {
+      "url": "034.mp3",
+      "title": "034.mp3 - Az Andrássy út belvárosi szakasza"
+    },
+    {
+      "url": "035.mp3",
+      "title": "035.mp3 - Liszt Ferenc Zeneművészeti Egyetem"
+    },
+    {
+      "url": "036.mp3",
+      "title": "036.mp3 - Budapesti Operettszínház"
+    },
+    {
+      "url": "037.mp3",
+      "title": "037.mp3 - Magyar Állami Operaház"
+    },
+    {
+      "url": "038.mp3",
+      "title": "038.mp3 - Az Andrássy út további látnivalói"
+    },
+    {
+      "url": "039.mp3",
+      "title": "039.mp3 - Postamúzeum"
+    },
+    {
+      "url": "040.mp3",
+      "title": "040.mp3 - A belső-belváros és a Dunapart"
+    },
+    {
+      "url": "041.mp3",
+      "title": "041.mp3 - A Dohány utcai Zsinagóga"
+    },
+    {
+      "url": "042.mp3",
+      "title": "042.mp3 - A Budapesti Városháza és a Deáktér"
+    },
+    {
+      "url": "043.mp3",
+      "title": "043.mp3 - A Bazilika és a Szabadságtér"
+    },
+    {
+      "url": "044.mp3",
+      "title": "044.mp3 - A Szabadságtér"
+    },
+    {
+      "url": "045.mp3",
+      "title": "045.mp3 - A Parlament és a Kossuth tér"
+    },
+    {
+      "url": "046.mp3",
+      "title": "046.mp3 - Az Országház"
+    },
+    {
+      "url": "047.mp3",
+      "title": "047.mp3 - A Kossuth tér látnivalói"
+    },
+    {
+      "url": "048.mp3",
+      "title": "048.mp3 - Magyar Néprajzi Múzeum"
+    },
+    {
+      "url": "049.mp3",
+      "title": "049.mp3 - Ismerkedés a belvárosi Dunapart északi részével"
+    },
+    {
+      "url": "050.mp3",
+      "title": "050.mp3 - Víziváros a túlsó parton"
+    },
+    {
+      "url": "051.mp3",
+      "title": "051.mp3 - A Magyar Tudományos Akadémia Székháza"
+    },
+    {
+      "url": "052.mp3",
+      "title": "052.mp3 - A Dunakorzó"
+    },
+    {
+      "url": "053.mp3",
+      "title": "053.mp3 - A Pesti Vigadó"
+    },
+    {
+      "url": "054.mp3",
+      "title": "054.mp3 - A Belvárosi plébánia"
+    },
+    {
+      "url": "055.mp3",
+      "title": "055.mp3 - Átkelés a Lánchídon"
+    },
+    {
+      "url": "056.mp3",
+      "title": "056.mp3 - Clark Ádám tér és az Alagút"
+    },
+    {
+      "url": "057.mp3",
+      "title": "057.mp3 - Budavári Sikló"
+    },
+    {
+      "url": "058.mp3",
+      "title": "058.mp3 - A Budavári Palota"
+    },
+    {
+      "url": "059.mp3",
+      "title": "059.mp3 - Magyar Nemzeti Galéria"
+    },
+    {
+      "url": "060.mp3",
+      "title": "060.mp3 - Budapesti Történeti Múzeum"
+    },
+    {
+      "url": "061.mp3",
+      "title": "061.mp3 - Országos Széchényi könyvtár"
+    },
+    {
+      "url": "062.mp3",
+      "title": "062.mp3 - Sándor palota"
+    },
+    {
+      "url": "063.mp3",
+      "title": "063.mp3 - A Dísztér látnivalói"
+    },
+    {
+      "url": "064.mp3",
+      "title": "064.mp3 - Arany Sas Patikamúzeum"
+    },
+    {
+      "url": "065.mp3",
+      "title": "065.mp3 - A Szentháromság Szobor"
+    },
+    {
+      "url": "066.mp3",
+      "title": "066.mp3 - A Mátyás templom"
+    },
+    {
+      "url": "067.mp3",
+      "title": "067.mp3 - Szent István király szobra és a Halászbástya"
+    },
+    {
+      "url": "068.mp3",
+      "title": "068.mp3 - Halászbástya"
+    },
+    {
+      "url": "069.mp3",
+      "title": "069.mp3 - Juliánusz barát"
+    },
+    {
+      "url": "070.mp3",
+      "title": "070.mp3 - Magyar borok háza és a Hess András tér"
+    },
+    {
+      "url": "071.mp3",
+      "title": "071.mp3 - A Hess András térti a Bécsikapu térig"
+    },
+    {
+      "url": "072.mp3",
+      "title": "072.mp3 - A Bécsi Kapu és környéke"
+    },
+    {
+      "url": "073.mp3",
+      "title": "073.mp3 - Hadtörténeti Múzeum"
+    },
+    {
+      "url": "074.mp3",
+      "title": "074.mp3 - Budai panoráma és a polgárnegyed"
+    },
+    {
+      "url": "075.mp3",
+      "title": "075.mp3 - Kapisztrán tér"
+    },
+    {
+      "url": "076.mp3",
+      "title": "076.mp3 - Úri utca, Telefónia"
+    },
+    {
+      "url": "077.mp3",
+      "title": "077.mp3 - Hadik, Ruswurm"
+    },
+    {
+      "url": "078.mp3",
+      "title": "078.mp3 - Budai Várbarlang"
+    },
+    {
+      "url": "079.mp3",
+      "title": "079.mp3 - Átutazás a Gellért-hegyre"
+    },
+    {
+      "url": "080.mp3",
+      "title": "080.mp3 - A Gellért-hegy"
+    },
+    {
+      "url": "081.mp3",
+      "title": "081.mp3 - A Gellért-hegyi közlekedés és a látnivalók"
+    },
+    {
+      "url": "082.mp3",
+      "title": "082.mp3 - A Citadella"
+    },
+    {
+      "url": "083.mp3",
+      "title": "083.mp3 - A Szabadság szobor és panoráma"
+    },
+    {
+      "url": "084.mp3",
+      "title": "084.mp3 - A Szent Gellért emlékmű"
+    },
+    {
+      "url": "085.mp3",
+      "title": "085.mp3 - A Sziklakápolna"
+    },
+    {
+      "url": "086.mp3",
+      "title": "086.mp3 - Visszatérés a Belvárosba"
+    }
+  ],
+  "url": "https://mek.oszk.hu/06400/06447"
+}

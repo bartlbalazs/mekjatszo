@@ -1,0 +1,82 @@
+{
+  "body": [
+    {
+      "id": "12800_12892",
+      "title": "A sárga pokol",
+      "author": "Charles Lorre",
+      "lead": "\"A század menetelt. Csupa kemény arcélű, napbarnított, harcedzett legény, aki már keresztülment egypár pokoli dolgon. Egyetlen újonc volt közöttük, Ronny, őt is csak nagy nehezen, August Smith, valamint Duval őrmester közbenjárására engedte velük tartani Connor hadnagy. A hőség irtózatos volt.\"",
+      "cover": "/12800/12892/borito.jpg",
+      "description": "Ronny legyintett. - Nem is tud maga énrám haragudni, Duval apó! - Ne mondja nekem, hogy apó, mert... - Tudom, leveri a pofámat egy sátortartó rúddal. - Téved! Ha pimaszkodni fog, kitépem a máját a torkán keresztül! - Ilyet ne mondjon, mert akkor azt kell hinnem, hogy hiányos az általános műveltsége. Májat nem lehet kitépni torkon keresztül, hiszen különböző más szervek esnek az útjába! Úgy látom, maga nem tudja, mi az az anatómia! - De igenis tudom! Voltam is már ott! Nagyon szép az igazságügyi palotája! - Az Anatólia! És ne feszegessük tovább ezt a kérdést...",
+      "audio_files": [
+        {
+          "url": "01-A_sarga_pokol.mp3",
+          "title": "01-A_sarga_pokol.mp3 - I. fejezet"
+        },
+        {
+          "url": "02-A_sarga_pokol.mp3",
+          "title": "02-A_sarga_pokol.mp3 - II. fejezet"
+        },
+        {
+          "url": "03-A_sarga_pokol.mp3",
+          "title": "03-A_sarga_pokol.mp3 - III. fejezet"
+        },
+        {
+          "url": "04-A_sarga_pokol.mp3",
+          "title": "04-A_sarga_pokol.mp3 - IV. fejezet 1. rész"
+        },
+        {
+          "url": "05-A_sarga_pokol.mp3",
+          "title": "05-A_sarga_pokol.mp3 - IV. fejezet 2. rész"
+        },
+        {
+          "url": "06-A_sarga_pokol.mp3",
+          "title": "06-A_sarga_pokol.mp3 - V. fejezet"
+        }
+      ],
+      "url": "https://mek.oszk.hu/12800/12892"
+    },
+    {
+      "id": "11900_11999",
+      "title": "Ki nevet a végén?",
+      "author": "Charles Lorre",
+      "lead": "\"Más, rendes embert könnyen agyonüthetett volna egy ilyen módon a fejére zuhanó írógép, Diamant Oktáv azonban nem volt rendes ember. Mindenesetre rendkívül szédülhetett, és csak ennek volt tulajdonítható, hogy amikor géppisztolyából egy egész sorozatot küldött a menekülő Bobby után, a golyók mind célt tévesztettek.\"",
+      "cover": "/11900/11999/borito.jpg",
+      "description": null,
+      "audio_files": [
+        {
+          "url": "01-Ki_nevet_a_vegen.mp3",
+          "title": "01-Ki_nevet_a_vegen.mp3 - 1. fejezet"
+        },
+        {
+          "url": "02-Ki_nevet_a_vegen.mp3",
+          "title": "02-Ki_nevet_a_vegen.mp3 - 2. fejezet"
+        },
+        {
+          "url": "03-Ki_nevet_a_vegen.mp3",
+          "title": "03-Ki_nevet_a_vegen.mp3 - 3. fejezet"
+        },
+        {
+          "url": "04-Ki_nevet_a_vegen.mp3",
+          "title": "04-Ki_nevet_a_vegen.mp3 - 4. fejezet"
+        },
+        {
+          "url": "05-Ki_nevet_a_vegen.mp3",
+          "title": "05-Ki_nevet_a_vegen.mp3 - 5. fejezet"
+        },
+        {
+          "url": "06-Ki_nevet_a_vegen.mp3",
+          "title": "06-Ki_nevet_a_vegen.mp3 - 6. fejezet"
+        },
+        {
+          "url": "07-Ki_nevet_a_vegen.mp3",
+          "title": "07-Ki_nevet_a_vegen.mp3 - 7. fejezet"
+        },
+        {
+          "url": "08-Ki_nevet_a_vegen.mp3",
+          "title": "08-Ki_nevet_a_vegen.mp3 - 8. fejezet"
+        }
+      ],
+      "url": "https://mek.oszk.hu/11900/11999"
+    }
+  ]
+}

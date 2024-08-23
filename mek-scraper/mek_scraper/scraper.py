@@ -42,8 +42,8 @@ class Scraper:
         id = util.url_encode(url[len('https://mek.oszk.hu/'):])
         page = BeautifulSoup(self._get_request(url, 'utf-8'), 'html.parser')
         title = util.clean_string(page.select_one('#pagetop > section > div.DC.CSS-item > div.content > h3').text)
-        if title.endswith(' [Hangoskönyv]'):
-            title = title[:-len(' [Hangoskönyv]')]
+        if title.endswith('[Hangoskönyv]'):
+            title = title[:-len('[Hangoskönyv]')].strip()
         lead = util.clean_string(page.select_one('#pagetop > section > div.DC.CSS-item > div.content > div.itemlead').text)
         author = None
         try:
@@ -81,6 +81,5 @@ class Scraper:
         while page:
             books.extend(self._get_books(page))
             logging.info(f"Scraping page {self.url}")
-            break  # remove this
-            # page = self._get_next_page(soup=page)
+            page = self._get_next_page(soup=page)
         return books

@@ -1,0 +1,31 @@
+{
+  "body": [
+    {
+      "id": "22100_22163",
+      "title": "Válogatás Arany László Magyar népmesék című gyűjteményéből",
+      "author": "Arany László",
+      "lead": "\"Egyszer volt, hol nem volt, még az Óperenciás-tengeren is túl volt, volt egy szegény asszony, annak volt egy igen rest leánya, aki soha semmit se lendített a ház körül, hanem csak ült a padon a ház előtt, vagy pedig a faluba sétafikált előre-hátra. Váltig ütötte-verte az anyja, de nem használt semmit.\"",
+      "cover": "/22100/22163/borito.jpg",
+      "description": null,
+      "audio_files": [
+        {
+          "url": "Arany_Laszlo-Magyar_nepmesek_01.mp3",
+          "title": "Arany_Laszlo-Magyar_nepmesek_01.mp3 - 1. rész"
+        },
+        {
+          "url": "Arany_Laszlo-Magyar_nepmesek_02.mp3",
+          "title": "Arany_Laszlo-Magyar_nepmesek_02.mp3 - 2. rész"
+        },
+        {
+          "url": "Arany_Laszlo-Magyar_nepmesek_03.mp3",
+          "title": "Arany_Laszlo-Magyar_nepmesek_03.mp3 - 3. rész"
+        },
+        {
+          "url": "Arany_Laszlo-Magyar_nepmesek_04.mp3",
+          "title": "Arany_Laszlo-Magyar_nepmesek_04.mp3 - 4. rész"
+        }
+      ],
+      "url": "https://mek.oszk.hu/22100/22163"
+    }
+  ]
+}

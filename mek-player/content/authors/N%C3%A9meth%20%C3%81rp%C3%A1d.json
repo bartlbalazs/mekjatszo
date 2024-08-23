@@ -1,0 +1,1802 @@
+{
+  "body": [
+    {
+      "id": "19900_19937",
+      "title": "Álmaim",
+      "author": "Németh Árpád",
+      "lead": "\"Óvatosan kizártam a 311-es szoba ajtaját. Az egyágyas helyiség tényleg tágasnak tűnt. Mellékhelyiségek is nyíltak belőle. A szoba egyik oldalán hatalmas terasz szép kilátással, a másikon, vele szemben, óriási tükör díszítette a falat. A szoba sarkában jókora ágy terpeszkedett. Nekem háttal egy fiatal kócos lány aludt rajta.\"",
+      "cover": "/19900/19937/borito.jpg",
+      "description": null,
+      "audio_files": [
+        {
+          "url": "00.mp3",
+          "title": "00.mp3 - Előszó"
+        },
+        {
+          "url": "01_alom.mp3",
+          "title": "01_alom.mp3 - 1. álom"
+        },
+        {
+          "url": "02_alom.mp3",
+          "title": "02_alom.mp3 - 2. álom"
+        },
+        {
+          "url": "03_alom.mp3",
+          "title": "03_alom.mp3 - 3. álom"
+        },
+        {
+          "url": "04_alom.mp3",
+          "title": "04_alom.mp3 - 4. álom"
+        },
+        {
+          "url": "05_alom.mp3",
+          "title": "05_alom.mp3 - 5. álom"
+        },
+        {
+          "url": "06_alom.mp3",
+          "title": "06_alom.mp3 - 6. álom"
+        },
+        {
+          "url": "07_alom.mp3",
+          "title": "07_alom.mp3 - 7. álom"
+        },
+        {
+          "url": "08_alom.mp3",
+          "title": "08_alom.mp3 - 8. álom"
+        },
+        {
+          "url": "09_alom.mp3",
+          "title": "09_alom.mp3 - 9. álom"
+        },
+        {
+          "url": "10_alom.mp3",
+          "title": "10_alom.mp3 - 10. álom"
+        },
+        {
+          "url": "11_alom.mp3",
+          "title": "11_alom.mp3 - 11. álom"
+        },
+        {
+          "url": "12_alom.mp3",
+          "title": "12_alom.mp3 - 12. álom"
+        },
+        {
+          "url": "13_alom.mp3",
+          "title": "13_alom.mp3 - 13. álom"
+        },
+        {
+          "url": "14_alom.mp3",
+          "title": "14_alom.mp3 - 14. álom"
+        },
+        {
+          "url": "15_alom.mp3",
+          "title": "15_alom.mp3 - 15. álom"
+        },
+        {
+          "url": "16_alom.mp3",
+          "title": "16_alom.mp3 - 16. álom"
+        },
+        {
+          "url": "17_alom.mp3",
+          "title": "17_alom.mp3 - 17. álom"
+        },
+        {
+          "url": "18_alom.mp3",
+          "title": "18_alom.mp3 - 18. álom"
+        },
+        {
+          "url": "19_alom.mp3",
+          "title": "19_alom.mp3 - 19. álom"
+        },
+        {
+          "url": "20_alom.mp3",
+          "title": "20_alom.mp3 - 20. álom"
+        },
+        {
+          "url": "21_alom.mp3",
+          "title": "21_alom.mp3 - 21. álom"
+        },
+        {
+          "url": "22_alom.mp3",
+          "title": "22_alom.mp3 - 22. álom"
+        },
+        {
+          "url": "23_alom.mp3",
+          "title": "23_alom.mp3 - 23. álom"
+        },
+        {
+          "url": "24_alom.mp3",
+          "title": "24_alom.mp3 - 24. álom"
+        },
+        {
+          "url": "25_alom.mp3",
+          "title": "25_alom.mp3 - 25. álom"
+        },
+        {
+          "url": "26_alom.mp3",
+          "title": "26_alom.mp3 - 26. álom"
+        },
+        {
+          "url": "27_alom.mp3",
+          "title": "27_alom.mp3 - 27. álom"
+        },
+        {
+          "url": "28_alom.mp3",
+          "title": "28_alom.mp3 - 28. álom"
+        },
+        {
+          "url": "29_alom.mp3",
+          "title": "29_alom.mp3 - 29. álom"
+        },
+        {
+          "url": "30_alom.mp3",
+          "title": "30_alom.mp3 - 30. álom"
+        },
+        {
+          "url": "31_alom.mp3",
+          "title": "31_alom.mp3 - 31. álom"
+        },
+        {
+          "url": "32_alom.mp3",
+          "title": "32_alom.mp3 - 32. álom"
+        },
+        {
+          "url": "33_alom.mp3",
+          "title": "33_alom.mp3 - 33. álom"
+        },
+        {
+          "url": "34_alom.mp3",
+          "title": "34_alom.mp3 - 34. álom"
+        },
+        {
+          "url": "35_alom.mp3",
+          "title": "35_alom.mp3 - 35. álom"
+        },
+        {
+          "url": "36_alom.mp3",
+          "title": "36_alom.mp3 - 36. álom"
+        },
+        {
+          "url": "37_alom.mp3",
+          "title": "37_alom.mp3 - 37. álom"
+        },
+        {
+          "url": "38_alom.mp3",
+          "title": "38_alom.mp3 - 38. álom"
+        },
+        {
+          "url": "39_alom.mp3",
+          "title": "39_alom.mp3 - 39. álom"
+        },
+        {
+          "url": "40_alom.mp3",
+          "title": "40_alom.mp3 - 40. álom"
+        },
+        {
+          "url": "41_alom.mp3",
+          "title": "41_alom.mp3 - 41. álom"
+        },
+        {
+          "url": "42_alom.mp3",
+          "title": "42_alom.mp3 - 42. álom"
+        },
+        {
+          "url": "43_alom.mp3",
+          "title": "43_alom.mp3 - 43. álom"
+        },
+        {
+          "url": "44_alom.mp3",
+          "title": "44_alom.mp3 - 44. álom"
+        },
+        {
+          "url": "45_alom.mp3",
+          "title": "45_alom.mp3 - 45. álom"
+        },
+        {
+          "url": "46_alom.mp3",
+          "title": "46_alom.mp3 - 46. álom"
+        },
+        {
+          "url": "47_alom.mp3",
+          "title": "47_alom.mp3 - 47. álom"
+        },
+        {
+          "url": "48_alom.mp3",
+          "title": "48_alom.mp3 - 48. álom"
+        },
+        {
+          "url": "49_alom.mp3",
+          "title": "49_alom.mp3 - 49. álom"
+        },
+        {
+          "url": "50_alom.mp3",
+          "title": "50_alom.mp3 - 50. álom"
+        },
+        {
+          "url": "51_alom.mp3",
+          "title": "51_alom.mp3 - 51. álom"
+        },
+        {
+          "url": "52_alom.mp3",
+          "title": "52_alom.mp3 - 52. álom"
+        },
+        {
+          "url": "53_alom.mp3",
+          "title": "53_alom.mp3 - 53. álom"
+        },
+        {
+          "url": "54_alom.mp3",
+          "title": "54_alom.mp3 - 54. álom"
+        },
+        {
+          "url": "55_alom.mp3",
+          "title": "55_alom.mp3 - 55. álom"
+        },
+        {
+          "url": "56_alom.mp3",
+          "title": "56_alom.mp3 - 56. álom"
+        },
+        {
+          "url": "57_alom.mp3",
+          "title": "57_alom.mp3 - 57. álom"
+        },
+        {
+          "url": "58_alom.mp3",
+          "title": "58_alom.mp3 - 58. álom"
+        },
+        {
+          "url": "59_alom.mp3",
+          "title": "59_alom.mp3 - 59. álom"
+        },
+        {
+          "url": "60_alom.mp3",
+          "title": "60_alom.mp3 - 60. álom"
+        },
+        {
+          "url": "61_alom.mp3",
+          "title": "61_alom.mp3 - 61. álom"
+        },
+        {
+          "url": "62_alom.mp3",
+          "title": "62_alom.mp3 - 62. álom"
+        },
+        {
+          "url": "63_alom.mp3",
+          "title": "63_alom.mp3 - 63. álom"
+        },
+        {
+          "url": "64_alom.mp3",
+          "title": "64_alom.mp3 - 64. álom"
+        },
+        {
+          "url": "65_alom.mp3",
+          "title": "65_alom.mp3 - 65. álom"
+        },
+        {
+          "url": "66_alom.mp3",
+          "title": "66_alom.mp3 - 66. álom"
+        },
+        {
+          "url": "67_alom.mp3",
+          "title": "67_alom.mp3 - 67. álom"
+        },
+        {
+          "url": "68_alom.mp3",
+          "title": "68_alom.mp3 - 68. álom"
+        },
+        {
+          "url": "69_alom.mp3",
+          "title": "69_alom.mp3 - 69. álom"
+        },
+        {
+          "url": "70_alom.mp3",
+          "title": "70_alom.mp3 - 70. álom"
+        },
+        {
+          "url": "71_alom.mp3",
+          "title": "71_alom.mp3 - 71. álom"
+        },
+        {
+          "url": "72.mp3",
+          "title": "72.mp3 - Recenziók"
+        },
+        {
+          "url": "73.mp3",
+          "title": "73.mp3 - Pár szó az íróról"
+        }
+      ],
+      "url": "https://mek.oszk.hu/19900/19937"
+    },
+    {
+      "id": "15100_15104",
+      "title": "Breskvica",
+      "author": "Németh Árpád",
+      "lead": "\"Na prljavom uskom krevetu za transport bolesnika Maja je ležala na leđima. Bila je obučena u svetložutu tanku spavaćicu sa zelenim cvetovima. Uča je vukao taj krevet i grohotim se smejao. Bio je toliko blizu njenog lica da je osetila sitne kapi pljuvačke koje su letele iz njegovih širom otvorenih usta. Taj grohot se pretvorio u zujanje.\"",
+      "cover": "/15100/15104/borito.jpg",
+      "description": null,
+      "audio_files": [
+        {
+          "url": "00_Najava.mp3",
+          "title": "00_Najava.mp3"
+        },
+        {
+          "url": "01_Breskvica_01_1.mp3",
+          "title": "01_Breskvica_01_1.mp3"
+        },
+        {
+          "url": "02_Breskvica_01_2.mp3",
+          "title": "02_Breskvica_01_2.mp3"
+        },
+        {
+          "url": "03_Breskvica_02_1.mp3",
+          "title": "03_Breskvica_02_1.mp3"
+        },
+        {
+          "url": "04_Breskvica_02_2.mp3",
+          "title": "04_Breskvica_02_2.mp3"
+        },
+        {
+          "url": "05_Breskvica_03_1.mp3",
+          "title": "05_Breskvica_03_1.mp3"
+        },
+        {
+          "url": "06_Breskvica_03_2.mp3",
+          "title": "06_Breskvica_03_2.mp3"
+        },
+        {
+          "url": "07_Breskvica_04_1.mp3",
+          "title": "07_Breskvica_04_1.mp3"
+        },
+        {
+          "url": "08_Breskvica_04_2.mp3",
+          "title": "08_Breskvica_04_2.mp3"
+        },
+        {
+          "url": "09_Breskvica_05.mp3",
+          "title": "09_Breskvica_05.mp3"
+        },
+        {
+          "url": "10_Breskvica_06.mp3",
+          "title": "10_Breskvica_06.mp3"
+        },
+        {
+          "url": "11_Breskvica_07_1.mp3",
+          "title": "11_Breskvica_07_1.mp3"
+        },
+        {
+          "url": "12_Breskvica_07_2.mp3",
+          "title": "12_Breskvica_07_2.mp3"
+        },
+        {
+          "url": "13_Breskvica_08.mp3",
+          "title": "13_Breskvica_08.mp3"
+        },
+        {
+          "url": "14_Breskvica_09.mp3",
+          "title": "14_Breskvica_09.mp3"
+        },
+        {
+          "url": "15_Breskvica_10.mp3",
+          "title": "15_Breskvica_10.mp3"
+        },
+        {
+          "url": "16_Breskvica_11_1.mp3",
+          "title": "16_Breskvica_11_1.mp3"
+        },
+        {
+          "url": "17_Breskvica_11_2.mp3",
+          "title": "17_Breskvica_11_2.mp3"
+        },
+        {
+          "url": "18_Breskvica_12.mp3",
+          "title": "18_Breskvica_12.mp3"
+        },
+        {
+          "url": "19_Breskvica_13.mp3",
+          "title": "19_Breskvica_13.mp3"
+        },
+        {
+          "url": "20_Breskvica_14.mp3",
+          "title": "20_Breskvica_14.mp3"
+        },
+        {
+          "url": "21_Breskvica_15.mp3",
+          "title": "21_Breskvica_15.mp3"
+        },
+        {
+          "url": "22_Breskvica_16_1.mp3",
+          "title": "22_Breskvica_16_1.mp3"
+        },
+        {
+          "url": "23_Breskvica_16_2.mp3",
+          "title": "23_Breskvica_16_2.mp3"
+        },
+        {
+          "url": "24_Breskvica_17.mp3",
+          "title": "24_Breskvica_17.mp3"
+        },
+        {
+          "url": "25_Breskvica_18_1.mp3",
+          "title": "25_Breskvica_18_1.mp3"
+        },
+        {
+          "url": "26_Breskvica_18_2.mp3",
+          "title": "26_Breskvica_18_2.mp3"
+        },
+        {
+          "url": "27_Breskvica_19.mp3",
+          "title": "27_Breskvica_19.mp3"
+        },
+        {
+          "url": "28_Breskvica_20.mp3",
+          "title": "28_Breskvica_20.mp3"
+        },
+        {
+          "url": "29_Breskvica_21_1.mp3",
+          "title": "29_Breskvica_21_1.mp3"
+        },
+        {
+          "url": "30_Breskvica_21_2.mp3",
+          "title": "30_Breskvica_21_2.mp3"
+        },
+        {
+          "url": "31_Breskvica_22_1.mp3",
+          "title": "31_Breskvica_22_1.mp3"
+        },
+        {
+          "url": "32_Breskvica_22_2.mp3",
+          "title": "32_Breskvica_22_2.mp3"
+        },
+        {
+          "url": "33_Breskvica_23.mp3",
+          "title": "33_Breskvica_23.mp3"
+        },
+        {
+          "url": "34_Breskvica_24.mp3",
+          "title": "34_Breskvica_24.mp3"
+        },
+        {
+          "url": "35_Breskvica_25_1.mp3",
+          "title": "35_Breskvica_25_1.mp3"
+        },
+        {
+          "url": "36_Breskvica_25_2.mp3",
+          "title": "36_Breskvica_25_2.mp3"
+        },
+        {
+          "url": "37_Breskvica_25_3.mp3",
+          "title": "37_Breskvica_25_3.mp3"
+        },
+        {
+          "url": "38_Breskvica_25_4.mp3",
+          "title": "38_Breskvica_25_4.mp3"
+        },
+        {
+          "url": "39_Breskvica_26_1.mp3",
+          "title": "39_Breskvica_26_1.mp3"
+        },
+        {
+          "url": "40_Breskvica_26_2.mp3",
+          "title": "40_Breskvica_26_2.mp3"
+        },
+        {
+          "url": "41_Breskvica_26_3.mp3",
+          "title": "41_Breskvica_26_3.mp3"
+        },
+        {
+          "url": "42_Breskvica_27.mp3",
+          "title": "42_Breskvica_27.mp3"
+        },
+        {
+          "url": "43_Breskvica_28.mp3",
+          "title": "43_Breskvica_28.mp3"
+        },
+        {
+          "url": "44_Breskvica_29.mp3",
+          "title": "44_Breskvica_29.mp3"
+        },
+        {
+          "url": "45_Breskvica_30.mp3",
+          "title": "45_Breskvica_30.mp3"
+        },
+        {
+          "url": "46_Breskvica_31_1.mp3",
+          "title": "46_Breskvica_31_1.mp3"
+        },
+        {
+          "url": "47_Breskvica_31_2.mp3",
+          "title": "47_Breskvica_31_2.mp3"
+        },
+        {
+          "url": "48_Breskvica_31_3.mp3",
+          "title": "48_Breskvica_31_3.mp3"
+        },
+        {
+          "url": "49_Breskvica_32_1.mp3",
+          "title": "49_Breskvica_32_1.mp3"
+        },
+        {
+          "url": "50_Breskvica_32_2.mp3",
+          "title": "50_Breskvica_32_2.mp3"
+        },
+        {
+          "url": "51_Beleska_o_autoru.mp3",
+          "title": "51_Beleska_o_autoru.mp3"
+        }
+      ],
+      "url": "https://mek.oszk.hu/15100/15104"
+    },
+    {
+      "id": "04700_04763",
+      "title": "A kamera mögül",
+      "author": "Németh Árpád",
+      "lead": "\"Ha az Újvidéki Televízióról van szó, mindig a hetvenes évek elejét emlegetik. Mintha korábban nem is létezett volna magyar nyelvű televíziózás Vajdaságban. Most, 1999 végén, amikor belevágtam e könyv megírásába, már csak néhányan maradtuk azok közül, akik 1968-ban elkezdték a műsorok készítését.\"",
+      "cover": "/04700/04763/borito.jpg",
+      "description": "Németh Árpád, operatőr-rendező 1945-ben Zomborban született. Zágrábban fejezte be a Filmművészeti Akadémiát. 1968-tól az RTB újvidéki magyar szerkesztőségben dolgozott. Az Újvidéki Televízió megalakulása után munkásságát a kulturális-művészeti és a dokumentumműsorok szerkesztőségében folytatta. Több ismeretterjesztő, irodalmi és dokumentumfilmet készített. Több mint tíz tévédráma és egy játékfilm forgatásában működött közre. Két nemzetközi kooprodukciós dokumentumfilmet is rendezett. Az Erőltetett menet című, 90 perces dokumentumfilm rendezéséért a Budapesti MTV Nívó-díjjal jutalmazta meg. 1999 végén nyugdíjba vonult. Az Újvidéki Vakok és Gyengénlátók Szervezetének tagja 2001-ben lett. E szervezet keretén belül a Visszhang c. magyar nyelvű hangos újságot szerkeszti. 2005 decemberében saját szövege alapján színházi előadást rendezett, amelyben a színészek mind látássérültek voltak. Ez a könyv olyan formában készült, hogy a vakok számára is elérhető legyen.",
+      "audio_files": [
+        {
+          "url": "001.mp3",
+          "title": "001.mp3 - Előszó"
+        },
+        {
+          "url": "002.mp3",
+          "title": "002.mp3 - A kezdet"
+        },
+        {
+          "url": "003.mp3",
+          "title": "003.mp3 - Az interjú"
+        },
+        {
+          "url": "004.mp3",
+          "title": "004.mp3 - Az első nap"
+        },
+        {
+          "url": "005.mp3",
+          "title": "005.mp3 - Az első hónap"
+        },
+        {
+          "url": "006.mp3",
+          "title": "006.mp3 - Az első napidíjam"
+        },
+        {
+          "url": "007.mp3",
+          "title": "007.mp3 - Az első munkám"
+        },
+        {
+          "url": "008.mp3",
+          "title": "008.mp3 - Megérkezett az első fizetésem"
+        },
+        {
+          "url": "009.mp3",
+          "title": "009.mp3 - A lábtörés"
+        },
+        {
+          "url": "010.mp3",
+          "title": "010.mp3 - A kupuszinai"
+        },
+        {
+          "url": "011.mp3",
+          "title": "011.mp3 - A zentai Happening"
+        },
+        {
+          "url": "012.mp3",
+          "title": "012.mp3 - Találkozás Winussal"
+        },
+        {
+          "url": "013.mp3",
+          "title": "013.mp3 - Másnap"
+        },
+        {
+          "url": "014.mp3",
+          "title": "014.mp3 - Lakodalmak"
+        },
+        {
+          "url": "015.mp3",
+          "title": "015.mp3 - Pénz, pénz, pénz"
+        },
+        {
+          "url": "016.mp3",
+          "title": "016.mp3 - Magyarokat magyaroknak"
+        },
+        {
+          "url": "017.mp3",
+          "title": "017.mp3 - Staféta"
+        },
+        {
+          "url": "018.mp3",
+          "title": "018.mp3 - Lendva"
+        },
+        {
+          "url": "019.mp3",
+          "title": "019.mp3 - Man The Fair"
+        },
+        {
+          "url": "020.mp3",
+          "title": "020.mp3 - Weena"
+        },
+        {
+          "url": "021.mp3",
+          "title": "021.mp3 - Mi, a torreádorok"
+        },
+        {
+          "url": "022.mp3",
+          "title": "022.mp3 - Baranya"
+        },
+        {
+          "url": "023.mp3",
+          "title": "023.mp3 - Csirkepaprikás Germayer, módra"
+        },
+        {
+          "url": "024.mp3",
+          "title": "024.mp3 - Hósivatag"
+        },
+        {
+          "url": "025.mp3",
+          "title": "025.mp3 - Tánc"
+        },
+        {
+          "url": "026.mp3",
+          "title": "026.mp3 - Csantavéri téli esték"
+        },
+        {
+          "url": "027.mp3",
+          "title": "027.mp3 - Újév"
+        },
+        {
+          "url": "028.mp3",
+          "title": "028.mp3 - Palacsinta aukció"
+        },
+        {
+          "url": "029.mp3",
+          "title": "029.mp3 - Šušara"
+        },
+        {
+          "url": "030.mp3",
+          "title": "030.mp3 - Világutazó"
+        },
+        {
+          "url": "031.mp3",
+          "title": "031.mp3 - Tizennyolc sárga rózsa"
+        },
+        {
+          "url": "032.mp3",
+          "title": "032.mp3 - Cirill betűs keresztek"
+        },
+        {
+          "url": "033.mp3",
+          "title": "033.mp3 - Alkohol"
+        },
+        {
+          "url": "034.mp3",
+          "title": "034.mp3 - Vénlány"
+        },
+        {
+          "url": "035.mp3",
+          "title": "035.mp3 - Pontosan"
+        },
+        {
+          "url": "036.mp3",
+          "title": "036.mp3 - A Kék Csillag"
+        },
+        {
+          "url": "037.mp3",
+          "title": "037.mp3 - Avanti"
+        },
+        {
+          "url": "038.mp3",
+          "title": "038.mp3 - Esküvő"
+        },
+        {
+          "url": "039.mp3",
+          "title": "039.mp3 - Az öreg halász"
+        },
+        {
+          "url": "040.mp3",
+          "title": "040.mp3 - A \"Hoch kultúra\""
+        },
+        {
+          "url": "041.mp3",
+          "title": "041.mp3 - Dálya"
+        },
+        {
+          "url": "042.mp3",
+          "title": "042.mp3 - Statisztikusok"
+        },
+        {
+          "url": "043.mp3",
+          "title": "043.mp3 - A jégtörők"
+        },
+        {
+          "url": "044.mp3",
+          "title": "044.mp3 - Különös kameraállások"
+        },
+        {
+          "url": "045.mp3",
+          "title": "045.mp3 - Az új kamera"
+        },
+        {
+          "url": "046.mp3",
+          "title": "046.mp3 - Mosógép"
+        },
+        {
+          "url": "047.mp3",
+          "title": "047.mp3 - München"
+        },
+        {
+          "url": "048.mp3",
+          "title": "048.mp3 - Beléptem a KP-ba"
+        },
+        {
+          "url": "049.mp3",
+          "title": "049.mp3 - Tito elvtárs, először"
+        },
+        {
+          "url": "050.mp3",
+          "title": "050.mp3 - Zita!"
+        },
+        {
+          "url": "051.mp3",
+          "title": "051.mp3 - Az Újvidéki Televízió"
+        },
+        {
+          "url": "052.mp3",
+          "title": "052.mp3 - Duško"
+        },
+        {
+          "url": "053.mp3",
+          "title": "053.mp3 - Terepszemle"
+        },
+        {
+          "url": "054.mp3",
+          "title": "054.mp3 - Beiratkozás"
+        },
+        {
+          "url": "055.mp3",
+          "title": "055.mp3 - Gál Laci bácsi"
+        },
+        {
+          "url": "056.mp3",
+          "title": "056.mp3 - A Horgosi csárda..."
+        },
+        {
+          "url": "057.mp3",
+          "title": "057.mp3 - Tüskés pogácsa"
+        },
+        {
+          "url": "058.mp3",
+          "title": "058.mp3 - Ösztöndíjak"
+        },
+        {
+          "url": "059.mp3",
+          "title": "059.mp3 - Tömegsír"
+        },
+        {
+          "url": "060.mp3",
+          "title": "060.mp3 - Teknősbékaleves"
+        },
+        {
+          "url": "061.mp3",
+          "title": "061.mp3 - A sorsdöntő határozat"
+        },
+        {
+          "url": "062.mp3",
+          "title": "062.mp3 - Európai körút"
+        },
+        {
+          "url": "063.mp3",
+          "title": "063.mp3 - Első színes film"
+        },
+        {
+          "url": "064.mp3",
+          "title": "064.mp3 - Az Újvidéki Televízió munkatársai lettünk"
+        },
+        {
+          "url": "065.mp3",
+          "title": "065.mp3 - Dunđerski kastély"
+        },
+        {
+          "url": "066.mp3",
+          "title": "066.mp3 - Megszületett Attila"
+        },
+        {
+          "url": "067.mp3",
+          "title": "067.mp3 - Önbírálat"
+        },
+        {
+          "url": "068.mp3",
+          "title": "068.mp3 - Megalakult az első munkástanács"
+        },
+        {
+          "url": "069.mp3",
+          "title": "069.mp3 - A nagy \"művészek\""
+        },
+        {
+          "url": "070.mp3",
+          "title": "070.mp3 - Szarajevói merénylet"
+        },
+        {
+          "url": "071.mp3",
+          "title": "071.mp3 - Alapkőletétel"
+        },
+        {
+          "url": "072.mp3",
+          "title": "072.mp3 - Lakások, lakások"
+        },
+        {
+          "url": "073.mp3",
+          "title": "073.mp3 - Szignálok"
+        },
+        {
+          "url": "074.mp3",
+          "title": "074.mp3 - Megérkezett a közvetítő kocsi"
+        },
+        {
+          "url": "075.mp3",
+          "title": "075.mp3 - Virágéknál"
+        },
+        {
+          "url": "076.mp3",
+          "title": "076.mp3 - Európa - bajnokság"
+        },
+        {
+          "url": "077.mp3",
+          "title": "077.mp3 - Kongresszusok"
+        },
+        {
+          "url": "078.mp3",
+          "title": "078.mp3 - Rózsafesztivál"
+        },
+        {
+          "url": "079.mp3",
+          "title": "079.mp3 - A börtön"
+        },
+        {
+          "url": "080.mp3",
+          "title": "080.mp3 - Az új lakás"
+        },
+        {
+          "url": "081.mp3",
+          "title": "081.mp3 - Tenyéren a szív"
+        },
+        {
+          "url": "082.mp3",
+          "title": "082.mp3 - A palánkai híd avatása"
+        },
+        {
+          "url": "083.mp3",
+          "title": "083.mp3 - Ejtőernyősök"
+        },
+        {
+          "url": "084.mp3",
+          "title": "084.mp3 - Lifka"
+        },
+        {
+          "url": "085.mp3",
+          "title": "085.mp3 - Gál Laci bácsi - másodszor"
+        },
+        {
+          "url": "086.mp3",
+          "title": "086.mp3 - Közlekedési műsorok"
+        },
+        {
+          "url": "087.mp3",
+          "title": "087.mp3 - Hamburg"
+        },
+        {
+          "url": "088.mp3",
+          "title": "088.mp3 - Indul az újvidéki szerb Híradó"
+        },
+        {
+          "url": "089.mp3",
+          "title": "089.mp3 - Diploma"
+        },
+        {
+          "url": "090.mp3",
+          "title": "090.mp3 - Ilke"
+        },
+        {
+          "url": "091.mp3",
+          "title": "091.mp3 - A tévé nagyüzem lett"
+        },
+        {
+          "url": "092.mp3",
+          "title": "092.mp3 - A kamenicai kórházban"
+        },
+        {
+          "url": "093.mp3",
+          "title": "093.mp3 - Szürke hályog"
+        },
+        {
+          "url": "094.mp3",
+          "title": "094.mp3 - Karađorđevo"
+        },
+        {
+          "url": "095.mp3",
+          "title": "095.mp3 - Cseh Károly, vagyis a Fekete glóbusz"
+        },
+        {
+          "url": "096.mp3",
+          "title": "096.mp3 - Operáció"
+        },
+        {
+          "url": "097.mp3",
+          "title": "097.mp3 - Delibláti homokpuszta"
+        },
+        {
+          "url": "098.mp3",
+          "title": "098.mp3 - Terján"
+        },
+        {
+          "url": "099.mp3",
+          "title": "099.mp3 - A Messzike"
+        },
+        {
+          "url": "100.mp3",
+          "title": "100.mp3 - A vajdasági gyógyfürdők és a líkai szomszédaim"
+        },
+        {
+          "url": "101.mp3",
+          "title": "101.mp3 - A Cannes-i fesztivál"
+        },
+        {
+          "url": "102.mp3",
+          "title": "102.mp3 - A kopogtatás"
+        },
+        {
+          "url": "103.mp3",
+          "title": "103.mp3 - Szeli bácsi"
+        },
+        {
+          "url": "104.mp3",
+          "title": "104.mp3 - Buda Brakus"
+        },
+        {
+          "url": "105.mp3",
+          "title": "105.mp3 - Vajdasági tükör"
+        },
+        {
+          "url": "106.mp3",
+          "title": "106.mp3 - Napló"
+        },
+        {
+          "url": "107.mp3",
+          "title": "107.mp3 - Új könyvek. Az emberélet fordulói - Gombosi népszokások"
+        },
+        {
+          "url": "108.mp3",
+          "title": "108.mp3 - Az első nagy szerencsétlenség"
+        },
+        {
+          "url": "109.mp3",
+          "title": "109.mp3 - Kinek mit jelent a Vajdaság?"
+        },
+        {
+          "url": "110.mp3",
+          "title": "110.mp3 - Stockholm"
+        },
+        {
+          "url": "111.mp3",
+          "title": "111.mp3 - Tér, idő és lét"
+        },
+        {
+          "url": "112.mp3",
+          "title": "112.mp3 - Hollywoodi szindróma"
+        },
+        {
+          "url": "113.mp3",
+          "title": "113.mp3 - Deák Ferenc"
+        },
+        {
+          "url": "114.mp3",
+          "title": "114.mp3 - Bogdánfi Sándor"
+        },
+        {
+          "url": "115.mp3",
+          "title": "115.mp3 - Veno Taufer"
+        },
+        {
+          "url": "116.mp3",
+          "title": "116.mp3 - Holdbéli csónakos"
+        },
+        {
+          "url": "117.mp3",
+          "title": "117.mp3 - A Grimasz"
+        },
+        {
+          "url": "118.mp3",
+          "title": "118.mp3 - A selyem. Vera és Erzsike"
+        },
+        {
+          "url": "119.mp3",
+          "title": "119.mp3 - A tanárnők tanárnője Dr. Penavin Olga"
+        },
+        {
+          "url": "120.mp3",
+          "title": "120.mp3 - Jó éjszakát, gyerekek!"
+        },
+        {
+          "url": "121.mp3",
+          "title": "121.mp3 - Szerelmi költészet"
+        },
+        {
+          "url": "122.mp3",
+          "title": "122.mp3 - Tanácsos lettem"
+        },
+        {
+          "url": "123.mp3",
+          "title": "123.mp3 - Költők és tájak"
+        },
+        {
+          "url": "124.mp3",
+          "title": "124.mp3 - Madarak folyója - Fehér Ferenc"
+        },
+        {
+          "url": "125.mp3",
+          "title": "125.mp3 - Bumeráng"
+        },
+        {
+          "url": "126.mp3",
+          "title": "126.mp3 - Költők a Tiszáról"
+        },
+        {
+          "url": "127.mp3",
+          "title": "127.mp3 - Bognár Antal-portré. Az esélyek írója"
+        },
+        {
+          "url": "128.mp3",
+          "title": "128.mp3 - Herceg János"
+        },
+        {
+          "url": "129.mp3",
+          "title": "129.mp3 - A Késdobáló"
+        },
+        {
+          "url": "130.mp3",
+          "title": "130.mp3 - Leánykút"
+        },
+        {
+          "url": "131.mp3",
+          "title": "131.mp3 - Ljiljana Petrović-show"
+        },
+        {
+          "url": "132.mp3",
+          "title": "132.mp3 - Édes Anna"
+        },
+        {
+          "url": "133.mp3",
+          "title": "133.mp3 - Radnóti Miklós: Erőltetett menet I."
+        },
+        {
+          "url": "134.mp3",
+          "title": "134.mp3 - Radnóti Miklós: Erőltetett menet II."
+        },
+        {
+          "url": "135.mp3",
+          "title": "135.mp3 - Szemidegsorvadás"
+        },
+        {
+          "url": "136.mp3",
+          "title": "136.mp3 - Trieszt"
+        },
+        {
+          "url": "137.mp3",
+          "title": "137.mp3 - Bouvier"
+        },
+        {
+          "url": "138.mp3",
+          "title": "138.mp3 - Az igazgatók és a TV szervezete"
+        },
+        {
+          "url": "139.mp3",
+          "title": "139.mp3 - Majtényi Mihály"
+        },
+        {
+          "url": "140.mp3",
+          "title": "140.mp3 - Köln - fotókiállítás"
+        },
+        {
+          "url": "141.mp3",
+          "title": "141.mp3 - Újra Koszovóban"
+        },
+        {
+          "url": "142.mp3",
+          "title": "142.mp3 - Joghurtforadalom"
+        },
+        {
+          "url": "143.mp3",
+          "title": "143.mp3 - Szervátültetés"
+        },
+        {
+          "url": "144.mp3",
+          "title": "144.mp3 - Szabadka 600 éves"
+        },
+        {
+          "url": "145.mp3",
+          "title": "145.mp3 - A tudományos műsorok sorsa"
+        },
+        {
+          "url": "146.mp3",
+          "title": "146.mp3 - A Csend világa"
+        },
+        {
+          "url": "147.mp3",
+          "title": "147.mp3 - A Maslać család"
+        },
+        {
+          "url": "148.mp3",
+          "title": "148.mp3 - Koppenhága 1997"
+        },
+        {
+          "url": "149.mp3",
+          "title": "149.mp3 - 1999. március 24"
+        }
+      ],
+      "url": "https://mek.oszk.hu/04700/04763"
+    },
+    {
+      "id": "21900_21995",
+      "title": "A kő",
+      "author": "Németh Árpád",
+      "lead": "\"Novoszibirszk után elkerültem egy vonat összeütközést. Odesszától Konstanciáig hajóval utaztam. A hajón némi pénzt is kerestem asztalosként. Románián keresztül értem haza. Szerencsés ember lehetek, hogy megtettem ezt a hatalmas utat egyedül a kék kővel a zsebemben.\"",
+      "cover": "/21900/21995/borito.jpg",
+      "description": null,
+      "audio_files": [
+        {
+          "url": "A_ko-00.mp3",
+          "title": "A_ko-00.mp3 - Impresszum"
+        },
+        {
+          "url": "A_ko-01.mp3",
+          "title": "A_ko-01.mp3 - 1. Fejezet"
+        },
+        {
+          "url": "A_ko-02.mp3",
+          "title": "A_ko-02.mp3 - 2. Fejezet"
+        },
+        {
+          "url": "A_ko-03.mp3",
+          "title": "A_ko-03.mp3 - 3. Fejezet"
+        },
+        {
+          "url": "A_ko-04.mp3",
+          "title": "A_ko-04.mp3 - 4. Fejezet"
+        },
+        {
+          "url": "A_ko-05.mp3",
+          "title": "A_ko-05.mp3 - 5. Fejezet"
+        },
+        {
+          "url": "A_ko-06.mp3",
+          "title": "A_ko-06.mp3 - 6. Fejezet"
+        },
+        {
+          "url": "A_ko-07.mp3",
+          "title": "A_ko-07.mp3 - 7. Fejezet"
+        },
+        {
+          "url": "A_ko-08.mp3",
+          "title": "A_ko-08.mp3 - 8. Fejezet"
+        },
+        {
+          "url": "A_ko-09.mp3",
+          "title": "A_ko-09.mp3 - 9. Fejezet"
+        },
+        {
+          "url": "A_ko-10.mp3",
+          "title": "A_ko-10.mp3 - 10. Fejezet"
+        },
+        {
+          "url": "A_ko-11.mp3",
+          "title": "A_ko-11.mp3 - 11. Fejezet"
+        },
+        {
+          "url": "A_ko-12.mp3",
+          "title": "A_ko-12.mp3 - 12. Fejezet"
+        },
+        {
+          "url": "A_ko-13.mp3",
+          "title": "A_ko-13.mp3 - 13. Fejezet"
+        },
+        {
+          "url": "A_ko-14.mp3",
+          "title": "A_ko-14.mp3 - 14. Fejezet"
+        },
+        {
+          "url": "A_ko-15.mp3",
+          "title": "A_ko-15.mp3 - 15. Fejezet"
+        },
+        {
+          "url": "A_ko-16.mp3",
+          "title": "A_ko-16.mp3 - 16. Fejezet"
+        },
+        {
+          "url": "A_ko-17.mp3",
+          "title": "A_ko-17.mp3 - 17. Fejezet"
+        },
+        {
+          "url": "A_ko-18.mp3",
+          "title": "A_ko-18.mp3 - 18. Fejezet"
+        },
+        {
+          "url": "A_ko-19.mp3",
+          "title": "A_ko-19.mp3 - 19. Fejezet"
+        },
+        {
+          "url": "A_ko-20.mp3",
+          "title": "A_ko-20.mp3 - 20. Fejezet"
+        },
+        {
+          "url": "A_ko-21.mp3",
+          "title": "A_ko-21.mp3 - 21. Fejezet"
+        },
+        {
+          "url": "A_ko-22.mp3",
+          "title": "A_ko-22.mp3 - 22. Fejezet"
+        },
+        {
+          "url": "A_ko-23.mp3",
+          "title": "A_ko-23.mp3 - 23. Fejezet"
+        },
+        {
+          "url": "A_ko-24.mp3",
+          "title": "A_ko-24.mp3 - 24. Fejezet"
+        },
+        {
+          "url": "A_ko-25.mp3",
+          "title": "A_ko-25.mp3 - 25. Fejezet"
+        },
+        {
+          "url": "A_ko-26.mp3",
+          "title": "A_ko-26.mp3 - 26. Fejezet"
+        },
+        {
+          "url": "A_ko-27.mp3",
+          "title": "A_ko-27.mp3 - 27. Fejezet"
+        },
+        {
+          "url": "A_ko-28.mp3",
+          "title": "A_ko-28.mp3 - 28. Fejezet"
+        },
+        {
+          "url": "A_ko-29.mp3",
+          "title": "A_ko-29.mp3 - 29. Fejezet"
+        },
+        {
+          "url": "A_ko-30.mp3",
+          "title": "A_ko-30.mp3 - 30. Fejezet"
+        },
+        {
+          "url": "A_ko-31.mp3",
+          "title": "A_ko-31.mp3 - Németh Árpád elbeszélései"
+        },
+        {
+          "url": "Kamen-01.mp3",
+          "title": "Kamen-01.mp3 - Impresum"
+        },
+        {
+          "url": "Kamen-02.mp3",
+          "title": "Kamen-02.mp3 - Sadržaj"
+        },
+        {
+          "url": "Kamen-03.mp3",
+          "title": "Kamen-03.mp3 - 1. Poglavlje"
+        },
+        {
+          "url": "Kamen-04.mp3",
+          "title": "Kamen-04.mp3 - 2. Poglavlje"
+        },
+        {
+          "url": "Kamen-05.mp3",
+          "title": "Kamen-05.mp3 - 3. Poglavlje"
+        },
+        {
+          "url": "Kamen-06.mp3",
+          "title": "Kamen-06.mp3 - 4. Poglavlje"
+        },
+        {
+          "url": "Kamen-07.mp3",
+          "title": "Kamen-07.mp3 - 5. Poglavlje"
+        },
+        {
+          "url": "Kamen-08.mp3",
+          "title": "Kamen-08.mp3 - 6. Poglavlje"
+        },
+        {
+          "url": "Kamen-09.mp3",
+          "title": "Kamen-09.mp3 - 7. Poglavlje (1)"
+        },
+        {
+          "url": "Kamen-10.mp3",
+          "title": "Kamen-10.mp3 - 7. Poglavlje (2)"
+        },
+        {
+          "url": "Kamen-11.mp3",
+          "title": "Kamen-11.mp3 - 8. Poglavlje"
+        },
+        {
+          "url": "Kamen-12.mp3",
+          "title": "Kamen-12.mp3 - 9. Poglavlje"
+        },
+        {
+          "url": "Kamen-13.mp3",
+          "title": "Kamen-13.mp3 - 10. Poglavlje"
+        },
+        {
+          "url": "Kamen-14.mp3",
+          "title": "Kamen-14.mp3 - 11. Poglavlje"
+        },
+        {
+          "url": "Kamen-15.mp3",
+          "title": "Kamen-15.mp3 - 12. Poglavlje"
+        },
+        {
+          "url": "Kamen-16.mp3",
+          "title": "Kamen-16.mp3 - 13. Poglavlje"
+        },
+        {
+          "url": "Kamen-17.mp3",
+          "title": "Kamen-17.mp3 - 14. Poglavlje"
+        },
+        {
+          "url": "Kamen-18.mp3",
+          "title": "Kamen-18.mp3 - 15. Poglavlje"
+        },
+        {
+          "url": "Kamen-19.mp3",
+          "title": "Kamen-19.mp3 - 16. Poglavlje"
+        },
+        {
+          "url": "Kamen-20.mp3",
+          "title": "Kamen-20.mp3 - 17. Poglavlje (1)"
+        },
+        {
+          "url": "Kamen-21.mp3",
+          "title": "Kamen-21.mp3 - 17. Poglavlje (2)"
+        },
+        {
+          "url": "Kamen-22.mp3",
+          "title": "Kamen-22.mp3 - 18. Poglavlje"
+        },
+        {
+          "url": "Kamen-23.mp3",
+          "title": "Kamen-23.mp3 - 19. Poglavlje"
+        },
+        {
+          "url": "Kamen-24.mp3",
+          "title": "Kamen-24.mp3 - 20. Poglavlje"
+        },
+        {
+          "url": "Kamen-25.mp3",
+          "title": "Kamen-25.mp3 - 21. Poglavlje"
+        },
+        {
+          "url": "Kamen-26.mp3",
+          "title": "Kamen-26.mp3 - 22. Poglavlje"
+        },
+        {
+          "url": "Kamen-27.mp3",
+          "title": "Kamen-27.mp3 - 23. Poglavlje"
+        },
+        {
+          "url": "Kamen-28.mp3",
+          "title": "Kamen-28.mp3 - 24. Poglavlje"
+        },
+        {
+          "url": "Kamen-29.mp3",
+          "title": "Kamen-29.mp3 - 25. Poglavlje (1)"
+        },
+        {
+          "url": "Kamen-30.mp3",
+          "title": "Kamen-30.mp3 - 25. Poglavlje (2)"
+        },
+        {
+          "url": "Kamen-31.mp3",
+          "title": "Kamen-31.mp3 - 26. Poglavlje (1)"
+        },
+        {
+          "url": "Kamen-32.mp3",
+          "title": "Kamen-32.mp3 - 26. Poglavlje (2)"
+        },
+        {
+          "url": "Kamen-33.mp3",
+          "title": "Kamen-33.mp3 - 27. Poglavlje"
+        },
+        {
+          "url": "Kamen-34.mp3",
+          "title": "Kamen-34.mp3 - 28. Poglavlje"
+        },
+        {
+          "url": "Kamen-35.mp3",
+          "title": "Kamen-35.mp3 - Arpadove snohvatice"
+        }
+      ],
+      "url": "https://mek.oszk.hu/21900/21995"
+    },
+    {
+      "id": "22500_22591",
+      "title": "A kőkapu",
+      "author": "Németh Árpád",
+      "lead": "\"... Meteorzápor világította meg az ég épp azon részét, melyet sóvárogva kémlelt. Úgy tűnt, hogy az egyik hulló csillag, mint egy hatalmas égő ágyúgolyó zuhant le, nagyon közel, szinte pár kilométerre az erődtől nyugatra, a kolostor és az ismert kőkapu környékére. A nagy villanást egy gyenge földmozgás is kísérte.\"",
+      "cover": "/22500/22591/borito.jpg",
+      "description": null,
+      "audio_files": [
+        {
+          "url": "Nemeth_Arpad-A_kokapu_00.mp3",
+          "title": "Nemeth_Arpad-A_kokapu_00.mp3 - Hangos katalóguscédula"
+        },
+        {
+          "url": "Nemeth_Arpad-A_kokapu_01.mp3",
+          "title": "Nemeth_Arpad-A_kokapu_01.mp3 - A kőkapu - 1. Fejezet"
+        },
+        {
+          "url": "Nemeth_Arpad-A_kokapu_02.mp3",
+          "title": "Nemeth_Arpad-A_kokapu_02.mp3 - A kőkapu - 2. Fejezet"
+        },
+        {
+          "url": "Nemeth_Arpad-A_kokapu_03.mp3",
+          "title": "Nemeth_Arpad-A_kokapu_03.mp3 - A kőkapu - 3. Fejezet"
+        },
+        {
+          "url": "Nemeth_Arpad-A_kokapu_04.mp3",
+          "title": "Nemeth_Arpad-A_kokapu_04.mp3 - A kőkapu - 4. Fejezet"
+        },
+        {
+          "url": "Nemeth_Arpad-A_kokapu_05.mp3",
+          "title": "Nemeth_Arpad-A_kokapu_05.mp3 - A kőkapu - 5. Fejezet"
+        },
+        {
+          "url": "Nemeth_Arpad-A_kokapu_06.mp3",
+          "title": "Nemeth_Arpad-A_kokapu_06.mp3 - A kőkapu - 6. Fejezet"
+        },
+        {
+          "url": "Nemeth_Arpad-A_kokapu_07.mp3",
+          "title": "Nemeth_Arpad-A_kokapu_07.mp3 - A kőkapu - 7. Fejezet"
+        },
+        {
+          "url": "Nemeth_Arpad-A_kokapu_08.mp3",
+          "title": "Nemeth_Arpad-A_kokapu_08.mp3 - A kőkapu - 8. Fejezet"
+        },
+        {
+          "url": "Nemeth_Arpad-A_kokapu_09.mp3",
+          "title": "Nemeth_Arpad-A_kokapu_09.mp3 - A kőkapu - 9. Fejezet"
+        },
+        {
+          "url": "Nemeth_Arpad-A_kokapu_10.mp3",
+          "title": "Nemeth_Arpad-A_kokapu_10.mp3 - A kőkapu - 10. Fejezet"
+        },
+        {
+          "url": "Nemeth_Arpad-A_kokapu_11.mp3",
+          "title": "Nemeth_Arpad-A_kokapu_11.mp3 - A kőkapu - 11. Fejezet"
+        },
+        {
+          "url": "Nemeth_Arpad-A_kokapu_12.mp3",
+          "title": "Nemeth_Arpad-A_kokapu_12.mp3 - A kőkapu - 12. Fejezet"
+        },
+        {
+          "url": "Nemeth_Arpad-A_kokapu_13.mp3",
+          "title": "Nemeth_Arpad-A_kokapu_13.mp3 - A kőkapu - 13. Fejezet"
+        },
+        {
+          "url": "Nemeth_Arpad-A_kokapu_14.mp3",
+          "title": "Nemeth_Arpad-A_kokapu_14.mp3 - A kőkapu - 14. Fejezet"
+        },
+        {
+          "url": "Nemeth_Arpad-A_kokapu_15.mp3",
+          "title": "Nemeth_Arpad-A_kokapu_15.mp3 - A kőkapu - 15. Fejezet"
+        },
+        {
+          "url": "Nemeth_Arpad-A_kokapu_16.mp3",
+          "title": "Nemeth_Arpad-A_kokapu_16.mp3 - A kőkapu - 16. Fejezet"
+        },
+        {
+          "url": "Nemeth_Arpad-A_kokapu_17.mp3",
+          "title": "Nemeth_Arpad-A_kokapu_17.mp3 - A kőkapu - 17. Fejezet"
+        },
+        {
+          "url": "Nemeth_Arpad-A_kokapu_18.mp3",
+          "title": "Nemeth_Arpad-A_kokapu_18.mp3 - A kőkapu - 18. Fejezet"
+        },
+        {
+          "url": "Nemeth_Arpad-A_kokapu_19.mp3",
+          "title": "Nemeth_Arpad-A_kokapu_19.mp3 - A kőkapu - 19. Fejezet"
+        },
+        {
+          "url": "Nemeth_Arpad-A_kokapu_20.mp3",
+          "title": "Nemeth_Arpad-A_kokapu_20.mp3 - Dujó - 1. Fejezet"
+        },
+        {
+          "url": "Nemeth_Arpad-A_kokapu_21.mp3",
+          "title": "Nemeth_Arpad-A_kokapu_21.mp3 - Dujó - 2. Fejezet"
+        },
+        {
+          "url": "Nemeth_Arpad-A_kokapu_22.mp3",
+          "title": "Nemeth_Arpad-A_kokapu_22.mp3 - Dujó - 3. Fejezet"
+        },
+        {
+          "url": "Nemeth_Arpad-A_kokapu_23.mp3",
+          "title": "Nemeth_Arpad-A_kokapu_23.mp3 - Dujó - 4. Fejezet"
+        },
+        {
+          "url": "Nemeth_Arpad-A_kokapu_24.mp3",
+          "title": "Nemeth_Arpad-A_kokapu_24.mp3 - Dujó - 5. Fejezet"
+        },
+        {
+          "url": "Nemeth_Arpad-A_kokapu_25.mp3",
+          "title": "Nemeth_Arpad-A_kokapu_25.mp3 - Dujó - 6. Fejezet"
+        },
+        {
+          "url": "Nemeth_Arpad-A_kokapu_26.mp3",
+          "title": "Nemeth_Arpad-A_kokapu_26.mp3 - Dujó - 7. Fejezet"
+        },
+        {
+          "url": "Nemeth_Arpad-A_kokapu_27.mp3",
+          "title": "Nemeth_Arpad-A_kokapu_27.mp3 - Dujó - 8. Fejezet"
+        },
+        {
+          "url": "Nemeth_Arpad-A_kokapu_28.mp3",
+          "title": "Nemeth_Arpad-A_kokapu_28.mp3 - Dujó - 9. Fejezet"
+        },
+        {
+          "url": "Nemeth_Arpad-A_kokapu_29.mp3",
+          "title": "Nemeth_Arpad-A_kokapu_29.mp3 - Lajos, az álomfejtő"
+        },
+        {
+          "url": "Nemeth_Arpad-A_kokapu_30.mp3",
+          "title": "Nemeth_Arpad-A_kokapu_30.mp3 - Néhány szó az íróról"
+        },
+        {
+          "url": "Nemeth_Arpad-A_kokapu_31.mp3",
+          "title": "Nemeth_Arpad-A_kokapu_31.mp3 - Recenzió (Bosznai Győző)"
+        },
+        {
+          "url": "Nemeth_Arpad-Kamena kapija_01.mp3",
+          "title": "Nemeth_Arpad-Kamena kapija_01.mp3 - Najava"
+        },
+        {
+          "url": "Nemeth_Arpad-Kamena kapija_02.mp3",
+          "title": "Nemeth_Arpad-Kamena kapija_02.mp3 - Kamena kapija - 1. Poglavlje"
+        },
+        {
+          "url": "Nemeth_Arpad-Kamena kapija_03.mp3",
+          "title": "Nemeth_Arpad-Kamena kapija_03.mp3 - Kamena kapija - 2. Poglavlje"
+        },
+        {
+          "url": "Nemeth_Arpad-Kamena kapija_04.mp3",
+          "title": "Nemeth_Arpad-Kamena kapija_04.mp3 - Kamena kapija - 3. Poglavlje"
+        },
+        {
+          "url": "Nemeth_Arpad-Kamena kapija_05.mp3",
+          "title": "Nemeth_Arpad-Kamena kapija_05.mp3 - Kamena kapija - 4. Poglavlje"
+        },
+        {
+          "url": "Nemeth_Arpad-Kamena kapija_06.mp3",
+          "title": "Nemeth_Arpad-Kamena kapija_06.mp3 - Kamena kapija - 5. Poglavlje"
+        },
+        {
+          "url": "Nemeth_Arpad-Kamena kapija_07.mp3",
+          "title": "Nemeth_Arpad-Kamena kapija_07.mp3 - Kamena kapija - 6. Poglavlje"
+        },
+        {
+          "url": "Nemeth_Arpad-Kamena kapija_08.mp3",
+          "title": "Nemeth_Arpad-Kamena kapija_08.mp3 - Kamena kapija - 7. Poglavlje"
+        },
+        {
+          "url": "Nemeth_Arpad-Kamena kapija_09.mp3",
+          "title": "Nemeth_Arpad-Kamena kapija_09.mp3 - Kamena kapija - 8. Poglavlje"
+        },
+        {
+          "url": "Nemeth_Arpad-Kamena kapija_10.mp3",
+          "title": "Nemeth_Arpad-Kamena kapija_10.mp3 - Kamena kapija - 9. Poglavlje"
+        },
+        {
+          "url": "Nemeth_Arpad-Kamena kapija_11.mp3",
+          "title": "Nemeth_Arpad-Kamena kapija_11.mp3 - Kamena kapija - 10. Poglavlje"
+        },
+        {
+          "url": "Nemeth_Arpad-Kamena kapija_12.mp3",
+          "title": "Nemeth_Arpad-Kamena kapija_12.mp3 - Kamena kapija - 11. Poglavlje"
+        },
+        {
+          "url": "Nemeth_Arpad-Kamena kapija_13.mp3",
+          "title": "Nemeth_Arpad-Kamena kapija_13.mp3 - Kamena kapija - 12. Poglavlje"
+        },
+        {
+          "url": "Nemeth_Arpad-Kamena kapija_14.mp3",
+          "title": "Nemeth_Arpad-Kamena kapija_14.mp3 - Kamena kapija - 13. Poglavlje"
+        },
+        {
+          "url": "Nemeth_Arpad-Kamena kapija_15.mp3",
+          "title": "Nemeth_Arpad-Kamena kapija_15.mp3 - Kamena kapija - 14. Poglavlje"
+        },
+        {
+          "url": "Nemeth_Arpad-Kamena kapija_16.mp3",
+          "title": "Nemeth_Arpad-Kamena kapija_16.mp3 - Kamena kapija - 15. Poglavlje"
+        },
+        {
+          "url": "Nemeth_Arpad-Kamena kapija_17.mp3",
+          "title": "Nemeth_Arpad-Kamena kapija_17.mp3 - Kamena kapija - 16. Poglavlje"
+        },
+        {
+          "url": "Nemeth_Arpad-Kamena kapija_18.mp3",
+          "title": "Nemeth_Arpad-Kamena kapija_18.mp3 - Kamena kapija - 17. Poglavlje"
+        },
+        {
+          "url": "Nemeth_Arpad-Kamena kapija_19.mp3",
+          "title": "Nemeth_Arpad-Kamena kapija_19.mp3 - Kamena kapija - 18. Poglavlje"
+        },
+        {
+          "url": "Nemeth_Arpad-Kamena kapija_20.mp3",
+          "title": "Nemeth_Arpad-Kamena kapija_20.mp3 - Dujo - 1. Poglavlje"
+        },
+        {
+          "url": "Nemeth_Arpad-Kamena kapija_21.mp3",
+          "title": "Nemeth_Arpad-Kamena kapija_21.mp3 - Dujo - 2. Poglavlje"
+        },
+        {
+          "url": "Nemeth_Arpad-Kamena kapija_22.mp3",
+          "title": "Nemeth_Arpad-Kamena kapija_22.mp3 - Dujo - 3. Poglavlje"
+        },
+        {
+          "url": "Nemeth_Arpad-Kamena kapija_23.mp3",
+          "title": "Nemeth_Arpad-Kamena kapija_23.mp3 - Dujo - 4. Poglavlje"
+        },
+        {
+          "url": "Nemeth_Arpad-Kamena kapija_24.mp3",
+          "title": "Nemeth_Arpad-Kamena kapija_24.mp3 - Dujo - 5. Poglavlje"
+        },
+        {
+          "url": "Nemeth_Arpad-Kamena kapija_25.mp3",
+          "title": "Nemeth_Arpad-Kamena kapija_25.mp3 - Dujo - 6. Poglavlje"
+        },
+        {
+          "url": "Nemeth_Arpad-Kamena kapija_26.mp3",
+          "title": "Nemeth_Arpad-Kamena kapija_26.mp3 - Dujo - 7. Poglavlje"
+        },
+        {
+          "url": "Nemeth_Arpad-Kamena kapija_27.mp3",
+          "title": "Nemeth_Arpad-Kamena kapija_27.mp3 - Dujo - 8. Poglavlje"
+        },
+        {
+          "url": "Nemeth_Arpad-Kamena kapija_28.mp3",
+          "title": "Nemeth_Arpad-Kamena kapija_28.mp3 - Dujo - 9. Poglavlje"
+        },
+        {
+          "url": "Nemeth_Arpad-Kamena kapija_29.mp3",
+          "title": "Nemeth_Arpad-Kamena kapija_29.mp3 - Vlada, tumac snova"
+        },
+        {
+          "url": "Nemeth_Arpad-Kamena kapija_30.mp3",
+          "title": "Nemeth_Arpad-Kamena kapija_30.mp3 - Kamena kapija (Jovan Gagrica)"
+        },
+        {
+          "url": "Nemeth_Arpad-Kamena kapija_31.mp3",
+          "title": "Nemeth_Arpad-Kamena kapija_31.mp3 - Tragom Arpadove nepresušne pripovedačke inspiracije (Velibor Pilić)"
+        }
+      ],
+      "url": "https://mek.oszk.hu/22500/22591"
+    },
+    {
+      "id": "11000_11029",
+      "title": "Priče i snovi",
+      "author": "Németh Árpád",
+      "lead": "\"Računar je automatski uključio screen saver. Aca je sedeo ispred monitora spuštenih ruku. Pogled mu je bio uperen u donju ivicu monitora. Na toolbaru je pored ostalih otvorenih programa bio i jedan sitan naslov: »Scenario-1.doc«. Bio je potišten. Trebalo je da započne sa pisanjem scenarija za jedan dokumentarni film.\"",
+      "cover": "/11000/11029/borito.jpg",
+      "description": null,
+      "audio_files": [
+        {
+          "url": "00_Najava.mp3",
+          "title": "00_Najava.mp3"
+        },
+        {
+          "url": "01_Anin_dolazak_u_dom.mp3",
+          "title": "01_Anin_dolazak_u_dom.mp3"
+        },
+        {
+          "url": "02_Anin_san_1.mp3",
+          "title": "02_Anin_san_1.mp3"
+        },
+        {
+          "url": "03_Anin_san_2.mp3",
+          "title": "03_Anin_san_2.mp3"
+        },
+        {
+          "url": "04_Prvi_poljubac.mp3",
+          "title": "04_Prvi_poljubac.mp3"
+        },
+        {
+          "url": "05_Katarina_1.mp3",
+          "title": "05_Katarina_1.mp3"
+        },
+        {
+          "url": "06_Katarina_2.mp3",
+          "title": "06_Katarina_2.mp3"
+        },
+        {
+          "url": "07_Platonska_ljubav.mp3",
+          "title": "07_Platonska_ljubav.mp3"
+        },
+        {
+          "url": "08_Dijana_se_odmara_posle.mp3",
+          "title": "08_Dijana_se_odmara_posle.mp3"
+        },
+        {
+          "url": "09_Pozarevacka_9_1.mp3",
+          "title": "09_Pozarevacka_9_1.mp3"
+        },
+        {
+          "url": "10_Pozarevacka_9_2.mp3",
+          "title": "10_Pozarevacka_9_2.mp3"
+        },
+        {
+          "url": "11_Darkov_san.mp3",
+          "title": "11_Darkov_san.mp3"
+        },
+        {
+          "url": "12_Svetlana_1.mp3",
+          "title": "12_Svetlana_1.mp3"
+        },
+        {
+          "url": "13_Svetlana_2.mp3",
+          "title": "13_Svetlana_2.mp3"
+        },
+        {
+          "url": "14_Serpentes.mp3",
+          "title": "14_Serpentes.mp3"
+        },
+        {
+          "url": "15_Rasomonijada_1.mp3",
+          "title": "15_Rasomonijada_1.mp3"
+        },
+        {
+          "url": "16_Rasomonijada_2.mp3",
+          "title": "16_Rasomonijada_2.mp3"
+        },
+        {
+          "url": "17_Ispovest_jedne_luzerke_1.mp3",
+          "title": "17_Ispovest_jedne_luzerke_1.mp3"
+        },
+        {
+          "url": "18_Ispovest_jedne_luzerke_2.mp3",
+          "title": "18_Ispovest_jedne_luzerke_2.mp3"
+        },
+        {
+          "url": "19_Maja_1.mp3",
+          "title": "19_Maja_1.mp3"
+        },
+        {
+          "url": "20_Maja_2.mp3",
+          "title": "20_Maja_2.mp3"
+        },
+        {
+          "url": "21_Maja_3.mp3",
+          "title": "21_Maja_3.mp3"
+        },
+        {
+          "url": "22_Maja_4.mp3",
+          "title": "22_Maja_4.mp3"
+        },
+        {
+          "url": "23_Kako_bi_bilo_da_je.mp3",
+          "title": "23_Kako_bi_bilo_da_je.mp3"
+        },
+        {
+          "url": "24_Osvrt_na_Arpadove_price.mp3",
+          "title": "24_Osvrt_na_Arpadove_price.mp3"
+        },
+        {
+          "url": "25_Autobiografija_i_imaginacija_u_pricama_Arpada_Nemeta.mp3",
+          "title": "25_Autobiografija_i_imaginacija_u_pricama_Arpada_Nemeta.mp3"
+        },
+        {
+          "url": "26_Sadrzaj.mp3",
+          "title": "26_Sadrzaj.mp3"
+        },
+        {
+          "url": "27_O_piscu.mp3",
+          "title": "27_O_piscu.mp3"
+        }
+      ],
+      "url": "https://mek.oszk.hu/11000/11029"
+    }
+  ]
+}

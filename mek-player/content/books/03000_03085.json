@@ -1,0 +1,35 @@
+{
+  "id": "03000_03085",
+  "title": "Három nővérMVGYOSZ hangoskönyvek",
+  "author": "Anton Pavlovics Csehov",
+  "lead": "\"Két héttel ezelőtt is vesztett, decemberben is vesztett. Csak legalább gyorsan elkártyázna mindent, akkor talán elkerülnénk ebből a városból. Istenem, minden éjszaka Moszkváról álmodom, olyan vagyok, mint az őrült. Júniusban költözünk oda, és júniusig... február, március, április, május... majdnem egy fél esztendő!\"",
+  "cover": "/03000/03085/borito.jpg",
+  "description": "A Három nővér a kárba veszett szépség drámája. A három testvér (Olga, Mása és Irina) egy vidéki városban él. Életük kusza, szerelmeik zűrzavarosak, mindhárman boldogtalanok. A darab hangulatát a szenvedésnek ez a megfoghatatlan légköre adja, s ugyanilyen megfoghatatlan az \"optimizmus\", amely a mű végén fogalmazódik meg: \"... a mi életünk még nem fejeződött be... nemsokára megtudják, miért élünk, miért szenvedünk...\" A darab, amelynek sem tragikus konfliktusa, sem tragikus szereplői nincsenek, a mozgalmas és az értelmes élet iránti enervált, meddő várakozást rajzolja meg. A három nővér jellegzetes csehovi hősök, akiket a közös - az élet elhibázott, a célokat, eszményeket az életbe átültetni nem tudó, akarat és tartás nélküli, de gazdag belső világot felmutató - szellemiség tart össze. Forrás: Legeza Ilona könyvismertetői https://legeza.oszk.hu",
+  "audio_files": [
+    {
+      "url": "2286aa00.mp3",
+      "title": "2286aa00.mp3 - Hangos katalóguscédula"
+    },
+    {
+      "url": "2286ab01.mp3",
+      "title": "2286ab01.mp3 - Személyek"
+    },
+    {
+      "url": "2286af01.mp3",
+      "title": "2286af01.mp3 - Első felvonás"
+    },
+    {
+      "url": "2286af02.mp3",
+      "title": "2286af02.mp3 - Második felvonás"
+    },
+    {
+      "url": "2286af03.mp3",
+      "title": "2286af03.mp3 - Harmadik felvonás"
+    },
+    {
+      "url": "2286af04.mp3",
+      "title": "2286af04.mp3 - Negyedik felvonás"
+    }
+  ],
+  "url": "https://mek.oszk.hu/03000/03085"
+}

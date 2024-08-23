@@ -1,0 +1,39 @@
+{
+  "id": "01800_01895",
+  "title": "Kiűzetés, JegyességHangköltemények",
+  "author": "Ladik Katalin",
+  "lead": "\"Lassú, váró mozdulattal gyilkolsz, Ezüst rovar. Sápadtan karjaidban Mézet eresztesz belém.\"",
+  "cover": "/01800/01895/borito.jpg",
+  "description": "",
+  "audio_files": [
+    {
+      "url": "aki_darazsakrol_almodik_1.mp3",
+      "title": "aki_darazsakrol_almodik_1.mp3"
+    },
+    {
+      "url": "aki_darazsakrol_almodik_2.mp3",
+      "title": "aki_darazsakrol_almodik_2.mp3"
+    },
+    {
+      "url": "aki_darazsakrol_almodik_3.mp3",
+      "title": "aki_darazsakrol_almodik_3.mp3"
+    },
+    {
+      "url": "aki_darazsakrol_almodik_4.mp3",
+      "title": "aki_darazsakrol_almodik_4.mp3"
+    },
+    {
+      "url": "versek_1.mp3",
+      "title": "versek_1.mp3"
+    },
+    {
+      "url": "versek_2.mp3",
+      "title": "versek_2.mp3"
+    },
+    {
+      "url": "versek_3.mp3",
+      "title": "versek_3.mp3"
+    }
+  ],
+  "url": "https://mek.oszk.hu/01800/01895"
+}

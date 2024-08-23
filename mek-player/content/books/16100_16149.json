@@ -1,0 +1,27 @@
+{
+  "id": "16100_16149",
+  "title": "Múltbanéző",
+  "author": "Menyhei József",
+  "lead": "\"Riasztóan bomlik tovább a terebélyes világ buján, lelkének dala leégett őserdők szürke elázott hamuja. A lerakódott kátrányt időnként gyomrából kitaszítja s egy kis ország valahol e testen viselkedni tanul szakadatlan.\"",
+  "cover": "/16100/16149/borito.jpg",
+  "description": null,
+  "audio_files": [
+    {
+      "url": "01_multbanezo.mp3",
+      "title": "01_multbanezo.mp3"
+    },
+    {
+      "url": "02_multbanezo.mp3",
+      "title": "02_multbanezo.mp3"
+    },
+    {
+      "url": "03_multbanezo.mp3",
+      "title": "03_multbanezo.mp3"
+    },
+    {
+      "url": "04_multbanezo.mp3",
+      "title": "04_multbanezo.mp3"
+    }
+  ],
+  "url": "https://mek.oszk.hu/16100/16149"
+}

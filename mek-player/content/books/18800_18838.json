@@ -1,0 +1,27 @@
+{
+  "id": "18800_18838",
+  "title": "A helység kalapácsa",
+  "author": "Petőfi Sándor",
+  "lead": "\"A fondor lelkületű egyházfi S a helység kalapácsa Bírói parancsra előállt, S mindkettő fölterjesztette ügyét.\"",
+  "cover": "/18800/18838/borito.jpg",
+  "description": null,
+  "audio_files": [
+    {
+      "url": "01-Petofi_Sandor-A_helyseg_kalapacsa.mp3",
+      "title": "01-Petofi_Sandor-A_helyseg_kalapacsa.mp3 - Első ének"
+    },
+    {
+      "url": "02-Petofi_Sandor-A_helyseg_kalapacsa.mp3",
+      "title": "02-Petofi_Sandor-A_helyseg_kalapacsa.mp3 - Második ének"
+    },
+    {
+      "url": "03-Petofi_Sandor-A_helyseg_kalapacsa.mp3",
+      "title": "03-Petofi_Sandor-A_helyseg_kalapacsa.mp3 - Harmadik ének"
+    },
+    {
+      "url": "04-Petofi_Sandor-A_helyseg_kalapacsa.mp3",
+      "title": "04-Petofi_Sandor-A_helyseg_kalapacsa.mp3 - Negyedik ének"
+    }
+  ],
+  "url": "https://mek.oszk.hu/18800/18838"
+}

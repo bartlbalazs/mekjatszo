@@ -1,0 +1,47 @@
+{
+  "id": "05800_05893",
+  "title": "Tájnyelvi hangfelvételekBukovina - Andrásfalvi mesék",
+  "author": "",
+  "lead": "\"Jaj, lelkem komámasszon, hallotta-e, mi történt? Ott a faluvéginél Nekeresd Jóska megtojott egy egész kotló alá való tojást. Szerencsésen ki es kőtötte. Ott rugod a csürkékvel a ganyé mellett. 30 db kendermagos, 30 db csórényakú, 30 db fehér, s a többi zápon maradott. De nehogy elmondja valakinek!\"",
+  "cover": "/05800/05893/borito.jpg",
+  "description": null,
+  "audio_files": [
+    {
+      "url": "andrasfalva-01.mp3",
+      "title": "andrasfalva-01.mp3 - A fösvény emberek"
+    },
+    {
+      "url": "andrasfalva-02.mp3",
+      "title": "andrasfalva-02.mp3 - Kolontos Palkó"
+    },
+    {
+      "url": "andrasfalva-03.mp3",
+      "title": "andrasfalva-03.mp3 - A szegénember állatai"
+    },
+    {
+      "url": "andrasfalva-04.mp3",
+      "title": "andrasfalva-04.mp3 - A kígyókirály koronája"
+    },
+    {
+      "url": "andrasfalva-05.mp3",
+      "title": "andrasfalva-05.mp3 - A szőrdisznyócska s a fekete kakas"
+    },
+    {
+      "url": "andrasfalva-06.mp3",
+      "title": "andrasfalva-06.mp3 - Annacska s Márika"
+    },
+    {
+      "url": "andrasfalva-07.mp3",
+      "title": "andrasfalva-07.mp3 - A három rest legén"
+    },
+    {
+      "url": "andrasfalva-08.mp3",
+      "title": "andrasfalva-08.mp3 - A három együgyű leán"
+    },
+    {
+      "url": "andrasfalva-09.mp3",
+      "title": "andrasfalva-09.mp3 - A tojás"
+    }
+  ],
+  "url": "https://mek.oszk.hu/05800/05893"
+}

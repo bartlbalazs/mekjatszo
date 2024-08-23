@@ -1,0 +1,43 @@
+{
+  "id": "19500_19501",
+  "title": "Szobrok huzatban",
+  "author": "Lehoczki Károly",
+  "lead": "\"A szobroknak sem lehet könnyű. Télen, nyáron, hőségben, szélben, esőben, hóban ácsorogni egyhelyben. Az egyik nyáladzón rajong értük, a többség észre sem veszi, más meg ledöfné őket a szemével.\"",
+  "cover": "/19500/19501/borito.jpg",
+  "description": null,
+  "audio_files": [
+    {
+      "url": "01_Szobrok_huzatban_I_resz.mp3",
+      "title": "01_Szobrok_huzatban_I_resz.mp3"
+    },
+    {
+      "url": "02_Szobrok_huzatban_II_resz.mp3",
+      "title": "02_Szobrok_huzatban_II_resz.mp3"
+    },
+    {
+      "url": "03_Halalvagta_I_resz.mp3",
+      "title": "03_Halalvagta_I_resz.mp3"
+    },
+    {
+      "url": "04_Halalvagta_II_resz.mp3",
+      "title": "04_Halalvagta_II_resz.mp3"
+    },
+    {
+      "url": "05_Unnep_I_resz.mp3",
+      "title": "05_Unnep_I_resz.mp3"
+    },
+    {
+      "url": "06_Unnep_II_resz.mp3",
+      "title": "06_Unnep_II_resz.mp3"
+    },
+    {
+      "url": "07_Bolhapiac_I_resz.mp3",
+      "title": "07_Bolhapiac_I_resz.mp3"
+    },
+    {
+      "url": "08_Bolhapiac_II_resz.mp3",
+      "title": "08_Bolhapiac_II_resz.mp3"
+    }
+  ],
+  "url": "https://mek.oszk.hu/19500/19501"
+}

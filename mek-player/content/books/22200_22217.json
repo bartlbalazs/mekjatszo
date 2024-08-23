@@ -1,0 +1,27 @@
+{
+  "id": "22200_22217",
+  "title": "Petőfi Sándor válogatott költeményei",
+  "author": "Petőfi Sándor",
+  "lead": "\"Nem Pesten történt, amit hallotok. Ott ily regényes dolgok nem történnek. A társaságnak úri tagjai Szekérre ültek és azon menének.\"",
+  "cover": "/22200/22217/borito.jpg",
+  "description": null,
+  "audio_files": [
+    {
+      "url": "Petofi_Sandor_valogatott_koltemenyei_01.mp3",
+      "title": "Petofi_Sandor_valogatott_koltemenyei_01.mp3 - 01. rész"
+    },
+    {
+      "url": "Petofi_Sandor_valogatott_koltemenyei_02.mp3",
+      "title": "Petofi_Sandor_valogatott_koltemenyei_02.mp3 - 02. rész"
+    },
+    {
+      "url": "Petofi_Sandor_valogatott_koltemenyei_03.mp3",
+      "title": "Petofi_Sandor_valogatott_koltemenyei_03.mp3 - 03. rész"
+    },
+    {
+      "url": "Petofi_Sandor_valogatott_koltemenyei_04.mp3",
+      "title": "Petofi_Sandor_valogatott_koltemenyei_04.mp3 - 04. rész"
+    }
+  ],
+  "url": "https://mek.oszk.hu/22200/22217"
+}
