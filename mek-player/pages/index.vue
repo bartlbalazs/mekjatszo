@@ -31,6 +31,7 @@ import {
     type TableItem,
 } from 'bootstrap-vue-next'
 import { reactive, ref } from 'vue'
+import axios from 'axios'
 
 interface BookListItem {
     id: string
@@ -52,12 +53,12 @@ const sortFields: Exclude<TableFieldRaw<BookListItem>, string>[] = [
 
 async function fetchData() {
     try {
-        queryContent('/full_list').findOne().then((response) => {
-            let books = response.body
-            books.sort((a, b) => a.title.localeCompare(b.title));
-            totalRows.value = books.length;
-            bookList.value = books;
-        })
+        const bookListRespone = await axios.get<BookListItem[]>('/static/full_list.json')
+        if (bookListRespone.data) {
+            bookListRespone.data.sort((a: BookListItem, b: BookListItem) => a.title.localeCompare(b.title));
+            totalRows.value = bookListRespone.data.length;
+            bookList.value = bookListRespone.data;
+        }
     } catch (error) {
         console.log(error);
     }
@@ -67,7 +68,7 @@ onMounted(() => {
     fetchData()
 })
 
-function onFiltered(filteredItems: TableItem<Person>[]) {
+function onFiltered(filteredItems: TableItem<BookListItem>[]) {
     totalRows.value = filteredItems.length
 }
 

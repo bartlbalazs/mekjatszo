@@ -1,0 +1,555 @@
+{
+  "id": "04700_04788",
+  "title": "Görbe tükör 1.MVGYOSZ hangoskönyvek",
+  "author": "Karinthy Frigyes",
+  "lead": "\"A bácsi tényleg haragszik. Durcásan elfordul Bübükétől, és az egyik ujját durcásan a szájába dugja. Haragosan néz Bübükére, és összecsücsöríti a száját. Bübüke nem bánja. Az asszony könyörögve néz rám, mintegy elképedve, hogy hogy lehet egy gyerek ilyen egy édes. Tényleg, milyen egy édes egy ilyen gyerek.\"",
+  "cover": "/04700/04788/borito.jpg",
+  "description": "",
+  "audio_files": [
+    {
+      "url": "2719aa001.mp3",
+      "title": "2719aa001.mp3 - Hangos katalóguscédula"
+    },
+    {
+      "url": "2719af001_01.mp3",
+      "title": "2719af001_01.mp3 - Együgyű lexikon - Kártyás, kártyások (03:47 min. 1,1 Mbyte)"
+    },
+    {
+      "url": "2719af001_02.mp3",
+      "title": "2719af001_02.mp3 - Együgyű lexikon - Katona, katonaság (05:07 min. 1,5 Mbyte)"
+    },
+    {
+      "url": "2719af001_03.mp3",
+      "title": "2719af001_03.mp3 - Együgyű lexikon - Olvasó (03:58 min. 1,2 Mbyte)"
+    },
+    {
+      "url": "2719af001_04.mp3",
+      "title": "2719af001_04.mp3 - Együgyű lexikon - Idegesség, ideges ember (04:41 min. 1,4 Mbyte)"
+    },
+    {
+      "url": "2719af001_05.mp3",
+      "title": "2719af001_05.mp3 - Együgyű lexikon - Élelmiszer, élelmiszerek (05:20 min. 1,6 Mbyte)"
+    },
+    {
+      "url": "2719af001_06.mp3",
+      "title": "2719af001_06.mp3 - Együgyű lexikon - Képzőművészet (04:39 min. 1,4 Mbyte)"
+    },
+    {
+      "url": "2719af001_08.mp3",
+      "title": "2719af001_08.mp3 - Együgyű lexikon - Házasság (04:32 min. 1,3 Mbyte)"
+    },
+    {
+      "url": "2719af001_10.mp3",
+      "title": "2719af001_10.mp3 - Együgyű lexikon - Nevetés (04:60 min. 1,5 Mbyte)"
+    },
+    {
+      "url": "2719af001_11.mp3",
+      "title": "2719af001_11.mp3 - Együgyű lexikon - Asszony (04:39 min. 1,4 Mbyte)"
+    },
+    {
+      "url": "2719af001_12.mp3",
+      "title": "2719af001_12.mp3 - Együgyű lexikon - Ruha (04:28 min. 1,3 Mbyte)"
+    },
+    {
+      "url": "2719af001_13.mp3",
+      "title": "2719af001_13.mp3 - Együgyű lexikon - Zene (04:46 min. 1,4 Mbyte)"
+    },
+    {
+      "url": "2719af001_14.mp3",
+      "title": "2719af001_14.mp3 - Együgyű lexikon - Vekker (04:07 min. 1,2 Mbyte)"
+    },
+    {
+      "url": "2719af001_15.mp3",
+      "title": "2719af001_15.mp3 - Együgyű lexikon - Bakk (04:16 min. 1,3 Mbyte)"
+    },
+    {
+      "url": "2719af001_16.mp3",
+      "title": "2719af001_16.mp3 - Együgyű lexikon - Közmondás (05:11 min. 1,5 Mbyte)"
+    },
+    {
+      "url": "2719af001_17.mp3",
+      "title": "2719af001_17.mp3 - Együgyű lexikon - Pénz (04:13 min. 1,3 Mbyte)"
+    },
+    {
+      "url": "2719af001_18.mp3",
+      "title": "2719af001_18.mp3 - Együgyű lexikon - Tudomány (04:41 min. 1,4 Mbyte)"
+    },
+    {
+      "url": "2719af001_19.mp3",
+      "title": "2719af001_19.mp3 - Együgyű lexikon - Törvény (05:19 min. 1,6 Mbyte)"
+    },
+    {
+      "url": "2719af001_20.mp3",
+      "title": "2719af001_20.mp3 - Együgyű lexikon - Irodalom (05:47 min. 1,7 Mbyte)"
+    },
+    {
+      "url": "2719af001_21.mp3",
+      "title": "2719af001_21.mp3 - Együgyű lexikon - Színház (05:20 min. 1,6 Mbyte)"
+    },
+    {
+      "url": "2719af002_01.mp3",
+      "title": "2719af002_01.mp3 - Optimisták - A kályha mindenkihez meleg (07:06 min. 2,1 Mbyte)"
+    },
+    {
+      "url": "2719af002_02.mp3",
+      "title": "2719af002_02.mp3 - Optimisták - Na végre egy egészen könnyű kis futó viszonyt fogok kötni (10:32 min. 3,1 Mbyte)"
+    },
+    {
+      "url": "2719af002_03.mp3",
+      "title": "2719af002_03.mp3 - Optimisták - A szerelem az élet illatos virága, mely mint egy kifeslett bimbó (04:20 min. 1,3 Mbyte)"
+    },
+    {
+      "url": "2719af002_04.mp3",
+      "title": "2719af002_04.mp3 - Optimisták - Buxbaumné, a fa (04:18 min. 1,3 Mbyte)"
+    },
+    {
+      "url": "2719af002_05.mp3",
+      "title": "2719af002_05.mp3 - Optimisták - A tanulság (05:10 min. 1,5 Mbyte)"
+    },
+    {
+      "url": "2719af002_06.mp3",
+      "title": "2719af002_06.mp3 - Optimisták - Május (02:46 min. 0,8 Mbyte)"
+    },
+    {
+      "url": "2719af003_01.mp3",
+      "title": "2719af003_01.mp3 - Tudomány - Sport és testészet (09:03 min. 2,7 Mbyte)"
+    },
+    {
+      "url": "2719af003_02.mp3",
+      "title": "2719af003_02.mp3 - Tudomány - A Lipótváros története (05:04 min. 1,5 Mbyte)"
+    },
+    {
+      "url": "2719af003_03.mp3",
+      "title": "2719af003_03.mp3 - Tudomány - Ofen-Buda története (07:09 min. 2,1 Mbyte)"
+    },
+    {
+      "url": "2719af003_04.mp3",
+      "title": "2719af003_04.mp3 - Tudomány - A közlekedés (07:01 min. 2,1 Mbyte)"
+    },
+    {
+      "url": "2719af004_01.mp3",
+      "title": "2719af004_01.mp3 - Bölcsészet - Egy ember, akinek abszolute semmi érzéke a szimbolizmushoz (07:60 min. 2,4 Mbyte)"
+    },
+    {
+      "url": "2719af004_02.mp3",
+      "title": "2719af004_02.mp3 - Bölcsészet - Nem tudom, de nekem a feleségem gyanús (06:24 min. 1,9 Mbyte)"
+    },
+    {
+      "url": "2719af004_03.mp3",
+      "title": "2719af004_03.mp3 - Bölcsészet - A férj írogat (15:58 min. 4,8 Mbyte)"
+    },
+    {
+      "url": "2719af004_04.mp3",
+      "title": "2719af004_04.mp3 - Bölcsészet - Fő a diszkréció (04:23 min. 1,3 Mbyte)"
+    },
+    {
+      "url": "2719af004_05.mp3",
+      "title": "2719af004_05.mp3 - Bölcsészet - Az idegorvosnál (05:14 min. 1,6 Mbyte)"
+    },
+    {
+      "url": "2719af004_06.mp3",
+      "title": "2719af004_06.mp3 - Bölcsészet - A cipőpertli (05:09 min. 1,5 Mbyte)"
+    },
+    {
+      "url": "2719af004_07.mp3",
+      "title": "2719af004_07.mp3 - Bölcsészet - Felkelés (05:27 min. 1,6 Mbyte)"
+    },
+    {
+      "url": "2719af004_08.mp3",
+      "title": "2719af004_08.mp3 - Bölcsészet - Johnson-Jeffries boksz-mérkőzés (04:57 min. 1,5 Mbyte)"
+    },
+    {
+      "url": "2719af004_09.mp3",
+      "title": "2719af004_09.mp3 - Bölcsészet - A gazdag ember (06:24 min. 1,9 Mbyte)"
+    },
+    {
+      "url": "2719af004_10.mp3",
+      "title": "2719af004_10.mp3 - Bölcsészet - Becsületbíróság (05:38 min. 1,7 Mbyte)"
+    },
+    {
+      "url": "2719af005_01.mp3",
+      "title": "2719af005_01.mp3 - Történelem - A riporter - Az özönvíz (05:07 min. 1,5 Mbyte)"
+    },
+    {
+      "url": "2719af005_02.mp3",
+      "title": "2719af005_02.mp3 - Történelem - A honfoglalás (19:43 min. 5,9 Mbyte)"
+    },
+    {
+      "url": "2719af005_03.mp3",
+      "title": "2719af005_03.mp3 - Történelem - A szürkék hegedőse (04:59 min. 1,5 Mbyte)"
+    },
+    {
+      "url": "2719af005_04.mp3",
+      "title": "2719af005_04.mp3 - Történelem - Heraklesz tizenharmadik hőstette (05:10 min. 1,5 Mbyte)"
+    },
+    {
+      "url": "2719af005_05.mp3",
+      "title": "2719af005_05.mp3 - Történelem - Blériot Pestre jön (06:42 min. 2,0 Mbyte)"
+    },
+    {
+      "url": "2719af005_06.mp3",
+      "title": "2719af005_06.mp3 - Történelem - Shaw, a cápa (05:46 min. 1,7 Mbyte)"
+    },
+    {
+      "url": "2719af006_01.mp3",
+      "title": "2719af006_01.mp3 - Budapesti emlék - \"Budapesti emlék\" (05:26 min. 1,6 Mbyte)"
+    },
+    {
+      "url": "2719af006_02.mp3",
+      "title": "2719af006_02.mp3 - Budapesti emlék - Iskolatársak (04:33 min. 1,3 Mbyte)"
+    },
+    {
+      "url": "2719af006_03.mp3",
+      "title": "2719af006_03.mp3 - Budapesti emlék - Orvost hívatok (04:39 min. 1,4 Mbyte)"
+    },
+    {
+      "url": "2719af006_04.mp3",
+      "title": "2719af006_04.mp3 - Budapesti emlék - Párbajaim Pesten (04:32 min. 1,3 Mbyte)"
+    },
+    {
+      "url": "2719af006_05.mp3",
+      "title": "2719af006_05.mp3 - Budapesti emlék - A nő, aki gőgicsél (09:20 min. 2,8 Mbyte)"
+    },
+    {
+      "url": "2719af006_06.mp3",
+      "title": "2719af006_06.mp3 - Budapesti emlék - A kutya megy a maga útján (03:25 min. 1,0 Mbyte)"
+    },
+    {
+      "url": "2719af006_07.mp3",
+      "title": "2719af006_07.mp3 - Budapesti emlék - Bejutni (05:40 min. 1,7 Mbyte)"
+    },
+    {
+      "url": "2719af006_08.mp3",
+      "title": "2719af006_08.mp3 - Budapesti emlék - Hónapos szoba (04:08 min. 1,2 Mbyte)"
+    },
+    {
+      "url": "2719af006_09.mp3",
+      "title": "2719af006_09.mp3 - Budapesti emlék - Ő ad nekem témát (04:15 min. 1,3 Mbyte)"
+    },
+    {
+      "url": "2719af006_10.mp3",
+      "title": "2719af006_10.mp3 - Budapesti emlék - Lerajzolnak (04:10 min. 1,2 Mbyte)"
+    },
+    {
+      "url": "2719af006_11.mp3",
+      "title": "2719af006_11.mp3 - Budapesti emlék - Részvét (04:18 min. 1,3 Mbyte)"
+    },
+    {
+      "url": "2719af006_12.mp3",
+      "title": "2719af006_12.mp3 - Budapesti emlék - Hazamegyek dolgozni (04:54 min. 1,5 Mbyte)"
+    },
+    {
+      "url": "2719af006_13.mp3",
+      "title": "2719af006_13.mp3 - Budapesti emlék - Viszek egy könyvet (03:60 min. 1,2 Mbyte)"
+    },
+    {
+      "url": "2719af006_14.mp3",
+      "title": "2719af006_14.mp3 - Budapesti emlék - Társasjátékok (04:05 min. 1,2 Mbyte)"
+    },
+    {
+      "url": "2719af006_15.mp3",
+      "title": "2719af006_15.mp3 - Budapesti emlék - Új élet (05:05 min. 1,5 Mbyte)"
+    },
+    {
+      "url": "2719af006_16.mp3",
+      "title": "2719af006_16.mp3 - Budapesti emlék - Tréfa volt! (04:60 min. 1,5 Mbyte)"
+    },
+    {
+      "url": "2719af007_01.mp3",
+      "title": "2719af007_01.mp3 - Meséskönyv - Halandzsa (04:25 min. 1,3 Mbyte)"
+    },
+    {
+      "url": "2719af007_02.mp3",
+      "title": "2719af007_02.mp3 - Meséskönyv - A diadalmas halandzsa (04:27 min. 1,3 Mbyte)"
+    },
+    {
+      "url": "2719af007_03.mp3",
+      "title": "2719af007_03.mp3 - Meséskönyv - Játékok (04:01 min. 1,2 Mbyte)"
+    },
+    {
+      "url": "2719af007_04.mp3",
+      "title": "2719af007_04.mp3 - Meséskönyv - Vasárnapi délután (05:40 min. 1,7 Mbyte)"
+    },
+    {
+      "url": "2719af007_05.mp3",
+      "title": "2719af007_05.mp3 - Meséskönyv - Stanci néni, Frédi és a Márki (09:25 min. 2,8 Mbyte)"
+    },
+    {
+      "url": "2719af007_06.mp3",
+      "title": "2719af007_06.mp3 - Meséskönyv - Az ősember (14:32 min. 4,3 Mbyte)"
+    },
+    {
+      "url": "2719af007_07.mp3",
+      "title": "2719af007_07.mp3 - Meséskönyv - Futurizmus (04:24 min. 1,3 Mbyte)"
+    },
+    {
+      "url": "2719af007_08.mp3",
+      "title": "2719af007_08.mp3 - Meséskönyv - Okkultizmus (03:29 min. 1,0 Mbyte)"
+    },
+    {
+      "url": "2719af007_09.mp3",
+      "title": "2719af007_09.mp3 - Meséskönyv - Impresszionizmus (04:14 min. 1,3 Mbyte)"
+    },
+    {
+      "url": "2719af007_10.mp3",
+      "title": "2719af007_10.mp3 - Meséskönyv - Beszélgetés Sándor bácsival (05:57 min. 1,8 Mbyte)"
+    },
+    {
+      "url": "2719af008_01.mp3",
+      "title": "2719af008_01.mp3 - Képeskönyv - Gasparecz (04:13 min. 1,3 Mbyte)"
+    },
+    {
+      "url": "2719af008_02.mp3",
+      "title": "2719af008_02.mp3 - Képeskönyv - Mariska és Károly bácsi (05:21 min. 1,6 Mbyte)"
+    },
+    {
+      "url": "2719af008_03.mp3",
+      "title": "2719af008_03.mp3 - Képeskönyv - Mese az eltévedt villamosról (04:15 min. 1,3 Mbyte)"
+    },
+    {
+      "url": "2719af008_04.mp3",
+      "title": "2719af008_04.mp3 - Képeskönyv - Testi szépség (04:52 min. 1,4 Mbyte)"
+    },
+    {
+      "url": "2719af008_05.mp3",
+      "title": "2719af008_05.mp3 - Képeskönyv - Fehér ember feketébe csobálkozik (gyermekkori emlék) (04:39 min. 1,4 Mbyte)"
+    },
+    {
+      "url": "2719af008_06.mp3",
+      "title": "2719af008_06.mp3 - Képeskönyv - Az könyvnyomó, az király, az poéta, vagyis újságh-iró (03:60 min. 1,2 Mbyte)"
+    },
+    {
+      "url": "2719af008_07.mp3",
+      "title": "2719af008_07.mp3 - Képeskönyv - Diplomácia I-III. (13:25 min. 4,0 Mbyte)"
+    },
+    {
+      "url": "2719af008_08.mp3",
+      "title": "2719af008_08.mp3 - Képeskönyv - Tavaszi divatlevél (05:04 min. 1,5 Mbyte)"
+    },
+    {
+      "url": "2719af008_09.mp3",
+      "title": "2719af008_09.mp3 - Képeskönyv - Allegória az íróról (04:41 min. 1,4 Mbyte)"
+    },
+    {
+      "url": "2719af009_01.mp3",
+      "title": "2719af009_01.mp3 - Emberek - Saját anyám nem ismer meg (05:22 min. 1,6 Mbyte)"
+    },
+    {
+      "url": "2719af009_02.mp3",
+      "title": "2719af009_02.mp3 - Emberek - Csoportosulás (03:36 min. 1,1 Mbyte)"
+    },
+    {
+      "url": "2719af009_03.mp3",
+      "title": "2719af009_03.mp3 - Emberek - A felelős ember (05:33 min. 1,6 Mbyte)"
+    },
+    {
+      "url": "2719af009_04.mp3",
+      "title": "2719af009_04.mp3 - Emberek - Zeneszerzők (06:18 min. 1,9 Mbyte)"
+    },
+    {
+      "url": "2719af009_05.mp3",
+      "title": "2719af009_05.mp3 - Emberek - Gyula bácsi (04:52 min. 1,4 Mbyte)"
+    },
+    {
+      "url": "2719af009_06.mp3",
+      "title": "2719af009_06.mp3 - Emberek - Látogatás a művésznőnél (04:12 min. 1,3 Mbyte)"
+    },
+    {
+      "url": "2719af009_07.mp3",
+      "title": "2719af009_07.mp3 - Emberek - Emberismeret (04:46 min. 1,4 Mbyte)"
+    },
+    {
+      "url": "2719af009_08.mp3",
+      "title": "2719af009_08.mp3 - Emberek - Az igénytelen ember (04:58 min. 1,5 Mbyte)"
+    },
+    {
+      "url": "2719af009_09.mp3",
+      "title": "2719af009_09.mp3 - Emberek - Fogyókúra (04:17 min. 1,3 Mbyte)"
+    },
+    {
+      "url": "2719af009_10.mp3",
+      "title": "2719af009_10.mp3 - Emberek - Hogy van? (04:31 min. 1,3 Mbyte)"
+    },
+    {
+      "url": "2719af009_11.mp3",
+      "title": "2719af009_11.mp3 - Emberek - Ideges úr elalszik (05:18 min. 1,6 Mbyte)"
+    },
+    {
+      "url": "2719af009_12.mp3",
+      "title": "2719af009_12.mp3 - Emberek - Sakkozók (04:05 min. 1,2 Mbyte)"
+    },
+    {
+      "url": "2719af009_13.mp3",
+      "title": "2719af009_13.mp3 - Emberek - Vannak kellemes emberek (05:40 min. 1,7 Mbyte)"
+    },
+    {
+      "url": "2719af009_14.mp3",
+      "title": "2719af009_14.mp3 - Emberek - Gőgicse (04:09 min. 1,2 Mbyte)"
+    },
+    {
+      "url": "2719af009_15.mp3",
+      "title": "2719af009_15.mp3 - Emberek - A gazdag ember sír (05:36 min. 1,7 Mbyte)"
+    },
+    {
+      "url": "2719af010_01.mp3",
+      "title": "2719af010_01.mp3 - Dolgok - Ki a vérengző bestia? (05:36 min. 1,7 Mbyte)"
+    },
+    {
+      "url": "2719af010_02.mp3",
+      "title": "2719af010_02.mp3 - Dolgok - Dickens, mély kedély (04:31 min. 1,3 Mbyte)"
+    },
+    {
+      "url": "2719af010_03.mp3",
+      "title": "2719af010_03.mp3 - Dolgok - Az ő asztala (05:23 min. 1,6 Mbyte)"
+    },
+    {
+      "url": "2719af010_04.mp3",
+      "title": "2719af010_04.mp3 - Dolgok - Bátorság, fiatal barátom (04:40 min. 1,4 Mbyte)"
+    },
+    {
+      "url": "2719af010_05.mp3",
+      "title": "2719af010_05.mp3 - Dolgok - Népek öröme (03:26 min. 1,0 Mbyte)"
+    },
+    {
+      "url": "2719af010_06.mp3",
+      "title": "2719af010_06.mp3 - Dolgok - Sok a hallgató (05:21 min. 1,6 Mbyte)"
+    },
+    {
+      "url": "2719af010_07.mp3",
+      "title": "2719af010_07.mp3 - Dolgok - Tanulmányozom a lelket (05:20 min. 1,6 Mbyte)"
+    },
+    {
+      "url": "2719af010_08.mp3",
+      "title": "2719af010_08.mp3 - Dolgok - Heten vagyunk, uram, heten (04:56 min. 1,5 Mbyte)"
+    },
+    {
+      "url": "2719af010_09.mp3",
+      "title": "2719af010_09.mp3 - Dolgok - Szórakozottság (05:40 min. 1,7 Mbyte)"
+    },
+    {
+      "url": "2719af010_10.mp3",
+      "title": "2719af010_10.mp3 - Dolgok - Mint egyszerű rikkancs kezdte (04:45 min. 1,4 Mbyte)"
+    },
+    {
+      "url": "2719af010_11.mp3",
+      "title": "2719af010_11.mp3 - Dolgok - Visszakérem az iskolapénzt (04:06 min. 1,2 Mbyte)"
+    },
+    {
+      "url": "2719af010_12.mp3",
+      "title": "2719af010_12.mp3 - Dolgok - Megszólal a telefon (05:39 min. 1,7 Mbyte)"
+    },
+    {
+      "url": "2719af011_01.mp3",
+      "title": "2719af011_01.mp3 - Emberfölötti dolgok - Csevegés az űrben (04:33 min. 1,3 Mbyte)"
+    },
+    {
+      "url": "2719af011_02.mp3",
+      "title": "2719af011_02.mp3 - Emberfölötti dolgok - A bosszús tudomány (04:14 min. 1,3 Mbyte)"
+    },
+    {
+      "url": "2719af011_03.mp3",
+      "title": "2719af011_03.mp3 - Emberfölötti dolgok - Mokan (05:43 min. 1,7 Mbyte)"
+    },
+    {
+      "url": "2719af011_04.mp3",
+      "title": "2719af011_04.mp3 - Emberfölötti dolgok - \"Világegyetem\" kaucsuksarok (04:50 min. 1,4 Mbyte)"
+    },
+    {
+      "url": "2719af011_05.mp3",
+      "title": "2719af011_05.mp3 - Emberfölötti dolgok - Autótaxi (05:40 min. 1,7 Mbyte)"
+    },
+    {
+      "url": "2719af011_06.mp3",
+      "title": "2719af011_06.mp3 - Emberfölötti dolgok - Földrajzóra 2852-ben (04:33 min. 1,4 Mbyte)"
+    },
+    {
+      "url": "2719af011_07.mp3",
+      "title": "2719af011_07.mp3 - Emberfölötti dolgok - Mars-lakók a Földön (05:21 min. 1,6 Mbyte)"
+    },
+    {
+      "url": "2719af012.mp3",
+      "title": "2719af012.mp3 - Levél a szedőhöz (05:59 min. 1,8 Mbyte)"
+    },
+    {
+      "url": "2719af013_01.mp3",
+      "title": "2719af013_01.mp3 - Beszéljünk másról - Legenda a költőről (06:17 min. 1,9 Mbyte)"
+    },
+    {
+      "url": "2719af013_02.mp3",
+      "title": "2719af013_02.mp3 - Beszéljünk másról - A emberiség városa (06:03 min. 1,8 Mbyte)"
+    },
+    {
+      "url": "2719af013_03.mp3",
+      "title": "2719af013_03.mp3 - Beszéljünk másról - A hóember és a kályha (05:21 min. 1,6 Mbyte)"
+    },
+    {
+      "url": "2719af013_04.mp3",
+      "title": "2719af013_04.mp3 - Beszéljünk másról - A majom, a kisoroszlán, a kismalac, meg a kiskutya (05:07 min. 1,5 Mbyte)"
+    },
+    {
+      "url": "2719af013_05.mp3",
+      "title": "2719af013_05.mp3 - Beszéljünk másról - Szabadalmi iroda (04:59 min. 1,5 Mbyte)"
+    },
+    {
+      "url": "2719af013_06.mp3",
+      "title": "2719af013_06.mp3 - Beszéljünk másról - Amerikai párbaj (05:48 min. 1,7 Mbyte)"
+    },
+    {
+      "url": "2719af013_07.mp3",
+      "title": "2719af013_07.mp3 - Beszéljünk másról - Kertész kettő vagy reménytelen szerelem rövid története (05:53 min. 1,7 Mbyte)"
+    },
+    {
+      "url": "2719af013_08.mp3",
+      "title": "2719af013_08.mp3 - Beszéljünk másról - Ideges úr elkíséri a barátját (06:31 min. 1,9 Mbyte)"
+    },
+    {
+      "url": "2719af013_09.mp3",
+      "title": "2719af013_09.mp3 - Beszéljünk másról - Levél az űrön át (05:43 min. 1,7 Mbyte)"
+    },
+    {
+      "url": "2719af013_10.mp3",
+      "title": "2719af013_10.mp3 - Beszéljünk másról - Feltámadás (05:02 min. 1,5 Mbyte)"
+    },
+    {
+      "url": "2719af013_11.mp3",
+      "title": "2719af013_11.mp3 - Beszéljünk másról - A finom és jó modorú ember (04:16 min. 1,3 Mbyte)"
+    },
+    {
+      "url": "2719af013_12.mp3",
+      "title": "2719af013_12.mp3 - Beszéljünk másról - Örvendetes fejlődés vagy nagy dolog a technika rohamos haladása (06:49 min. 2,0 Mbyte)"
+    },
+    {
+      "url": "2719af013_13.mp3",
+      "title": "2719af013_13.mp3 - Beszéljünk másról - Nyomozás (04:60 min. 1,5 Mbyte)"
+    },
+    {
+      "url": "2719af013_14.mp3",
+      "title": "2719af013_14.mp3 - Beszéljünk másról - Az újságíró és a munkanélküliek (05:13 min. 1,5 Mbyte)"
+    },
+    {
+      "url": "2719af013_15.mp3",
+      "title": "2719af013_15.mp3 - Beszéljünk másról - A feleségem szigorlatozik (05:03 min. 1,5 Mbyte)"
+    },
+    {
+      "url": "2719af013_16.mp3",
+      "title": "2719af013_16.mp3 - Beszéljünk másról - Belebeszélnek (05:42 min. 1,7 Mbyte)"
+    },
+    {
+      "url": "2719af013_17.mp3",
+      "title": "2719af013_17.mp3 - Beszéljünk másról - Karácsonyi szám (05:13 min. 1,5 Mbyte)"
+    },
+    {
+      "url": "2719af013_18.mp3",
+      "title": "2719af013_18.mp3 - Beszéljünk másról - Tanú vagyok (05:02 min. 1,5 Mbyte)"
+    },
+    {
+      "url": "2719af013_19.mp3",
+      "title": "2719af013_19.mp3 - Beszéljünk másról - Példabeszéd az igaz és a hamis forintról (05:02 min. 1,5 Mbyte)"
+    },
+    {
+      "url": "2719af013_20.mp3",
+      "title": "2719af013_20.mp3 - Beszéljünk másról - Rájöttem valamire (05:25 min. 1,6 Mbyte)"
+    }
+  ],
+  "url": "https://mek.oszk.hu/04700/04788"
+}

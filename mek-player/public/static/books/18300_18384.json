@@ -1,0 +1,415 @@
+{
+  "id": "18300_18384",
+  "title": "100 új humoreszk",
+  "author": "Karinthy Frigyes",
+  "lead": "\"Mivelhogy az ember egy önző vadállat és egyedül lenni nem jó, tehát megnősültem, abból az önző feltevésből kiindulva, hogy akkor majd nekem jobb lesz. Tudniillik lesz majd, aki vigyáz rám és lugast varázsol nekem, miközben én odakünt a viharban harcolok s megvédem azt a kárttevő vadaktól.\"",
+  "cover": "/18300/18384/borito.jpg",
+  "description": null,
+  "audio_files": [
+    {
+      "url": "000-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "000-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Cím"
+    },
+    {
+      "url": "001-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "001-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Lekésem a vonatot"
+    },
+    {
+      "url": "002-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "002-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Hivatal"
+    },
+    {
+      "url": "003-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "003-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Előkelő összeköttetések"
+    },
+    {
+      "url": "004-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "004-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Bezzegék"
+    },
+    {
+      "url": "005-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "005-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Gumi"
+    },
+    {
+      "url": "006-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "006-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Tömeghisztériás vagyok"
+    },
+    {
+      "url": "007-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "007-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Higgadt vagyok"
+    },
+    {
+      "url": "008-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "008-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Nem vagyok itthon"
+    },
+    {
+      "url": "009-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "009-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Nem ő az"
+    },
+    {
+      "url": "010-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "010-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Nem nekem köszöntek"
+    },
+    {
+      "url": "011-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "011-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Dicsérik az embert"
+    },
+    {
+      "url": "012-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "012-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Magamban beszéltem"
+    },
+    {
+      "url": "013-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "013-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Figyelmeztetik az embert"
+    },
+    {
+      "url": "014-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "014-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Tessék pontosan kérdezni"
+    },
+    {
+      "url": "015-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "015-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Pikétakarót pancsolok"
+    },
+    {
+      "url": "016-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "016-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Akkor és oda"
+    },
+    {
+      "url": "017-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "017-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Új Háry Jánosok"
+    },
+    {
+      "url": "018-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "018-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Pillanatnyi pénzzavar"
+    },
+    {
+      "url": "019-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "019-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Úri barátom"
+    },
+    {
+      "url": "020-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "020-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Tizennyolc évének üde bájával"
+    },
+    {
+      "url": "021-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "021-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Ajaknégerek"
+    },
+    {
+      "url": "022-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "022-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Harisnyakötő"
+    },
+    {
+      "url": "023-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "023-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Felöltözve látta Flórát"
+    },
+    {
+      "url": "024-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "024-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Rendőr"
+    },
+    {
+      "url": "025-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "025-Karinthy_Frigyes-100_uj_humoreszk.mp3 - A kesztyű"
+    },
+    {
+      "url": "026-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "026-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Kritika"
+    },
+    {
+      "url": "027-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "027-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Megbüntette az Isten"
+    },
+    {
+      "url": "028-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "028-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Személyzet"
+    },
+    {
+      "url": "029-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "029-Karinthy_Frigyes-100_uj_humoreszk.mp3 - 'Keep smiling'"
+    },
+    {
+      "url": "030-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "030-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Sakkozók"
+    },
+    {
+      "url": "031-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "031-Karinthy_Frigyes-100_uj_humoreszk.mp3 - A vállalkozó"
+    },
+    {
+      "url": "032-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "032-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Beszélgetés egy asztallal"
+    },
+    {
+      "url": "033-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "033-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Cifra szűröm"
+    },
+    {
+      "url": "034-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "034-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Vicces házigazda"
+    },
+    {
+      "url": "035-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "035-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Lopott áru"
+    },
+    {
+      "url": "036-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "036-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Cigány-infláció"
+    },
+    {
+      "url": "037-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "037-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Megbízható társat keresek"
+    },
+    {
+      "url": "038-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "038-Karinthy_Frigyes-100_uj_humoreszk.mp3 - A sarkutazó"
+    },
+    {
+      "url": "039-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "039-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Korszellem"
+    },
+    {
+      "url": "040-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "040-Karinthy_Frigyes-100_uj_humoreszk.mp3 - A haladás fokmérője"
+    },
+    {
+      "url": "041-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "041-Karinthy_Frigyes-100_uj_humoreszk.mp3 - A világ legbutább gyereke"
+    },
+    {
+      "url": "042-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "042-Karinthy_Frigyes-100_uj_humoreszk.mp3 - 'Kijelentetlen mindenesek élén'"
+    },
+    {
+      "url": "043-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "043-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Sagen Sie es in ihrer Muttersprache"
+    },
+    {
+      "url": "044-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "044-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Stenmencs meghal"
+    },
+    {
+      "url": "045-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "045-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Nógrádverőcei legenda"
+    },
+    {
+      "url": "046-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "046-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Kutyavásár"
+    },
+    {
+      "url": "047-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "047-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Teve"
+    },
+    {
+      "url": "048-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "048-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Dux, ducis"
+    },
+    {
+      "url": "049-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "049-Karinthy_Frigyes-100_uj_humoreszk.mp3 - A tavalyi hó"
+    },
+    {
+      "url": "050-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "050-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Dadogó"
+    },
+    {
+      "url": "051-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "051-Karinthy_Frigyes-100_uj_humoreszk.mp3 - A hőmérő"
+    },
+    {
+      "url": "052-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "052-Karinthy_Frigyes-100_uj_humoreszk.mp3 - A súlyemelő"
+    },
+    {
+      "url": "053-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "053-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Súgó"
+    },
+    {
+      "url": "054-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "054-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Kaland"
+    },
+    {
+      "url": "055-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "055-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Isteni gondviselés"
+    },
+    {
+      "url": "056-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "056-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Üzlet és jótékonyság"
+    },
+    {
+      "url": "057-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "057-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Bátorság és szerencse"
+    },
+    {
+      "url": "058-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "058-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Betörő a kasszában"
+    },
+    {
+      "url": "059-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "059-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Orvoslat"
+    },
+    {
+      "url": "060-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "060-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Az úszó család"
+    },
+    {
+      "url": "061-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "061-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Vak félrevezet világtalant"
+    },
+    {
+      "url": "062-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "062-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Az elefánt"
+    },
+    {
+      "url": "063-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "063-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Az udvarias kínai"
+    },
+    {
+      "url": "064-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "064-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Mahlzeit és Zaturek"
+    },
+    {
+      "url": "065-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "065-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Holló mossa a fiát"
+    },
+    {
+      "url": "066-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "066-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Nepenthes"
+    },
+    {
+      "url": "067-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "067-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Napóleon vége"
+    },
+    {
+      "url": "068-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "068-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Humoristák világszövetsége kettő"
+    },
+    {
+      "url": "069-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "069-Karinthy_Frigyes-100_uj_humoreszk.mp3 - 'Bármely elfogadható áron'"
+    },
+    {
+      "url": "070-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "070-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Tudományos népdal"
+    },
+    {
+      "url": "071-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "071-Karinthy_Frigyes-100_uj_humoreszk.mp3 - A week-end világtörténete"
+    },
+    {
+      "url": "072-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "072-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Szerelmi levelező 1934"
+    },
+    {
+      "url": "073-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "073-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Miért nem megyek orvoshoz"
+    },
+    {
+      "url": "074-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "074-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Miért megyek orvoshoz"
+    },
+    {
+      "url": "075-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "075-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Kis üzlet"
+    },
+    {
+      "url": "076-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "076-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Dinnye"
+    },
+    {
+      "url": "077-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "077-Karinthy_Frigyes-100_uj_humoreszk.mp3 - A technika vívmányai"
+    },
+    {
+      "url": "078-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "078-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Bábel"
+    },
+    {
+      "url": "079-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "079-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Csatlakozom a rákellenes mozgalomhoz"
+    },
+    {
+      "url": "080-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "080-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Ruhatár"
+    },
+    {
+      "url": "081-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "081-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Őszi úridivat"
+    },
+    {
+      "url": "082-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "082-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Tavaszi divatlevél"
+    },
+    {
+      "url": "083-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "083-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Ne feleselj az asszonnyal"
+    },
+    {
+      "url": "084-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "084-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Ellen-Allan"
+    },
+    {
+      "url": "085-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "085-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Papagájkór"
+    },
+    {
+      "url": "086-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "086-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Habsburgok"
+    },
+    {
+      "url": "087-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "087-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Rejtvények"
+    },
+    {
+      "url": "088-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "088-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Az ikrek"
+    },
+    {
+      "url": "089-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "089-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Szavak"
+    },
+    {
+      "url": "090-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "090-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Hétfejű sárkány"
+    },
+    {
+      "url": "091-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "091-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Mennyei Höfer"
+    },
+    {
+      "url": "092-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "092-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Múltak Vátesze"
+    },
+    {
+      "url": "093-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "093-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Egy újfajta halhatatlanság"
+    },
+    {
+      "url": "094-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "094-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Szabadalmi irodám"
+    },
+    {
+      "url": "095-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "095-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Pletykográf"
+    },
+    {
+      "url": "096-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "096-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Kalap nélkül"
+    },
+    {
+      "url": "097-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "097-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Gáz"
+    },
+    {
+      "url": "098-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "098-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Csacsenerek iskolája"
+    },
+    {
+      "url": "099-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "099-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Balkáni közmondások"
+    },
+    {
+      "url": "100-Karinthy_Frigyes-100_uj_humoreszk.mp3",
+      "title": "100-Karinthy_Frigyes-100_uj_humoreszk.mp3 - Apám"
+    }
+  ],
+  "url": "https://mek.oszk.hu/18300/18384"
+}

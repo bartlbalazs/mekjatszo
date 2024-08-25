@@ -1,0 +1,425 @@
+[
+  {
+    "id": "06700_06786",
+    "title": "FullExtra Hangoskönyv 1.",
+    "author": "Ábel Andrea [et al.]",
+    "lead": "\"És ismétlem, Ismétlem magamat, Szavalom és Rímelem a szavakat.\"",
+    "cover": "/06700/06786/borito.jpg",
+    "description": "",
+    "audio_files": [
+      {
+        "url": "001-FullExtra-2008.mp3",
+        "title": "001-FullExtra-2008.mp3"
+      },
+      {
+        "url": "002-FullExtra-2008.mp3",
+        "title": "002-FullExtra-2008.mp3"
+      },
+      {
+        "url": "003-FullExtra-2008.mp3",
+        "title": "003-FullExtra-2008.mp3"
+      },
+      {
+        "url": "004-FullExtra-2008.mp3",
+        "title": "004-FullExtra-2008.mp3"
+      },
+      {
+        "url": "005-FullExtra-2008.mp3",
+        "title": "005-FullExtra-2008.mp3"
+      },
+      {
+        "url": "006-FullExtra-2008.mp3",
+        "title": "006-FullExtra-2008.mp3"
+      },
+      {
+        "url": "007-FullExtra-2008.mp3",
+        "title": "007-FullExtra-2008.mp3"
+      },
+      {
+        "url": "008-FullExtra-2008.mp3",
+        "title": "008-FullExtra-2008.mp3"
+      },
+      {
+        "url": "009-FullExtra-2008.mp3",
+        "title": "009-FullExtra-2008.mp3"
+      },
+      {
+        "url": "010-FullExtra-2008.mp3",
+        "title": "010-FullExtra-2008.mp3"
+      },
+      {
+        "url": "011-FullExtra-2008.mp3",
+        "title": "011-FullExtra-2008.mp3"
+      },
+      {
+        "url": "012-FullExtra-2008.mp3",
+        "title": "012-FullExtra-2008.mp3"
+      },
+      {
+        "url": "013-FullExtra-2008.mp3",
+        "title": "013-FullExtra-2008.mp3"
+      },
+      {
+        "url": "014-FullExtra-2008.mp3",
+        "title": "014-FullExtra-2008.mp3"
+      },
+      {
+        "url": "015-FullExtra-2008.mp3",
+        "title": "015-FullExtra-2008.mp3"
+      },
+      {
+        "url": "016-FullExtra-2008.mp3",
+        "title": "016-FullExtra-2008.mp3"
+      },
+      {
+        "url": "017-FullExtra-2008.mp3",
+        "title": "017-FullExtra-2008.mp3"
+      },
+      {
+        "url": "018-FullExtra-2008.mp3",
+        "title": "018-FullExtra-2008.mp3"
+      },
+      {
+        "url": "019-FullExtra-2008.mp3",
+        "title": "019-FullExtra-2008.mp3"
+      },
+      {
+        "url": "020-FullExtra-2008.mp3",
+        "title": "020-FullExtra-2008.mp3"
+      },
+      {
+        "url": "021-FullExtra-2008.mp3",
+        "title": "021-FullExtra-2008.mp3"
+      },
+      {
+        "url": "022-FullExtra-2008.mp3",
+        "title": "022-FullExtra-2008.mp3"
+      },
+      {
+        "url": "023-FullExtra-2008.mp3",
+        "title": "023-FullExtra-2008.mp3"
+      },
+      {
+        "url": "024-FullExtra-2008.mp3",
+        "title": "024-FullExtra-2008.mp3"
+      },
+      {
+        "url": "025-FullExtra-2008.mp3",
+        "title": "025-FullExtra-2008.mp3"
+      },
+      {
+        "url": "026-FullExtra-2008.mp3",
+        "title": "026-FullExtra-2008.mp3"
+      },
+      {
+        "url": "027-FullExtra-2008.mp3",
+        "title": "027-FullExtra-2008.mp3"
+      },
+      {
+        "url": "028-FullExtra-2008.mp3",
+        "title": "028-FullExtra-2008.mp3"
+      },
+      {
+        "url": "029-FullExtra-2008.mp3",
+        "title": "029-FullExtra-2008.mp3"
+      },
+      {
+        "url": "030-FullExtra-2008.mp3",
+        "title": "030-FullExtra-2008.mp3"
+      },
+      {
+        "url": "031-FullExtra-2008.mp3",
+        "title": "031-FullExtra-2008.mp3"
+      },
+      {
+        "url": "032-FullExtra-2008.mp3",
+        "title": "032-FullExtra-2008.mp3"
+      },
+      {
+        "url": "033-FullExtra-2008.mp3",
+        "title": "033-FullExtra-2008.mp3"
+      },
+      {
+        "url": "034-FullExtra-2008.mp3",
+        "title": "034-FullExtra-2008.mp3"
+      },
+      {
+        "url": "035-FullExtra-2008.mp3",
+        "title": "035-FullExtra-2008.mp3"
+      },
+      {
+        "url": "036-FullExtra-2008.mp3",
+        "title": "036-FullExtra-2008.mp3"
+      },
+      {
+        "url": "037-FullExtra-2008.mp3",
+        "title": "037-FullExtra-2008.mp3"
+      },
+      {
+        "url": "038-FullExtra-2008.mp3",
+        "title": "038-FullExtra-2008.mp3"
+      },
+      {
+        "url": "039-FullExtra-2008.mp3",
+        "title": "039-FullExtra-2008.mp3"
+      },
+      {
+        "url": "040-FullExtra-2008.mp3",
+        "title": "040-FullExtra-2008.mp3"
+      },
+      {
+        "url": "041-FullExtra-2008.mp3",
+        "title": "041-FullExtra-2008.mp3"
+      },
+      {
+        "url": "042-FullExtra-2008.mp3",
+        "title": "042-FullExtra-2008.mp3"
+      },
+      {
+        "url": "043-FullExtra-2008.mp3",
+        "title": "043-FullExtra-2008.mp3"
+      },
+      {
+        "url": "044-FullExtra-2008.mp3",
+        "title": "044-FullExtra-2008.mp3"
+      },
+      {
+        "url": "045-FullExtra-2008.mp3",
+        "title": "045-FullExtra-2008.mp3"
+      },
+      {
+        "url": "046-FullExtra-2008.mp3",
+        "title": "046-FullExtra-2008.mp3"
+      },
+      {
+        "url": "047-FullExtra-2008.mp3",
+        "title": "047-FullExtra-2008.mp3"
+      },
+      {
+        "url": "048-FullExtra-2008.mp3",
+        "title": "048-FullExtra-2008.mp3"
+      },
+      {
+        "url": "049-FullExtra-2008.mp3",
+        "title": "049-FullExtra-2008.mp3"
+      },
+      {
+        "url": "050-FullExtra-2008.mp3",
+        "title": "050-FullExtra-2008.mp3"
+      },
+      {
+        "url": "051-FullExtra-2008.mp3",
+        "title": "051-FullExtra-2008.mp3"
+      },
+      {
+        "url": "052-FullExtra-2008.mp3",
+        "title": "052-FullExtra-2008.mp3"
+      },
+      {
+        "url": "053-FullExtra-2008.mp3",
+        "title": "053-FullExtra-2008.mp3"
+      },
+      {
+        "url": "054-FullExtra-2008.mp3",
+        "title": "054-FullExtra-2008.mp3"
+      },
+      {
+        "url": "055-FullExtra-2008.mp3",
+        "title": "055-FullExtra-2008.mp3"
+      },
+      {
+        "url": "056-FullExtra-2008.mp3",
+        "title": "056-FullExtra-2008.mp3"
+      },
+      {
+        "url": "057-FullExtra-2008.mp3",
+        "title": "057-FullExtra-2008.mp3"
+      },
+      {
+        "url": "058-FullExtra-2008.mp3",
+        "title": "058-FullExtra-2008.mp3"
+      },
+      {
+        "url": "059-FullExtra-2008.mp3",
+        "title": "059-FullExtra-2008.mp3"
+      },
+      {
+        "url": "060-FullExtra-2008.mp3",
+        "title": "060-FullExtra-2008.mp3"
+      },
+      {
+        "url": "061-FullExtra-2008.mp3",
+        "title": "061-FullExtra-2008.mp3"
+      },
+      {
+        "url": "062-FullExtra-2008.mp3",
+        "title": "062-FullExtra-2008.mp3"
+      },
+      {
+        "url": "063-FullExtra-2008.mp3",
+        "title": "063-FullExtra-2008.mp3"
+      },
+      {
+        "url": "064-FullExtra-2008.mp3",
+        "title": "064-FullExtra-2008.mp3"
+      },
+      {
+        "url": "065-FullExtra-2008.mp3",
+        "title": "065-FullExtra-2008.mp3"
+      },
+      {
+        "url": "066-FullExtra-2008.mp3",
+        "title": "066-FullExtra-2008.mp3"
+      },
+      {
+        "url": "067-FullExtra-2008.mp3",
+        "title": "067-FullExtra-2008.mp3"
+      },
+      {
+        "url": "068-FullExtra-2008.mp3",
+        "title": "068-FullExtra-2008.mp3"
+      },
+      {
+        "url": "069-FullExtra-2008.mp3",
+        "title": "069-FullExtra-2008.mp3"
+      },
+      {
+        "url": "070-FullExtra-2008.mp3",
+        "title": "070-FullExtra-2008.mp3"
+      },
+      {
+        "url": "071-FullExtra-2008.mp3",
+        "title": "071-FullExtra-2008.mp3"
+      },
+      {
+        "url": "072-FullExtra-2008.mp3",
+        "title": "072-FullExtra-2008.mp3"
+      },
+      {
+        "url": "073-FullExtra-2008.mp3",
+        "title": "073-FullExtra-2008.mp3"
+      },
+      {
+        "url": "074-FullExtra-2008.mp3",
+        "title": "074-FullExtra-2008.mp3"
+      },
+      {
+        "url": "075-FullExtra-2008.mp3",
+        "title": "075-FullExtra-2008.mp3"
+      },
+      {
+        "url": "076-FullExtra-2008.mp3",
+        "title": "076-FullExtra-2008.mp3"
+      },
+      {
+        "url": "077-FullExtra-2008.mp3",
+        "title": "077-FullExtra-2008.mp3"
+      },
+      {
+        "url": "078-FullExtra-2008.mp3",
+        "title": "078-FullExtra-2008.mp3"
+      },
+      {
+        "url": "079-FullExtra-2008.mp3",
+        "title": "079-FullExtra-2008.mp3"
+      },
+      {
+        "url": "080-FullExtra-2008.mp3",
+        "title": "080-FullExtra-2008.mp3"
+      },
+      {
+        "url": "081-FullExtra-2008.mp3",
+        "title": "081-FullExtra-2008.mp3"
+      },
+      {
+        "url": "082-FullExtra-2008.mp3",
+        "title": "082-FullExtra-2008.mp3"
+      },
+      {
+        "url": "083-FullExtra-2008.mp3",
+        "title": "083-FullExtra-2008.mp3"
+      },
+      {
+        "url": "084-FullExtra-2008.mp3",
+        "title": "084-FullExtra-2008.mp3"
+      },
+      {
+        "url": "085-FullExtra-2008.mp3",
+        "title": "085-FullExtra-2008.mp3"
+      },
+      {
+        "url": "086-FullExtra-2008.mp3",
+        "title": "086-FullExtra-2008.mp3"
+      },
+      {
+        "url": "087-FullExtra-2008.mp3",
+        "title": "087-FullExtra-2008.mp3"
+      },
+      {
+        "url": "088-FullExtra-2008.mp3",
+        "title": "088-FullExtra-2008.mp3"
+      },
+      {
+        "url": "089-FullExtra-2008.mp3",
+        "title": "089-FullExtra-2008.mp3"
+      },
+      {
+        "url": "090-FullExtra-2008.mp3",
+        "title": "090-FullExtra-2008.mp3"
+      },
+      {
+        "url": "091-FullExtra-2008.mp3",
+        "title": "091-FullExtra-2008.mp3"
+      },
+      {
+        "url": "092-FullExtra-2008.mp3",
+        "title": "092-FullExtra-2008.mp3"
+      },
+      {
+        "url": "093-FullExtra-2008.mp3",
+        "title": "093-FullExtra-2008.mp3"
+      },
+      {
+        "url": "094-FullExtra-2008.mp3",
+        "title": "094-FullExtra-2008.mp3"
+      },
+      {
+        "url": "095-FullExtra-2008.mp3",
+        "title": "095-FullExtra-2008.mp3"
+      },
+      {
+        "url": "096-FullExtra-2008.mp3",
+        "title": "096-FullExtra-2008.mp3"
+      },
+      {
+        "url": "097-FullExtra-2008.mp3",
+        "title": "097-FullExtra-2008.mp3"
+      },
+      {
+        "url": "098-FullExtra-2008.mp3",
+        "title": "098-FullExtra-2008.mp3"
+      },
+      {
+        "url": "099-FullExtra-2008.mp3",
+        "title": "099-FullExtra-2008.mp3"
+      },
+      {
+        "url": "100-FullExtra-2008.mp3",
+        "title": "100-FullExtra-2008.mp3"
+      },
+      {
+        "url": "101-FullExtra-2008.mp3",
+        "title": "101-FullExtra-2008.mp3"
+      },
+      {
+        "url": "102-FullExtra-2008.mp3",
+        "title": "102-FullExtra-2008.mp3"
+      },
+      {
+        "url": "103-FullExtra-2008.mp3",
+        "title": "103-FullExtra-2008.mp3"
+      }
+    ],
+    "url": "https://mek.oszk.hu/06700/06786"
+  }
+]

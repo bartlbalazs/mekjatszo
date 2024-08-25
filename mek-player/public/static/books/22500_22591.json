@@ -1,0 +1,263 @@
+{
+  "id": "22500_22591",
+  "title": "A kőkapu",
+  "author": "Németh Árpád",
+  "lead": "\"... Meteorzápor világította meg az ég épp azon részét, melyet sóvárogva kémlelt. Úgy tűnt, hogy az egyik hulló csillag, mint egy hatalmas égő ágyúgolyó zuhant le, nagyon közel, szinte pár kilométerre az erődtől nyugatra, a kolostor és az ismert kőkapu környékére. A nagy villanást egy gyenge földmozgás is kísérte.\"",
+  "cover": "/22500/22591/borito.jpg",
+  "description": null,
+  "audio_files": [
+    {
+      "url": "Nemeth_Arpad-A_kokapu_00.mp3",
+      "title": "Nemeth_Arpad-A_kokapu_00.mp3 - Hangos katalóguscédula"
+    },
+    {
+      "url": "Nemeth_Arpad-A_kokapu_01.mp3",
+      "title": "Nemeth_Arpad-A_kokapu_01.mp3 - A kőkapu - 1. Fejezet"
+    },
+    {
+      "url": "Nemeth_Arpad-A_kokapu_02.mp3",
+      "title": "Nemeth_Arpad-A_kokapu_02.mp3 - A kőkapu - 2. Fejezet"
+    },
+    {
+      "url": "Nemeth_Arpad-A_kokapu_03.mp3",
+      "title": "Nemeth_Arpad-A_kokapu_03.mp3 - A kőkapu - 3. Fejezet"
+    },
+    {
+      "url": "Nemeth_Arpad-A_kokapu_04.mp3",
+      "title": "Nemeth_Arpad-A_kokapu_04.mp3 - A kőkapu - 4. Fejezet"
+    },
+    {
+      "url": "Nemeth_Arpad-A_kokapu_05.mp3",
+      "title": "Nemeth_Arpad-A_kokapu_05.mp3 - A kőkapu - 5. Fejezet"
+    },
+    {
+      "url": "Nemeth_Arpad-A_kokapu_06.mp3",
+      "title": "Nemeth_Arpad-A_kokapu_06.mp3 - A kőkapu - 6. Fejezet"
+    },
+    {
+      "url": "Nemeth_Arpad-A_kokapu_07.mp3",
+      "title": "Nemeth_Arpad-A_kokapu_07.mp3 - A kőkapu - 7. Fejezet"
+    },
+    {
+      "url": "Nemeth_Arpad-A_kokapu_08.mp3",
+      "title": "Nemeth_Arpad-A_kokapu_08.mp3 - A kőkapu - 8. Fejezet"
+    },
+    {
+      "url": "Nemeth_Arpad-A_kokapu_09.mp3",
+      "title": "Nemeth_Arpad-A_kokapu_09.mp3 - A kőkapu - 9. Fejezet"
+    },
+    {
+      "url": "Nemeth_Arpad-A_kokapu_10.mp3",
+      "title": "Nemeth_Arpad-A_kokapu_10.mp3 - A kőkapu - 10. Fejezet"
+    },
+    {
+      "url": "Nemeth_Arpad-A_kokapu_11.mp3",
+      "title": "Nemeth_Arpad-A_kokapu_11.mp3 - A kőkapu - 11. Fejezet"
+    },
+    {
+      "url": "Nemeth_Arpad-A_kokapu_12.mp3",
+      "title": "Nemeth_Arpad-A_kokapu_12.mp3 - A kőkapu - 12. Fejezet"
+    },
+    {
+      "url": "Nemeth_Arpad-A_kokapu_13.mp3",
+      "title": "Nemeth_Arpad-A_kokapu_13.mp3 - A kőkapu - 13. Fejezet"
+    },
+    {
+      "url": "Nemeth_Arpad-A_kokapu_14.mp3",
+      "title": "Nemeth_Arpad-A_kokapu_14.mp3 - A kőkapu - 14. Fejezet"
+    },
+    {
+      "url": "Nemeth_Arpad-A_kokapu_15.mp3",
+      "title": "Nemeth_Arpad-A_kokapu_15.mp3 - A kőkapu - 15. Fejezet"
+    },
+    {
+      "url": "Nemeth_Arpad-A_kokapu_16.mp3",
+      "title": "Nemeth_Arpad-A_kokapu_16.mp3 - A kőkapu - 16. Fejezet"
+    },
+    {
+      "url": "Nemeth_Arpad-A_kokapu_17.mp3",
+      "title": "Nemeth_Arpad-A_kokapu_17.mp3 - A kőkapu - 17. Fejezet"
+    },
+    {
+      "url": "Nemeth_Arpad-A_kokapu_18.mp3",
+      "title": "Nemeth_Arpad-A_kokapu_18.mp3 - A kőkapu - 18. Fejezet"
+    },
+    {
+      "url": "Nemeth_Arpad-A_kokapu_19.mp3",
+      "title": "Nemeth_Arpad-A_kokapu_19.mp3 - A kőkapu - 19. Fejezet"
+    },
+    {
+      "url": "Nemeth_Arpad-A_kokapu_20.mp3",
+      "title": "Nemeth_Arpad-A_kokapu_20.mp3 - Dujó - 1. Fejezet"
+    },
+    {
+      "url": "Nemeth_Arpad-A_kokapu_21.mp3",
+      "title": "Nemeth_Arpad-A_kokapu_21.mp3 - Dujó - 2. Fejezet"
+    },
+    {
+      "url": "Nemeth_Arpad-A_kokapu_22.mp3",
+      "title": "Nemeth_Arpad-A_kokapu_22.mp3 - Dujó - 3. Fejezet"
+    },
+    {
+      "url": "Nemeth_Arpad-A_kokapu_23.mp3",
+      "title": "Nemeth_Arpad-A_kokapu_23.mp3 - Dujó - 4. Fejezet"
+    },
+    {
+      "url": "Nemeth_Arpad-A_kokapu_24.mp3",
+      "title": "Nemeth_Arpad-A_kokapu_24.mp3 - Dujó - 5. Fejezet"
+    },
+    {
+      "url": "Nemeth_Arpad-A_kokapu_25.mp3",
+      "title": "Nemeth_Arpad-A_kokapu_25.mp3 - Dujó - 6. Fejezet"
+    },
+    {
+      "url": "Nemeth_Arpad-A_kokapu_26.mp3",
+      "title": "Nemeth_Arpad-A_kokapu_26.mp3 - Dujó - 7. Fejezet"
+    },
+    {
+      "url": "Nemeth_Arpad-A_kokapu_27.mp3",
+      "title": "Nemeth_Arpad-A_kokapu_27.mp3 - Dujó - 8. Fejezet"
+    },
+    {
+      "url": "Nemeth_Arpad-A_kokapu_28.mp3",
+      "title": "Nemeth_Arpad-A_kokapu_28.mp3 - Dujó - 9. Fejezet"
+    },
+    {
+      "url": "Nemeth_Arpad-A_kokapu_29.mp3",
+      "title": "Nemeth_Arpad-A_kokapu_29.mp3 - Lajos, az álomfejtő"
+    },
+    {
+      "url": "Nemeth_Arpad-A_kokapu_30.mp3",
+      "title": "Nemeth_Arpad-A_kokapu_30.mp3 - Néhány szó az íróról"
+    },
+    {
+      "url": "Nemeth_Arpad-A_kokapu_31.mp3",
+      "title": "Nemeth_Arpad-A_kokapu_31.mp3 - Recenzió (Bosznai Győző)"
+    },
+    {
+      "url": "Nemeth_Arpad-Kamena kapija_01.mp3",
+      "title": "Nemeth_Arpad-Kamena kapija_01.mp3 - Najava"
+    },
+    {
+      "url": "Nemeth_Arpad-Kamena kapija_02.mp3",
+      "title": "Nemeth_Arpad-Kamena kapija_02.mp3 - Kamena kapija - 1. Poglavlje"
+    },
+    {
+      "url": "Nemeth_Arpad-Kamena kapija_03.mp3",
+      "title": "Nemeth_Arpad-Kamena kapija_03.mp3 - Kamena kapija - 2. Poglavlje"
+    },
+    {
+      "url": "Nemeth_Arpad-Kamena kapija_04.mp3",
+      "title": "Nemeth_Arpad-Kamena kapija_04.mp3 - Kamena kapija - 3. Poglavlje"
+    },
+    {
+      "url": "Nemeth_Arpad-Kamena kapija_05.mp3",
+      "title": "Nemeth_Arpad-Kamena kapija_05.mp3 - Kamena kapija - 4. Poglavlje"
+    },
+    {
+      "url": "Nemeth_Arpad-Kamena kapija_06.mp3",
+      "title": "Nemeth_Arpad-Kamena kapija_06.mp3 - Kamena kapija - 5. Poglavlje"
+    },
+    {
+      "url": "Nemeth_Arpad-Kamena kapija_07.mp3",
+      "title": "Nemeth_Arpad-Kamena kapija_07.mp3 - Kamena kapija - 6. Poglavlje"
+    },
+    {
+      "url": "Nemeth_Arpad-Kamena kapija_08.mp3",
+      "title": "Nemeth_Arpad-Kamena kapija_08.mp3 - Kamena kapija - 7. Poglavlje"
+    },
+    {
+      "url": "Nemeth_Arpad-Kamena kapija_09.mp3",
+      "title": "Nemeth_Arpad-Kamena kapija_09.mp3 - Kamena kapija - 8. Poglavlje"
+    },
+    {
+      "url": "Nemeth_Arpad-Kamena kapija_10.mp3",
+      "title": "Nemeth_Arpad-Kamena kapija_10.mp3 - Kamena kapija - 9. Poglavlje"
+    },
+    {
+      "url": "Nemeth_Arpad-Kamena kapija_11.mp3",
+      "title": "Nemeth_Arpad-Kamena kapija_11.mp3 - Kamena kapija - 10. Poglavlje"
+    },
+    {
+      "url": "Nemeth_Arpad-Kamena kapija_12.mp3",
+      "title": "Nemeth_Arpad-Kamena kapija_12.mp3 - Kamena kapija - 11. Poglavlje"
+    },
+    {
+      "url": "Nemeth_Arpad-Kamena kapija_13.mp3",
+      "title": "Nemeth_Arpad-Kamena kapija_13.mp3 - Kamena kapija - 12. Poglavlje"
+    },
+    {
+      "url": "Nemeth_Arpad-Kamena kapija_14.mp3",
+      "title": "Nemeth_Arpad-Kamena kapija_14.mp3 - Kamena kapija - 13. Poglavlje"
+    },
+    {
+      "url": "Nemeth_Arpad-Kamena kapija_15.mp3",
+      "title": "Nemeth_Arpad-Kamena kapija_15.mp3 - Kamena kapija - 14. Poglavlje"
+    },
+    {
+      "url": "Nemeth_Arpad-Kamena kapija_16.mp3",
+      "title": "Nemeth_Arpad-Kamena kapija_16.mp3 - Kamena kapija - 15. Poglavlje"
+    },
+    {
+      "url": "Nemeth_Arpad-Kamena kapija_17.mp3",
+      "title": "Nemeth_Arpad-Kamena kapija_17.mp3 - Kamena kapija - 16. Poglavlje"
+    },
+    {
+      "url": "Nemeth_Arpad-Kamena kapija_18.mp3",
+      "title": "Nemeth_Arpad-Kamena kapija_18.mp3 - Kamena kapija - 17. Poglavlje"
+    },
+    {
+      "url": "Nemeth_Arpad-Kamena kapija_19.mp3",
+      "title": "Nemeth_Arpad-Kamena kapija_19.mp3 - Kamena kapija - 18. Poglavlje"
+    },
+    {
+      "url": "Nemeth_Arpad-Kamena kapija_20.mp3",
+      "title": "Nemeth_Arpad-Kamena kapija_20.mp3 - Dujo - 1. Poglavlje"
+    },
+    {
+      "url": "Nemeth_Arpad-Kamena kapija_21.mp3",
+      "title": "Nemeth_Arpad-Kamena kapija_21.mp3 - Dujo - 2. Poglavlje"
+    },
+    {
+      "url": "Nemeth_Arpad-Kamena kapija_22.mp3",
+      "title": "Nemeth_Arpad-Kamena kapija_22.mp3 - Dujo - 3. Poglavlje"
+    },
+    {
+      "url": "Nemeth_Arpad-Kamena kapija_23.mp3",
+      "title": "Nemeth_Arpad-Kamena kapija_23.mp3 - Dujo - 4. Poglavlje"
+    },
+    {
+      "url": "Nemeth_Arpad-Kamena kapija_24.mp3",
+      "title": "Nemeth_Arpad-Kamena kapija_24.mp3 - Dujo - 5. Poglavlje"
+    },
+    {
+      "url": "Nemeth_Arpad-Kamena kapija_25.mp3",
+      "title": "Nemeth_Arpad-Kamena kapija_25.mp3 - Dujo - 6. Poglavlje"
+    },
+    {
+      "url": "Nemeth_Arpad-Kamena kapija_26.mp3",
+      "title": "Nemeth_Arpad-Kamena kapija_26.mp3 - Dujo - 7. Poglavlje"
+    },
+    {
+      "url": "Nemeth_Arpad-Kamena kapija_27.mp3",
+      "title": "Nemeth_Arpad-Kamena kapija_27.mp3 - Dujo - 8. Poglavlje"
+    },
+    {
+      "url": "Nemeth_Arpad-Kamena kapija_28.mp3",
+      "title": "Nemeth_Arpad-Kamena kapija_28.mp3 - Dujo - 9. Poglavlje"
+    },
+    {
+      "url": "Nemeth_Arpad-Kamena kapija_29.mp3",
+      "title": "Nemeth_Arpad-Kamena kapija_29.mp3 - Vlada, tumac snova"
+    },
+    {
+      "url": "Nemeth_Arpad-Kamena kapija_30.mp3",
+      "title": "Nemeth_Arpad-Kamena kapija_30.mp3 - Kamena kapija (Jovan Gagrica)"
+    },
+    {
+      "url": "Nemeth_Arpad-Kamena kapija_31.mp3",
+      "title": "Nemeth_Arpad-Kamena kapija_31.mp3 - Tragom Arpadove nepresušne pripovedačke inspiracije (Velibor Pilić)"
+    }
+  ],
+  "url": "https://mek.oszk.hu/22500/22591"
+}

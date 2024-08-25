@@ -1,0 +1,650 @@
+[
+  {
+    "encoded": "%C3%81bel%20Andrea%20%5Bet%20al.%5D",
+    "display_name": "Ábel Andrea [et al.]"
+  },
+  {
+    "encoded": "Lucius%20Apuleius",
+    "display_name": "Lucius Apuleius"
+  },
+  {
+    "encoded": "Arany%20J%C3%A1nos",
+    "display_name": "Arany János"
+  },
+  {
+    "encoded": "Arany%20L%C3%A1szl%C3%B3",
+    "display_name": "Arany László"
+  },
+  {
+    "encoded": "%C3%81rvay%20M%C3%A1ria",
+    "display_name": "Árvay Mária"
+  },
+  {
+    "encoded": "Aszl%C3%A1nyi%20K%C3%A1roly",
+    "display_name": "Aszlányi Károly"
+  },
+  {
+    "encoded": "Jane%20Austen",
+    "display_name": "Jane Austen"
+  },
+  {
+    "encoded": "Babits%20Mih%C3%A1ly",
+    "display_name": "Babits Mihály"
+  },
+  {
+    "encoded": "Bakaja%20Zolt%C3%A1n",
+    "display_name": "Bakaja Zoltán"
+  },
+  {
+    "encoded": "Bal%C3%A1zs%20Ferenc",
+    "display_name": "Balázs Ferenc"
+  },
+  {
+    "encoded": "Honor%C3%A9%20de%20Balzac",
+    "display_name": "Honoré de Balzac"
+  },
+  {
+    "encoded": "Barsi%20%C3%96d%C3%B6n",
+    "display_name": "Barsi Ödön"
+  },
+  {
+    "encoded": "Bartanusz%20Attila",
+    "display_name": "Bartanusz Attila"
+  },
+  {
+    "encoded": "Benedek%20Elek",
+    "display_name": "Benedek Elek"
+  },
+  {
+    "encoded": "Giovanni%20Boccaccio",
+    "display_name": "Giovanni Boccaccio"
+  },
+  {
+    "encoded": "Bo%C3%A9r%20P%C3%A9ter%20P%C3%A1l",
+    "display_name": "Boér Péter Pál"
+  },
+  {
+    "encoded": "Valerij%20Jakovlevics%20Brjuszov",
+    "display_name": "Valerij Jakovlevics Brjuszov"
+  },
+  {
+    "encoded": "Braun%20Krisztina",
+    "display_name": "Braun Krisztina"
+  },
+  {
+    "encoded": "Bertolt%20Brecht",
+    "display_name": "Bertolt Brecht"
+  },
+  {
+    "encoded": "Brodarics%20Istv%C3%A1n",
+    "display_name": "Brodarics István"
+  },
+  {
+    "encoded": "Br%C3%B3dy%20S%C3%A1ndor",
+    "display_name": "Bródy Sándor"
+  },
+  {
+    "encoded": "Charlotte%20Bront%C3%AB",
+    "display_name": "Charlotte Brontë"
+  },
+  {
+    "encoded": "Emily%20Bront%C3%AB",
+    "display_name": "Emily Brontë"
+  },
+  {
+    "encoded": "Lewis%20Carroll",
+    "display_name": "Lewis Carroll"
+  },
+  {
+    "encoded": "Miguel%20de%20Cervantes%20Saavedra",
+    "display_name": "Miguel de Cervantes Saavedra"
+  },
+  {
+    "encoded": "Gilbert%20Keith%20Chesterton",
+    "display_name": "Gilbert Keith Chesterton"
+  },
+  {
+    "encoded": "Cs%C3%A1th%20G%C3%A9za",
+    "display_name": "Csáth Géza"
+  },
+  {
+    "encoded": "Anton%20Pavlovics%20Csehov",
+    "display_name": "Anton Pavlovics Csehov"
+  },
+  {
+    "encoded": "Csif%C3%B3%20J%C3%A1nos",
+    "display_name": "Csifó János"
+  },
+  {
+    "encoded": "Csokonai%20Vit%C3%A9z%20Mih%C3%A1ly",
+    "display_name": "Csokonai Vitéz Mihály"
+  },
+  {
+    "encoded": "Csorcs%C3%A1n%20Sz%C5%B1cs%20Imre",
+    "display_name": "Csorcsán Szűcs Imre"
+  },
+  {
+    "encoded": "Karel%20%C4%8Capek",
+    "display_name": "Karel Čapek"
+  },
+  {
+    "encoded": "Darvas%20L%C3%A1szl%C3%B3",
+    "display_name": "Darvas László"
+  },
+  {
+    "encoded": "Daniel%20Defoe",
+    "display_name": "Daniel Defoe"
+  },
+  {
+    "encoded": "D%C3%A9zsi%20Zolt%C3%A1n",
+    "display_name": "Dézsi Zoltán"
+  },
+  {
+    "encoded": "Charles%20Dickens",
+    "display_name": "Charles Dickens"
+  },
+  {
+    "encoded": "Denis%20Diderot",
+    "display_name": "Denis Diderot"
+  },
+  {
+    "encoded": "Dolinay%20Tam%C3%A1s",
+    "display_name": "Dolinay Tamás"
+  },
+  {
+    "encoded": "Alexandre%20Dumas",
+    "display_name": "Alexandre Dumas"
+  },
+  {
+    "encoded": "Friedrich%20D%C3%BCrrenmatt",
+    "display_name": "Friedrich Dürrenmatt"
+  },
+  {
+    "encoded": "Engler%20J%C3%B3zsef",
+    "display_name": "Engler József"
+  },
+  {
+    "encoded": "E%C3%B6tv%C3%B6s%20J%C3%B3zsef",
+    "display_name": "Eötvös József"
+  },
+  {
+    "encoded": "E%C3%B6tv%C3%B6s%20K%C3%A1roly",
+    "display_name": "Eötvös Károly"
+  },
+  {
+    "encoded": "Epikt%C3%A9tos",
+    "display_name": "Epiktétos"
+  },
+  {
+    "encoded": "Fazekas%20Mih%C3%A1ly",
+    "display_name": "Fazekas Mihály"
+  },
+  {
+    "encoded": "Fekete%20%C3%81rp%C3%A1d",
+    "display_name": "Fekete Árpád"
+  },
+  {
+    "encoded": "Fekete%20Kiss%20S%C3%A1ndor",
+    "display_name": "Fekete Kiss Sándor"
+  },
+  {
+    "encoded": "Cabe%20Ferrant",
+    "display_name": "Cabe Ferrant"
+  },
+  {
+    "encoded": "Gustave%20Flaubert",
+    "display_name": "Gustave Flaubert"
+  },
+  {
+    "encoded": "F%C3%BCst%20Mil%C3%A1n",
+    "display_name": "Füst Milán"
+  },
+  {
+    "encoded": "Ga%C3%A1l%20M%C3%B3zes",
+    "display_name": "Gaál Mózes"
+  },
+  {
+    "encoded": "Garay%20J%C3%A1nos",
+    "display_name": "Garay János"
+  },
+  {
+    "encoded": "G%C3%A1rdonyi%20G%C3%A9za",
+    "display_name": "Gárdonyi Géza"
+  },
+  {
+    "encoded": "Nyikolaj%20Vasziljevics%20Gogol",
+    "display_name": "Nyikolaj Vasziljevics Gogol"
+  },
+  {
+    "encoded": "Christl%20Greller",
+    "display_name": "Christl Greller"
+  },
+  {
+    "encoded": "Gubcsi%20Lajos",
+    "display_name": "Gubcsi Lajos"
+  },
+  {
+    "encoded": "Gyulai%20J%C3%B3zsef",
+    "display_name": "Gyulai József"
+  },
+  {
+    "encoded": "Han%20P%C3%A1l%20G%C3%B6rbicz%20Tam%C3%A1s",
+    "display_name": "Han Pál Görbicz Tamás"
+  },
+  {
+    "encoded": "Hars%C3%A1nyi%20Zsolt",
+    "display_name": "Harsányi Zsolt"
+  },
+  {
+    "encoded": "Haugh%20B%C3%A9la",
+    "display_name": "Haugh Béla"
+  },
+  {
+    "encoded": "Herczeg%20Ferenc",
+    "display_name": "Herczeg Ferenc"
+  },
+  {
+    "encoded": "Hom%C3%A9rosz",
+    "display_name": "Homérosz"
+  },
+  {
+    "encoded": "Victor%20Hugo",
+    "display_name": "Victor Hugo"
+  },
+  {
+    "encoded": "Henrik%20Ibsen",
+    "display_name": "Henrik Ibsen"
+  },
+  {
+    "encoded": "Jenei%20Andr%C3%A1s",
+    "display_name": "Jenei András"
+  },
+  {
+    "encoded": "J%C3%B3kai%20Anna",
+    "display_name": "Jókai Anna"
+  },
+  {
+    "encoded": "J%C3%B3kai%20M%C3%B3r",
+    "display_name": "Jókai Mór"
+  },
+  {
+    "encoded": "Juh%C3%A1sz%20Gyula",
+    "display_name": "Juhász Gyula"
+  },
+  {
+    "encoded": "Franz%20Kafka",
+    "display_name": "Franz Kafka"
+  },
+  {
+    "encoded": "K%C3%A1lnoki%20Izidor",
+    "display_name": "Kálnoki Izidor"
+  },
+  {
+    "encoded": "Karinthy%20Frigyes",
+    "display_name": "Karinthy Frigyes"
+  },
+  {
+    "encoded": "K%C3%A1rolyfi%20Zs%C3%B3fia%20Palaics%20Eszter",
+    "display_name": "Károlyfi Zsófia Palaics Eszter"
+  },
+  {
+    "encoded": "Katona%20G%C3%A1bor",
+    "display_name": "Katona Gábor"
+  },
+  {
+    "encoded": "Katona%20J%C3%B3zsef",
+    "display_name": "Katona József"
+  },
+  {
+    "encoded": "Erich%20K%C3%A4stner",
+    "display_name": "Erich Kästner"
+  },
+  {
+    "encoded": "K%C3%A9ri%20Katalin",
+    "display_name": "Kéri Katalin"
+  },
+  {
+    "encoded": "Rudyard%20Kipling",
+    "display_name": "Rudyard Kipling"
+  },
+  {
+    "encoded": "Kock%C3%A1s%20Pierre",
+    "display_name": "Kockás Pierre"
+  },
+  {
+    "encoded": "Komor%20Zolt%C3%A1n",
+    "display_name": "Komor Zoltán"
+  },
+  {
+    "encoded": "Kosztol%C3%A1nyi%20Dezs%C5%91",
+    "display_name": "Kosztolányi Dezső"
+  },
+  {
+    "encoded": "Kr%C3%BAdy%20Gyula",
+    "display_name": "Krúdy Gyula"
+  },
+  {
+    "encoded": "Ladik%20Katalin",
+    "display_name": "Ladik Katalin"
+  },
+  {
+    "encoded": "Lao-ce",
+    "display_name": "Lao-ce"
+  },
+  {
+    "encoded": "Lehoczki%20K%C3%A1roly",
+    "display_name": "Lehoczki Károly"
+  },
+  {
+    "encoded": "Lipcsey%20Em%C5%91ke",
+    "display_name": "Lipcsey Emőke"
+  },
+  {
+    "encoded": "Charles%20Lorre",
+    "display_name": "Charles Lorre"
+  },
+  {
+    "encoded": "Mad%C3%A1ch%20Imre",
+    "display_name": "Madách Imre"
+  },
+  {
+    "encoded": "Maderspach%20Viktor",
+    "display_name": "Maderspach Viktor"
+  },
+  {
+    "encoded": "Thomas%20Mann",
+    "display_name": "Thomas Mann"
+  },
+  {
+    "encoded": "M%C3%A1t%C3%A9%20G.%20P%C3%A9ter",
+    "display_name": "Máté G. Péter"
+  },
+  {
+    "encoded": "Menyhei%20J%C3%B3zsef",
+    "display_name": "Menyhei József"
+  },
+  {
+    "encoded": "Mih%C3%A1lyi%20Antal",
+    "display_name": "Mihályi Antal"
+  },
+  {
+    "encoded": "Miksz%C3%A1th%20K%C3%A1lm%C3%A1n",
+    "display_name": "Mikszáth Kálmán"
+  },
+  {
+    "encoded": "John%20Milton",
+    "display_name": "John Milton"
+  },
+  {
+    "encoded": "Moln%C3%A1r%20Ferenc",
+    "display_name": "Molnár Ferenc"
+  },
+  {
+    "encoded": "M%C3%B3ra%20Ferenc",
+    "display_name": "Móra Ferenc"
+  },
+  {
+    "encoded": "M%C3%B3ricz%20Zsigmond",
+    "display_name": "Móricz Zsigmond"
+  },
+  {
+    "encoded": "Nagy%20K%C3%A1roly",
+    "display_name": "Nagy Károly"
+  },
+  {
+    "encoded": "Nagy%20L%C3%A1szl%C3%B3",
+    "display_name": "Nagy László"
+  },
+  {
+    "encoded": "Nagy%20P%C3%A1l",
+    "display_name": "Nagy Pál"
+  },
+  {
+    "encoded": "N%C3%A9meth%20%C3%81rp%C3%A1d",
+    "display_name": "Németh Árpád"
+  },
+  {
+    "encoded": "N%C3%B3gr%C3%A1di%20G%C3%A1bor",
+    "display_name": "Nógrádi Gábor"
+  },
+  {
+    "encoded": "Jos%C3%A9%20Alexander%20Nogueira",
+    "display_name": "José Alexander Nogueira"
+  },
+  {
+    "encoded": "NTK%20Horv%C3%A1th%20S%C3%A1ndor",
+    "display_name": "NTK Horváth Sándor"
+  },
+  {
+    "encoded": "On%20Sai",
+    "display_name": "On Sai"
+  },
+  {
+    "encoded": "Ottlik%20G%C3%A9za",
+    "display_name": "Ottlik Géza"
+  },
+  {
+    "encoded": "P%C3%A1lnagy%20L%C3%A1szl%C3%B3",
+    "display_name": "Pálnagy László"
+  },
+  {
+    "encoded": "Passuth%20L%C3%A1szl%C3%B3",
+    "display_name": "Passuth László"
+  },
+  {
+    "encoded": "P%C3%A1sztor%20%C3%81rp%C3%A1d",
+    "display_name": "Pásztor Árpád"
+  },
+  {
+    "encoded": "P%C3%A1vel%20Istv%C3%A1n",
+    "display_name": "Pável István"
+  },
+  {
+    "encoded": "Pet%C5%91fi%20S%C3%A1ndor",
+    "display_name": "Petőfi Sándor"
+  },
+  {
+    "encoded": "Alekszandr%20Szergejevics%20Puskin",
+    "display_name": "Alekszandr Szergejevics Puskin"
+  },
+  {
+    "encoded": "Fran%C3%A7ois%20Rabelais",
+    "display_name": "François Rabelais"
+  },
+  {
+    "encoded": "Radn%C3%B3ti%20Mikl%C3%B3s",
+    "display_name": "Radnóti Miklós"
+  },
+  {
+    "encoded": "Arthur%20Ransome",
+    "display_name": "Arthur Ransome"
+  },
+  {
+    "encoded": "Mayne%20Reid",
+    "display_name": "Mayne Reid"
+  },
+  {
+    "encoded": "Reisz%20L%C3%A1szl%C3%B3",
+    "display_name": "Reisz László"
+  },
+  {
+    "encoded": "Rejt%C5%91%20Jen%C5%91",
+    "display_name": "Rejtő Jenő"
+  },
+  {
+    "encoded": "Rem%C3%A9nyik%20L%C3%A1szl%C3%B3",
+    "display_name": "Reményik László"
+  },
+  {
+    "encoded": "Rem%C3%A9nyik%20S%C3%A1ndor",
+    "display_name": "Reményik Sándor"
+  },
+  {
+    "encoded": "Arthur%20Rimbaud",
+    "display_name": "Arthur Rimbaud"
+  },
+  {
+    "encoded": "Rozv%C3%A1nyi%20D%C3%A1vid",
+    "display_name": "Rozványi Dávid"
+  },
+  {
+    "encoded": "Antoine%20de%20Saint-Exup%C3%A9ry",
+    "display_name": "Antoine de Saint-Exupéry"
+  },
+  {
+    "encoded": "Walter%20Scott",
+    "display_name": "Walter Scott"
+  },
+  {
+    "encoded": "Seb%C5%91k%20Zsigmond",
+    "display_name": "Sebők Zsigmond"
+  },
+  {
+    "encoded": "William%20Shakespeare",
+    "display_name": "William Shakespeare"
+  },
+  {
+    "encoded": "Henryk%20Sienkiewicz",
+    "display_name": "Henryk Sienkiewicz"
+  },
+  {
+    "encoded": "Sinka%20Istv%C3%A1n",
+    "display_name": "Sinka István"
+  },
+  {
+    "encoded": "Stendhal",
+    "display_name": "Stendhal"
+  },
+  {
+    "encoded": "August%20Strindberg",
+    "display_name": "August Strindberg"
+  },
+  {
+    "encoded": "Emanuel%20Swedenborg",
+    "display_name": "Emanuel Swedenborg"
+  },
+  {
+    "encoded": "Jonathan%20Swift",
+    "display_name": "Jonathan Swift"
+  },
+  {
+    "encoded": "Sz%C3%A9csi%20Margit",
+    "display_name": "Szécsi Margit"
+  },
+  {
+    "encoded": "Szente%20B.%20Levente",
+    "display_name": "Szente B. Levente"
+  },
+  {
+    "encoded": "Szerb%20Antal",
+    "display_name": "Szerb Antal"
+  },
+  {
+    "encoded": "Alexandr%20Szolzsenyicin",
+    "display_name": "Alexandr Szolzsenyicin"
+  },
+  {
+    "encoded": "Tam%C3%A1si%20%C3%81ron",
+    "display_name": "Tamási Áron"
+  },
+  {
+    "encoded": "Tar%20K%C3%A1roly",
+    "display_name": "Tar Károly"
+  },
+  {
+    "encoded": "Terebess%20G%C3%A1bor",
+    "display_name": "Terebess Gábor"
+  },
+  {
+    "encoded": "Thomas%20a%20Kempis",
+    "display_name": "Thomas a Kempis"
+  },
+  {
+    "encoded": "Thur%C3%B3czy%20J%C3%A1nos",
+    "display_name": "Thuróczy János"
+  },
+  {
+    "encoded": "Tornai%20J%C3%B3zsef",
+    "display_name": "Tornai József"
+  },
+  {
+    "encoded": "T%C3%B3th%20%C3%81rp%C3%A1d",
+    "display_name": "Tóth Árpád"
+  },
+  {
+    "encoded": "T%C3%B3th%20B%C3%A9la",
+    "display_name": "Tóth Béla"
+  },
+  {
+    "encoded": "V.%20P%C3%B3csay%20Rozika",
+    "display_name": "V. Pócsay Rozika"
+  },
+  {
+    "encoded": "V%C3%A1li%20Dezs%C5%91",
+    "display_name": "Váli Dezső"
+  },
+  {
+    "encoded": "Varga%20Tam%C3%A1s%20J%C3%B3zsef",
+    "display_name": "Varga Tamás József"
+  },
+  {
+    "encoded": "Vas%20Gereben",
+    "display_name": "Vas Gereben"
+  },
+  {
+    "encoded": "V%C3%A9gh%20Miki",
+    "display_name": "Végh Miki"
+  },
+  {
+    "encoded": "Publius%20Vergilius%20Maro",
+    "display_name": "Publius Vergilius Maro"
+  },
+  {
+    "encoded": "Jules%20Verne",
+    "display_name": "Jules Verne"
+  },
+  {
+    "encoded": "V%C3%A9szi%20Endre",
+    "display_name": "Vészi Endre"
+  },
+  {
+    "encoded": "Vidra%20Szab%C3%B3%20Ferenc",
+    "display_name": "Vidra Szabó Ferenc"
+  },
+  {
+    "encoded": "Vig%20Bal%C3%A1zs",
+    "display_name": "Vig Balázs"
+  },
+  {
+    "encoded": "V%C3%ADgh%20Krist%C3%B3f",
+    "display_name": "Vígh Kristóf"
+  },
+  {
+    "encoded": "Fran%C3%A7ois%20Villon",
+    "display_name": "François Villon"
+  },
+  {
+    "encoded": "Stephen%20Vizinczey",
+    "display_name": "Stephen Vizinczey"
+  },
+  {
+    "encoded": "Voltaire",
+    "display_name": "Voltaire"
+  },
+  {
+    "encoded": "V%C3%B6r%C3%B6ss%20Istv%C3%A1n",
+    "display_name": "Vöröss István"
+  },
+  {
+    "encoded": "Zim%C3%A1nyi%20Vera",
+    "display_name": "Zimányi Vera"
+  },
+  {
+    "encoded": "Zr%C3%ADnyi%20Mikl%C3%B3s",
+    "display_name": "Zrínyi Miklós"
+  },
+  {
+    "encoded": "Zsoldos%20P%C3%A9ter",
+    "display_name": "Zsoldos Péter"
+  }
+]

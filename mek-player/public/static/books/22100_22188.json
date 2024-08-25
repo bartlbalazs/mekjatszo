@@ -1,0 +1,163 @@
+{
+  "id": "22100_22188",
+  "title": "És mégis mozog a föld",
+  "author": "Jókai Mór",
+  "lead": "\"Gulyásbojtárnak kell neki lenni, mert az ingujja elöl össze van kötve: a lobogós ingujj a szarvas állatok közt akadékos volna. Kék a mellénye, fekete a gombos rajthuzlija, fekete a szűre is, selyemvirágokkal kivarrva, csatos szíjon lóg le a félválláról. ... Széles, feltűrt karimájú süvege mellé tűzve egy sárga rózsa.\"",
+  "cover": "/22100/22188/borito.jpg",
+  "description": null,
+  "audio_files": [
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_I_01.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_I_01.mp3 - I. kötet, 01. rész"
+    },
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_I_02.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_I_02.mp3 - I. kötet, 02. rész"
+    },
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_I_03.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_I_03.mp3 - I. kötet, 03. rész"
+    },
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_I_04.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_I_04.mp3 - I. kötet, 04. rész"
+    },
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_I_05.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_I_05.mp3 - I. kötet, 05. rész"
+    },
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_I_06.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_I_06.mp3 - I. kötet, 06. rész"
+    },
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_I_07.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_I_07.mp3 - I. kötet, 07. rész"
+    },
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_I_08.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_I_08.mp3 - I. kötet, 08. rész"
+    },
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_I_09.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_I_09.mp3 - I. kötet, 09. rész"
+    },
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_I_10.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_I_10.mp3 - I. kötet, 10. rész"
+    },
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_I_11.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_I_11.mp3 - I. kötet, 11. rész"
+    },
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_I_12.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_I_12.mp3 - I. kötet, 12. rész"
+    },
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_I_13.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_I_13.mp3 - I. kötet, 13. rész"
+    },
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_I_14.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_I_14.mp3 - I. kötet, 14. rész"
+    },
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_I_15.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_I_15.mp3 - I. kötet, 15. rész"
+    },
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_I_16.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_I_16.mp3 - I. kötet, 16. rész"
+    },
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_I_17.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_I_17.mp3 - I. kötet, 17. rész"
+    },
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_I_18.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_I_18.mp3 - I. kötet, 18. rész"
+    },
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_I_19.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_I_19.mp3 - I. kötet, 19. rész"
+    },
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_I_20.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_I_20.mp3 - I. kötet, 20. rész"
+    },
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_II_01.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_II_01.mp3 - II. kötet, 01. rész"
+    },
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_II_02.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_II_02.mp3 - II. kötet, 02. rész"
+    },
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_II_03.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_II_03.mp3 - II. kötet, 03. rész"
+    },
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_II_04.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_II_04.mp3 - II. kötet, 04. rész"
+    },
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_II_05.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_II_05.mp3 - II. kötet, 05. rész"
+    },
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_II_06.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_II_06.mp3 - II. kötet, 06. rész"
+    },
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_II_07.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_II_07.mp3 - II. kötet, 07. rész"
+    },
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_II_08.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_II_08.mp3 - II. kötet, 08. rész"
+    },
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_II_09.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_II_09.mp3 - II. kötet, 09. rész"
+    },
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_II_10.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_II_10.mp3 - II. kötet, 10. rész"
+    },
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_II_11.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_II_11.mp3 - II. kötet, 11. rész"
+    },
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_II_12.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_II_12.mp3 - II. kötet, 12. rész"
+    },
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_II_13.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_II_13.mp3 - II. kötet, 13. rész"
+    },
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_II_14.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_II_14.mp3 - II. kötet, 14. rész"
+    },
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_II_15.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_II_15.mp3 - II. kötet, 15. rész"
+    },
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_II_16.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_II_16.mp3 - II. kötet, 16. rész"
+    },
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_II_17.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_II_17.mp3 - II. kötet, 17. rész"
+    },
+    {
+      "url": "Jokai_Mor-Es_megis_mozog_a_fold_II_18.mp3",
+      "title": "Jokai_Mor-Es_megis_mozog_a_fold_II_18.mp3 - II. kötet, 18. rész"
+    }
+  ],
+  "url": "https://mek.oszk.hu/22100/22188"
+}

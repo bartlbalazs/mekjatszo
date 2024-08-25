@@ -1,0 +1,512 @@
+[
+  {
+    "id": "03000_03086",
+    "title": "Magyar rapszódiaMVGYOSZ hangoskönyvek",
+    "author": "Harsányi Zsolt",
+    "lead": "\"A szorongó tömeg áhítattal nyitott neki utat. Még soká lehetett szemmel látni, amint kettéválik előtte és összecsukódik mögötte a közönség tömege. A gyerek most már nem hajlongott a tapsokra. Ott állt a dobogó szélén mozdulatlanul, mint aki fényességes látomást lát.\"",
+    "cover": "/03000/03086/borito.jpg",
+    "description": "A Magyar rapszódia Harsányi Zsolt életrajzi regénye. A gyermekkortól a halálos ágyig kíséri nyomon Liszt életét, s kereteként megrajzolja a viharos tizenkilencedik századot. A regényben megelevenedik a kor művészvilága - Chopin, Wagner, Geroge Sand, Berlioz, Schumann, Munkácsy, Erkel életének egy-egy pillanata, szakasza fonódik Liszt sorsába -, s a szórakoztató, fordulatos egyének kedvelői megismerkedhetnek a Liszt-művek keletkezésének történetével is.",
+    "audio_files": [
+      {
+        "url": "581aa00.mp3",
+        "title": "581aa00.mp3 - Hangos katalóguscédula"
+      },
+      {
+        "url": "581af01.mp3",
+        "title": "581af01.mp3 - I. kötet 1. fejezet"
+      },
+      {
+        "url": "581af02.mp3",
+        "title": "581af02.mp3 - I. kötet 2. fejezet"
+      },
+      {
+        "url": "581af03.mp3",
+        "title": "581af03.mp3 - I. kötet 3. fejezet"
+      },
+      {
+        "url": "581af04.mp3",
+        "title": "581af04.mp3 - I. kötet 4. fejezet"
+      },
+      {
+        "url": "581af05.mp3",
+        "title": "581af05.mp3 - I. kötet 5. fejezet"
+      },
+      {
+        "url": "581af06.mp3",
+        "title": "581af06.mp3 - I. kötet 6. fejezet"
+      },
+      {
+        "url": "581af07.mp3",
+        "title": "581af07.mp3 - I. kötet 7. fejezet"
+      },
+      {
+        "url": "581af08.mp3",
+        "title": "581af08.mp3 - I. kötet 8. fejezet"
+      },
+      {
+        "url": "581af09.mp3",
+        "title": "581af09.mp3 - I. kötet 9. fejezet"
+      },
+      {
+        "url": "581af10.mp3",
+        "title": "581af10.mp3 - I. kötet 10. fejezet"
+      },
+      {
+        "url": "581af11.mp3",
+        "title": "581af11.mp3 - I. kötet 11. fejezet"
+      },
+      {
+        "url": "581af12.mp3",
+        "title": "581af12.mp3 - I. kötet 12. fejezet"
+      },
+      {
+        "url": "581af13.mp3",
+        "title": "581af13.mp3 - I. kötet 13. fejezet"
+      },
+      {
+        "url": "581af14.mp3",
+        "title": "581af14.mp3 - I. kötet 14. fejezet"
+      },
+      {
+        "url": "581af15.mp3",
+        "title": "581af15.mp3 - I. kötet 15. fejezet"
+      },
+      {
+        "url": "581af16.mp3",
+        "title": "581af16.mp3 - I. kötet 16. fejezet"
+      },
+      {
+        "url": "581af17.mp3",
+        "title": "581af17.mp3 - I. kötet 17. fejezet"
+      },
+      {
+        "url": "581af18.mp3",
+        "title": "581af18.mp3 - I. kötet 18. fejezet"
+      },
+      {
+        "url": "581af19.mp3",
+        "title": "581af19.mp3 - I. kötet 19. fejezet"
+      },
+      {
+        "url": "581af20.mp3",
+        "title": "581af20.mp3 - I. kötet 20. fejezet"
+      },
+      {
+        "url": "581af21.mp3",
+        "title": "581af21.mp3 - I. kötet 21. fejezet"
+      },
+      {
+        "url": "581af22.mp3",
+        "title": "581af22.mp3 - I. kötet 22. fejezet"
+      },
+      {
+        "url": "581bf01.mp3",
+        "title": "581bf01.mp3 - II. kötet 1. fejezet"
+      },
+      {
+        "url": "581bf02.mp3",
+        "title": "581bf02.mp3 - II. kötet 2. fejezet"
+      },
+      {
+        "url": "581bf03.mp3",
+        "title": "581bf03.mp3 - II. kötet 3. fejezet"
+      },
+      {
+        "url": "581bf04.mp3",
+        "title": "581bf04.mp3 - II. kötet 4. fejezet"
+      },
+      {
+        "url": "581bf05.mp3",
+        "title": "581bf05.mp3 - II. kötet (4) 5. fejezet"
+      },
+      {
+        "url": "581bf06.mp3",
+        "title": "581bf06.mp3 - II. kötet (5) 6. fejezet"
+      },
+      {
+        "url": "581bf07.mp3",
+        "title": "581bf07.mp3 - II. kötet (6) 7. fejezet"
+      },
+      {
+        "url": "581bf08.mp3",
+        "title": "581bf08.mp3 - II. kötet (7) 8. fejezet"
+      },
+      {
+        "url": "581bf09.mp3",
+        "title": "581bf09.mp3 - II. kötet (8) 9. fejezet"
+      },
+      {
+        "url": "581bf10.mp3",
+        "title": "581bf10.mp3 - II. kötet (9) 10. fejezet"
+      },
+      {
+        "url": "581bf11.mp3",
+        "title": "581bf11.mp3 - II. kötet (10) 11. fejezet"
+      },
+      {
+        "url": "581bf12.mp3",
+        "title": "581bf12.mp3 - II. kötet (11) 12. fejezet"
+      },
+      {
+        "url": "581bf13.mp3",
+        "title": "581bf13.mp3 - II. kötet (12) 13. fejezet"
+      },
+      {
+        "url": "581bf14.mp3",
+        "title": "581bf14.mp3 - II. kötet (13) 14. fejezet"
+      },
+      {
+        "url": "581bf15.mp3",
+        "title": "581bf15.mp3 - II. kötet (14) 15. fejezet"
+      },
+      {
+        "url": "581bf16.mp3",
+        "title": "581bf16.mp3 - II. kötet (15) 16. fejezet"
+      },
+      {
+        "url": "581bf17.mp3",
+        "title": "581bf17.mp3 - II. kötet (16) 17. fejezet"
+      },
+      {
+        "url": "581bf18.mp3",
+        "title": "581bf18.mp3 - II. kötet (17) 18. fejezet"
+      },
+      {
+        "url": "581bf19.mp3",
+        "title": "581bf19.mp3 - II. kötet (18) 19. fejezet"
+      },
+      {
+        "url": "581bf20.mp3",
+        "title": "581bf20.mp3 - II. kötet (19) 20. fejezet"
+      },
+      {
+        "url": "581cf01.mp3",
+        "title": "581cf01.mp3 - III. kötet 1. fejezet"
+      },
+      {
+        "url": "581cf02.mp3",
+        "title": "581cf02.mp3 - III. kötet 2. fejezet"
+      },
+      {
+        "url": "581cf03.mp3",
+        "title": "581cf03.mp3 - III. kötet 3. fejezet"
+      },
+      {
+        "url": "581cf04.mp3",
+        "title": "581cf04.mp3 - III. kötet 4. fejezet"
+      },
+      {
+        "url": "581cf05.mp3",
+        "title": "581cf05.mp3 - III. kötet 5. fejezet"
+      },
+      {
+        "url": "581cf06.mp3",
+        "title": "581cf06.mp3 - III. kötet 6. fejezet"
+      },
+      {
+        "url": "581cf07.mp3",
+        "title": "581cf07.mp3 - III. kötet 7. fejezet"
+      },
+      {
+        "url": "581cf08.mp3",
+        "title": "581cf08.mp3 - III. kötet 8. fejezet"
+      },
+      {
+        "url": "581cf09.mp3",
+        "title": "581cf09.mp3 - III. kötet 9. fejezet"
+      },
+      {
+        "url": "581cf10.mp3",
+        "title": "581cf10.mp3 - III. kötet 10. fejezet"
+      },
+      {
+        "url": "581cf11.mp3",
+        "title": "581cf11.mp3 - III. kötet 11. fejezet"
+      },
+      {
+        "url": "581cf12.mp3",
+        "title": "581cf12.mp3 - III. kötet 12. fejezet"
+      },
+      {
+        "url": "581cf13.mp3",
+        "title": "581cf13.mp3 - III. kötet 13. fejezet"
+      },
+      {
+        "url": "581cf14.mp3",
+        "title": "581cf14.mp3 - III. kötet 14. fejezet"
+      },
+      {
+        "url": "581cf15.mp3",
+        "title": "581cf15.mp3 - III. kötet 15. fejezet"
+      },
+      {
+        "url": "581cf16.mp3",
+        "title": "581cf16.mp3 - III. kötet 16. fejezet"
+      },
+      {
+        "url": "581cf17.mp3",
+        "title": "581cf17.mp3 - III. kötet 17. fejezet"
+      },
+      {
+        "url": "581cf18.mp3",
+        "title": "581cf18.mp3 - III. kötet 18. fejezet"
+      },
+      {
+        "url": "581cf19.mp3",
+        "title": "581cf19.mp3 - III. kötet 19. fejezet"
+      },
+      {
+        "url": "581cf20.mp3",
+        "title": "581cf20.mp3 - III. kötet 20. fejezet"
+      },
+      {
+        "url": "581cf21.mp3",
+        "title": "581cf21.mp3 - III. kötet 21. fejezet"
+      },
+      {
+        "url": "581cf22.mp3",
+        "title": "581cf22.mp3 - III. kötet 22. fejezet"
+      },
+      {
+        "url": "581df01.mp3",
+        "title": "581df01.mp3 - IV. kötet 1. fejezet"
+      },
+      {
+        "url": "581df02.mp3",
+        "title": "581df02.mp3 - IV. kötet 2. fejezet"
+      },
+      {
+        "url": "581df03.mp3",
+        "title": "581df03.mp3 - IV. kötet 3. fejezet"
+      },
+      {
+        "url": "581df04.mp3",
+        "title": "581df04.mp3 - IV. kötet 4. fejezet"
+      },
+      {
+        "url": "581df05.mp3",
+        "title": "581df05.mp3 - IV. kötet 5. fejezet"
+      },
+      {
+        "url": "581df06.mp3",
+        "title": "581df06.mp3 - IV. kötet 6. fejezet"
+      },
+      {
+        "url": "581df07.mp3",
+        "title": "581df07.mp3 - IV. kötet 7. fejezet"
+      },
+      {
+        "url": "581df08.mp3",
+        "title": "581df08.mp3 - IV. kötet 8. fejezet"
+      },
+      {
+        "url": "581df09.mp3",
+        "title": "581df09.mp3 - IV. kötet 9. fejezet"
+      },
+      {
+        "url": "581df10.mp3",
+        "title": "581df10.mp3 - IV. kötet (9) 10. fejezet"
+      },
+      {
+        "url": "581df11.mp3",
+        "title": "581df11.mp3 - IV. kötet (10) 11. fejezet"
+      },
+      {
+        "url": "581df12.mp3",
+        "title": "581df12.mp3 - IV. kötet (11) 12. fejezet"
+      },
+      {
+        "url": "581df13.mp3",
+        "title": "581df13.mp3 - IV. kötet (11) 13. fejezet"
+      },
+      {
+        "url": "581df14.mp3",
+        "title": "581df14.mp3 - IV. kötet (12) 14. fejezet"
+      },
+      {
+        "url": "581df15.mp3",
+        "title": "581df15.mp3 - IV. kötet (13) 15. fejezet"
+      },
+      {
+        "url": "581df16.mp3",
+        "title": "581df16.mp3 - IV. kötet (14) 16. fejezet"
+      },
+      {
+        "url": "581df17.mp3",
+        "title": "581df17.mp3 - IV. kötet (15) 17. fejezet"
+      },
+      {
+        "url": "581df18.mp3",
+        "title": "581df18.mp3 - IV. kötet (16) 18. fejezet"
+      },
+      {
+        "url": "581df19.mp3",
+        "title": "581df19.mp3 - IV. kötet (17) 19. fejezet"
+      }
+    ],
+    "url": "https://mek.oszk.hu/03000/03086"
+  },
+  {
+    "id": "13700_13793",
+    "title": "Mátyás király",
+    "author": "Harsányi Zsolt",
+    "lead": "\"Mátyás a hadban élt. Maga vezette az ostromot és nem boldogult. Wienerneustadt keményen állta a küzdelmet. A király egyre türelmetlenebbül szemlélte a fridriki szívóssággal védekező falakat. Haragjában vakmerőségekre ragadtatta magát. Egyszer katonái élén véletlen kézitusába keveredett egy kitörő seregrésszel...\"",
+    "cover": "/13700/13793/borito.jpg",
+    "description": null,
+    "audio_files": [
+      {
+        "url": "01-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "01-Harsanyi_Zsolt-Matyas_kiraly.mp3 - I. fejezet"
+      },
+      {
+        "url": "02-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "02-Harsanyi_Zsolt-Matyas_kiraly.mp3 - II. fejezet"
+      },
+      {
+        "url": "03-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "03-Harsanyi_Zsolt-Matyas_kiraly.mp3 - III. fejezet"
+      },
+      {
+        "url": "04-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "04-Harsanyi_Zsolt-Matyas_kiraly.mp3 - IV. fejezet"
+      },
+      {
+        "url": "05-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "05-Harsanyi_Zsolt-Matyas_kiraly.mp3 - V. fejezet"
+      },
+      {
+        "url": "06-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "06-Harsanyi_Zsolt-Matyas_kiraly.mp3 - VI. fejezet"
+      },
+      {
+        "url": "07-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "07-Harsanyi_Zsolt-Matyas_kiraly.mp3 - VII. fejezet"
+      },
+      {
+        "url": "08-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "08-Harsanyi_Zsolt-Matyas_kiraly.mp3 - VIII. fejezet"
+      },
+      {
+        "url": "09-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "09-Harsanyi_Zsolt-Matyas_kiraly.mp3 - IX. fejezet"
+      },
+      {
+        "url": "10-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "10-Harsanyi_Zsolt-Matyas_kiraly.mp3 - X. fejezet"
+      },
+      {
+        "url": "11-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "11-Harsanyi_Zsolt-Matyas_kiraly.mp3 - XI. fejezet"
+      },
+      {
+        "url": "12-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "12-Harsanyi_Zsolt-Matyas_kiraly.mp3 - XII. fejezet"
+      },
+      {
+        "url": "13-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "13-Harsanyi_Zsolt-Matyas_kiraly.mp3 - XIII. fejezet"
+      },
+      {
+        "url": "14-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "14-Harsanyi_Zsolt-Matyas_kiraly.mp3 - XIV. fejezet"
+      },
+      {
+        "url": "15-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "15-Harsanyi_Zsolt-Matyas_kiraly.mp3 - XV. fejezet"
+      },
+      {
+        "url": "16-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "16-Harsanyi_Zsolt-Matyas_kiraly.mp3 - XVI. fejezet"
+      },
+      {
+        "url": "17-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "17-Harsanyi_Zsolt-Matyas_kiraly.mp3 - XVII. fejezet"
+      },
+      {
+        "url": "18-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "18-Harsanyi_Zsolt-Matyas_kiraly.mp3 - XVIII. fejezet"
+      },
+      {
+        "url": "19-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "19-Harsanyi_Zsolt-Matyas_kiraly.mp3 - XIX. fejezet"
+      },
+      {
+        "url": "20-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "20-Harsanyi_Zsolt-Matyas_kiraly.mp3 - XX. fejezet"
+      },
+      {
+        "url": "21-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "21-Harsanyi_Zsolt-Matyas_kiraly.mp3 - XXI. fejezet"
+      },
+      {
+        "url": "22-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "22-Harsanyi_Zsolt-Matyas_kiraly.mp3 - XXII. fejezet"
+      },
+      {
+        "url": "23-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "23-Harsanyi_Zsolt-Matyas_kiraly.mp3 - XXIII. fejezet"
+      },
+      {
+        "url": "24-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "24-Harsanyi_Zsolt-Matyas_kiraly.mp3 - XXIV. fejezet"
+      },
+      {
+        "url": "25-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "25-Harsanyi_Zsolt-Matyas_kiraly.mp3 - XXV. fejezet"
+      },
+      {
+        "url": "26-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "26-Harsanyi_Zsolt-Matyas_kiraly.mp3 - XXVI. fejezet"
+      },
+      {
+        "url": "27-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "27-Harsanyi_Zsolt-Matyas_kiraly.mp3 - XXVII. fejezet"
+      },
+      {
+        "url": "28-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "28-Harsanyi_Zsolt-Matyas_kiraly.mp3 - XXVIII. fejezet"
+      },
+      {
+        "url": "29-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "29-Harsanyi_Zsolt-Matyas_kiraly.mp3 - XXIX. fejezet"
+      },
+      {
+        "url": "30-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "30-Harsanyi_Zsolt-Matyas_kiraly.mp3 - XXX. fejezet"
+      },
+      {
+        "url": "31-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "31-Harsanyi_Zsolt-Matyas_kiraly.mp3 - XXXI. fejezet"
+      },
+      {
+        "url": "32-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "32-Harsanyi_Zsolt-Matyas_kiraly.mp3 - XXXII. fejezet"
+      },
+      {
+        "url": "33-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "33-Harsanyi_Zsolt-Matyas_kiraly.mp3 - XXXIII. fejezet"
+      },
+      {
+        "url": "34-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "34-Harsanyi_Zsolt-Matyas_kiraly.mp3 - XXXIV. fejezet"
+      },
+      {
+        "url": "35-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "35-Harsanyi_Zsolt-Matyas_kiraly.mp3 - XXXV. fejezet"
+      },
+      {
+        "url": "36-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "36-Harsanyi_Zsolt-Matyas_kiraly.mp3 - XXXVI. fejezet"
+      },
+      {
+        "url": "37-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "37-Harsanyi_Zsolt-Matyas_kiraly.mp3 - XXXVII. fejezet"
+      },
+      {
+        "url": "38-Harsanyi_Zsolt-Matyas_kiraly.mp3",
+        "title": "38-Harsanyi_Zsolt-Matyas_kiraly.mp3 - XXXVIII. fejezet"
+      }
+    ],
+    "url": "https://mek.oszk.hu/13700/13793"
+  }
+]

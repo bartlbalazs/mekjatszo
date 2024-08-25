@@ -64,13 +64,13 @@ class Writer:
                     book.pop(key, None)
         try:
             with open(file_path, 'w', encoding='utf-8') as file:
-                json.dump({'body': books_dict}, file, indent=2, ensure_ascii=False)
+                json.dump(books_dict, file, indent=2, ensure_ascii=False)
             self.logger.info(f"Successfully wrote data to {file_path}")
         except Exception as e:
             self.logger.error(f"Failed to write data to {file_path}: {e}")
 
     def _write_authors_to_file(self, authors, output_path):
-        authors_list = {'body': [{'encoded': util.url_encode(author), 'display_name': author} for author in authors]}
+        authors_list = [{'encoded': util.url_encode(author), 'display_name': author} for author in authors]
         file_path = os.path.join(output_path, AUTHOR_LIST_JSON)
         try:
             with open(file_path, 'w', encoding='utf-8') as file:

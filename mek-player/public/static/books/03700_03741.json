@@ -1,0 +1,31 @@
+{
+  "id": "03700_03741",
+  "title": "Ábel az országbanMVGYOSZ hangoskönyvek",
+  "author": "Tamási Áron",
+  "lead": "\"Könnyű dolog a zsendülő tavaszi mezőben elgyönyörködve időzni, de annál nehezebb úgy elindulni onnét, hogy az az út a leghelyesebben vezessen a kitűzött cél felé. De én jó lélekkel mondhatom, hogy megtaláltam az elindulásnak eme módját, ami más szóval azt jelenti, hogy gyalogszerre határoztam magam.\"",
+  "cover": "/03700/03741/borito.jpg",
+  "description": "Az Ábel a rengetegben ifjú emberét a havasok között a természetes okosság, a számonkérőket és a rablókat egyaránt kijátszó leleményesség, a kiolthatatlanul sugárzó és szikrázó életöröm, a helytállás megrendítően szép s megtörhetetlenül makacs szándéka megvédi a külvilág félelmetes, megsemmisítéssel fenyegető hatalmától. Életének új szakaszától az Ábel az országban mutatja be. Rövid otthon tartózkodás után Ábel a városba indul, szerencsét próbálni. Útközben különböző kalandokba keveredik, egy vándor fogorvos mellett segédkezik, bakterekkel, elcsapott tanítóval, agitátorokkal, lányokkal találkozik; az országutakon tanulja a tudományt, ligeti padokon és rendőri fogdában gyűjti a tapasztalatokat: figyel, tanul, keresi önmagát és célját a világban. Emberien helytáll az új körülmények között is, és anyja sírjánál tett fogadalmát, azt hogy a szegények zászlaját fogja hordozni, egy pillanatra sem feledi.",
+  "audio_files": [
+    {
+      "url": "0923aa00.mp3",
+      "title": "0923aa00.mp3 - Hangos katalóguscédula"
+    },
+    {
+      "url": "0923af01.mp3",
+      "title": "0923af01.mp3 - 1. fejezet"
+    },
+    {
+      "url": "0923af02.mp3",
+      "title": "0923af02.mp3 - 2. fejezet"
+    },
+    {
+      "url": "0923af03.mp3",
+      "title": "0923af03.mp3 - 3. fejezet"
+    },
+    {
+      "url": "0923af04.mp3",
+      "title": "0923af04.mp3 - 4. fejezet"
+    }
+  ],
+  "url": "https://mek.oszk.hu/03700/03741"
+}

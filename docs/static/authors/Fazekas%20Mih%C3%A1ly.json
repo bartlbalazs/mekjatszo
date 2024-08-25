@@ -1,0 +1,37 @@
+[
+  {
+    "id": "07100_07120",
+    "title": "Lúdas Matyi",
+    "author": "Fazekas Mihály",
+    "lead": "\"Nem vagyok én, uram, ács, hanem a Lúdas Matyi - úgymond, Kit kend megcsapatott, és elrablotta libáit, S háromszor fogadá, hogy visszapüfölgeti kenden. E' most hát első.\"",
+    "cover": "/07100/07120/borito.jpg",
+    "description": "Petőfi János vitéze és Arany Toldija mellett Fazekas Mihály Lúdas Matyija a gyerekek legnépszerűbb olvasmánya a magyar klasszikus irodalomból. Matyi történetét, megaláztatását és bátor igazságvevését az is ismeri, aki Fazekas Mihály verses elbeszélését nem is olvasta. Ismeri, hallott róla, éspedig nem azért, mert Lúdas Matyi története előfordul a legkülönbözőbb népek mesemotívumai között - Fazekas Mihály is népmeséből merítette a témát -, hanem azért, mert éppen Fazekas nyomán Lúdas Matyi közgondolkozásunk egyik jelképe lett. A maga igazát érvényesítő népi hős egyik pompás jelképe.",
+    "audio_files": [
+      {
+        "url": "00_ludasmatyi_focim.mp3",
+        "title": "00_ludasmatyi_focim.mp3 - Hangos katalóguscédula"
+      },
+      {
+        "url": "01_ludasmatyi_eloszo.mp3",
+        "title": "01_ludasmatyi_eloszo.mp3 - Elöljáró-beszéd"
+      },
+      {
+        "url": "02_ludasmatyi_1levonas.mp3",
+        "title": "02_ludasmatyi_1levonas.mp3 - Első levonás"
+      },
+      {
+        "url": "03_ludasmatyi_2levonas.mp3",
+        "title": "03_ludasmatyi_2levonas.mp3 - Második levonás"
+      },
+      {
+        "url": "04_ludasmatyi_3levonas.mp3",
+        "title": "04_ludasmatyi_3levonas.mp3 - Harmadik levonás"
+      },
+      {
+        "url": "05_ludasmatyi_4levonas.mp3",
+        "title": "05_ludasmatyi_4levonas.mp3 - Negyedik levonás"
+      }
+    ],
+    "url": "https://mek.oszk.hu/07100/07120"
+  }
+]

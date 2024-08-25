@@ -1,0 +1,463 @@
+{
+  "id": "19400_19476",
+  "title": "Csillagtitok",
+  "author": "Szente B. Levente",
+  "lead": "\"szép emlékek jönnek tükörképek fények közé született táncoló csillagpöttyök már csak te és én maradtunk - de itt vagyunk\"",
+  "cover": "/19400/19476/borito.jpg",
+  "description": null,
+  "audio_files": [
+    {
+      "url": "001-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "001-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "002-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "002-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "003-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "003-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "004-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "004-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "005-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "005-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "006-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "006-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "007-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "007-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "008-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "008-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "009-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "009-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "010-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "010-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "011-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "011-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "012-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "012-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "013-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "013-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "014-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "014-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "015-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "015-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "016-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "016-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "017-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "017-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "018-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "018-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "019-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "019-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "020-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "020-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "021-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "021-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "022-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "022-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "023-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "023-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "024-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "024-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "025-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "025-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "026-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "026-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "027-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "027-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "028-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "028-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "029-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "029-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "030-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "030-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "031-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "031-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "032-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "032-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "033-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "033-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "034-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "034-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "035-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "035-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "036-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "036-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "037-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "037-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "038-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "038-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "039-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "039-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "040-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "040-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "041-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "041-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "042-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "042-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "043-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "043-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "044-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "044-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "045-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "045-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "046-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "046-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "047-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "047-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "048-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "048-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "049-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "049-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "050-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "050-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "051-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "051-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "052-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "052-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "053-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "053-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "054-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "054-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "055-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "055-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "056-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "056-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "057-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "057-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "058-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "058-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "059-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "059-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "060-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "060-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "061-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "061-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "062-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "062-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "063-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "063-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "064-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "064-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "065-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "065-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "066-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "066-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "067-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "067-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "068-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "068-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "069-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "069-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "070-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "070-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "071-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "071-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "072-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "072-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "073-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "073-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "074-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "074-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "075-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "075-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "076-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "076-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "077-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "077-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "078-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "078-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "079-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "079-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "080-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "080-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "081-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "081-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "082-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "082-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "083-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "083-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "084-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "084-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "085-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "085-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "086-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "086-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "087-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "087-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "088-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "088-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "089-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "089-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "090-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "090-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "091-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "091-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "092-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "092-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "093-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "093-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "094-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "094-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "095-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "095-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "096-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "096-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "097-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "097-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "098-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "098-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "099-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "099-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "100-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "100-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "101-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "101-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "102-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "102-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "103-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "103-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "104-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "104-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "105-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "105-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "106-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "106-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "107-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "107-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "108-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "108-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "109-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "109-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "110-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "110-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "111-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "111-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "112-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "112-Szente-B-Levente-Csillagtitok.mp3 -"
+    },
+    {
+      "url": "113-Szente-B-Levente-Csillagtitok.mp3",
+      "title": "113-Szente-B-Levente-Csillagtitok.mp3 -"
+    }
+  ],
+  "url": "https://mek.oszk.hu/19400/19476"
+}
