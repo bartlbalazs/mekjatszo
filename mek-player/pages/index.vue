@@ -53,6 +53,7 @@ const sortFields: Exclude<TableFieldRaw<BookListItem>, string>[] = [
 
 async function fetchData() {
     try {
+        window.location.href.startsWith('http://localhost') ? axios.defaults.baseURL = 'http://localhost:3000' : axios.defaults.baseURL = 'https://bartlbalazs.github.io/mekjatszo/'
         const bookListRespone = await axios.get<BookListItem[]>('/static/full_list.json')
         if (bookListRespone.data) {
             bookListRespone.data.sort((a: BookListItem, b: BookListItem) => a.title.localeCompare(b.title));
