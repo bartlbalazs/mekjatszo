@@ -10,4 +10,4 @@
 
 ---
 
-:pushpin:(https://bartlbalazs.github.io/mekjatszo/)
+:pushpin: https://bartlbalazs.github.io/mekjatszo/
