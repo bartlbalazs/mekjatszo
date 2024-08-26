@@ -6,9 +6,9 @@
                 <BFormInput v-model="filter" placeholder="Keresés" />
             </BCol>
         </BRow>
-        <BTable :sort-by="[{ key: 'author', order: 'asc' }]" :sort-internal="true" :items="bookList"
-            :fields="sortFields" :filter="filter" :per-page="perPage" :current-page="currentPage"
-            @filtered="onFiltered" />
+        <BTable :sort-by="[{ key: 'title', order: 'asc' }]" :sort-internal="true" :items="bookList" :fields="sortFields"
+            :filter="filter" :per-page="perPage" :current-page="currentPage" @filtered="onFiltered" select-mode="single"
+            ref="selectableTable" selectable @row-clicked="onRowClicked" />
         <BRow>
             <BCol>
                 <BPagination v-model="currentPage" :total-rows="totalRows" :per-page="perPage" :align="'fill'" size="sm"
@@ -18,20 +18,19 @@
     </BContainer>
 </template>
 <script setup lang="ts">
+import axios from 'axios';
 import {
     BButton,
     BCol,
+    BContainer,
     BFormInput,
     BPagination,
     BRow,
-    BContainer,
     BTable,
-    type BTableSortBy,
     type TableFieldRaw,
-    type TableItem,
-} from 'bootstrap-vue-next'
-import { reactive, ref } from 'vue'
-import axios from 'axios'
+    type TableItem
+} from 'bootstrap-vue-next';
+import { ref } from 'vue';
 
 interface BookListItem {
     id: string
@@ -47,8 +46,8 @@ const perPage = ref(50)
 const filter = ref('')
 
 const sortFields: Exclude<TableFieldRaw<BookListItem>, string>[] = [
-    { key: 'title', sortable: true },
-    { key: 'author', sortable: true }
+    { key: 'title', sortable: true, label: 'Cím' },
+    { key: 'author', sortable: true, label: 'Szerző' }
 ]
 
 async function fetchData() {
@@ -56,7 +55,6 @@ async function fetchData() {
         window.location.href.startsWith('http://localhost') ? axios.defaults.baseURL = 'http://localhost:3000' : axios.defaults.baseURL = 'https://bartlbalazs.github.io/mekjatszo/'
         const bookListRespone = await axios.get<BookListItem[]>('/static/full_list.json')
         if (bookListRespone.data) {
-            bookListRespone.data.sort((a: BookListItem, b: BookListItem) => a.title.localeCompare(b.title));
             totalRows.value = bookListRespone.data.length;
             bookList.value = bookListRespone.data;
         }
@@ -71,6 +69,10 @@ onMounted(() => {
 
 function onFiltered(filteredItems: TableItem<BookListItem>[]) {
     totalRows.value = filteredItems.length
+}
+
+async function onRowClicked(item: TableItem<BookListItem>) {
+    await navigateTo('/books/' + item.id)
 }
 
 </script>
