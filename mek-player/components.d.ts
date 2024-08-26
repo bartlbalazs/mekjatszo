@@ -7,14 +7,10 @@ export {}
 /* prettier-ignore */
 declare module 'vue' {
   export interface GlobalComponents {
-    IBi0Circle: typeof import('~icons/bi/0-circle')['default']
-    IBiActivity: typeof import('~icons/bi/activity')['default']
-    IFaAngellist: typeof import('~icons/fa/angellist')['default']
     IFaPause: typeof import('~icons/fa/pause')['default']
     IFaPlay: typeof import('~icons/fa/play')['default']
     IFaStepBackward: typeof import('~icons/fa/step-backward')['default']
     IFaStepForward: typeof import('~icons/fa/step-forward')['default']
-    IMdiAccountBox: typeof import('~icons/mdi/account-box')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
   }
