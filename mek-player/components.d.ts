@@ -7,6 +7,8 @@ export {}
 /* prettier-ignore */
 declare module 'vue' {
   export interface GlobalComponents {
+    IFaBackward: typeof import('~icons/fa/backward')['default']
+    IFaForward: typeof import('~icons/fa/forward')['default']
     IFaPause: typeof import('~icons/fa/pause')['default']
     IFaPlay: typeof import('~icons/fa/play')['default']
     IFaStepBackward: typeof import('~icons/fa/step-backward')['default']
