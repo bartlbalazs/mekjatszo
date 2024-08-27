@@ -410,4 +410,18 @@ onUnmounted(() => {
   padding: 20px;
 }
 
+@media (max-width: 768px) {
+  #app {
+    grid-template-columns: 1fr;
+  }
+
+  body {
+    height: 100%;
+    margin-top: 10px;
+  }
+
+  .playlist {
+    max-height: 200px;
+  }
+}
 </style>
