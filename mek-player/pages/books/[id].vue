@@ -304,31 +304,31 @@ onUnmounted(() => {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 20px 15px;
+  padding: 0;
 }
 
 .play,
 .pause {
   background-image: linear-gradient(to right top,#d16ba5,#c777b9,#ba83ca,#aa8fd8,#9a9ae1,#8aa7ec,#79b3f4,#69bff8,#52cffe,#41dfff,#46eefa,#5ffbf1);
   border-radius: 50%;
-  width: 80px;
-  height: 80px;
+  width: 65px;
+  height: 65px;
   justify-content: center;
   box-shadow: -1px 17px 24px -6px rgba(0,0,0,.2);
   cursor: pointer;
-  font-size: 25px;
+  font-size: 20px;
   color: #fff;
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-left: 15px;
+  margin-right: 15px;
 }
 
 .next,
 .prev {
   border: 0;
   border-radius: 50%;
-  font-size: 20px;
-  width: 50px;
-  height: 50px;
+  font-size: 15px;
+  width: 40px;
+  height: 40px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -343,9 +343,9 @@ onUnmounted(() => {
 .forward {
   border: 0;
   border-radius: 50%;
-  font-size: 20px;
-  width: 50px;
-  height: 50px;
+  font-size: 15px;
+  width: 40px;
+  height: 40px;
   display: flex;
   justify-content: center;
   align-items: center;
