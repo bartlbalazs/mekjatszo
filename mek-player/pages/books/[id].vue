@@ -13,8 +13,7 @@
           <h2 class="chapter-title">
             {{ current.title }}
           </h2>
-          <VueSimpleRangeSlider style="width: 100%" :min="0" :max="100" v-model="current.percent"
-            class="progress-bar-wrapper" @update:model-value="seek" />
+          <Slider v-model="current.percent" :tooltips="false" @end="seek"/>
           <div class="timer">
             <p class="start">{{ currentlyTimer }}</p>
             <p class="end">
@@ -64,8 +63,8 @@
 </template>
 
 <script lang="ts" setup>
-import VueSimpleRangeSlider from "vue-simple-range-slider";
-import "vue-simple-range-slider/css";
+import Slider from '@vueform/slider'
+
 
 interface Book {
   id: string
@@ -110,7 +109,6 @@ async function fetchData() {
         title: file.title,
         src: "https://mek.oszk.hu/" + book.value.id.replace('_', '/') + "/mp3/" + file.url,
       }));
-      console.log(chapters.value[0])
       current.value = chapters.value[0];
       document.title = book.value.author + " - " + book.value.title;
       source.value = book.value.url;
@@ -133,10 +131,6 @@ function formatTimer(seconds: any) {
 function seek(event: any) {
   const target_percent = event;
   try {
-    const progress_percent = player.currentTime * 100 / (current.value.duration ?? 0);
-    if (Math.abs(target_percent - progress_percent) < 2) {
-      return;
-    }
     const time = (target_percent * (current.value.duration ?? 0)) / 100;
     player.currentTime = time;
   } catch (error) {
@@ -187,16 +181,21 @@ function setCurrentChapter() {
 
 function play(chapter: Chapter) {
   console.log("Chapter: " + chapter);
+  // If a chapter was selected from the playlist
   if (typeof chapter.src !== "undefined") {
-    current.value.isPlaying = false;
-    index.value = chapters.value.indexOf(current.value);
     current.value = chapter;
-  } else {
-    player.src = chapters.value[0].src;
-    index.value = 0;
-    current.value = chapters.value[0];
+    index.value = chapters.value.indexOf(current.value);
+    player.src = current.value.src;
+  } 
+  
+  // Start first chapter or continue playing the current chapter
+  if (typeof chapter.src === "undefined") {
+    // Start the first chapter
+    if (player.src === '') {
+      player.src = current.value.src;
+    }
+    // No changes needed when we continue playing the current chapter
   }
-  player.src = current.value.src;
 
   player.play();
   isPlaying.value = true;
@@ -247,13 +246,6 @@ onUnmounted(() => {
 </script>
 
 <style>
-.simple-range-slider-popover {
-  display: none;
-}
-
-.simple-range-slider-popover-arrow {
-  display: none;
-}
 .chapter-details {
   margin-top: 25px;
 }
@@ -380,17 +372,6 @@ onUnmounted(() => {
   padding: 10px;
 }
 
-.actions > .delete {
-  border-radius: 50%;
-  width: 40px;
-  height: 40px;
-  justify-content: center;
-  box-shadow: -1px 17px 24px -6px rgba(0,0,0,.2);
-  cursor: pointer;
-  font-size: 20px;
-  color: #ba83ca;
-}
-
 .playlist .chapter:hover {
   background-color: #ededed;
   transition: box-shadow .2s,background-color .3s;
@@ -421,7 +402,13 @@ onUnmounted(() => {
   }
 
   .playlist {
+    margin-top: 5px;
     max-height: 200px;
+  }
+
+  .playlist ul {
+    padding-left: 0;
   }
 }
 </style>
+<style src="@vueform/slider/themes/default.css"></style>
