@@ -4,14 +4,14 @@
       <h2>{{ book.title }}</h2>
     </div>
     <div>
-      <img v-bind:src="'https://mek.oszk.hu' + book.cover" />
+      <img :src="book.cover" />
     </div>
     <div>
       <p>{{ book.lead }}</p>
       <p>{{ book.description }}</p>
     </div>
     <div>
-      <a v-bind:href="'/book/' + book.id">Tovább a könyvhöz</a>
+      <a :href="book.book_page">Tovább a könyvhöz</a>
     </div>
   </div>
 </template>
@@ -25,10 +25,7 @@ interface Book {
   cover: string
   description: string
   url: string
-  audio_files: [{
-    url: string,
-    title: string
-  }]
+  book_page: string
 }
 
 import axios from 'axios';
@@ -47,6 +44,10 @@ async function fetchData() {
       if (books.value.length > 0) {
         author.value = books.value[0].author;
         document.title = author.value;
+      }
+      for (let i = 0; i < books.value.length; i++) {
+        books.value[i].cover = "https://mek.oszk.hu" + books.value[i].cover;
+        books.value[i].book_page = window.location.href.startsWith('http://localhost') ? "/book/" + books.value[i].id : "/mekjatszo/book/" + books.value[i].id;
       }
     }
   } catch (error) {
