@@ -20,7 +20,6 @@
 <script setup lang="ts">
 import axios from 'axios';
 import {
-    BButton,
     BCol,
     BContainer,
     BFormInput,
@@ -72,7 +71,7 @@ function onFiltered(filteredItems: TableItem<BookListItem>[]) {
 }
 
 async function onRowClicked(item: TableItem<BookListItem>) {
-    await navigateTo('/books/' + item.id)
+    await navigateTo('/book/' + item.id)
 }
 
 </script>

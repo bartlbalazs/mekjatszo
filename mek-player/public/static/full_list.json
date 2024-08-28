@@ -136,14 +136,6 @@
     "url": "https://mek.oszk.hu/09800/09885"
   },
   {
-    "id": "05700_05778",
-    "title": "Tájnyelvi hangfelvételekBukovinából Magyarországra -1.",
-    "author": "",
-    "lead": "\"Itt van a pisztoly - rámutatott a derekára -, az utolsó golyó az enyim. - És a nyakán lógott egy nyaklánc feszületvel, és azt mondta, ezt az anyja adta neki, levette, a nyakamba akasztotta - én most meghalok, ezt add anyámnak. Tük megmaradtok. S mondd, hogy itt haltam meg.\"",
-    "cover": "/05700/05778/borito.jpg",
-    "url": "https://mek.oszk.hu/05700/05778"
-  },
-  {
     "id": "03000_03072",
     "title": "Tájnyelvi hangfelvételekMoldva - Csángó panaszok",
     "author": "",
@@ -184,20 +176,20 @@
     "url": "https://mek.oszk.hu/05700/05747"
   },
   {
-    "id": "03800_03833",
-    "title": "Tájnyelvi hangfelvételekMoldva - Magyarfalusi asszonyok",
-    "author": "",
-    "lead": "\"No, elmenen Jézus, s mikor visszasirült, felőtözött szép gunyákba, mind a királyos gunyákba, fényessekbe, menen. Még odamenen a kapuhoz, nez bé, hogy... ő es menen vendégnek. Futnak a kancsó borakval a nyirel, a nyirásza, jaj, ki jő, egy király úr hezzánk a nuntába, fussatok, fúja a muzika, hájtok, énekeljétek…\"",
-    "cover": "/03800/03833/borito.jpg",
-    "url": "https://mek.oszk.hu/03800/03833"
-  },
-  {
     "id": "05700_05748",
     "title": "Tájnyelvi hangfelvételekMoldva - Csángó mesék",
     "author": "",
     "lead": "\"Vót egyszer egy öreg egy bábával. S olyan szegények vótak, hogy nem es vót, mire igyanak a vizet. Olyan kicsike házik vót, olyan kicsike, hogy még mikor ment a disznyó a tőtösön, bélátott az ablakon. Mikor ment az egér a tőtösön, bélátott a kócslikon.\"",
     "cover": "/05700/05748/borito.jpg",
     "url": "https://mek.oszk.hu/05700/05748"
+  },
+  {
+    "id": "03800_03833",
+    "title": "Tájnyelvi hangfelvételekMoldva - Magyarfalusi asszonyok",
+    "author": "",
+    "lead": "\"No, elmenen Jézus, s mikor visszasirült, felőtözött szép gunyákba, mind a királyos gunyákba, fényessekbe, menen. Még odamenen a kapuhoz, nez bé, hogy... ő es menen vendégnek. Futnak a kancsó borakval a nyirel, a nyirásza, jaj, ki jő, egy király úr hezzánk a nuntába, fussatok, fúja a muzika, hájtok, énekeljétek…\"",
+    "cover": "/03800/03833/borito.jpg",
+    "url": "https://mek.oszk.hu/03800/03833"
   },
   {
     "id": "07600_07604",
@@ -214,6 +206,14 @@
     "lead": "\"Régön ilyen tizenkétszeles bőgatyába' jártak az emberek - táncolni is, a bálba is. És ha valamelyik megharagudott a másikra, akko' azt csináta: elvágta a gatyamadzagot... Ha elü kapta föl, akko' hátu ment le. Ha hátu kapta föl, akko' elü ment le... Azt'akko' a többiek nevették.\"",
     "cover": "/03000/03071/borito.jpg",
     "url": "https://mek.oszk.hu/03000/03071"
+  },
+  {
+    "id": "05700_05778",
+    "title": "Tájnyelvi hangfelvételekBukovinából Magyarországra -1.",
+    "author": "",
+    "lead": "\"Itt van a pisztoly - rámutatott a derekára -, az utolsó golyó az enyim. - És a nyakán lógott egy nyaklánc feszületvel, és azt mondta, ezt az anyja adta neki, levette, a nyakamba akasztotta - én most meghalok, ezt add anyámnak. Tük megmaradtok. S mondd, hogy itt haltam meg.\"",
+    "cover": "/05700/05778/borito.jpg",
+    "url": "https://mek.oszk.hu/05700/05778"
   },
   {
     "id": "15600_15612",
@@ -2160,20 +2160,20 @@
     "url": "https://mek.oszk.hu/23600/23604"
   },
   {
-    "id": "12400_12409",
-    "title": "Csempészháború",
-    "author": "Nagy Károly",
-    "lead": "\"Az egész baj ott kezdődött, hogy Kockás kilopta a kocsmáros bal szemét. A kocsmáros eddig is szemtelenül viselkedett, eddigi szemtelenkedése azonban elenyészően csekély volt ahhoz viszonyítva, amit akkor produkált, mikor a szó legteljesebb értelmében szemtelen lett. Kockás azonban nem maradt adós.\"",
-    "cover": "/12400/12409/borito.jpg",
-    "url": "https://mek.oszk.hu/12400/12409"
-  },
-  {
     "id": "12400_12410",
     "title": "Csempészháború",
     "author": "Nagy Károly",
     "lead": "Már közel voltunk az elefántcsont-szállítmányt hozó hajóhoz. Ott horgonyozott a nyílt tengeren, mert nem tartotta tanácsosnak, hogy kincseivel együtt befusson a kikötőbe! Egyszerre revolverlövések hangzottak fel és mivel mi sötétben voltunk, láthattuk, hogy az elülső fedélzeten ádáz harc folyik.\"",
     "cover": "/12400/12410/borito.jpg",
     "url": "https://mek.oszk.hu/12400/12410"
+  },
+  {
+    "id": "12400_12409",
+    "title": "Csempészháború",
+    "author": "Nagy Károly",
+    "lead": "\"Az egész baj ott kezdődött, hogy Kockás kilopta a kocsmáros bal szemét. A kocsmáros eddig is szemtelenül viselkedett, eddigi szemtelenkedése azonban elenyészően csekély volt ahhoz viszonyítva, amit akkor produkált, mikor a szó legteljesebb értelmében szemtelen lett. Kockás azonban nem maradt adós.\"",
+    "cover": "/12400/12409/borito.jpg",
+    "url": "https://mek.oszk.hu/12400/12409"
   },
   {
     "id": "12100_12107",

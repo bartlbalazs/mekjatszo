@@ -3,7 +3,9 @@ import urllib.parse
 
 
 def url_encode(string: str) -> str:
-    return urllib.parse.quote(string).replace('/', '_')
+    res = urllib.parse.quote(string).replace('/', '_')
+    res = res.replace('%', '_')
+    return res
 
 
 def clean_string(string: str) -> str:
