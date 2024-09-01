@@ -1,6 +1,6 @@
 {
   "id": "02200_02289",
-  "title": "Kísértet LublónMVGYOSZ hangoskönyvek",
+  "title": "Kísértet Lublón",
   "author": "Mikszáth Kálmán",
   "lead": "\"Jön a Kaszperek! Ez a rémkiáltás zúdul a hancura közé (vagy az anyjuk, vagy a pesztonka hangja), mire a gyermekeim ijedten rebbennek szét, ki az ágy alá, ki az almáriom mögé. Jaj a Kaszperek, a Kaszperek! A virgonc porontyok egyszerre megszelídülnek; csönd lesz, szinte hallik a szívecskéik dobogása.\"",
   "cover": "/02200/02289/borito.jpg",
@@ -8,23 +8,23 @@
   "audio_files": [
     {
       "url": "2612aa00.mp3",
-      "title": "2612aa00.mp3 - Hangos katalóguscédula"
+      "title": "2612 - Hangos katalóguscédula"
     },
     {
       "url": "2612af01_01.mp3",
-      "title": "2612af01_01.mp3 - 1. rész"
+      "title": "2612 - 1. rész"
     },
     {
       "url": "2612af01_02.mp3",
-      "title": "2612af01_02.mp3 - 2. rész"
+      "title": "2612 - 2. rész"
     },
     {
       "url": "2612af02.mp3",
-      "title": "2612af02.mp3 - 3. rész"
+      "title": "2612 - 3. rész"
     },
     {
       "url": "2612aj01.mp3",
-      "title": "2612aj01.mp3 - Jegyzetek"
+      "title": "2612 - Jegyzetek"
     }
   ],
   "url": "https://mek.oszk.hu/02200/02289"

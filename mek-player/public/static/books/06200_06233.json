@@ -8,31 +8,31 @@
   "audio_files": [
     {
       "url": "00_hamlet_focim.mp3",
-      "title": "00_hamlet_focim.mp3 - Hangos katalóguscédula"
+      "title": "00 - Hangos katalóguscédula"
     },
     {
       "url": "00_hamlet_szemelyek.mp3",
-      "title": "00_hamlet_szemelyek.mp3 - Személyek"
+      "title": "00 - Személyek"
     },
     {
       "url": "01_hamlet_1felv.mp3",
-      "title": "01_hamlet_1felv.mp3 - I. felvonás"
+      "title": "01 - I. felvonás"
     },
     {
       "url": "02_hamlet_2felv.mp3",
-      "title": "02_hamlet_2felv.mp3 - II. felvonás"
+      "title": "02 - II. felvonás"
     },
     {
       "url": "03_hamlet_3felv.mp3",
-      "title": "03_hamlet_3felv.mp3 - III. felvonás"
+      "title": "03 - III. felvonás"
     },
     {
       "url": "04_hamlet_4felv.mp3",
-      "title": "04_hamlet_4felv.mp3 - IV. felvonás"
+      "title": "04 - IV. felvonás"
     },
     {
       "url": "05_hamlet_5felv.mp3",
-      "title": "05_hamlet_5felv.mp3 - V. felvonás"
+      "title": "05 - V. felvonás"
     }
   ],
   "url": "https://mek.oszk.hu/06200/06233"

@@ -1,7 +1,7 @@
 [
   {
     "id": "04700_04771",
-    "title": "A küzdő SámsonMVGYOSZ hangoskönyvek",
+    "title": "A küzdő Sámson",
     "author": "John Milton",
     "lead": "\"Ígérték: Izraelt megmentem a filiszteus igától, s a nagy megmentőt itt leled Gázában, vakon, a malom rabszolgái közt, filiszteus igában láncraverve!\"",
     "cover": "/04700/04771/borito.jpg",
@@ -9,19 +9,19 @@
     "audio_files": [
       {
         "url": "2905aa001.mp3",
-        "title": "2905aa001.mp3 - Hangos katalóguscédula"
+        "title": "2905 - Hangos katalóguscédula"
       },
       {
         "url": "2905ab000.mp3",
-        "title": "2905ab000.mp3 - Előszó"
+        "title": "2905 - Előszó"
       },
       {
         "url": "2905af000.mp3",
-        "title": "2905af000.mp3 - Summázat"
+        "title": "2905 - Summázat"
       },
       {
         "url": "2905af001.mp3",
-        "title": "2905af001.mp3 - A küzdő Sámson"
+        "title": "2905 - A küzdő Sámson"
       }
     ],
     "url": "https://mek.oszk.hu/04700/04771"

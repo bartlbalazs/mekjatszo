@@ -1,6 +1,6 @@
 {
   "id": "03100_03173",
-  "title": "SirályMVGYOSZ hangoskönyvek",
+  "title": "Sirály",
   "author": "Anton Pavlovics Csehov",
   "lead": "\"Én átkoztam, gyűlöltem magát, Nyina, eltéptem a leveleit, fényképeit, de minden pillanatban tudtam, hogy a lelkem örökre magához van láncolva. Nem bírom kivetni a szívemből, Nyina... Hirtelen félbeszakadt az ifjúságom, és úgy rémlik, mintha már kilencven évet éltem volna ezen a földön.\"",
   "cover": "/03100/03173/borito.jpg",
@@ -8,23 +8,23 @@
   "audio_files": [
     {
       "url": "2288aa00.mp3",
-      "title": "2288aa00.mp3 - Hangos katalóguscédula"
+      "title": "2288 - Hangos katalóguscédula"
     },
     {
       "url": "2288af01.mp3",
-      "title": "2288af01.mp3 - Első felvonás"
+      "title": "2288 - Első felvonás"
     },
     {
       "url": "2288af02.mp3",
-      "title": "2288af02.mp3 - Második felvonás"
+      "title": "2288 - Második felvonás"
     },
     {
       "url": "2288af03.mp3",
-      "title": "2288af03.mp3 - Harmadik felvonás"
+      "title": "2288 - Harmadik felvonás"
     },
     {
       "url": "2288af04.mp3",
-      "title": "2288af04.mp3 - Negyedik felvonás"
+      "title": "2288 - Negyedik felvonás"
     }
   ],
   "url": "https://mek.oszk.hu/03100/03173"

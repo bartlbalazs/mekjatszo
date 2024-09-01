@@ -1,6 +1,6 @@
 {
   "id": "03100_03171",
-  "title": "Vadrózsa ágaMVGYOSZ hangoskönyvek",
+  "title": "Vadrózsa ága",
   "author": "Tamási Áron",
   "lead": "\"A következő esztendőben, mely az 1933-as névre hallgatott, az Ábel harmadik kötetét is megírtam. Könyvem alapját és meséjét azokból a benyomásokból és eseményekből hordtam össze, amelyeket Amerikában észleltem vagy éltem át. Sőt, a kelleténél jobban ragaszkodtam a valósághoz, s így megszűkítettem a képzelet útját.\"",
   "cover": "/03100/03171/borito.jpg",
@@ -8,19 +8,19 @@
   "audio_files": [
     {
       "url": "2178aa00.mp3",
-      "title": "2178aa00.mp3 - Hangos katalóguscédula"
+      "title": "2178 - Hangos katalóguscédula"
     },
     {
       "url": "2178af01.mp3",
-      "title": "2178af01.mp3 - 1. fejezet"
+      "title": "2178 - 1. fejezet"
     },
     {
       "url": "2178af02.mp3",
-      "title": "2178af02.mp3 - 2. fejezet"
+      "title": "2178 - 2. fejezet"
     },
     {
       "url": "2178ag00.mp3",
-      "title": "2178ag00.mp3 - Illés Endre: Tamási Áron utolsó hónapjairól"
+      "title": "2178 - Illés Endre: Tamási Áron utolsó hónapjairól"
     }
   ],
   "url": "https://mek.oszk.hu/03100/03171"

@@ -8,47 +8,47 @@
   "audio_files": [
     {
       "url": "00_eloszo.mp3",
-      "title": "00_eloszo.mp3 - Előszó"
+      "title": "00 - Előszó"
     },
     {
       "url": "01_emlekezes.mp3",
-      "title": "01_emlekezes.mp3 - Emlékezés"
+      "title": "01 - Emlékezés"
     },
     {
       "url": "02_a_hosszu_hazassag_titka.mp3",
-      "title": "02_a_hosszu_hazassag_titka.mp3 - A hosszú házasság titka"
+      "title": "02 - A hosszú házasság titka"
     },
     {
       "url": "03_ketten_egyert.mp3",
-      "title": "03_ketten_egyert.mp3 - Ketten egyért"
+      "title": "03 - Ketten egyért"
     },
     {
       "url": "04_a_ket_gabo.mp3",
-      "title": "04_a_ket_gabo.mp3 - A két Gabó"
+      "title": "04 - A két Gabó"
     },
     {
       "url": "05_szerelmi_haromszog.mp3",
-      "title": "05_szerelmi_haromszog.mp3 - Szerelmi háromszög"
+      "title": "05 - Szerelmi háromszög"
     },
     {
       "url": "06_gyerekkorom_emlekezetes_karacsonyai.mp3",
-      "title": "06_gyerekkorom_emlekezetes_karacsonyai.mp3 - Gyerekkorom emlékezetes karácsonyai"
+      "title": "06 - Gyerekkorom emlékezetes karácsonyai"
     },
     {
       "url": "07_felnottkorom_karacsonyi_elmenyei.mp3",
-      "title": "07_felnottkorom_karacsonyi_elmenyei.mp3 - Felnőttkorom karácsonyi élményei"
+      "title": "07 - Felnőttkorom karácsonyi élményei"
     },
     {
       "url": "08_a_puding_probaja.mp3",
-      "title": "08_a_puding_probaja.mp3 - A puding próbája"
+      "title": "08 - A puding próbája"
     },
     {
       "url": "09_husegproba.mp3",
-      "title": "09_husegproba.mp3 - Hűségpróba"
+      "title": "09 - Hűségpróba"
     },
     {
       "url": "10_tulelok.mp3",
-      "title": "10_tulelok.mp3 - Túlélők"
+      "title": "10 - Túlélők"
     }
   ],
   "url": "https://mek.oszk.hu/11900/11997"

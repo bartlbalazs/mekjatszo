@@ -1,6 +1,6 @@
 {
   "id": "03300_03385",
-  "title": "BarbárokMVGYOSZ hangoskönyvek",
+  "title": "Barbárok",
   "author": "Móricz Zsigmond",
   "lead": "\"Ültek szembe egymással, s maguk elé néztek. Nem beszéltek. Nyájajuhász volt mind a három ember, olyan juhász, aki egész esztendőt kinn töltött a nyájánál, soha falunak színét se látta, hacsak lakodalomba be nem mentek vagy vásárra olykor. Kemény pusztai emberek voltak. Körülöttük a nagy ég, semmi más...\"",
   "cover": "/03300/03385/borito.jpg",
@@ -8,47 +8,47 @@
   "audio_files": [
     {
       "url": "0655aa00.mp3",
-      "title": "0655aa00.mp3 - Hangos katalóguscédula"
+      "title": "0655 - Hangos katalóguscédula"
     },
     {
       "url": "0655af01.mp3",
-      "title": "0655af01.mp3 - Barbárok"
+      "title": "0655 - Barbárok"
     },
     {
       "url": "0655af02.mp3",
-      "title": "0655af02.mp3 - A nyáj és pásztora"
+      "title": "0655 - A nyáj és pásztora"
     },
     {
       "url": "0655af03.mp3",
-      "title": "0655af03.mp3 - Komor ló"
+      "title": "0655 - Komor ló"
     },
     {
       "url": "0655af04.mp3",
-      "title": "0655af04.mp3 - A stipedlium"
+      "title": "0655 - A stipedlium"
     },
     {
       "url": "0655af05.mp3",
-      "title": "0655af05.mp3 - Ha a kislány nem álmos"
+      "title": "0655 - Ha a kislány nem álmos"
     },
     {
       "url": "0655af06.mp3",
-      "title": "0655af06.mp3 - Kapitalista a tanyán"
+      "title": "0655 - Kapitalista a tanyán"
     },
     {
       "url": "0655af07.mp3",
-      "title": "0655af07.mp3 - Egyszer jól lakni"
+      "title": "0655 - Egyszer jól lakni"
     },
     {
       "url": "0655af08.mp3",
-      "title": "0655af08.mp3 - A fejedelem pohara"
+      "title": "0655 - A fejedelem pohara"
     },
     {
       "url": "0655af09.mp3",
-      "title": "0655af09.mp3 - Eladó menyecske"
+      "title": "0655 - Eladó menyecske"
     },
     {
       "url": "0655af10.mp3",
-      "title": "0655af10.mp3 - Gyuri levelet kap"
+      "title": "0655 - Gyuri levelet kap"
     }
   ],
   "url": "https://mek.oszk.hu/03300/03385"

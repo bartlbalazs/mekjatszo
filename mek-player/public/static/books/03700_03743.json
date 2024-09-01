@@ -1,6 +1,6 @@
 {
   "id": "03700_03743",
-  "title": "Szent Péter esernyőjeMVGYOSZ hangoskönyvek",
+  "title": "Szent Péter esernyője",
   "author": "Mikszáth Kálmán",
   "lead": "\"Magát az esernyőt a miszticizmus csodálatos fénye ragyogta be. A titokzatosság köde voltaképpen csak azt a körülményt takarta, hogy miképpen került a kis Veronka kosara fölé. De ez elég volt. A babona keresi a ködöt, a köd vonzza a babonát. Ezek ketten osztoztak meg a prédán, a rozoga esernyőn.\"",
   "cover": "/03700/03743/borito.jpg",
@@ -8,31 +8,31 @@
   "audio_files": [
     {
       "url": "1071aa00.mp3",
-      "title": "1071aa00.mp3 - Hangos katalóguscédula"
+      "title": "1071 - Hangos katalóguscédula"
     },
     {
       "url": "1071af01.mp3",
-      "title": "1071af01.mp3 - Első rész"
+      "title": "1071 - Első rész"
     },
     {
       "url": "1071af02.mp3",
-      "title": "1071af02.mp3 - Második rész"
+      "title": "1071 - Második rész"
     },
     {
       "url": "1071af03.mp3",
-      "title": "1071af03.mp3 - Harmadik rész"
+      "title": "1071 - Harmadik rész"
     },
     {
       "url": "1071af04.mp3",
-      "title": "1071af04.mp3 - Negyedik rész"
+      "title": "1071 - Negyedik rész"
     },
     {
       "url": "1071af05.mp3",
-      "title": "1071af05.mp3 - Ötödik rész"
+      "title": "1071 - Ötödik rész"
     },
     {
       "url": "1071av01.mp3",
-      "title": "1071av01.mp3 - Néhány sor Mikszáth Kálmánról"
+      "title": "1071 - Néhány sor Mikszáth Kálmánról"
     }
   ],
   "url": "https://mek.oszk.hu/03700/03743"

@@ -1,7 +1,7 @@
 [
   {
     "id": "03900_03979",
-    "title": "Az aranyszamárMVGYOSZ hangoskönyvek",
+    "title": "Az aranyszamár",
     "author": "Lucius Apuleius",
     "lead": "\"Ebben a szomorú elváltozásomban legföljebb az vígasztalhatott volna, hogy szerelmi fegyverem is hatalmassá növekedett, de ó jaj, nem tudtam már ölelni Fotist! Amint tehetetlenségemben végignéztem apróra testemet, láttam, hogy nem madár vagyok, hanem szamár.\"",
     "cover": "/03900/03979/borito.jpg",
@@ -9,55 +9,55 @@
     "audio_files": [
       {
         "url": "0974aa00.mp3",
-        "title": "0974aa00.mp3 - Hangos katalóguscédula"
+        "title": "0974 - Hangos katalóguscédula"
       },
       {
         "url": "0974ab01.mp3",
-        "title": "0974ab01.mp3 - Bevezetés"
+        "title": "0974 - Bevezetés"
       },
       {
         "url": "0974af01.mp3",
-        "title": "0974af01.mp3 - Első könyv"
+        "title": "0974 - Első könyv"
       },
       {
         "url": "0974af02.mp3",
-        "title": "0974af02.mp3 - Második könyv"
+        "title": "0974 - Második könyv"
       },
       {
         "url": "0974af03.mp3",
-        "title": "0974af03.mp3 - Harmadik könyv"
+        "title": "0974 - Harmadik könyv"
       },
       {
         "url": "0974af04.mp3",
-        "title": "0974af04.mp3 - Negyedik könyv"
+        "title": "0974 - Negyedik könyv"
       },
       {
         "url": "0974af05.mp3",
-        "title": "0974af05.mp3 - Ötödik könyv"
+        "title": "0974 - Ötödik könyv"
       },
       {
         "url": "0974af06.mp3",
-        "title": "0974af06.mp3 - Hatodik könyv"
+        "title": "0974 - Hatodik könyv"
       },
       {
         "url": "0974af07.mp3",
-        "title": "0974af07.mp3 - Hetedik könyv"
+        "title": "0974 - Hetedik könyv"
       },
       {
         "url": "0974af08.mp3",
-        "title": "0974af08.mp3 - Nyolcadik könyv"
+        "title": "0974 - Nyolcadik könyv"
       },
       {
         "url": "0974af09.mp3",
-        "title": "0974af09.mp3 - Kilencedik könyv"
+        "title": "0974 - Kilencedik könyv"
       },
       {
         "url": "0974af10.mp3",
-        "title": "0974af10.mp3 - Tizedik könyv"
+        "title": "0974 - Tizedik könyv"
       },
       {
         "url": "0974af11.mp3",
-        "title": "0974af11.mp3 - Tizenegyedik könyv"
+        "title": "0974 - Tizenegyedik könyv"
       }
     ],
     "url": "https://mek.oszk.hu/03900/03979"

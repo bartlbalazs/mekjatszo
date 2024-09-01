@@ -8,35 +8,35 @@
   "audio_files": [
     {
       "url": "00_romeo_focim.mp3",
-      "title": "00_romeo_focim.mp3 - Hangos katalóguscédula"
+      "title": "00 - Hangos katalóguscédula"
     },
     {
       "url": "01_romeo_szemelyek.mp3",
-      "title": "01_romeo_szemelyek.mp3 - Személyek"
+      "title": "01 - Személyek"
     },
     {
       "url": "02_romeo_elohang.mp3",
-      "title": "02_romeo_elohang.mp3 - Előhang"
+      "title": "02 - Előhang"
     },
     {
       "url": "03_romeo_1felv.mp3",
-      "title": "03_romeo_1felv.mp3 - Első felvonás"
+      "title": "03 - Első felvonás"
     },
     {
       "url": "04_romeo_2felv.mp3",
-      "title": "04_romeo_2felv.mp3 - Második felvonás"
+      "title": "04 - Második felvonás"
     },
     {
       "url": "05_romeo_3felv.mp3",
-      "title": "05_romeo_3felv.mp3 - Harmadik felvonás"
+      "title": "05 - Harmadik felvonás"
     },
     {
       "url": "06_romeo_4felv.mp3",
-      "title": "06_romeo_4felv.mp3 - Negyedik felvonás"
+      "title": "06 - Negyedik felvonás"
     },
     {
       "url": "07_romeo_5felv.mp3",
-      "title": "07_romeo_5felv.mp3 - Ötödik felvonás"
+      "title": "07 - Ötödik felvonás"
     }
   ],
   "url": "https://mek.oszk.hu/07000/07036"

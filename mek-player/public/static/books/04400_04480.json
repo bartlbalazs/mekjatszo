@@ -1,6 +1,6 @@
 {
   "id": "04400_04480",
-  "title": "Az orrMVGYOSZ hangoskönyvek",
+  "title": "Az orr",
   "author": "Nyikolaj Vasziljevics Gogol",
   "lead": "\"Micsoda képtelenségek történnek ezen a világon! Néha egyáltalán nem lehet felfedezni a valószínűségnek még az árnyékát sem: lám csak, ugyanaz az orr, amely államtanácsosi rangban kocsikázott összevissza, egyszer csak mintha semmi sem történt volna, megint a helyén találta magát, vagyis Kovaljov őrnagy két orcája között.\"",
   "cover": "/04400/04480/borito.jpg",
@@ -8,19 +8,19 @@
   "audio_files": [
     {
       "url": "2295aa00.mp3",
-      "title": "2295aa00.mp3 - Hangos katalóguscédula"
+      "title": "2295 - Hangos katalóguscédula"
     },
     {
       "url": "2295af01.mp3",
-      "title": "2295af01.mp3 - 1. rész"
+      "title": "2295 - 1. rész"
     },
     {
       "url": "2295af02.mp3",
-      "title": "2295af02.mp3 - 2. rész"
+      "title": "2295 - 2. rész"
     },
     {
       "url": "2295af03.mp3",
-      "title": "2295af03.mp3 - 3. rész"
+      "title": "2295 - 3. rész"
     }
   ],
   "url": "https://mek.oszk.hu/04400/04480"

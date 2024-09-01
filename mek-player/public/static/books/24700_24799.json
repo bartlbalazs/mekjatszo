@@ -8,19 +8,19 @@
   "audio_files": [
     {
       "url": "01_Darvas_Laszlo_Rimeskonyv_I_Allatok.mp3",
-      "title": "01_Darvas_Laszlo_Rimeskonyv_I_Allatok.mp3 - Állatok"
+      "title": "01 - Állatok"
     },
     {
       "url": "02_Darvas_Laszlo_Rimeskonyv_II_Haboru_es_beka.mp3",
-      "title": "02_Darvas_Laszlo_Rimeskonyv_II_Haboru_es_beka.mp3 - Háború és béka"
+      "title": "02 - Háború és béka"
     },
     {
       "url": "03_Darvas_Laszlo_Rimeskonyv_III_Felmajmok.mp3",
-      "title": "03_Darvas_Laszlo_Rimeskonyv_III_Felmajmok.mp3 - Félmajmok"
+      "title": "03 - Félmajmok"
     },
     {
       "url": "04_Darvas_Laszlo_Rimeskonyv_IV_Feltamadas.mp3",
-      "title": "04_Darvas_Laszlo_Rimeskonyv_IV_Feltamadas.mp3 - Feltámadás"
+      "title": "04 - Feltámadás"
     }
   ],
   "url": "https://mek.oszk.hu/24700/24799"
