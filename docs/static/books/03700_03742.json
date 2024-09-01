@@ -1,0 +1,27 @@
+{
+  "id": "03700_03742",
+  "title": "A köpenyeg ; Egy kép a régi jó időből",
+  "author": "Nyikolaj Vasziljevics Gogol",
+  "lead": "\"Most már belátta Akakijevics Akakij, hogy új köpenyeg nélkül nem járja. Le is esett az álla bezzeg, mert hát miből teremtsen ő új köpenyeget? Honann vegyen rá pénzt? Némileg ugyan számíthatott volna a közelgő ünnepi ajándékra, de a pénznek már jó előre annyi szöge-lyuka volt, hogy azt is szűken lehetne bedugdosni vele.\"",
+  "cover": "/03700/03742/borito.jpg",
+  "description": null,
+  "audio_files": [
+    {
+      "url": "0946aa00.mp3",
+      "title": "0 - Hangos katalóguscédula"
+    },
+    {
+      "url": "0946ab01.mp3",
+      "title": "1 - Előszó"
+    },
+    {
+      "url": "0946af01.mp3",
+      "title": "2 - A köpenyeg"
+    },
+    {
+      "url": "0946af02.mp3",
+      "title": "3 - Egy kép a régi jó időből"
+    }
+  ],
+  "url": "https://mek.oszk.hu/03700/03742"
+}

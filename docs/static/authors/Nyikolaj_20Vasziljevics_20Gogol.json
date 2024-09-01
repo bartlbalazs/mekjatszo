@@ -1,0 +1,66 @@
+[
+  {
+    "id": "03700_03742",
+    "title": "A köpenyeg ; Egy kép a régi jó időből",
+    "author": "Nyikolaj Vasziljevics Gogol",
+    "lead": "\"Most már belátta Akakijevics Akakij, hogy új köpenyeg nélkül nem járja. Le is esett az álla bezzeg, mert hát miből teremtsen ő új köpenyeget? Honann vegyen rá pénzt? Némileg ugyan számíthatott volna a közelgő ünnepi ajándékra, de a pénznek már jó előre annyi szöge-lyuka volt, hogy azt is szűken lehetne bedugdosni vele.\"",
+    "cover": "/03700/03742/borito.jpg",
+    "description": null,
+    "audio_files": [
+      {
+        "url": "0946aa00.mp3",
+        "title": "0 - Hangos katalóguscédula"
+      },
+      {
+        "url": "0946ab01.mp3",
+        "title": "1 - Előszó"
+      },
+      {
+        "url": "0946af01.mp3",
+        "title": "2 - A köpenyeg"
+      },
+      {
+        "url": "0946af02.mp3",
+        "title": "3 - Egy kép a régi jó időből"
+      }
+    ],
+    "url": "https://mek.oszk.hu/03700/03742"
+  },
+  {
+    "id": "25100_25185",
+    "title": "A köpönyeg",
+    "author": "Nyikolaj Vasziljevics Gogol",
+    "lead": "\"Ekkor Akakij Akakijevics belátta, hogy új köpönyeg elől nincs menekvés, és teljesen nekikeseredett. Hogy legyen mégis, miből, milyen pénzen készíttesse? Persze, bizonyos mértékben hagyatkozhatna a jutalompénzre, ami ünnepkor jár majd, de ennek a pénznek már jó előre megvolt a helye.\"",
+    "cover": null,
+    "description": null,
+    "audio_files": [],
+    "url": "https://mek.oszk.hu/25100/25185"
+  },
+  {
+    "id": "04400_04480",
+    "title": "Az orr",
+    "author": "Nyikolaj Vasziljevics Gogol",
+    "lead": "\"Micsoda képtelenségek történnek ezen a világon! Néha egyáltalán nem lehet felfedezni a valószínűségnek még az árnyékát sem: lám csak, ugyanaz az orr, amely államtanácsosi rangban kocsikázott összevissza, egyszer csak mintha semmi sem történt volna, megint a helyén találta magát, vagyis Kovaljov őrnagy két orcája között.\"",
+    "cover": "/04400/04480/borito.jpg",
+    "description": "Egy kistisztviselőnek - Kovaljovnak - leválik a fejéről az orra és önálló életet kezd, mindent elér, ami gazdájának nem sikerül. Az elbeszélés legsajátosabb megkülönböztető jellegzetessége az a kapcsolatrendszer, mely e képtelen esemény, a szereplők és az olvasó közt jön létre, s ennek a legelső hatása: az olvasó meghökkentése. De hogy mi a funkciója a mű egészében, azt csak akkor érthetjük meg, ha megvizsgáljuk az elbeszélésnek még legalább két fontos elemét, a szerkezeti felépítést és a narrátor szerepét. Felépítését tekintve Az orr a novella klasszikus szerkezetét követi. Eszerint különös ellentmondás figyelhető meg: a szerkesztés arányosságot, gyugalmat sugalló jellege furcsa ötvözetet alkot a mű-olvasó kapcsolat meghökkentő, felzaklató voltával. A narrátor határozott szerepe az a tény, hogy az eseményeket, a történet egyes mozzanatait valószínűnek, furcsának vagy képtelennek nyilvánítja, mindvégig meghatározza az elbeszélés hangnemét. Az elbeszélésben bemutatott világ tipikus alakja Kovaljov ülnök. A narrátori jellemzés megszokott s hagyományos jellegű, s önmagában véve épp ezért nem elég hatásos. Valódi dimenzióját a képtelenségek képtelensége érzékelteti: Kovaljov orra változott át azzá, ami maga az ülnök szeretett volna lenni, valódi álamtanácsossá. Az orr, Kovaljov lényének alighanem legértékesebb része alakul át a kovaljovi értékrendszer csúcsán elhelyezkedő hivatalnokká. A novella társadalombíráló jellege nyilvánvaló, a valósághű közegbe benyomuló abszurdum azonban annál többet is mond. Egyfelől az ábrázol társadalom ürességére, belső viszonylatainak abszurditására, céljainak értelmetlenségére utal. De Kovaljov talajvesztése még ennél is általánosabb érvényű; az ember és a világ kapcsolatának képe, egy olyanfajta meggyőződés hangoztatása, hogyha a kisember elveszti illúzióit - s illuzió itt = orr -, akkor képtelen tovább élni. Forrás: Legeza Ilona könyvismertetői https://legeza.oszk.hu",
+    "audio_files": [
+      {
+        "url": "2295aa00.mp3",
+        "title": "0 - Hangos katalóguscédula"
+      },
+      {
+        "url": "2295af01.mp3",
+        "title": "1. rész"
+      },
+      {
+        "url": "2295af02.mp3",
+        "title": "2. rész"
+      },
+      {
+        "url": "2295af03.mp3",
+        "title": "3. rész"
+      }
+    ],
+    "url": "https://mek.oszk.hu/04400/04480"
+  }
+]

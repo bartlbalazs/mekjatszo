@@ -1,0 +1,35 @@
+{
+  "id": "06400_06439",
+  "title": "Öt magyar népmese hangillusztrációval",
+  "author": "",
+  "lead": "\"Hol volt, hol nem volt, hetedhét országon is túl, de az Óperenciás-tengeren még innen, volt egyszer egy nyomorult szegény özvegyasszony, akinek csak az a szerencséje volt, hogy csupán egyetlen gyermeke született, egy fia; mert ha sok gyermeke lett volna, talán étlen-szomjan kellett volna a nagy szegénység miatt elpusztulniok.\"",
+  "cover": "/06400/06439/borito.jpg",
+  "description": null,
+  "audio_files": [
+    {
+      "url": "nepmesek-01.mp3",
+      "title": "0 - A kis gömböc"
+    },
+    {
+      "url": "nepmesek-02.mp3",
+      "title": "1 - A huszár és a szolgáló"
+    },
+    {
+      "url": "nepmesek-03.mp3",
+      "title": "2 - A háromágú tölgyfa tündére"
+    },
+    {
+      "url": "nepmesek-04.mp3",
+      "title": "3 - A halkisasszony"
+    },
+    {
+      "url": "nepmesek-05.mp3",
+      "title": "4 - A muzsikáló ezüstkecske"
+    },
+    {
+      "url": "nepmesek-06.mp3",
+      "title": "5 - Impresszum"
+    }
+  ],
+  "url": "https://mek.oszk.hu/06400/06439"
+}

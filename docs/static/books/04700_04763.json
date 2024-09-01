@@ -1,0 +1,607 @@
+{
+  "id": "04700_04763",
+  "title": "A kamera mögül",
+  "author": "Németh Árpád",
+  "lead": "\"Ha az Újvidéki Televízióról van szó, mindig a hetvenes évek elejét emlegetik. Mintha korábban nem is létezett volna magyar nyelvű televíziózás Vajdaságban. Most, 1999 végén, amikor belevágtam e könyv megírásába, már csak néhányan maradtuk azok közül, akik 1968-ban elkezdték a műsorok készítését.\"",
+  "cover": "/04700/04763/borito.jpg",
+  "description": "Németh Árpád, operatőr-rendező 1945-ben Zomborban született. Zágrábban fejezte be a Filmművészeti Akadémiát. 1968-tól az RTB újvidéki magyar szerkesztőségben dolgozott. Az Újvidéki Televízió megalakulása után munkásságát a kulturális-művészeti és a dokumentumműsorok szerkesztőségében folytatta. Több ismeretterjesztő, irodalmi és dokumentumfilmet készített. Több mint tíz tévédráma és egy játékfilm forgatásában működött közre. Két nemzetközi kooprodukciós dokumentumfilmet is rendezett. Az Erőltetett menet című, 90 perces dokumentumfilm rendezéséért a Budapesti MTV Nívó-díjjal jutalmazta meg. 1999 végén nyugdíjba vonult. Az Újvidéki Vakok és Gyengénlátók Szervezetének tagja 2001-ben lett. E szervezet keretén belül a Visszhang c. magyar nyelvű hangos újságot szerkeszti. 2005 decemberében saját szövege alapján színházi előadást rendezett, amelyben a színészek mind látássérültek voltak. Ez a könyv olyan formában készült, hogy a vakok számára is elérhető legyen.",
+  "audio_files": [
+    {
+      "url": "001.mp3",
+      "title": "0 - Előszó"
+    },
+    {
+      "url": "002.mp3",
+      "title": "1 - A kezdet"
+    },
+    {
+      "url": "003.mp3",
+      "title": "2 - Az interjú"
+    },
+    {
+      "url": "004.mp3",
+      "title": "3 - Az első nap"
+    },
+    {
+      "url": "005.mp3",
+      "title": "4 - Az első hónap"
+    },
+    {
+      "url": "006.mp3",
+      "title": "5 - Az első napidíjam"
+    },
+    {
+      "url": "007.mp3",
+      "title": "6 - Az első munkám"
+    },
+    {
+      "url": "008.mp3",
+      "title": "7 - Megérkezett az első fizetésem"
+    },
+    {
+      "url": "009.mp3",
+      "title": "8 - A lábtörés"
+    },
+    {
+      "url": "010.mp3",
+      "title": "9 - A kupuszinai"
+    },
+    {
+      "url": "011.mp3",
+      "title": "10 - A zentai Happening"
+    },
+    {
+      "url": "012.mp3",
+      "title": "11 - Találkozás Winussal"
+    },
+    {
+      "url": "013.mp3",
+      "title": "12 - Másnap"
+    },
+    {
+      "url": "014.mp3",
+      "title": "13 - Lakodalmak"
+    },
+    {
+      "url": "015.mp3",
+      "title": "14 - Pénz, pénz, pénz"
+    },
+    {
+      "url": "016.mp3",
+      "title": "15 - Magyarokat magyaroknak"
+    },
+    {
+      "url": "017.mp3",
+      "title": "16 - Staféta"
+    },
+    {
+      "url": "018.mp3",
+      "title": "17 - Lendva"
+    },
+    {
+      "url": "019.mp3",
+      "title": "18 - Man The Fair"
+    },
+    {
+      "url": "020.mp3",
+      "title": "19 - Weena"
+    },
+    {
+      "url": "021.mp3",
+      "title": "20 - Mi, a torreádorok"
+    },
+    {
+      "url": "022.mp3",
+      "title": "21 - Baranya"
+    },
+    {
+      "url": "023.mp3",
+      "title": "22 - Csirkepaprikás Germayer, módra"
+    },
+    {
+      "url": "024.mp3",
+      "title": "23 - Hósivatag"
+    },
+    {
+      "url": "025.mp3",
+      "title": "24 - Tánc"
+    },
+    {
+      "url": "026.mp3",
+      "title": "25 - Csantavéri téli esték"
+    },
+    {
+      "url": "027.mp3",
+      "title": "26 - Újév"
+    },
+    {
+      "url": "028.mp3",
+      "title": "27 - Palacsinta aukció"
+    },
+    {
+      "url": "029.mp3",
+      "title": "28 - Šušara"
+    },
+    {
+      "url": "030.mp3",
+      "title": "29 - Világutazó"
+    },
+    {
+      "url": "031.mp3",
+      "title": "30 - Tizennyolc sárga rózsa"
+    },
+    {
+      "url": "032.mp3",
+      "title": "31 - Cirill betűs keresztek"
+    },
+    {
+      "url": "033.mp3",
+      "title": "32 - Alkohol"
+    },
+    {
+      "url": "034.mp3",
+      "title": "33 - Vénlány"
+    },
+    {
+      "url": "035.mp3",
+      "title": "34 - Pontosan"
+    },
+    {
+      "url": "036.mp3",
+      "title": "35 - A Kék Csillag"
+    },
+    {
+      "url": "037.mp3",
+      "title": "36 - Avanti"
+    },
+    {
+      "url": "038.mp3",
+      "title": "37 - Esküvő"
+    },
+    {
+      "url": "039.mp3",
+      "title": "38 - Az öreg halász"
+    },
+    {
+      "url": "040.mp3",
+      "title": "39 - A \"Hoch kultúra\""
+    },
+    {
+      "url": "041.mp3",
+      "title": "40 - Dálya"
+    },
+    {
+      "url": "042.mp3",
+      "title": "41 - Statisztikusok"
+    },
+    {
+      "url": "043.mp3",
+      "title": "42 - A jégtörők"
+    },
+    {
+      "url": "044.mp3",
+      "title": "43 - Különös kameraállások"
+    },
+    {
+      "url": "045.mp3",
+      "title": "44 - Az új kamera"
+    },
+    {
+      "url": "046.mp3",
+      "title": "45 - Mosógép"
+    },
+    {
+      "url": "047.mp3",
+      "title": "46 - München"
+    },
+    {
+      "url": "048.mp3",
+      "title": "47 - Beléptem a KP-ba"
+    },
+    {
+      "url": "049.mp3",
+      "title": "48 - Tito elvtárs, először"
+    },
+    {
+      "url": "050.mp3",
+      "title": "49 - Zita!"
+    },
+    {
+      "url": "051.mp3",
+      "title": "50 - Az Újvidéki Televízió"
+    },
+    {
+      "url": "052.mp3",
+      "title": "51 - Duško"
+    },
+    {
+      "url": "053.mp3",
+      "title": "52 - Terepszemle"
+    },
+    {
+      "url": "054.mp3",
+      "title": "53 - Beiratkozás"
+    },
+    {
+      "url": "055.mp3",
+      "title": "54 - Gál Laci bácsi"
+    },
+    {
+      "url": "056.mp3",
+      "title": "55 - A Horgosi csárda..."
+    },
+    {
+      "url": "057.mp3",
+      "title": "56 - Tüskés pogácsa"
+    },
+    {
+      "url": "058.mp3",
+      "title": "57 - Ösztöndíjak"
+    },
+    {
+      "url": "059.mp3",
+      "title": "58 - Tömegsír"
+    },
+    {
+      "url": "060.mp3",
+      "title": "59 - Teknősbékaleves"
+    },
+    {
+      "url": "061.mp3",
+      "title": "60 - A sorsdöntő határozat"
+    },
+    {
+      "url": "062.mp3",
+      "title": "61 - Európai körút"
+    },
+    {
+      "url": "063.mp3",
+      "title": "62 - Első színes film"
+    },
+    {
+      "url": "064.mp3",
+      "title": "63 - Az Újvidéki Televízió munkatársai lettünk"
+    },
+    {
+      "url": "065.mp3",
+      "title": "64 - Dunđerski kastély"
+    },
+    {
+      "url": "066.mp3",
+      "title": "65 - Megszületett Attila"
+    },
+    {
+      "url": "067.mp3",
+      "title": "66 - Önbírálat"
+    },
+    {
+      "url": "068.mp3",
+      "title": "67 - Megalakult az első munkástanács"
+    },
+    {
+      "url": "069.mp3",
+      "title": "68 - A nagy \"művészek\""
+    },
+    {
+      "url": "070.mp3",
+      "title": "69 - Szarajevói merénylet"
+    },
+    {
+      "url": "071.mp3",
+      "title": "70 - Alapkőletétel"
+    },
+    {
+      "url": "072.mp3",
+      "title": "71 - Lakások, lakások"
+    },
+    {
+      "url": "073.mp3",
+      "title": "72 - Szignálok"
+    },
+    {
+      "url": "074.mp3",
+      "title": "73 - Megérkezett a közvetítő kocsi"
+    },
+    {
+      "url": "075.mp3",
+      "title": "74 - Virágéknál"
+    },
+    {
+      "url": "076.mp3",
+      "title": "75 - Európa - bajnokság"
+    },
+    {
+      "url": "077.mp3",
+      "title": "76 - Kongresszusok"
+    },
+    {
+      "url": "078.mp3",
+      "title": "77 - Rózsafesztivál"
+    },
+    {
+      "url": "079.mp3",
+      "title": "78 - A börtön"
+    },
+    {
+      "url": "080.mp3",
+      "title": "79 - Az új lakás"
+    },
+    {
+      "url": "081.mp3",
+      "title": "80 - Tenyéren a szív"
+    },
+    {
+      "url": "082.mp3",
+      "title": "81 - A palánkai híd avatása"
+    },
+    {
+      "url": "083.mp3",
+      "title": "82 - Ejtőernyősök"
+    },
+    {
+      "url": "084.mp3",
+      "title": "83 - Lifka"
+    },
+    {
+      "url": "085.mp3",
+      "title": "84 - Gál Laci bácsi - másodszor"
+    },
+    {
+      "url": "086.mp3",
+      "title": "85 - Közlekedési műsorok"
+    },
+    {
+      "url": "087.mp3",
+      "title": "86 - Hamburg"
+    },
+    {
+      "url": "088.mp3",
+      "title": "87 - Indul az újvidéki szerb Híradó"
+    },
+    {
+      "url": "089.mp3",
+      "title": "88 - Diploma"
+    },
+    {
+      "url": "090.mp3",
+      "title": "89 - Ilke"
+    },
+    {
+      "url": "091.mp3",
+      "title": "90 - A tévé nagyüzem lett"
+    },
+    {
+      "url": "092.mp3",
+      "title": "91 - A kamenicai kórházban"
+    },
+    {
+      "url": "093.mp3",
+      "title": "92 - Szürke hályog"
+    },
+    {
+      "url": "094.mp3",
+      "title": "93 - Karađorđevo"
+    },
+    {
+      "url": "095.mp3",
+      "title": "94 - Cseh Károly, vagyis a Fekete glóbusz"
+    },
+    {
+      "url": "096.mp3",
+      "title": "95 - Operáció"
+    },
+    {
+      "url": "097.mp3",
+      "title": "96 - Delibláti homokpuszta"
+    },
+    {
+      "url": "098.mp3",
+      "title": "97 - Terján"
+    },
+    {
+      "url": "099.mp3",
+      "title": "98 - A Messzike"
+    },
+    {
+      "url": "100.mp3",
+      "title": "99 - A vajdasági gyógyfürdők és a líkai szomszédaim"
+    },
+    {
+      "url": "101.mp3",
+      "title": "100 - A Cannes-i fesztivál"
+    },
+    {
+      "url": "102.mp3",
+      "title": "101 - A kopogtatás"
+    },
+    {
+      "url": "103.mp3",
+      "title": "102 - Szeli bácsi"
+    },
+    {
+      "url": "104.mp3",
+      "title": "103 - Buda Brakus"
+    },
+    {
+      "url": "105.mp3",
+      "title": "104 - Vajdasági tükör"
+    },
+    {
+      "url": "106.mp3",
+      "title": "105 - Napló"
+    },
+    {
+      "url": "107.mp3",
+      "title": "106 - Új könyvek. Az emberélet fordulói - Gombosi népszokások"
+    },
+    {
+      "url": "108.mp3",
+      "title": "107 - Az első nagy szerencsétlenség"
+    },
+    {
+      "url": "109.mp3",
+      "title": "108 - Kinek mit jelent a Vajdaság?"
+    },
+    {
+      "url": "110.mp3",
+      "title": "109 - Stockholm"
+    },
+    {
+      "url": "111.mp3",
+      "title": "110 - Tér, idő és lét"
+    },
+    {
+      "url": "112.mp3",
+      "title": "111 - Hollywoodi szindróma"
+    },
+    {
+      "url": "113.mp3",
+      "title": "112 - Deák Ferenc"
+    },
+    {
+      "url": "114.mp3",
+      "title": "113 - Bogdánfi Sándor"
+    },
+    {
+      "url": "115.mp3",
+      "title": "114 - Veno Taufer"
+    },
+    {
+      "url": "116.mp3",
+      "title": "115 - Holdbéli csónakos"
+    },
+    {
+      "url": "117.mp3",
+      "title": "116 - A Grimasz"
+    },
+    {
+      "url": "118.mp3",
+      "title": "117 - A selyem. Vera és Erzsike"
+    },
+    {
+      "url": "119.mp3",
+      "title": "118 - A tanárnők tanárnője Dr. Penavin Olga"
+    },
+    {
+      "url": "120.mp3",
+      "title": "119 - Jó éjszakát, gyerekek!"
+    },
+    {
+      "url": "121.mp3",
+      "title": "120 - Szerelmi költészet"
+    },
+    {
+      "url": "122.mp3",
+      "title": "121 - Tanácsos lettem"
+    },
+    {
+      "url": "123.mp3",
+      "title": "122 - Költők és tájak"
+    },
+    {
+      "url": "124.mp3",
+      "title": "123 - Madarak folyója - Fehér Ferenc"
+    },
+    {
+      "url": "125.mp3",
+      "title": "124 - Bumeráng"
+    },
+    {
+      "url": "126.mp3",
+      "title": "125 - Költők a Tiszáról"
+    },
+    {
+      "url": "127.mp3",
+      "title": "126 - Bognár Antal-portré. Az esélyek írója"
+    },
+    {
+      "url": "128.mp3",
+      "title": "127 - Herceg János"
+    },
+    {
+      "url": "129.mp3",
+      "title": "128 - A Késdobáló"
+    },
+    {
+      "url": "130.mp3",
+      "title": "129 - Leánykút"
+    },
+    {
+      "url": "131.mp3",
+      "title": "130 - Ljiljana Petrović-show"
+    },
+    {
+      "url": "132.mp3",
+      "title": "131 - Édes Anna"
+    },
+    {
+      "url": "133.mp3",
+      "title": "132 - Radnóti Miklós: Erőltetett menet I."
+    },
+    {
+      "url": "134.mp3",
+      "title": "133 - Radnóti Miklós: Erőltetett menet II."
+    },
+    {
+      "url": "135.mp3",
+      "title": "134 - Szemidegsorvadás"
+    },
+    {
+      "url": "136.mp3",
+      "title": "135 - Trieszt"
+    },
+    {
+      "url": "137.mp3",
+      "title": "136 - Bouvier"
+    },
+    {
+      "url": "138.mp3",
+      "title": "137 - Az igazgatók és a TV szervezete"
+    },
+    {
+      "url": "139.mp3",
+      "title": "138 - Majtényi Mihály"
+    },
+    {
+      "url": "140.mp3",
+      "title": "139 - Köln - fotókiállítás"
+    },
+    {
+      "url": "141.mp3",
+      "title": "140 - Újra Koszovóban"
+    },
+    {
+      "url": "142.mp3",
+      "title": "141 - Joghurtforadalom"
+    },
+    {
+      "url": "143.mp3",
+      "title": "142 - Szervátültetés"
+    },
+    {
+      "url": "144.mp3",
+      "title": "143 - Szabadka 600 éves"
+    },
+    {
+      "url": "145.mp3",
+      "title": "144 - A tudományos műsorok sorsa"
+    },
+    {
+      "url": "146.mp3",
+      "title": "145 - A Csend világa"
+    },
+    {
+      "url": "147.mp3",
+      "title": "146 - A Maslać család"
+    },
+    {
+      "url": "148.mp3",
+      "title": "147 - Koppenhága 1997"
+    },
+    {
+      "url": "149.mp3",
+      "title": "1999. március 24"
+    }
+  ],
+  "url": "https://mek.oszk.hu/04700/04763"
+}

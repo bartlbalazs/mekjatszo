@@ -1,0 +1,27 @@
+{
+  "id": "22200_22247",
+  "title": "Radnóti Miklós összes versei és versfordításai",
+  "author": "Radnóti Miklós",
+  "lead": "\"Jaj szőke gyerekkor, de messzire szálltál! ó, hóhaju vénség, téged sem érlek el! a költő bokáig csúszós vérben áll már s minden énekében utolsót énekel.\"",
+  "cover": "/22200/22247/borito.jpg",
+  "description": null,
+  "audio_files": [
+    {
+      "url": "Radnoti_Miklos_versei_01.mp3",
+      "title": "01. rész"
+    },
+    {
+      "url": "Radnoti_Miklos_versei_02.mp3",
+      "title": "02. rész"
+    },
+    {
+      "url": "Radnoti_Miklos_versei_03.mp3",
+      "title": "03. rész"
+    },
+    {
+      "url": "Radnoti_Miklos_versei_04.mp3",
+      "title": "04. rész"
+    }
+  ],
+  "url": "https://mek.oszk.hu/22200/22247"
+}

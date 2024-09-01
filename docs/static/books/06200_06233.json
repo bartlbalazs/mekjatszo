@@ -1,0 +1,39 @@
+{
+  "id": "06200_06233",
+  "title": "Hamlet",
+  "author": "William Shakespeare",
+  "lead": "\"Hadd lám. Haj, szegény Yorick! Ismertem, Horatio; végtelen tréfás, szikrázó elmésségű fiú volt: engem a hátán hurcolt ezerszer: és most hogy irtózik tőle a képzeletem! A gyomrom is émelyedik rá. Itt függött az ajk, melyet én összecsókoltam, azt se tudom, hányszor. Hová lettek gúnyjaid, bakugrásid, dalaid?\"",
+  "cover": "/06200/06233/borito.jpg",
+  "description": null,
+  "audio_files": [
+    {
+      "url": "00_hamlet_focim.mp3",
+      "title": "00 - Hangos katalóguscédula"
+    },
+    {
+      "url": "00_hamlet_szemelyek.mp3",
+      "title": "00 - Személyek"
+    },
+    {
+      "url": "01_hamlet_1felv.mp3",
+      "title": "01 - I. felvonás"
+    },
+    {
+      "url": "02_hamlet_2felv.mp3",
+      "title": "02 - II. felvonás"
+    },
+    {
+      "url": "03_hamlet_3felv.mp3",
+      "title": "03 - III. felvonás"
+    },
+    {
+      "url": "04_hamlet_4felv.mp3",
+      "title": "04 - IV. felvonás"
+    },
+    {
+      "url": "05_hamlet_5felv.mp3",
+      "title": "05 - V. felvonás"
+    }
+  ],
+  "url": "https://mek.oszk.hu/06200/06233"
+}

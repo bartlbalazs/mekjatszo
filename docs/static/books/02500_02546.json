@@ -1,0 +1,39 @@
+{
+  "id": "02500_02546",
+  "title": "Dorottya",
+  "author": "Csokonai Vitéz Mihály",
+  "lead": "\"Egek! már én tehát csak azért születtem, Hogy férfi sohase feküdjék mellettem? Miért juttattatok hatvan esztendőre, Ha szert nem tehetek egy rossz főkötőre?\"",
+  "cover": "/02500/02546/borito.jpg",
+  "description": "Csokonai a \"fársángi\" háborúzás történetével eposzi kellékek fölhasználásával, ártatlan tréfálkozás mezébe bújtatott maró gúnnyal figurázza ki a szerelemre vágyó vénkisasszonyt, Dorottyát. A karnevál, a jelmezes fölvonulás, a farsangolás falusi, kisvárosi rítusainak beépítése a vígeposzba friss ötletekben és humorban gazdag művé avatja a Dorottyá -t.",
+  "audio_files": [
+    {
+      "url": "691aa00.mp3",
+      "title": "0 - Hangos katalóguscédula"
+    },
+    {
+      "url": "691ab00.mp3",
+      "title": "1 - Elöljáró beszédje az előbeszédnek"
+    },
+    {
+      "url": "691ab00_01.mp3",
+      "title": "2 - Előbeszéd"
+    },
+    {
+      "url": "691af01.mp3",
+      "title": "3 - Első könyv"
+    },
+    {
+      "url": "691af02.mp3",
+      "title": "4 - Második könyv"
+    },
+    {
+      "url": "691af03.mp3",
+      "title": "5 - Harmadik könyv"
+    },
+    {
+      "url": "691af04.mp3",
+      "title": "6 - Negyedik könyv"
+    }
+  ],
+  "url": "https://mek.oszk.hu/02500/02546"
+}

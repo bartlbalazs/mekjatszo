@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18100_18199",
+    "title": "A zalai erdők meséi",
+    "author": "Károlyfi Zsófia Palaics Eszter",
+    "lead": "\"Böszöm rendkívül örült Lasszónak. Egyelőre azonban még nem vadászhatott vele. Most a Tücsök-réten várta, hogy jöjjön valaki és mesélhessen. Nyári reggel volt, ami ezen a környéken ritkán mondható száraznak. A Zalai-dombság lankái között hajnalonta ködfelhők kúsznak, egészen közel a talajhoz.\"",
+    "cover": "/18100/18199/borito.jpg",
+    "description": null,
+    "audio_files": [
+      {
+        "url": "00-Karolyfi_Zs-Palaics_E-A_zalai_erdok_mesei.mp3",
+        "title": "00 - Impresszum, szereplők, ajánló"
+      },
+      {
+        "url": "01-Karolyfi_Zs-Palaics_E-A_zalai_erdok_mesei.mp3",
+        "title": "01 - 1. fejezet"
+      },
+      {
+        "url": "02-Karolyfi_Zs-Palaics_E-A_zalai_erdok_mesei.mp3",
+        "title": "02 - 2. fejezet"
+      },
+      {
+        "url": "03-Karolyfi_Zs-Palaics_E-A_zalai_erdok_mesei.mp3",
+        "title": "03 - 3. fejezet"
+      },
+      {
+        "url": "04-Karolyfi_Zs-Palaics_E-A_zalai_erdok_mesei.mp3",
+        "title": "04 - 4. fejezet"
+      },
+      {
+        "url": "05-Karolyfi_Zs-Palaics_E-A_zalai_erdok_mesei.mp3",
+        "title": "05 - 5. fejezet"
+      }
+    ],
+    "url": "https://mek.oszk.hu/18100/18199"
+  }
+]

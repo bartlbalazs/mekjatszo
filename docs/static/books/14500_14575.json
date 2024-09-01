@@ -1,0 +1,47 @@
+{
+  "id": "14500_14575",
+  "title": "Számum",
+  "author": "Barsi Ödön",
+  "lead": "\"De azután egyszerre valami furcsa, halk zizegés hallatszott. A zizegés egyre intenzívebb lett, majd tompa zúgás követte a messzeségből. A légionáriusok ismerték ezt a félelmetes zenét. Tudták, hogy néhány perc múlva a számum fogja kiterjeszteni halálthozó homokszárnyát a sivatag fölött.\"",
+  "cover": "/14500/14575/borito.jpg",
+  "description": null,
+  "audio_files": [
+    {
+      "url": "01-Barsi_Odon-Szamum.mp3",
+      "title": "01 - Első fejezet: A tuareg"
+    },
+    {
+      "url": "02-Barsi_Odon-Szamum.mp3",
+      "title": "02 - Második fejezet: Két fej"
+    },
+    {
+      "url": "03-Barsi_Odon-Szamum.mp3",
+      "title": "03 - Harmadik fejezet: A haditerv"
+    },
+    {
+      "url": "04-Barsi_Odon-Szamum.mp3",
+      "title": "04 - Negyedik fejezet: A menekülés"
+    },
+    {
+      "url": "05-Barsi_Odon-Szamum.mp3",
+      "title": "05 - Ötödik fejezet: Szenagában"
+    },
+    {
+      "url": "06-Barsi_Odon-Szamum.mp3",
+      "title": "06 - Hatodik fejezet: Számum"
+    },
+    {
+      "url": "07-Barsi_Odon-Szamum.mp3",
+      "title": "07 - Hetedik fejezet: Az áruló"
+    },
+    {
+      "url": "08-Barsi_Odon-Szamum.mp3",
+      "title": "08 - Nyolcadik fejezet: A támadás"
+    },
+    {
+      "url": "09-Barsi_Odon-Szamum.mp3",
+      "title": "09 - Kilencedik fejezet: Utolsó összecsapás"
+    }
+  ],
+  "url": "https://mek.oszk.hu/14500/14575"
+}

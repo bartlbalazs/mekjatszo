@@ -1,0 +1,63 @@
+{
+  "id": "07500_07547",
+  "title": "Erdély-trilógiaGéphangoskönyv",
+  "author": "Móricz Zsigmond",
+  "lead": "\"Fejedelem vagyok, egyik papucsom Moldva, a másik Oláhország, úgy emelem fejszémet Lengyelre. Lovam Erdély, csatlósom Magyarország, lakájom a bécsi császár: birodalmam közepe a hét vár s környös-körül a lapos föld tengerekig Dunáig. Azután a sárkány fejére, rá Konstantinápolyra, ott töröm bárdommal, s a teteme magától megdöglik.\"",
+  "cover": "/07500/07547/borito.jpg",
+  "description": "",
+  "audio_files": [
+    {
+      "url": "00_erdely.mp3",
+      "title": "00 - A hangfelvétel adatai"
+    },
+    {
+      "url": "01_tunderkert_1konyv.mp3",
+      "title": "01 - Tündérkert 1. könyv"
+    },
+    {
+      "url": "02_tunderkert_2konyv.mp3",
+      "title": "02 - Tündérkert 2. könyv"
+    },
+    {
+      "url": "03_tunderkert_3konyv.mp3",
+      "title": "03 - Tündérkert 3. könyv"
+    },
+    {
+      "url": "04_tunderkert_4konyv.mp3",
+      "title": "04 - Tündérkert 4. könyv"
+    },
+    {
+      "url": "05_nagy_fejedelem_1konyv.mp3",
+      "title": "05 - A nagy fejedelem 1. könyv"
+    },
+    {
+      "url": "06_nagy_fejedelem_2konyv.mp3",
+      "title": "06 - A nagy fejedelem 2. könyv"
+    },
+    {
+      "url": "07_nagy_fejedelem_3konyv.mp3",
+      "title": "07 - A nagy fejedelem 3. könyv"
+    },
+    {
+      "url": "08_nagy_fejedelem_4konyv.mp3",
+      "title": "08 - A nagy fejedelem 4. könyv"
+    },
+    {
+      "url": "09_nap_arnyeka_1konyv.mp3",
+      "title": "09 - A nap árnyéka 1. könyv"
+    },
+    {
+      "url": "10_nap_arnyeka_2konyv.mp3",
+      "title": "10 - A nap árnyéka 2. könyv"
+    },
+    {
+      "url": "11_nap_arnyeka_3konyv.mp3",
+      "title": "11 - A nap árnyéka 3. könyv"
+    },
+    {
+      "url": "12_nap_arnyeka_4konyv.mp3",
+      "title": "12 - A nap árnyéka 4. könyv"
+    }
+  ],
+  "url": "https://mek.oszk.hu/07500/07547"
+}
