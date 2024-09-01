@@ -9,19 +9,19 @@
     "audio_files": [
       {
         "url": "0946aa00.mp3",
-        "title": "0946 - Hangos katalóguscédula"
+        "title": "0 - Hangos katalóguscédula"
       },
       {
         "url": "0946ab01.mp3",
-        "title": "0946 - Előszó"
+        "title": "1 - Előszó"
       },
       {
         "url": "0946af01.mp3",
-        "title": "0946 - A köpenyeg"
+        "title": "2 - A köpenyeg"
       },
       {
         "url": "0946af02.mp3",
-        "title": "0946 - Egy kép a régi jó időből"
+        "title": "3 - Egy kép a régi jó időből"
       }
     ],
     "url": "https://mek.oszk.hu/03700/03742"
@@ -46,19 +46,19 @@
     "audio_files": [
       {
         "url": "2295aa00.mp3",
-        "title": "2295 - Hangos katalóguscédula"
+        "title": "0 - Hangos katalóguscédula"
       },
       {
         "url": "2295af01.mp3",
-        "title": "2295 - 1. rész"
+        "title": "1. rész"
       },
       {
         "url": "2295af02.mp3",
-        "title": "2295 - 2. rész"
+        "title": "2. rész"
       },
       {
         "url": "2295af03.mp3",
-        "title": "2295 - 3. rész"
+        "title": "3. rész"
       }
     ],
     "url": "https://mek.oszk.hu/04400/04480"

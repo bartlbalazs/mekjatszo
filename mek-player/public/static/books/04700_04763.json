@@ -8,599 +8,599 @@
   "audio_files": [
     {
       "url": "001.mp3",
-      "title": "001 - Előszó"
+      "title": "0 - Előszó"
     },
     {
       "url": "002.mp3",
-      "title": "002 - A kezdet"
+      "title": "1 - A kezdet"
     },
     {
       "url": "003.mp3",
-      "title": "003 - Az interjú"
+      "title": "2 - Az interjú"
     },
     {
       "url": "004.mp3",
-      "title": "004 - Az első nap"
+      "title": "3 - Az első nap"
     },
     {
       "url": "005.mp3",
-      "title": "005 - Az első hónap"
+      "title": "4 - Az első hónap"
     },
     {
       "url": "006.mp3",
-      "title": "006 - Az első napidíjam"
+      "title": "5 - Az első napidíjam"
     },
     {
       "url": "007.mp3",
-      "title": "007 - Az első munkám"
+      "title": "6 - Az első munkám"
     },
     {
       "url": "008.mp3",
-      "title": "008 - Megérkezett az első fizetésem"
+      "title": "7 - Megérkezett az első fizetésem"
     },
     {
       "url": "009.mp3",
-      "title": "009 - A lábtörés"
+      "title": "8 - A lábtörés"
     },
     {
       "url": "010.mp3",
-      "title": "010 - A kupuszinai"
+      "title": "9 - A kupuszinai"
     },
     {
       "url": "011.mp3",
-      "title": "011 - A zentai Happening"
+      "title": "10 - A zentai Happening"
     },
     {
       "url": "012.mp3",
-      "title": "012 - Találkozás Winussal"
+      "title": "11 - Találkozás Winussal"
     },
     {
       "url": "013.mp3",
-      "title": "013 - Másnap"
+      "title": "12 - Másnap"
     },
     {
       "url": "014.mp3",
-      "title": "014 - Lakodalmak"
+      "title": "13 - Lakodalmak"
     },
     {
       "url": "015.mp3",
-      "title": "015 - Pénz, pénz, pénz"
+      "title": "14 - Pénz, pénz, pénz"
     },
     {
       "url": "016.mp3",
-      "title": "016 - Magyarokat magyaroknak"
+      "title": "15 - Magyarokat magyaroknak"
     },
     {
       "url": "017.mp3",
-      "title": "017 - Staféta"
+      "title": "16 - Staféta"
     },
     {
       "url": "018.mp3",
-      "title": "018 - Lendva"
+      "title": "17 - Lendva"
     },
     {
       "url": "019.mp3",
-      "title": "019 - Man The Fair"
+      "title": "18 - Man The Fair"
     },
     {
       "url": "020.mp3",
-      "title": "020 - Weena"
+      "title": "19 - Weena"
     },
     {
       "url": "021.mp3",
-      "title": "021 - Mi, a torreádorok"
+      "title": "20 - Mi, a torreádorok"
     },
     {
       "url": "022.mp3",
-      "title": "022 - Baranya"
+      "title": "21 - Baranya"
     },
     {
       "url": "023.mp3",
-      "title": "023 - Csirkepaprikás Germayer, módra"
+      "title": "22 - Csirkepaprikás Germayer, módra"
     },
     {
       "url": "024.mp3",
-      "title": "024 - Hósivatag"
+      "title": "23 - Hósivatag"
     },
     {
       "url": "025.mp3",
-      "title": "025 - Tánc"
+      "title": "24 - Tánc"
     },
     {
       "url": "026.mp3",
-      "title": "026 - Csantavéri téli esték"
+      "title": "25 - Csantavéri téli esték"
     },
     {
       "url": "027.mp3",
-      "title": "027 - Újév"
+      "title": "26 - Újév"
     },
     {
       "url": "028.mp3",
-      "title": "028 - Palacsinta aukció"
+      "title": "27 - Palacsinta aukció"
     },
     {
       "url": "029.mp3",
-      "title": "029 - Šušara"
+      "title": "28 - Šušara"
     },
     {
       "url": "030.mp3",
-      "title": "030 - Világutazó"
+      "title": "29 - Világutazó"
     },
     {
       "url": "031.mp3",
-      "title": "031 - Tizennyolc sárga rózsa"
+      "title": "30 - Tizennyolc sárga rózsa"
     },
     {
       "url": "032.mp3",
-      "title": "032 - Cirill betűs keresztek"
+      "title": "31 - Cirill betűs keresztek"
     },
     {
       "url": "033.mp3",
-      "title": "033 - Alkohol"
+      "title": "32 - Alkohol"
     },
     {
       "url": "034.mp3",
-      "title": "034 - Vénlány"
+      "title": "33 - Vénlány"
     },
     {
       "url": "035.mp3",
-      "title": "035 - Pontosan"
+      "title": "34 - Pontosan"
     },
     {
       "url": "036.mp3",
-      "title": "036 - A Kék Csillag"
+      "title": "35 - A Kék Csillag"
     },
     {
       "url": "037.mp3",
-      "title": "037 - Avanti"
+      "title": "36 - Avanti"
     },
     {
       "url": "038.mp3",
-      "title": "038 - Esküvő"
+      "title": "37 - Esküvő"
     },
     {
       "url": "039.mp3",
-      "title": "039 - Az öreg halász"
+      "title": "38 - Az öreg halász"
     },
     {
       "url": "040.mp3",
-      "title": "040 - A \"Hoch kultúra\""
+      "title": "39 - A \"Hoch kultúra\""
     },
     {
       "url": "041.mp3",
-      "title": "041 - Dálya"
+      "title": "40 - Dálya"
     },
     {
       "url": "042.mp3",
-      "title": "042 - Statisztikusok"
+      "title": "41 - Statisztikusok"
     },
     {
       "url": "043.mp3",
-      "title": "043 - A jégtörők"
+      "title": "42 - A jégtörők"
     },
     {
       "url": "044.mp3",
-      "title": "044 - Különös kameraállások"
+      "title": "43 - Különös kameraállások"
     },
     {
       "url": "045.mp3",
-      "title": "045 - Az új kamera"
+      "title": "44 - Az új kamera"
     },
     {
       "url": "046.mp3",
-      "title": "046 - Mosógép"
+      "title": "45 - Mosógép"
     },
     {
       "url": "047.mp3",
-      "title": "047 - München"
+      "title": "46 - München"
     },
     {
       "url": "048.mp3",
-      "title": "048 - Beléptem a KP-ba"
+      "title": "47 - Beléptem a KP-ba"
     },
     {
       "url": "049.mp3",
-      "title": "049 - Tito elvtárs, először"
+      "title": "48 - Tito elvtárs, először"
     },
     {
       "url": "050.mp3",
-      "title": "050 - Zita!"
+      "title": "49 - Zita!"
     },
     {
       "url": "051.mp3",
-      "title": "051 - Az Újvidéki Televízió"
+      "title": "50 - Az Újvidéki Televízió"
     },
     {
       "url": "052.mp3",
-      "title": "052 - Duško"
+      "title": "51 - Duško"
     },
     {
       "url": "053.mp3",
-      "title": "053 - Terepszemle"
+      "title": "52 - Terepszemle"
     },
     {
       "url": "054.mp3",
-      "title": "054 - Beiratkozás"
+      "title": "53 - Beiratkozás"
     },
     {
       "url": "055.mp3",
-      "title": "055 - Gál Laci bácsi"
+      "title": "54 - Gál Laci bácsi"
     },
     {
       "url": "056.mp3",
-      "title": "056 - A Horgosi csárda..."
+      "title": "55 - A Horgosi csárda..."
     },
     {
       "url": "057.mp3",
-      "title": "057 - Tüskés pogácsa"
+      "title": "56 - Tüskés pogácsa"
     },
     {
       "url": "058.mp3",
-      "title": "058 - Ösztöndíjak"
+      "title": "57 - Ösztöndíjak"
     },
     {
       "url": "059.mp3",
-      "title": "059 - Tömegsír"
+      "title": "58 - Tömegsír"
     },
     {
       "url": "060.mp3",
-      "title": "060 - Teknősbékaleves"
+      "title": "59 - Teknősbékaleves"
     },
     {
       "url": "061.mp3",
-      "title": "061 - A sorsdöntő határozat"
+      "title": "60 - A sorsdöntő határozat"
     },
     {
       "url": "062.mp3",
-      "title": "062 - Európai körút"
+      "title": "61 - Európai körút"
     },
     {
       "url": "063.mp3",
-      "title": "063 - Első színes film"
+      "title": "62 - Első színes film"
     },
     {
       "url": "064.mp3",
-      "title": "064 - Az Újvidéki Televízió munkatársai lettünk"
+      "title": "63 - Az Újvidéki Televízió munkatársai lettünk"
     },
     {
       "url": "065.mp3",
-      "title": "065 - Dunđerski kastély"
+      "title": "64 - Dunđerski kastély"
     },
     {
       "url": "066.mp3",
-      "title": "066 - Megszületett Attila"
+      "title": "65 - Megszületett Attila"
     },
     {
       "url": "067.mp3",
-      "title": "067 - Önbírálat"
+      "title": "66 - Önbírálat"
     },
     {
       "url": "068.mp3",
-      "title": "068 - Megalakult az első munkástanács"
+      "title": "67 - Megalakult az első munkástanács"
     },
     {
       "url": "069.mp3",
-      "title": "069 - A nagy \"művészek\""
+      "title": "68 - A nagy \"művészek\""
     },
     {
       "url": "070.mp3",
-      "title": "070 - Szarajevói merénylet"
+      "title": "69 - Szarajevói merénylet"
     },
     {
       "url": "071.mp3",
-      "title": "071 - Alapkőletétel"
+      "title": "70 - Alapkőletétel"
     },
     {
       "url": "072.mp3",
-      "title": "072 - Lakások, lakások"
+      "title": "71 - Lakások, lakások"
     },
     {
       "url": "073.mp3",
-      "title": "073 - Szignálok"
+      "title": "72 - Szignálok"
     },
     {
       "url": "074.mp3",
-      "title": "074 - Megérkezett a közvetítő kocsi"
+      "title": "73 - Megérkezett a közvetítő kocsi"
     },
     {
       "url": "075.mp3",
-      "title": "075 - Virágéknál"
+      "title": "74 - Virágéknál"
     },
     {
       "url": "076.mp3",
-      "title": "076 - Európa - bajnokság"
+      "title": "75 - Európa - bajnokság"
     },
     {
       "url": "077.mp3",
-      "title": "077 - Kongresszusok"
+      "title": "76 - Kongresszusok"
     },
     {
       "url": "078.mp3",
-      "title": "078 - Rózsafesztivál"
+      "title": "77 - Rózsafesztivál"
     },
     {
       "url": "079.mp3",
-      "title": "079 - A börtön"
+      "title": "78 - A börtön"
     },
     {
       "url": "080.mp3",
-      "title": "080 - Az új lakás"
+      "title": "79 - Az új lakás"
     },
     {
       "url": "081.mp3",
-      "title": "081 - Tenyéren a szív"
+      "title": "80 - Tenyéren a szív"
     },
     {
       "url": "082.mp3",
-      "title": "082 - A palánkai híd avatása"
+      "title": "81 - A palánkai híd avatása"
     },
     {
       "url": "083.mp3",
-      "title": "083 - Ejtőernyősök"
+      "title": "82 - Ejtőernyősök"
     },
     {
       "url": "084.mp3",
-      "title": "084 - Lifka"
+      "title": "83 - Lifka"
     },
     {
       "url": "085.mp3",
-      "title": "085 - Gál Laci bácsi - másodszor"
+      "title": "84 - Gál Laci bácsi - másodszor"
     },
     {
       "url": "086.mp3",
-      "title": "086 - Közlekedési műsorok"
+      "title": "85 - Közlekedési műsorok"
     },
     {
       "url": "087.mp3",
-      "title": "087 - Hamburg"
+      "title": "86 - Hamburg"
     },
     {
       "url": "088.mp3",
-      "title": "088 - Indul az újvidéki szerb Híradó"
+      "title": "87 - Indul az újvidéki szerb Híradó"
     },
     {
       "url": "089.mp3",
-      "title": "089 - Diploma"
+      "title": "88 - Diploma"
     },
     {
       "url": "090.mp3",
-      "title": "090 - Ilke"
+      "title": "89 - Ilke"
     },
     {
       "url": "091.mp3",
-      "title": "091 - A tévé nagyüzem lett"
+      "title": "90 - A tévé nagyüzem lett"
     },
     {
       "url": "092.mp3",
-      "title": "092 - A kamenicai kórházban"
+      "title": "91 - A kamenicai kórházban"
     },
     {
       "url": "093.mp3",
-      "title": "093 - Szürke hályog"
+      "title": "92 - Szürke hályog"
     },
     {
       "url": "094.mp3",
-      "title": "094 - Karađorđevo"
+      "title": "93 - Karađorđevo"
     },
     {
       "url": "095.mp3",
-      "title": "095 - Cseh Károly, vagyis a Fekete glóbusz"
+      "title": "94 - Cseh Károly, vagyis a Fekete glóbusz"
     },
     {
       "url": "096.mp3",
-      "title": "096 - Operáció"
+      "title": "95 - Operáció"
     },
     {
       "url": "097.mp3",
-      "title": "097 - Delibláti homokpuszta"
+      "title": "96 - Delibláti homokpuszta"
     },
     {
       "url": "098.mp3",
-      "title": "098 - Terján"
+      "title": "97 - Terján"
     },
     {
       "url": "099.mp3",
-      "title": "099 - A Messzike"
+      "title": "98 - A Messzike"
     },
     {
       "url": "100.mp3",
-      "title": "100 - A vajdasági gyógyfürdők és a líkai szomszédaim"
+      "title": "99 - A vajdasági gyógyfürdők és a líkai szomszédaim"
     },
     {
       "url": "101.mp3",
-      "title": "101 - A Cannes-i fesztivál"
+      "title": "100 - A Cannes-i fesztivál"
     },
     {
       "url": "102.mp3",
-      "title": "102 - A kopogtatás"
+      "title": "101 - A kopogtatás"
     },
     {
       "url": "103.mp3",
-      "title": "103 - Szeli bácsi"
+      "title": "102 - Szeli bácsi"
     },
     {
       "url": "104.mp3",
-      "title": "104 - Buda Brakus"
+      "title": "103 - Buda Brakus"
     },
     {
       "url": "105.mp3",
-      "title": "105 - Vajdasági tükör"
+      "title": "104 - Vajdasági tükör"
     },
     {
       "url": "106.mp3",
-      "title": "106 - Napló"
+      "title": "105 - Napló"
     },
     {
       "url": "107.mp3",
-      "title": "107 - Új könyvek. Az emberélet fordulói - Gombosi népszokások"
+      "title": "106 - Új könyvek. Az emberélet fordulói - Gombosi népszokások"
     },
     {
       "url": "108.mp3",
-      "title": "108 - Az első nagy szerencsétlenség"
+      "title": "107 - Az első nagy szerencsétlenség"
     },
     {
       "url": "109.mp3",
-      "title": "109 - Kinek mit jelent a Vajdaság?"
+      "title": "108 - Kinek mit jelent a Vajdaság?"
     },
     {
       "url": "110.mp3",
-      "title": "110 - Stockholm"
+      "title": "109 - Stockholm"
     },
     {
       "url": "111.mp3",
-      "title": "111 - Tér, idő és lét"
+      "title": "110 - Tér, idő és lét"
     },
     {
       "url": "112.mp3",
-      "title": "112 - Hollywoodi szindróma"
+      "title": "111 - Hollywoodi szindróma"
     },
     {
       "url": "113.mp3",
-      "title": "113 - Deák Ferenc"
+      "title": "112 - Deák Ferenc"
     },
     {
       "url": "114.mp3",
-      "title": "114 - Bogdánfi Sándor"
+      "title": "113 - Bogdánfi Sándor"
     },
     {
       "url": "115.mp3",
-      "title": "115 - Veno Taufer"
+      "title": "114 - Veno Taufer"
     },
     {
       "url": "116.mp3",
-      "title": "116 - Holdbéli csónakos"
+      "title": "115 - Holdbéli csónakos"
     },
     {
       "url": "117.mp3",
-      "title": "117 - A Grimasz"
+      "title": "116 - A Grimasz"
     },
     {
       "url": "118.mp3",
-      "title": "118 - A selyem. Vera és Erzsike"
+      "title": "117 - A selyem. Vera és Erzsike"
     },
     {
       "url": "119.mp3",
-      "title": "119 - A tanárnők tanárnője Dr. Penavin Olga"
+      "title": "118 - A tanárnők tanárnője Dr. Penavin Olga"
     },
     {
       "url": "120.mp3",
-      "title": "120 - Jó éjszakát, gyerekek!"
+      "title": "119 - Jó éjszakát, gyerekek!"
     },
     {
       "url": "121.mp3",
-      "title": "121 - Szerelmi költészet"
+      "title": "120 - Szerelmi költészet"
     },
     {
       "url": "122.mp3",
-      "title": "122 - Tanácsos lettem"
+      "title": "121 - Tanácsos lettem"
     },
     {
       "url": "123.mp3",
-      "title": "123 - Költők és tájak"
+      "title": "122 - Költők és tájak"
     },
     {
       "url": "124.mp3",
-      "title": "124 - Madarak folyója - Fehér Ferenc"
+      "title": "123 - Madarak folyója - Fehér Ferenc"
     },
     {
       "url": "125.mp3",
-      "title": "125 - Bumeráng"
+      "title": "124 - Bumeráng"
     },
     {
       "url": "126.mp3",
-      "title": "126 - Költők a Tiszáról"
+      "title": "125 - Költők a Tiszáról"
     },
     {
       "url": "127.mp3",
-      "title": "127 - Bognár Antal-portré. Az esélyek írója"
+      "title": "126 - Bognár Antal-portré. Az esélyek írója"
     },
     {
       "url": "128.mp3",
-      "title": "128 - Herceg János"
+      "title": "127 - Herceg János"
     },
     {
       "url": "129.mp3",
-      "title": "129 - A Késdobáló"
+      "title": "128 - A Késdobáló"
     },
     {
       "url": "130.mp3",
-      "title": "130 - Leánykút"
+      "title": "129 - Leánykút"
     },
     {
       "url": "131.mp3",
-      "title": "131 - Ljiljana Petrović-show"
+      "title": "130 - Ljiljana Petrović-show"
     },
     {
       "url": "132.mp3",
-      "title": "132 - Édes Anna"
+      "title": "131 - Édes Anna"
     },
     {
       "url": "133.mp3",
-      "title": "133 - Radnóti Miklós: Erőltetett menet I."
+      "title": "132 - Radnóti Miklós: Erőltetett menet I."
     },
     {
       "url": "134.mp3",
-      "title": "134 - Radnóti Miklós: Erőltetett menet II."
+      "title": "133 - Radnóti Miklós: Erőltetett menet II."
     },
     {
       "url": "135.mp3",
-      "title": "135 - Szemidegsorvadás"
+      "title": "134 - Szemidegsorvadás"
     },
     {
       "url": "136.mp3",
-      "title": "136 - Trieszt"
+      "title": "135 - Trieszt"
     },
     {
       "url": "137.mp3",
-      "title": "137 - Bouvier"
+      "title": "136 - Bouvier"
     },
     {
       "url": "138.mp3",
-      "title": "138 - Az igazgatók és a TV szervezete"
+      "title": "137 - Az igazgatók és a TV szervezete"
     },
     {
       "url": "139.mp3",
-      "title": "139 - Majtényi Mihály"
+      "title": "138 - Majtényi Mihály"
     },
     {
       "url": "140.mp3",
-      "title": "140 - Köln - fotókiállítás"
+      "title": "139 - Köln - fotókiállítás"
     },
     {
       "url": "141.mp3",
-      "title": "141 - Újra Koszovóban"
+      "title": "140 - Újra Koszovóban"
     },
     {
       "url": "142.mp3",
-      "title": "142 - Joghurtforadalom"
+      "title": "141 - Joghurtforadalom"
     },
     {
       "url": "143.mp3",
-      "title": "143 - Szervátültetés"
+      "title": "142 - Szervátültetés"
     },
     {
       "url": "144.mp3",
-      "title": "144 - Szabadka 600 éves"
+      "title": "143 - Szabadka 600 éves"
     },
     {
       "url": "145.mp3",
-      "title": "145 - A tudományos műsorok sorsa"
+      "title": "144 - A tudományos műsorok sorsa"
     },
     {
       "url": "146.mp3",
-      "title": "146 - A Csend világa"
+      "title": "145 - A Csend világa"
     },
     {
       "url": "147.mp3",
-      "title": "147 - A Maslać család"
+      "title": "146 - A Maslać család"
     },
     {
       "url": "148.mp3",
-      "title": "148 - Koppenhága 1997"
+      "title": "147 - Koppenhága 1997"
     },
     {
       "url": "149.mp3",
-      "title": "149 - 1999. március 24"
+      "title": "1999. március 24"
     }
   ],
   "url": "https://mek.oszk.hu/04700/04763"

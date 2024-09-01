@@ -8,31 +8,31 @@
   "audio_files": [
     {
       "url": "691aa00.mp3",
-      "title": "691 - Hangos katalóguscédula"
+      "title": "0 - Hangos katalóguscédula"
     },
     {
       "url": "691ab00.mp3",
-      "title": "691 - Elöljáró beszédje az előbeszédnek"
+      "title": "1 - Elöljáró beszédje az előbeszédnek"
     },
     {
       "url": "691ab00_01.mp3",
-      "title": "691 - Előbeszéd"
+      "title": "2 - Előbeszéd"
     },
     {
       "url": "691af01.mp3",
-      "title": "691 - Első könyv"
+      "title": "3 - Első könyv"
     },
     {
       "url": "691af02.mp3",
-      "title": "691 - Második könyv"
+      "title": "4 - Második könyv"
     },
     {
       "url": "691af03.mp3",
-      "title": "691 - Harmadik könyv"
+      "title": "5 - Harmadik könyv"
     },
     {
       "url": "691af04.mp3",
-      "title": "691 - Negyedik könyv"
+      "title": "6 - Negyedik könyv"
     }
   ],
   "url": "https://mek.oszk.hu/02500/02546"

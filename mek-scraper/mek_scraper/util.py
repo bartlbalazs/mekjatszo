@@ -22,6 +22,8 @@ def clean_chapter_title(title: str) -> str:
 
         match = re.match(r'^\d+', raw_title_cleaned.split('.mp3 - ')[0])
         chapter_number = match.group(0) + ' - ' if match else ''
+        if len(chapter_number) > 5:
+            chapter_number = ''
         title = chapter_number + title
         return title
     return raw_title_cleaned

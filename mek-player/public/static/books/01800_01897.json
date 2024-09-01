@@ -8,43 +8,43 @@
   "audio_files": [
     {
       "url": "ibrisz.mp3",
-      "title": "Az Ibrisz csillagvizsgáló mester ellen elkövetett merényletről"
+      "title": "0 - Az Ibrisz csillagvizsgáló mester ellen elkövetett merényletről"
     },
     {
       "url": "olomontes.mp3",
-      "title": "Ólomöntés"
+      "title": "1 - Ólomöntés"
     },
     {
       "url": "saman_nepdal_kendert.mp3",
-      "title": "saman_nepdal_kender.mp3"
+      "title": "2 - saman_nepdal_kender.mp3"
     },
     {
       "url": "enek_minden_napra.mp3",
-      "title": "Ének minden napra"
+      "title": "3 - Ének minden napra"
     },
     {
       "url": "olomontes_b.mp3",
-      "title": "Ólomöntés (vers)"
+      "title": "4 - Ólomöntés (vers)"
     },
     {
       "url": "versek_1.mp3",
-      "title": "versek_1.mp3"
+      "title": "5 - versek_1.mp3"
     },
     {
       "url": "versek_2.mp3",
-      "title": "versek_2.mp3"
+      "title": "6 - versek_2.mp3"
     },
     {
       "url": "versek_3.mp3",
-      "title": "versek_3.mp3"
+      "title": "7 - versek_3.mp3"
     },
     {
       "url": "versek_4.mp3",
-      "title": "versek_4.mp3"
+      "title": "8 - versek_4.mp3"
     },
     {
       "url": "versek_5.mp3",
-      "title": "versek_5.mp3"
+      "title": "9 - versek_5.mp3"
     }
   ],
   "url": "https://mek.oszk.hu/01800/01897"

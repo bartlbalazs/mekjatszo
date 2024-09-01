@@ -8,27 +8,27 @@
   "audio_files": [
     {
       "url": "2286aa00.mp3",
-      "title": "2286 - Hangos katalóguscédula"
+      "title": "0 - Hangos katalóguscédula"
     },
     {
       "url": "2286ab01.mp3",
-      "title": "2286 - Személyek"
+      "title": "1 - Személyek"
     },
     {
       "url": "2286af01.mp3",
-      "title": "2286 - Első felvonás"
+      "title": "2 - Első felvonás"
     },
     {
       "url": "2286af02.mp3",
-      "title": "2286 - Második felvonás"
+      "title": "3 - Második felvonás"
     },
     {
       "url": "2286af03.mp3",
-      "title": "2286 - Harmadik felvonás"
+      "title": "4 - Harmadik felvonás"
     },
     {
       "url": "2286af04.mp3",
-      "title": "2286 - Negyedik felvonás"
+      "title": "5 - Negyedik felvonás"
     }
   ],
   "url": "https://mek.oszk.hu/03000/03085"

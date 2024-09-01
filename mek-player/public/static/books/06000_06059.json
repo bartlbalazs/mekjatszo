@@ -8,27 +8,27 @@
   "audio_files": [
     {
       "url": "0001_3048aa001.mp3",
-      "title": "0001 - Hangos katalóguscédula"
+      "title": "0 - Hangos katalóguscédula"
     },
     {
       "url": "0002_3048af001.mp3",
-      "title": "0002 - Az Út"
+      "title": "1 - Az Út"
     },
     {
       "url": "0003_3048af002.mp3",
-      "title": "0003 - Az Erény"
+      "title": "2 - Az Erény"
     },
     {
       "url": "0004_3048av000.mp3",
-      "title": "0004 - Jegyzetek"
+      "title": "3 - Jegyzetek"
     },
     {
       "url": "0005_3048av001.mp3",
-      "title": "0005 - Lao-Ce: Tao Te King (prózafordítás)"
+      "title": "4 - Lao-Ce: Tao Te King (prózafordítás)"
     },
     {
       "url": "0006_3048av002.mp3",
-      "title": "0006 - Utószó"
+      "title": "5 - Utószó"
     }
   ],
   "url": "https://mek.oszk.hu/06000/06059"

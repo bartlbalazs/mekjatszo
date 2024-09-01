@@ -8,19 +8,19 @@
   "audio_files": [
     {
       "url": "2905aa001.mp3",
-      "title": "2905 - Hangos katalóguscédula"
+      "title": "0 - Hangos katalóguscédula"
     },
     {
       "url": "2905ab000.mp3",
-      "title": "2905 - Előszó"
+      "title": "1 - Előszó"
     },
     {
       "url": "2905af000.mp3",
-      "title": "2905 - Summázat"
+      "title": "2 - Summázat"
     },
     {
       "url": "2905af001.mp3",
-      "title": "2905 - A küzdő Sámson"
+      "title": "3 - A küzdő Sámson"
     }
   ],
   "url": "https://mek.oszk.hu/04700/04771"

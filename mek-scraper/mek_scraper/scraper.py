@@ -1,4 +1,5 @@
 import logging
+import re
 from typing import List
 
 import requests
@@ -72,9 +73,11 @@ class Scraper:
         audio_files = list(
             map(lambda a: AudioFile(url=a.attrs['href'], title=util.clean_chapter_title(a.text)),
                 filter(lambda t: t.attrs['href'].endswith('.mp3'), audio_files_page.find_all('a'))))
+        for i in range(len(audio_files)):
+            if not bool(re.match(r'^\d', audio_files[i].title)):
+                audio_files[i].title = str(i) + ' - ' + audio_files[i].title
         return Book(id=id, title=title, author=author, lead=lead, cover=cover, url=url, description=description,
                     audio_files=audio_files)
-
 
     def scrape_book_list(self) -> List[Book]:
         books = []

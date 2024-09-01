@@ -8,7 +8,7 @@
   "audio_files": [
     {
       "url": "A_ko-00.mp3",
-      "title": "Impresszum"
+      "title": "0 - Impresszum"
     },
     {
       "url": "A_ko-01.mp3",
@@ -132,15 +132,15 @@
     },
     {
       "url": "A_ko-31.mp3",
-      "title": "Németh Árpád elbeszélései"
+      "title": "31 - Németh Árpád elbeszélései"
     },
     {
       "url": "Kamen-01.mp3",
-      "title": "Impresum"
+      "title": "32 - Impresum"
     },
     {
       "url": "Kamen-02.mp3",
-      "title": "Sadržaj"
+      "title": "33 - Sadržaj"
     },
     {
       "url": "Kamen-03.mp3",
@@ -272,7 +272,7 @@
     },
     {
       "url": "Kamen-35.mp3",
-      "title": "Arpadove snohvatice"
+      "title": "66 - Arpadove snohvatice"
     }
   ],
   "url": "https://mek.oszk.hu/21900/21995"

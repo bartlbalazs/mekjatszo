@@ -8,27 +8,27 @@
   "audio_files": [
     {
       "url": "2571aa00.mp3",
-      "title": "2571 - Hangos katalóguscédula"
+      "title": "0 - Hangos katalóguscédula"
     },
     {
       "url": "2571af00.mp3",
-      "title": "2571 - Tartalom"
+      "title": "1 - Tartalom"
     },
     {
       "url": "2571af01.mp3",
-      "title": "2571 - I. ének"
+      "title": "2 - I. ének"
     },
     {
       "url": "2571af02.mp3",
-      "title": "2571 - II. ének"
+      "title": "3 - II. ének"
     },
     {
       "url": "2571af03.mp3",
-      "title": "2571 - III. ének"
+      "title": "4 - III. ének"
     },
     {
       "url": "2571af04.mp3",
-      "title": "2571 - IV. ének"
+      "title": "5 - IV. ének"
     }
   ],
   "url": "https://mek.oszk.hu/02200/02268"
