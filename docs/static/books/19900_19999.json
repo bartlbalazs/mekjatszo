@@ -8,15 +8,15 @@
   "audio_files": [
     {
       "url": "00_Baj_van_Rozikam.mp3",
-      "title": "00_Baj_van_Rozikam.mp3 - Hangos katalóguscédula"
+      "title": "00 - Hangos katalóguscédula"
     },
     {
       "url": "01_Baj_van_Rozikam.mp3",
-      "title": "01_Baj_van_Rozikam.mp3 - Baj van Rozikám?"
+      "title": "01 - Baj van Rozikám?"
     },
     {
       "url": "02_Baj_van_Rozikam.mp3",
-      "title": "02_Baj_van_Rozikam.mp3 - Egyszerű történet"
+      "title": "02 - Egyszerű történet"
     }
   ],
   "url": "https://mek.oszk.hu/19900/19999"

@@ -1,6 +1,6 @@
 {
   "id": "03900_03980",
-  "title": "William Shakespeare szonettjeiMVGYOSZ hangoskönyvek",
+  "title": "William Shakespeare szonettjei",
   "author": "William Shakespeare",
   "lead": "\"A gyönyörűt szaporítani vágyunk, Hogy így örökké rózsáljon a Szép, S emlékét, ha hull érettebb virágunk, Őrizhesse a zsenge ivadék.\"",
   "cover": "/03900/03980/borito.jpg",
@@ -8,11 +8,11 @@
   "audio_files": [
     {
       "url": "1006aa00.mp3",
-      "title": "1006aa00.mp3 - Hangos katalóguscédula"
+      "title": "1006 - Hangos katalóguscédula"
     },
     {
       "url": "1006af01.mp3",
-      "title": "1006af01.mp3 - Szonettek"
+      "title": "1006 - Szonettek"
     }
   ],
   "url": "https://mek.oszk.hu/03900/03980"

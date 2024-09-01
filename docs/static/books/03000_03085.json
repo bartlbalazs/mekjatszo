@@ -1,6 +1,6 @@
 {
   "id": "03000_03085",
-  "title": "Három nővérMVGYOSZ hangoskönyvek",
+  "title": "Három nővér",
   "author": "Anton Pavlovics Csehov",
   "lead": "\"Két héttel ezelőtt is vesztett, decemberben is vesztett. Csak legalább gyorsan elkártyázna mindent, akkor talán elkerülnénk ebből a városból. Istenem, minden éjszaka Moszkváról álmodom, olyan vagyok, mint az őrült. Júniusban költözünk oda, és júniusig... február, március, április, május... majdnem egy fél esztendő!\"",
   "cover": "/03000/03085/borito.jpg",
@@ -8,27 +8,27 @@
   "audio_files": [
     {
       "url": "2286aa00.mp3",
-      "title": "2286aa00.mp3 - Hangos katalóguscédula"
+      "title": "2286 - Hangos katalóguscédula"
     },
     {
       "url": "2286ab01.mp3",
-      "title": "2286ab01.mp3 - Személyek"
+      "title": "2286 - Személyek"
     },
     {
       "url": "2286af01.mp3",
-      "title": "2286af01.mp3 - Első felvonás"
+      "title": "2286 - Első felvonás"
     },
     {
       "url": "2286af02.mp3",
-      "title": "2286af02.mp3 - Második felvonás"
+      "title": "2286 - Második felvonás"
     },
     {
       "url": "2286af03.mp3",
-      "title": "2286af03.mp3 - Harmadik felvonás"
+      "title": "2286 - Harmadik felvonás"
     },
     {
       "url": "2286af04.mp3",
-      "title": "2286af04.mp3 - Negyedik felvonás"
+      "title": "2286 - Negyedik felvonás"
     }
   ],
   "url": "https://mek.oszk.hu/03000/03085"

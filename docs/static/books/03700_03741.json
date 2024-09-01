@@ -1,6 +1,6 @@
 {
   "id": "03700_03741",
-  "title": "Ábel az országbanMVGYOSZ hangoskönyvek",
+  "title": "Ábel az országban",
   "author": "Tamási Áron",
   "lead": "\"Könnyű dolog a zsendülő tavaszi mezőben elgyönyörködve időzni, de annál nehezebb úgy elindulni onnét, hogy az az út a leghelyesebben vezessen a kitűzött cél felé. De én jó lélekkel mondhatom, hogy megtaláltam az elindulásnak eme módját, ami más szóval azt jelenti, hogy gyalogszerre határoztam magam.\"",
   "cover": "/03700/03741/borito.jpg",
@@ -8,23 +8,23 @@
   "audio_files": [
     {
       "url": "0923aa00.mp3",
-      "title": "0923aa00.mp3 - Hangos katalóguscédula"
+      "title": "0923 - Hangos katalóguscédula"
     },
     {
       "url": "0923af01.mp3",
-      "title": "0923af01.mp3 - 1. fejezet"
+      "title": "0923 - 1. fejezet"
     },
     {
       "url": "0923af02.mp3",
-      "title": "0923af02.mp3 - 2. fejezet"
+      "title": "0923 - 2. fejezet"
     },
     {
       "url": "0923af03.mp3",
-      "title": "0923af03.mp3 - 3. fejezet"
+      "title": "0923 - 3. fejezet"
     },
     {
       "url": "0923af04.mp3",
-      "title": "0923af04.mp3 - 4. fejezet"
+      "title": "0923 - 4. fejezet"
     }
   ],
   "url": "https://mek.oszk.hu/03700/03741"

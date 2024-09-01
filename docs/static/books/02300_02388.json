@@ -1,6 +1,6 @@
 {
   "id": "02300_02388",
-  "title": "Egy elmebeteg nő naplójaMVGYOSZ hangoskönyvek",
+  "title": "Egy elmebeteg nő naplója",
   "author": "Csáth Géza",
   "lead": "\"1905-ben lép fel először betegünknél a befolyásoltatás téves eszméje. Már azelőtt is érezte sokszor, hogy »van valami idegen«, és hogy a napsütésben rejlik valami, ami előidézi a gondolatait, de ez csak futólagos érzés, sejtelem volt. Most azonban világosan felfedezte magában az idegen befolyást.\"",
   "cover": "/02300/02388/borito.jpg",
@@ -8,51 +8,51 @@
   "audio_files": [
     {
       "url": "2616aa00.mp3",
-      "title": "2616aa00.mp3 - Hangos katalóguscédula"
+      "title": "2616 - Hangos katalóguscédula"
     },
     {
       "url": "2616af00.mp3",
-      "title": "2616af00.mp3 - Előszó"
+      "title": "2616 - Előszó"
     },
     {
       "url": "2616af01.mp3",
-      "title": "2616af01.mp3 - Az elmebetegségek pszichikus mechanizmusa"
+      "title": "2616 - Az elmebetegségek pszichikus mechanizmusa"
     },
     {
       "url": "2616af02.mp3",
-      "title": "2616af02.mp3 - Az elmebetegségek általános pszichológiája"
+      "title": "2616 - Az elmebetegségek általános pszichológiája"
     },
     {
       "url": "2616af03.mp3",
-      "title": "2616af03.mp3 - Kórrajz"
+      "title": "2616 - Kórrajz"
     },
     {
       "url": "2616af04.mp3",
-      "title": "2616af04.mp3 - A pszichózis analízise"
+      "title": "2616 - A pszichózis analízise"
     },
     {
       "url": "2616af05.mp3",
-      "title": "2616af05.mp3 - Diagnózis"
+      "title": "2616 - Diagnózis"
     },
     {
       "url": "2616ag00.mp3",
-      "title": "2616ag00.mp3 - Befejezés"
+      "title": "2616 - Befejezés"
     },
     {
       "url": "2616ah01.mp3",
-      "title": "2616ah01.mp3 - Egykorú könyvismertetés"
+      "title": "2616 - Egykorú könyvismertetés"
     },
     {
       "url": "2616ah02.mp3",
-      "title": "2616ah02.mp3 - Csáth Géza tanulmánya a mai orvostudomány tükrében"
+      "title": "2616 - Csáth Géza tanulmánya a mai orvostudomány tükrében"
     },
     {
       "url": "2616ah03.mp3",
-      "title": "2616ah03.mp3 - A novallista Csáth és a pszichoanalízis"
+      "title": "2616 - A novallista Csáth és a pszichoanalízis"
     },
     {
       "url": "2616ah04.mp3",
-      "title": "2616ah04.mp3 - Orvosi kifejezések szótára"
+      "title": "2616 - Orvosi kifejezések szótára"
     }
   ],
   "url": "https://mek.oszk.hu/02300/02388"

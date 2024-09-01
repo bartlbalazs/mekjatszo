@@ -1,10 +1,10 @@
 import logging
-import util
 from typing import List
 
 import requests
 from bs4 import BeautifulSoup
 
+import util
 from model import AudioFile, Book
 
 FIRST_PAGE = '/keresesek/keresesf.phtml?formatum=MP3'
@@ -41,10 +41,10 @@ class Scraper:
     def _get_book(self, url: str) -> Book:
         id = util.url_encode(url[len('https://mek.oszk.hu/'):])
         page = BeautifulSoup(self._get_request(url, 'utf-8'), 'html.parser')
-        title = util.clean_string(page.select_one('#pagetop > section > div.DC.CSS-item > div.content > h3').text)
-        if title.endswith('[Hangoskönyv]'):
-            title = title[:-len('[Hangoskönyv]')].strip()
-        lead = util.clean_string(page.select_one('#pagetop > section > div.DC.CSS-item > div.content > div.itemlead').text)
+        raw_title = page.select_one('#pagetop > section > div.DC.CSS-item > div.content > h3').text
+        title = util.clean_book_title(raw_title)
+        lead = util.clean_string(
+            page.select_one('#pagetop > section > div.DC.CSS-item > div.content > div.itemlead').text)
         author = None
         try:
             author = util.clean_string(page.select_one("#pagetop > section > div.DC.CSS-item > div.content > h4").text)
@@ -70,10 +70,11 @@ class Scraper:
 
         audio_files_page = BeautifulSoup(self._get_request(url + '/mp3/index.html', 'utf-8'), 'html.parser')
         audio_files = list(
-            map(lambda a: AudioFile(url=a.attrs['href'], title=util.clean_string(a.text)),
+            map(lambda a: AudioFile(url=a.attrs['href'], title=util.clean_chapter_title(a.text)),
                 filter(lambda t: t.attrs['href'].endswith('.mp3'), audio_files_page.find_all('a'))))
-        return Book(id=id,title=title, author=author, lead=lead, cover=cover, url=url, description=description,
+        return Book(id=id, title=title, author=author, lead=lead, cover=cover, url=url, description=description,
                     audio_files=audio_files)
+
 
     def scrape_book_list(self) -> List[Book]:
         books = []

@@ -1,7 +1,7 @@
 [
   {
     "id": "02700_02750",
-    "title": "Az apácaMVGYOSZ hangoskönyvek",
+    "title": "Az apáca",
     "author": "Denis Diderot",
     "lead": "\"Egyszer a Sainte-Marie zárdában megtörtént, hogy egyik apáca éjjel átment a másik cellájába a barátnőjéhez, és el sem tudom mondani, mennyi rosszat beszéltek róla! Gyóntatóm néha megkérdezte tőlem, hogy nem akart-e valaki velem egy ágyban aludni, és igen komolyan megtiltotta, hogy ilyesmit megengedjek.\"",
     "cover": "/02700/02750/borito.jpg",
@@ -9,51 +9,51 @@
     "audio_files": [
       {
         "url": "640aa00.mp3",
-        "title": "640aa00.mp3 - Hangos katalóguscédula"
+        "title": "640 - Hangos katalóguscédula"
       },
       {
         "url": "640af01.mp3",
-        "title": "640af01.mp3 - 1. rész"
+        "title": "640 - 1. rész"
       },
       {
         "url": "640af02.mp3",
-        "title": "640af02.mp3 - 2. rész"
+        "title": "640 - 2. rész"
       },
       {
         "url": "640af03.mp3",
-        "title": "640af03.mp3 - 3. rész"
+        "title": "640 - 3. rész"
       },
       {
         "url": "640af04.mp3",
-        "title": "640af04.mp3 - 4. rész"
+        "title": "640 - 4. rész"
       },
       {
         "url": "640af05.mp3",
-        "title": "640af05.mp3 - 5. rész"
+        "title": "640 - 5. rész"
       },
       {
         "url": "640af06.mp3",
-        "title": "640af06.mp3 - 6. rész"
+        "title": "640 - 6. rész"
       },
       {
         "url": "640af07.mp3",
-        "title": "640af07.mp3 - 7. rész"
+        "title": "640 - 7. rész"
       },
       {
         "url": "640af08.mp3",
-        "title": "640af08.mp3 - 8. rész"
+        "title": "640 - 8. rész"
       },
       {
         "url": "640af09.mp3",
-        "title": "640af09.mp3 - 9. rész"
+        "title": "640 - 9. rész"
       },
       {
         "url": "640af10.mp3",
-        "title": "640af10.mp3 - 10. rész"
+        "title": "640 - 10. rész"
       },
       {
         "url": "640af11.mp3",
-        "title": "640af11.mp3 - Utóirat"
+        "title": "640 - Utóirat"
       }
     ],
     "url": "https://mek.oszk.hu/02700/02750"

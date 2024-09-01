@@ -8,27 +8,27 @@
   "audio_files": [
     {
       "url": "00_ludasmatyi_focim.mp3",
-      "title": "00_ludasmatyi_focim.mp3 - Hangos katalóguscédula"
+      "title": "00 - Hangos katalóguscédula"
     },
     {
       "url": "01_ludasmatyi_eloszo.mp3",
-      "title": "01_ludasmatyi_eloszo.mp3 - Elöljáró-beszéd"
+      "title": "01 - Elöljáró-beszéd"
     },
     {
       "url": "02_ludasmatyi_1levonas.mp3",
-      "title": "02_ludasmatyi_1levonas.mp3 - Első levonás"
+      "title": "02 - Első levonás"
     },
     {
       "url": "03_ludasmatyi_2levonas.mp3",
-      "title": "03_ludasmatyi_2levonas.mp3 - Második levonás"
+      "title": "03 - Második levonás"
     },
     {
       "url": "04_ludasmatyi_3levonas.mp3",
-      "title": "04_ludasmatyi_3levonas.mp3 - Harmadik levonás"
+      "title": "04 - Harmadik levonás"
     },
     {
       "url": "05_ludasmatyi_4levonas.mp3",
-      "title": "05_ludasmatyi_4levonas.mp3 - Negyedik levonás"
+      "title": "05 - Negyedik levonás"
     }
   ],
   "url": "https://mek.oszk.hu/07100/07120"

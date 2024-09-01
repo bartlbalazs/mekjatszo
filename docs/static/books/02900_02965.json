@@ -1,6 +1,6 @@
 {
   "id": "02900_02965",
-  "title": "Ábel a rengetegbenMVGYOSZ hangoskönyvek",
+  "title": "Ábel a rengetegben",
   "author": "Tamási Áron",
   "lead": "\"A ház teteje, a föld és tövig a fák: mind olyanok voltak, mintha vízbe mártották volna őket. Délutánra már az eső szitálása is megindult. Ezzel új világ szakadt a Hargitára; s úgyszintén az én pásztorkodásomra is, melyet azonban nemcsak köddel, esővel és hideggel búsított meg, hanem felékesített kedves kalandokkal is.\"",
   "cover": "/02900/02965/borito.jpg",
@@ -8,23 +8,23 @@
   "audio_files": [
     {
       "url": "952aa00.mp3",
-      "title": "952aa00.mp3 - Hangos katalóguscédula"
+      "title": "952 - Hangos katalóguscédula"
     },
     {
       "url": "952af01.mp3",
-      "title": "952af01.mp3 - 1. fejezet"
+      "title": "952 - 1. fejezet"
     },
     {
       "url": "952af02.mp3",
-      "title": "952af02.mp3 - 2. fejezet"
+      "title": "952 - 2. fejezet"
     },
     {
       "url": "952af03.mp3",
-      "title": "952af03.mp3 - 3. fejezet"
+      "title": "952 - 3. fejezet"
     },
     {
       "url": "952af04.mp3",
-      "title": "952af04.mp3 - 4. fejezet"
+      "title": "952 - 4. fejezet"
     }
   ],
   "url": "https://mek.oszk.hu/02900/02965"

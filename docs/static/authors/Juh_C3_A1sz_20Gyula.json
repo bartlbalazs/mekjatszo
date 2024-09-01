@@ -1,7 +1,7 @@
 [
   {
     "id": "04200_04248",
-    "title": "Orbán lelkeMVGYOSZ hangoskönyvek",
+    "title": "Orbán lelke",
     "author": "Juhász Gyula",
     "lead": "\"Gyerünk külföldre! - mondotta egy nap ebéd után Szimák Orbánnak, amint az iskola porától tikkadtan és az öt órás robottól fáradtan ültek a vendéglő mélyén. - Jól van, gyerünk - felelte a másik -, egy kis külföldi tanulmányút nem árt, a kormánytól úgyis hiába kérem. - Ez a külföld persze nem volt messze tőlük...\"",
     "cover": "/04200/04248/borito.jpg",
@@ -9,74 +9,74 @@
     "audio_files": [
       {
         "url": "0077aa00.mp3",
-        "title": "0077aa00.mp3 - Hangos katalóguscédula"
+        "title": "0077 - Hangos katalóguscédula"
       },
       {
         "url": "0077af01.mp3",
-        "title": "0077af01.mp3 - 1. fejezet"
+        "title": "0077 - 1. fejezet"
       },
       {
         "url": "0077af02.mp3",
-        "title": "0077af02.mp3 - 2. fejezet"
+        "title": "0077 - 2. fejezet"
       },
       {
         "url": "0077af03.mp3",
-        "title": "0077af03.mp3 - 3. fejezet"
+        "title": "0077 - 3. fejezet"
       },
       {
         "url": "0077af04.mp3",
-        "title": "0077af04.mp3 - 4. fejezet"
+        "title": "0077 - 4. fejezet"
       },
       {
         "url": "0077af05.mp3",
-        "title": "0077af05.mp3 - 5. fejezet"
+        "title": "0077 - 5. fejezet"
       },
       {
         "url": "0077af06.mp3",
-        "title": "0077af06.mp3 - 6. fejezet"
+        "title": "0077 - 6. fejezet"
       },
       {
         "url": "0077af07.mp3",
-        "title": "0077af07.mp3 - 7. fejezet"
+        "title": "0077 - 7. fejezet"
       },
       {
         "url": "0077af08.mp3",
-        "title": "0077af08.mp3 - 8. fejezet"
+        "title": "0077 - 8. fejezet"
       },
       {
         "url": "0077af09.mp3",
-        "title": "0077af09.mp3 - 9. fejezet"
+        "title": "0077 - 9. fejezet"
       },
       {
         "url": "0077af10.mp3",
-        "title": "0077af10.mp3 - 10. fejezet"
+        "title": "0077 - 10. fejezet"
       },
       {
         "url": "0077af11.mp3",
-        "title": "0077af11.mp3 - 11. fejezet"
+        "title": "0077 - 11. fejezet"
       },
       {
         "url": "0077af12.mp3",
-        "title": "0077af12.mp3 - 12. fejezet"
+        "title": "0077 - 12. fejezet"
       },
       {
         "url": "0077af13.mp3",
-        "title": "0077af13.mp3 - 13. fejezet"
+        "title": "0077 - 13. fejezet"
       },
       {
         "url": "0077af14.mp3",
-        "title": "0077af14.mp3 - 14. fejezet"
+        "title": "0077 - 14. fejezet"
       },
       {
         "url": "0077af15.mp3",
-        "title": "0077af15.mp3 - 15. fejezet"
+        "title": "0077 - 15. fejezet"
       }
     ],
     "url": "https://mek.oszk.hu/04200/04248"
   },
   {
     "id": "04700_04787",
-    "title": "SzakállszárítóMVGYOSZ hangoskönyvek",
+    "title": "Szakállszárító",
     "author": "Juhász Gyula",
     "lead": "\"Olvashatod Platónt és Arisztotelészt, Szent Ágostont és Tamást, Descartes-ot és Spinozát, Kantot és Schopenhauert, a világ lényegét és az élet értelmét mégis inkább érezteti veled egy harmatcsepp a virágon és egy könnycsepp a szemben.\"",
     "cover": "/04700/04787/borito.jpg",
@@ -84,191 +84,191 @@
     "audio_files": [
       {
         "url": "2968aa001.mp3",
-        "title": "2968aa001.mp3 - Hangos katalóguscédula"
+        "title": "2968 - Hangos katalóguscédula"
       },
       {
         "url": "2968ab000.mp3",
-        "title": "2968ab000.mp3 - Szakállszárító"
+        "title": "2968 - Szakállszárító"
       },
       {
         "url": "2968af001.mp3",
-        "title": "2968af001.mp3 - Aforizmák"
+        "title": "2968 - Aforizmák"
       },
       {
         "url": "2968af002.mp3",
-        "title": "2968af002.mp3 - Aforizmák a destrukcióról"
+        "title": "2968 - Aforizmák a destrukcióról"
       },
       {
         "url": "2968af003.mp3",
-        "title": "2968af003.mp3 - Pünkösdi nyelvek"
+        "title": "2968 - Pünkösdi nyelvek"
       },
       {
         "url": "2968af004.mp3",
-        "title": "2968af004.mp3 - Színházi aforizmák"
+        "title": "2968 - Színházi aforizmák"
       },
       {
         "url": "2968af005.mp3",
-        "title": "2968af005.mp3 - Elegyes holmi"
+        "title": "2968 - Elegyes holmi"
       },
       {
         "url": "2968af006.mp3",
-        "title": "2968af006.mp3 - Új holmi"
+        "title": "2968 - Új holmi"
       },
       {
         "url": "2968af007.mp3",
-        "title": "2968af007.mp3 - Irodalmi holmi"
+        "title": "2968 - Irodalmi holmi"
       },
       {
         "url": "2968af008.mp3",
-        "title": "2968af008.mp3 - Himmi-hummi"
+        "title": "2968 - Himmi-hummi"
       },
       {
         "url": "2968af009.mp3",
-        "title": "2968af009.mp3 - Ciróka-maróka"
+        "title": "2968 - Ciróka-maróka"
       },
       {
         "url": "2968af010.mp3",
-        "title": "2968af010.mp3 - Élet és irodalom"
+        "title": "2968 - Élet és irodalom"
       },
       {
         "url": "2968af011.mp3",
-        "title": "2968af011.mp3 - Írók és urak"
+        "title": "2968 - Írók és urak"
       },
       {
         "url": "2968af012.mp3",
-        "title": "2968af012.mp3 - Kalászok és pipacsok"
+        "title": "2968 - Kalászok és pipacsok"
       },
       {
         "url": "2968af013.mp3",
-        "title": "2968af013.mp3 - Emlék és remény"
+        "title": "2968 - Emlék és remény"
       },
       {
         "url": "2968af014.mp3",
-        "title": "2968af014.mp3 - Politika és művészet"
+        "title": "2968 - Politika és művészet"
       },
       {
         "url": "2968af015.mp3",
-        "title": "2968af015.mp3 - Ötletek"
+        "title": "2968 - Ötletek"
       },
       {
         "url": "2968af016.mp3",
-        "title": "2968af016.mp3 - Egészség"
+        "title": "2968 - Egészség"
       },
       {
         "url": "2968af017.mp3",
-        "title": "2968af017.mp3 - Gondolatok a színházban"
+        "title": "2968 - Gondolatok a színházban"
       },
       {
         "url": "2968af018.mp3",
-        "title": "2968af018.mp3 - Egyről-másról"
+        "title": "2968 - Egyről-másról"
       },
       {
         "url": "2968af019.mp3",
-        "title": "2968af019.mp3 - Találkozások az üstökössel"
+        "title": "2968 - Találkozások az üstökössel"
       },
       {
         "url": "2968af020.mp3",
-        "title": "2968af020.mp3 - Márciusi zsongás"
+        "title": "2968 - Márciusi zsongás"
       },
       {
         "url": "2968af021.mp3",
-        "title": "2968af021.mp3 - A Húsvét margójára"
+        "title": "2968 - A Húsvét margójára"
       },
       {
         "url": "2968af022.mp3",
-        "title": "2968af022.mp3 - Bécsi mozaik"
+        "title": "2968 - Bécsi mozaik"
       },
       {
         "url": "2968af023.mp3",
-        "title": "2968af023.mp3 - Teátrália"
+        "title": "2968 - Teátrália"
       },
       {
         "url": "2968af024.mp3",
-        "title": "2968af024.mp3 - Holmi"
+        "title": "2968 - Holmi"
       },
       {
         "url": "2968af025.mp3",
-        "title": "2968af025.mp3 - Tanügy"
+        "title": "2968 - Tanügy"
       },
       {
         "url": "2968af026.mp3",
-        "title": "2968af026.mp3 - Magyarán mondva"
+        "title": "2968 - Magyarán mondva"
       },
       {
         "url": "2968af027.mp3",
-        "title": "2968af027.mp3 - Numerus clausus"
+        "title": "2968 - Numerus clausus"
       },
       {
         "url": "2968af028.mp3",
-        "title": "2968af028.mp3 - Buda"
+        "title": "2968 - Buda"
       },
       {
         "url": "2968af029.mp3",
-        "title": "2968af029.mp3 - A halottak városában"
+        "title": "2968 - A halottak városában"
       },
       {
         "url": "2968af030.mp3",
-        "title": "2968af030.mp3 - Száraz napok"
+        "title": "2968 - Száraz napok"
       },
       {
         "url": "2968af031.mp3",
-        "title": "2968af031.mp3 - Én nem mondom, hogy megértem..."
+        "title": "2968 - Én nem mondom, hogy megértem..."
       },
       {
         "url": "2968af032.mp3",
-        "title": "2968af032.mp3 - Színház"
+        "title": "2968 - Színház"
       },
       {
         "url": "2968af033.mp3",
-        "title": "2968af033.mp3 - Repülők"
+        "title": "2968 - Repülők"
       },
       {
         "url": "2968af034.mp3",
-        "title": "2968af034.mp3 - Szegedi mozaik"
+        "title": "2968 - Szegedi mozaik"
       },
       {
         "url": "2968af035.mp3",
-        "title": "2968af035.mp3 - Nagy és kis dolgok"
+        "title": "2968 - Nagy és kis dolgok"
       },
       {
         "url": "2968af036.mp3",
-        "title": "2968af036.mp3 - Új Esopus"
+        "title": "2968 - Új Esopus"
       },
       {
         "url": "2968af037.mp3",
-        "title": "2968af037.mp3 - Reflektor"
+        "title": "2968 - Reflektor"
       },
       {
         "url": "2968af038.mp3",
-        "title": "2968af038.mp3 - Építészek"
+        "title": "2968 - Építészek"
       },
       {
         "url": "2968af039.mp3",
-        "title": "2968af039.mp3 - Szent gyermekség"
+        "title": "2968 - Szent gyermekség"
       },
       {
         "url": "2968af040.mp3",
-        "title": "2968af040.mp3 - Komédia"
+        "title": "2968 - Komédia"
       },
       {
         "url": "2968af041.mp3",
-        "title": "2968af041.mp3 - Újságírók"
+        "title": "2968 - Újságírók"
       },
       {
         "url": "2968af042.mp3",
-        "title": "2968af042.mp3 - Poéták"
+        "title": "2968 - Poéták"
       },
       {
         "url": "2968af043.mp3",
-        "title": "2968af043.mp3 - Breviarium"
+        "title": "2968 - Breviarium"
       },
       {
         "url": "2968af044.mp3",
-        "title": "2968af044.mp3 - Pasztell"
+        "title": "2968 - Pasztell"
       },
       {
         "url": "2968af045.mp3",
-        "title": "2968af045.mp3 - Késő szüret"
+        "title": "2968 - Késő szüret"
       }
     ],
     "url": "https://mek.oszk.hu/04700/04787"

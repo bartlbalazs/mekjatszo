@@ -1,6 +1,6 @@
 {
   "id": "03300_03388",
-  "title": "AeneisMVGYOSZ hangoskönyvek",
+  "title": "Aeneis",
   "author": "Publius Vergilius Maro",
   "lead": "\"Harcokat énekelek s egy hőst, akit Ítaliába, Trója vidékéről lávín partig, legelőször űzött végzete; sok földet, tengert bolyongott, égi erők és Júnó nem-feledő dühe folytán...\"",
   "cover": "/03300/03388/borito.jpg",
@@ -8,63 +8,63 @@
   "audio_files": [
     {
       "url": "0902aa00.mp3",
-      "title": "0902aa00.mp3 - Hangos katalóguscédula"
+      "title": "0902 - Hangos katalóguscédula"
     },
     {
       "url": "0902af01.mp3",
-      "title": "0902af01.mp3 - Első ének"
+      "title": "0902 - Első ének"
     },
     {
       "url": "0902af02.mp3",
-      "title": "0902af02.mp3 - Második ének"
+      "title": "0902 - Második ének"
     },
     {
       "url": "0902af03.mp3",
-      "title": "0902af03.mp3 - Harmadik ének"
+      "title": "0902 - Harmadik ének"
     },
     {
       "url": "0902af04.mp3",
-      "title": "0902af04.mp3 - Negyedik ének"
+      "title": "0902 - Negyedik ének"
     },
     {
       "url": "0902af05.mp3",
-      "title": "0902af05.mp3 - Ötödik ének"
+      "title": "0902 - Ötödik ének"
     },
     {
       "url": "0902af06.mp3",
-      "title": "0902af06.mp3 - Hatodik ének"
+      "title": "0902 - Hatodik ének"
     },
     {
       "url": "0902af07.mp3",
-      "title": "0902af07.mp3 - Hetedik ének"
+      "title": "0902 - Hetedik ének"
     },
     {
       "url": "0902af08.mp3",
-      "title": "0902af08.mp3 - Nyolcadik ének"
+      "title": "0902 - Nyolcadik ének"
     },
     {
       "url": "0902af09.mp3",
-      "title": "0902af09.mp3 - Kilencedik ének"
+      "title": "0902 - Kilencedik ének"
     },
     {
       "url": "0902af10.mp3",
-      "title": "0902af10.mp3 - Tizedik ének"
+      "title": "0902 - Tizedik ének"
     },
     {
       "url": "0902af11.mp3",
-      "title": "0902af11.mp3 - Tizenegyedik ének"
+      "title": "0902 - Tizenegyedik ének"
     },
     {
       "url": "0902af12.mp3",
-      "title": "0902af12.mp3 - Tizenkettedik ének"
+      "title": "0902 - Tizenkettedik ének"
     },
     {
       "url": "0902av00.mp3",
-      "title": "0902av00.mp3 - Névmutató"
+      "title": "0902 - Névmutató"
     },
     {
       "url": "0902av01.mp3",
-      "title": "0902av01.mp3 - Trencsényi-Waldapfel Imre: Vergilius"
+      "title": "0902 - Trencsényi-Waldapfel Imre: Vergilius"
     }
   ],
   "url": "https://mek.oszk.hu/03300/03388"

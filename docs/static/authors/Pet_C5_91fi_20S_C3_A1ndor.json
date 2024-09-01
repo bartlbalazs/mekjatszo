@@ -1,5 +1,96 @@
 [
   {
+    "id": "18900_18938",
+    "title": "Az apostol",
+    "author": "Petőfi Sándor",
+    "lead": "\"Vénült, kihalt a szolganemzedék, Uj nemzedék jött, mely apáit Arcpirulással emlité s azoknál Jobb akart lenni és az is lett...\"",
+    "cover": "/18900/18938/borito.jpg",
+    "description": null,
+    "audio_files": [
+      {
+        "url": "01-Petofi_Sandor-Az_apostol.mp3",
+        "title": "01 - 01. rész"
+      },
+      {
+        "url": "02-Petofi_Sandor-Az_apostol.mp3",
+        "title": "02 - 02. rész"
+      },
+      {
+        "url": "03-Petofi_Sandor-Az_apostol.mp3",
+        "title": "03 - 03. rész"
+      },
+      {
+        "url": "04-Petofi_Sandor-Az_apostol.mp3",
+        "title": "04 - 04. rész"
+      },
+      {
+        "url": "05-Petofi_Sandor-Az_apostol.mp3",
+        "title": "05 - 05. rész"
+      },
+      {
+        "url": "06-Petofi_Sandor-Az_apostol.mp3",
+        "title": "06 - 06. rész"
+      },
+      {
+        "url": "07-Petofi_Sandor-Az_apostol.mp3",
+        "title": "07 - 07. rész"
+      },
+      {
+        "url": "08-Petofi_Sandor-Az_apostol.mp3",
+        "title": "08 - 08. rész"
+      },
+      {
+        "url": "09-Petofi_Sandor-Az_apostol.mp3",
+        "title": "09 - 09. rész"
+      },
+      {
+        "url": "10-Petofi_Sandor-Az_apostol.mp3",
+        "title": "10 - 10. rész"
+      },
+      {
+        "url": "11-Petofi_Sandor-Az_apostol.mp3",
+        "title": "11 - 11. rész"
+      },
+      {
+        "url": "12-Petofi_Sandor-Az_apostol.mp3",
+        "title": "12 - 12. rész"
+      },
+      {
+        "url": "13-Petofi_Sandor-Az_apostol.mp3",
+        "title": "13 - 13. rész"
+      },
+      {
+        "url": "14-Petofi_Sandor-Az_apostol.mp3",
+        "title": "14 - 14. rész"
+      },
+      {
+        "url": "15-Petofi_Sandor-Az_apostol.mp3",
+        "title": "15 - 15. rész"
+      },
+      {
+        "url": "16-Petofi_Sandor-Az_apostol.mp3",
+        "title": "16 - 16. rész"
+      },
+      {
+        "url": "17-Petofi_Sandor-Az_apostol.mp3",
+        "title": "17 - 17. rész"
+      },
+      {
+        "url": "18-Petofi_Sandor-Az_apostol.mp3",
+        "title": "18 - 18. rész"
+      },
+      {
+        "url": "19-Petofi_Sandor-Az_apostol.mp3",
+        "title": "19 - 19. rész"
+      },
+      {
+        "url": "20-Petofi_Sandor-Az_apostol.mp3",
+        "title": "20 - 20. rész"
+      }
+    ],
+    "url": "https://mek.oszk.hu/18900/18938"
+  },
+  {
     "id": "08700_08799",
     "title": "Az apostol",
     "author": "Petőfi Sándor",
@@ -95,97 +186,6 @@
     "url": "https://mek.oszk.hu/08700/08799"
   },
   {
-    "id": "18900_18938",
-    "title": "Az apostol",
-    "author": "Petőfi Sándor",
-    "lead": "\"Vénült, kihalt a szolganemzedék, Uj nemzedék jött, mely apáit Arcpirulással emlité s azoknál Jobb akart lenni és az is lett...\"",
-    "cover": "/18900/18938/borito.jpg",
-    "description": null,
-    "audio_files": [
-      {
-        "url": "01-Petofi_Sandor-Az_apostol.mp3",
-        "title": "01-Petofi_Sandor-Az_apostol.mp3 - 01. rész"
-      },
-      {
-        "url": "02-Petofi_Sandor-Az_apostol.mp3",
-        "title": "02-Petofi_Sandor-Az_apostol.mp3 - 02. rész"
-      },
-      {
-        "url": "03-Petofi_Sandor-Az_apostol.mp3",
-        "title": "03-Petofi_Sandor-Az_apostol.mp3 - 03. rész"
-      },
-      {
-        "url": "04-Petofi_Sandor-Az_apostol.mp3",
-        "title": "04-Petofi_Sandor-Az_apostol.mp3 - 04. rész"
-      },
-      {
-        "url": "05-Petofi_Sandor-Az_apostol.mp3",
-        "title": "05-Petofi_Sandor-Az_apostol.mp3 - 05. rész"
-      },
-      {
-        "url": "06-Petofi_Sandor-Az_apostol.mp3",
-        "title": "06-Petofi_Sandor-Az_apostol.mp3 - 06. rész"
-      },
-      {
-        "url": "07-Petofi_Sandor-Az_apostol.mp3",
-        "title": "07-Petofi_Sandor-Az_apostol.mp3 - 07. rész"
-      },
-      {
-        "url": "08-Petofi_Sandor-Az_apostol.mp3",
-        "title": "08-Petofi_Sandor-Az_apostol.mp3 - 08. rész"
-      },
-      {
-        "url": "09-Petofi_Sandor-Az_apostol.mp3",
-        "title": "09-Petofi_Sandor-Az_apostol.mp3 - 09. rész"
-      },
-      {
-        "url": "10-Petofi_Sandor-Az_apostol.mp3",
-        "title": "10-Petofi_Sandor-Az_apostol.mp3 - 10. rész"
-      },
-      {
-        "url": "11-Petofi_Sandor-Az_apostol.mp3",
-        "title": "11-Petofi_Sandor-Az_apostol.mp3 - 11. rész"
-      },
-      {
-        "url": "12-Petofi_Sandor-Az_apostol.mp3",
-        "title": "12-Petofi_Sandor-Az_apostol.mp3 - 12. rész"
-      },
-      {
-        "url": "13-Petofi_Sandor-Az_apostol.mp3",
-        "title": "13-Petofi_Sandor-Az_apostol.mp3 - 13. rész"
-      },
-      {
-        "url": "14-Petofi_Sandor-Az_apostol.mp3",
-        "title": "14-Petofi_Sandor-Az_apostol.mp3 - 14. rész"
-      },
-      {
-        "url": "15-Petofi_Sandor-Az_apostol.mp3",
-        "title": "15-Petofi_Sandor-Az_apostol.mp3 - 15. rész"
-      },
-      {
-        "url": "16-Petofi_Sandor-Az_apostol.mp3",
-        "title": "16-Petofi_Sandor-Az_apostol.mp3 - 16. rész"
-      },
-      {
-        "url": "17-Petofi_Sandor-Az_apostol.mp3",
-        "title": "17-Petofi_Sandor-Az_apostol.mp3 - 17. rész"
-      },
-      {
-        "url": "18-Petofi_Sandor-Az_apostol.mp3",
-        "title": "18-Petofi_Sandor-Az_apostol.mp3 - 18. rész"
-      },
-      {
-        "url": "19-Petofi_Sandor-Az_apostol.mp3",
-        "title": "19-Petofi_Sandor-Az_apostol.mp3 - 19. rész"
-      },
-      {
-        "url": "20-Petofi_Sandor-Az_apostol.mp3",
-        "title": "20-Petofi_Sandor-Az_apostol.mp3 - 20. rész"
-      }
-    ],
-    "url": "https://mek.oszk.hu/18900/18938"
-  },
-  {
     "id": "18200_18262",
     "title": "Bolond Istók",
     "author": "Petőfi Sándor",
@@ -195,14 +195,14 @@
     "audio_files": [
       {
         "url": "Petofi_Sandor-Bolond_Istok.mp3",
-        "title": "Petofi_Sandor-Bolond_Istok.mp3 - Bolond Istók"
+        "title": "Bolond Istók"
       }
     ],
     "url": "https://mek.oszk.hu/18200/18262"
   },
   {
     "id": "02200_02268",
-    "title": "A helység kalapácsaMVGYOSZ hangoskönyvek",
+    "title": "A helység kalapácsa",
     "author": "Petőfi Sándor",
     "lead": "\"A széles tenyerű Fejenagy, A helységi kovács, Vagy mint őt a dús képzeletű nép Költőileg elnevezé: A helység kalapácsa.\"",
     "cover": "/02200/02268/borito.jpg",
@@ -210,27 +210,27 @@
     "audio_files": [
       {
         "url": "2571aa00.mp3",
-        "title": "2571aa00.mp3 - Hangos katalóguscédula"
+        "title": "2571 - Hangos katalóguscédula"
       },
       {
         "url": "2571af00.mp3",
-        "title": "2571af00.mp3 - Tartalom"
+        "title": "2571 - Tartalom"
       },
       {
         "url": "2571af01.mp3",
-        "title": "2571af01.mp3 - I. ének"
+        "title": "2571 - I. ének"
       },
       {
         "url": "2571af02.mp3",
-        "title": "2571af02.mp3 - II. ének"
+        "title": "2571 - II. ének"
       },
       {
         "url": "2571af03.mp3",
-        "title": "2571af03.mp3 - III. ének"
+        "title": "2571 - III. ének"
       },
       {
         "url": "2571af04.mp3",
-        "title": "2571af04.mp3 - IV. ének"
+        "title": "2571 - IV. ének"
       }
     ],
     "url": "https://mek.oszk.hu/02200/02268"
@@ -245,19 +245,19 @@
     "audio_files": [
       {
         "url": "01-Petofi_Sandor-A_helyseg_kalapacsa.mp3",
-        "title": "01-Petofi_Sandor-A_helyseg_kalapacsa.mp3 - Első ének"
+        "title": "01 - Első ének"
       },
       {
         "url": "02-Petofi_Sandor-A_helyseg_kalapacsa.mp3",
-        "title": "02-Petofi_Sandor-A_helyseg_kalapacsa.mp3 - Második ének"
+        "title": "02 - Második ének"
       },
       {
         "url": "03-Petofi_Sandor-A_helyseg_kalapacsa.mp3",
-        "title": "03-Petofi_Sandor-A_helyseg_kalapacsa.mp3 - Harmadik ének"
+        "title": "03 - Harmadik ének"
       },
       {
         "url": "04-Petofi_Sandor-A_helyseg_kalapacsa.mp3",
-        "title": "04-Petofi_Sandor-A_helyseg_kalapacsa.mp3 - Negyedik ének"
+        "title": "04 - Negyedik ének"
       }
     ],
     "url": "https://mek.oszk.hu/18800/18838"
@@ -272,111 +272,111 @@
     "audio_files": [
       {
         "url": "01-Petofi_Sandor-Janos_vitez.mp3",
-        "title": "01-Petofi_Sandor-Janos_vitez.mp3 - I."
+        "title": "01 - I."
       },
       {
         "url": "02-Petofi_Sandor-Janos_vitez.mp3",
-        "title": "02-Petofi_Sandor-Janos_vitez.mp3 - II."
+        "title": "02 - II."
       },
       {
         "url": "03-Petofi_Sandor-Janos_vitez.mp3",
-        "title": "03-Petofi_Sandor-Janos_vitez.mp3 - III."
+        "title": "03 - III."
       },
       {
         "url": "04-Petofi_Sandor-Janos_vitez.mp3",
-        "title": "04-Petofi_Sandor-Janos_vitez.mp3 - IV."
+        "title": "04 - IV."
       },
       {
         "url": "05-Petofi_Sandor-Janos_vitez.mp3",
-        "title": "05-Petofi_Sandor-Janos_vitez.mp3 - V."
+        "title": "05 - V."
       },
       {
         "url": "06-Petofi_Sandor-Janos_vitez.mp3",
-        "title": "06-Petofi_Sandor-Janos_vitez.mp3 - VI."
+        "title": "06 - VI."
       },
       {
         "url": "07-Petofi_Sandor-Janos_vitez.mp3",
-        "title": "07-Petofi_Sandor-Janos_vitez.mp3 - VII."
+        "title": "07 - VII."
       },
       {
         "url": "08-Petofi_Sandor-Janos_vitez.mp3",
-        "title": "08-Petofi_Sandor-Janos_vitez.mp3 - VIII"
+        "title": "08 - VIII"
       },
       {
         "url": "09-Petofi_Sandor-Janos_vitez.mp3",
-        "title": "09-Petofi_Sandor-Janos_vitez.mp3 - IX."
+        "title": "09 - IX."
       },
       {
         "url": "10-Petofi_Sandor-Janos_vitez.mp3",
-        "title": "10-Petofi_Sandor-Janos_vitez.mp3 - X."
+        "title": "10 - X."
       },
       {
         "url": "11-Petofi_Sandor-Janos_vitez.mp3",
-        "title": "11-Petofi_Sandor-Janos_vitez.mp3 - XI."
+        "title": "11 - XI."
       },
       {
         "url": "12-Petofi_Sandor-Janos_vitez.mp3",
-        "title": "12-Petofi_Sandor-Janos_vitez.mp3 - XII."
+        "title": "12 - XII."
       },
       {
         "url": "13-Petofi_Sandor-Janos_vitez.mp3",
-        "title": "13-Petofi_Sandor-Janos_vitez.mp3 - XIII"
+        "title": "13 - XIII"
       },
       {
         "url": "14-Petofi_Sandor-Janos_vitez.mp3",
-        "title": "14-Petofi_Sandor-Janos_vitez.mp3 - XIV."
+        "title": "14 - XIV."
       },
       {
         "url": "15-Petofi_Sandor-Janos_vitez.mp3",
-        "title": "15-Petofi_Sandor-Janos_vitez.mp3 - XV."
+        "title": "15 - XV."
       },
       {
         "url": "16-Petofi_Sandor-Janos_vitez.mp3",
-        "title": "16-Petofi_Sandor-Janos_vitez.mp3 - XVI."
+        "title": "16 - XVI."
       },
       {
         "url": "17-Petofi_Sandor-Janos_vitez.mp3",
-        "title": "17-Petofi_Sandor-Janos_vitez.mp3 - XVII"
+        "title": "17 - XVII"
       },
       {
         "url": "18-Petofi_Sandor-Janos_vitez.mp3",
-        "title": "18-Petofi_Sandor-Janos_vitez.mp3 - XVIII"
+        "title": "18 - XVIII"
       },
       {
         "url": "19-Petofi_Sandor-Janos_vitez.mp3",
-        "title": "19-Petofi_Sandor-Janos_vitez.mp3 - XIX"
+        "title": "19 - XIX"
       },
       {
         "url": "20-Petofi_Sandor-Janos_vitez.mp3",
-        "title": "20-Petofi_Sandor-Janos_vitez.mp3 - XX"
+        "title": "20 - XX"
       },
       {
         "url": "21-Petofi_Sandor-Janos_vitez.mp3",
-        "title": "21-Petofi_Sandor-Janos_vitez.mp3 - XXI."
+        "title": "21 - XXI."
       },
       {
         "url": "22-Petofi_Sandor-Janos_vitez.mp3",
-        "title": "22-Petofi_Sandor-Janos_vitez.mp3 - XXII."
+        "title": "22 - XXII."
       },
       {
         "url": "23-Petofi_Sandor-Janos_vitez.mp3",
-        "title": "23-Petofi_Sandor-Janos_vitez.mp3 - XXIII."
+        "title": "23 - XXIII."
       },
       {
         "url": "24-Petofi_Sandor-Janos_vitez.mp3",
-        "title": "24-Petofi_Sandor-Janos_vitez.mp3 - XXIV."
+        "title": "24 - XXIV."
       },
       {
         "url": "25-Petofi_Sandor-Janos_vitez.mp3",
-        "title": "25-Petofi_Sandor-Janos_vitez.mp3 - XXV."
+        "title": "25 - XXV."
       },
       {
         "url": "26-Petofi_Sandor-Janos_vitez.mp3",
-        "title": "26-Petofi_Sandor-Janos_vitez.mp3 - XXVI."
+        "title": "26 - XXVI."
       },
       {
         "url": "27-Petofi_Sandor-Janos_vitez.mp3",
-        "title": "27-Petofi_Sandor-Janos_vitez.mp3 - XXVII."
+        "title": "27 - XXVII."
       }
     ],
     "url": "https://mek.oszk.hu/19100/19149"
@@ -514,19 +514,19 @@
     "audio_files": [
       {
         "url": "Petofi_Sandor_valogatott_koltemenyei_01.mp3",
-        "title": "Petofi_Sandor_valogatott_koltemenyei_01.mp3 - 01. rész"
+        "title": "01. rész"
       },
       {
         "url": "Petofi_Sandor_valogatott_koltemenyei_02.mp3",
-        "title": "Petofi_Sandor_valogatott_koltemenyei_02.mp3 - 02. rész"
+        "title": "02. rész"
       },
       {
         "url": "Petofi_Sandor_valogatott_koltemenyei_03.mp3",
-        "title": "Petofi_Sandor_valogatott_koltemenyei_03.mp3 - 03. rész"
+        "title": "03. rész"
       },
       {
         "url": "Petofi_Sandor_valogatott_koltemenyei_04.mp3",
-        "title": "Petofi_Sandor_valogatott_koltemenyei_04.mp3 - 04. rész"
+        "title": "04. rész"
       }
     ],
     "url": "https://mek.oszk.hu/22200/22217"
