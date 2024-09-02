@@ -211,5 +211,32 @@
       "title": "50_koszivu.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/09700/09700"
+  "url": "https://mek.oszk.hu/09700/09700",
+  "similar_books": [
+    {
+      "id": "02300_02359",
+      "author": "Jókai Mór",
+      "title": "Csataképek a magyar szabadságharcból"
+    },
+    {
+      "id": "02300_02358",
+      "author": "Jókai Mór",
+      "title": "A gazdag szegények"
+    },
+    {
+      "id": "09500_09586",
+      "author": "Mikszáth Kálmán",
+      "title": "A jó palócok"
+    },
+    {
+      "id": "02300_02387",
+      "author": "Mikszáth Kálmán",
+      "title": "Jókai Mór élete és kora"
+    },
+    {
+      "id": "03000_03082",
+      "author": "Gárdonyi Géza",
+      "title": "Az én falum"
+    }
+  ]
 }

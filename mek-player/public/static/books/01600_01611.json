@@ -83,5 +83,32 @@
       "title": "18 - Drága ügyvéd úr reggelei (10:05 sec; 4,85 MB)"
     }
   ],
-  "url": "https://mek.oszk.hu/01600/01611"
+  "url": "https://mek.oszk.hu/01600/01611",
+  "similar_books": [
+    {
+      "id": "11700_11747",
+      "author": "Tar Károly",
+      "title": "Hajnalban vadnyuszik ablakom alatt"
+    },
+    {
+      "id": "03000_03082",
+      "author": "Gárdonyi Géza",
+      "title": "Az én falum"
+    },
+    {
+      "id": "11200_11242",
+      "author": "Gárdonyi Géza",
+      "title": "Láthatatlan ember"
+    },
+    {
+      "id": "04700_04770",
+      "author": "Reményik László",
+      "title": "Könnyű neked..."
+    },
+    {
+      "id": "12100_12181",
+      "author": "Nagy Károly",
+      "title": "A sátánlégió"
+    }
+  ]
 }

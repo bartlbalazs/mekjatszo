@@ -87,5 +87,32 @@
       "title": "20-bizanci.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/14000/14092"
+  "url": "https://mek.oszk.hu/14000/14092",
+  "similar_books": [
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    },
+    {
+      "id": "14000_14087",
+      "author": "Vígh Kristóf",
+      "title": "Magyar virrasztásBizánci alkonyati és napkeleti zsolozsma ősi magyar dallamokon"
+    },
+    {
+      "id": "13600_13632",
+      "author": "Fekete Kiss Sándor",
+      "title": "Görög katolikus magyar mise"
+    },
+    {
+      "id": "02300_02321",
+      "author": "Vészi Endre",
+      "title": "Az ezüst kehely"
+    },
+    {
+      "id": "15800_15812",
+      "author": "Jenei András",
+      "title": "Az enyém"
+    }
+  ]
 }

@@ -195,5 +195,32 @@
       "title": "46 - Késő szüret"
     }
   ],
-  "url": "https://mek.oszk.hu/04700/04787"
+  "url": "https://mek.oszk.hu/04700/04787",
+  "similar_books": [
+    {
+      "id": "02300_02388",
+      "author": "Csáth Géza",
+      "title": "Egy elmebeteg nő naplója"
+    },
+    {
+      "id": "03100_03167",
+      "author": "Zrínyi Miklós",
+      "title": "Szigeti veszedelem"
+    },
+    {
+      "id": "10500_10570",
+      "author": "Gárdonyi Géza",
+      "title": "Kátsa"
+    },
+    {
+      "id": "10900_10945",
+      "author": "Kosztolányi Dezső",
+      "title": "Zsivajgó természet"
+    },
+    {
+      "id": "03100_03171",
+      "author": "Tamási Áron",
+      "title": "Vadrózsa ága"
+    }
+  ]
 }

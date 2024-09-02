@@ -79,5 +79,32 @@
       "title": "17 - Berekesztés"
     }
   ],
-  "url": "https://mek.oszk.hu/03100/03167"
+  "url": "https://mek.oszk.hu/03100/03167",
+  "similar_books": [
+    {
+      "id": "03300_03308",
+      "author": "Mikszáth Kálmán",
+      "title": "Új Zrínyiász"
+    },
+    {
+      "id": "03300_03391",
+      "author": "Eötvös József",
+      "title": "Magyarország 1514-ben"
+    },
+    {
+      "id": "09100_09129",
+      "author": "Gárdonyi Géza",
+      "title": "Egri csillagok"
+    },
+    {
+      "id": "10500_10570",
+      "author": "Gárdonyi Géza",
+      "title": "Kátsa"
+    },
+    {
+      "id": "03700_03743",
+      "author": "Mikszáth Kálmán",
+      "title": "Szent Péter esernyője"
+    }
+  ]
 }

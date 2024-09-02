@@ -32,7 +32,34 @@
         "title": "5 - Negyedik felvonás"
       }
     ],
-    "url": "https://mek.oszk.hu/03000/03085"
+    "url": "https://mek.oszk.hu/03000/03085",
+    "similar_books": [
+      {
+        "id": "03100_03173",
+        "author": "Anton Pavlovics Csehov",
+        "title": "Sirály"
+      },
+      {
+        "id": "05300_05312",
+        "author": "Mikszáth Kálmán",
+        "title": "A fekete város"
+      },
+      {
+        "id": "03300_03319",
+        "author": "Homérosz",
+        "title": "Iliász"
+      },
+      {
+        "id": "03900_03986",
+        "author": "Mikszáth Kálmán",
+        "title": "Különös házasság"
+      },
+      {
+        "id": "09700_09700",
+        "author": "Jókai Mór",
+        "title": "A kőszívű ember fiai"
+      }
+    ]
   },
   {
     "id": "03100_03173",
@@ -63,6 +90,33 @@
         "title": "4 - Negyedik felvonás"
       }
     ],
-    "url": "https://mek.oszk.hu/03100/03173"
+    "url": "https://mek.oszk.hu/03100/03173",
+    "similar_books": [
+      {
+        "id": "03000_03085",
+        "author": "Anton Pavlovics Csehov",
+        "title": "Három nővér"
+      },
+      {
+        "id": "09700_09700",
+        "author": "Jókai Mór",
+        "title": "A kőszívű ember fiai"
+      },
+      {
+        "id": "03000_03082",
+        "author": "Gárdonyi Géza",
+        "title": "Az én falum"
+      },
+      {
+        "id": "03300_03309",
+        "author": "Arany János",
+        "title": "A Toldi-trilógia"
+      },
+      {
+        "id": "02300_02388",
+        "author": "Csáth Géza",
+        "title": "Egy elmebeteg nő naplója"
+      }
+    ]
   }
 ]

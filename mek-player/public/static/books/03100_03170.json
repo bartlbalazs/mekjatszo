@@ -63,5 +63,32 @@
       "title": "13."
     }
   ],
-  "url": "https://mek.oszk.hu/03100/03170"
+  "url": "https://mek.oszk.hu/03100/03170",
+  "similar_books": [
+    {
+      "id": "03300_03391",
+      "author": "Eötvös József",
+      "title": "Magyarország 1514-ben"
+    },
+    {
+      "id": "05400_05486",
+      "author": "Móricz Zsigmond",
+      "title": "Betyár"
+    },
+    {
+      "id": "03300_03308",
+      "author": "Mikszáth Kálmán",
+      "title": "Új Zrínyiász"
+    },
+    {
+      "id": "09100_09129",
+      "author": "Gárdonyi Géza",
+      "title": "Egri csillagok"
+    },
+    {
+      "id": "05300_05312",
+      "author": "Mikszáth Kálmán",
+      "title": "A fekete város"
+    }
+  ]
 }

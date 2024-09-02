@@ -56,6 +56,33 @@
         "title": "11 - Utóirat"
       }
     ],
-    "url": "https://mek.oszk.hu/03000/03081"
+    "url": "https://mek.oszk.hu/03000/03081",
+    "similar_books": [
+      {
+        "id": "02500_02596",
+        "author": "Karel Čapek",
+        "title": "A repülő ember és más furcsa történetek"
+      },
+      {
+        "id": "02200_02289",
+        "author": "Mikszáth Kálmán",
+        "title": "Kísértet Lublón"
+      },
+      {
+        "id": "02300_02388",
+        "author": "Csáth Géza",
+        "title": "Egy elmebeteg nő naplója"
+      },
+      {
+        "id": "02500_02595",
+        "author": "Csáth Géza",
+        "title": "Lidércálmok"
+      },
+      {
+        "id": "02200_02268",
+        "author": "Petőfi Sándor",
+        "title": "A helység kalapácsa"
+      }
+    ]
   }
 ]

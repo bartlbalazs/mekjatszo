@@ -111,5 +111,32 @@
       "title": "26 - Medvenóta"
     }
   ],
-  "url": "https://mek.oszk.hu/17100/17148"
+  "url": "https://mek.oszk.hu/17100/17148",
+  "similar_books": [
+    {
+      "id": "22400_22427",
+      "author": null,
+      "title": "Mannafelfújt frájereknek"
+    },
+    {
+      "id": "16100_16149",
+      "author": "Menyhei József",
+      "title": "Múltbanéző"
+    },
+    {
+      "id": "18700_18753",
+      "author": "Mihályi Antal",
+      "title": "Ili néni állatkertje"
+    },
+    {
+      "id": "25100_25131",
+      "author": "Dézsi Zoltán",
+      "title": "Bubu a kopasz sárkány"
+    },
+    {
+      "id": "12500_12529",
+      "author": "Gubcsi Lajos",
+      "title": "Jut eszembe... ami kimaradt"
+    }
+  ]
 }

@@ -55,5 +55,32 @@
       "title": "11 - Barbárok (2. rész) - A kondás legszennyesebb inge"
     }
   ],
-  "url": "https://mek.oszk.hu/22200/22211"
+  "url": "https://mek.oszk.hu/22200/22211",
+  "similar_books": [
+    {
+      "id": "11200_11267",
+      "author": "Móricz Zsigmond",
+      "title": "A szerelmes levél"
+    },
+    {
+      "id": "22100_22167",
+      "author": "Móricz Zsigmond",
+      "title": "Pillangó és válogatott elbeszélések"
+    },
+    {
+      "id": "14100_14175",
+      "author": "V. Pócsay Rozika",
+      "title": "Mélység és magasság"
+    },
+    {
+      "id": "11400_11424",
+      "author": "",
+      "title": "Klasszikusok novellái a magyar szabadságharcról"
+    },
+    {
+      "id": "11300_11390",
+      "author": "Móricz Zsigmond",
+      "title": "Móricz Zsigmond válogatott művei a Nyugatból"
+    }
+  ]
 }

@@ -175,5 +175,32 @@
       "title": "42 - Kása Ilona szerencséje"
     }
   ],
-  "url": "https://mek.oszk.hu/21600/21672"
+  "url": "https://mek.oszk.hu/21600/21672",
+  "similar_books": [
+    {
+      "id": "15800_15812",
+      "author": "Jenei András",
+      "title": "Az enyém"
+    },
+    {
+      "id": "22500_22519",
+      "author": "Gárdonyi Géza",
+      "title": "Ida regénye"
+    },
+    {
+      "id": "10600_10621",
+      "author": "Gárdonyi Géza",
+      "title": "No még öggyet"
+    },
+    {
+      "id": "10500_10570",
+      "author": "Gárdonyi Géza",
+      "title": "Kátsa"
+    },
+    {
+      "id": "22600_22667",
+      "author": null,
+      "title": "Mesepelyhek"
+    }
+  ]
 }

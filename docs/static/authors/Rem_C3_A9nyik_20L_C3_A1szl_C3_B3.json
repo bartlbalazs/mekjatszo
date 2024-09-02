@@ -168,7 +168,34 @@
         "title": "39 - Utószó"
       }
     ],
-    "url": "https://mek.oszk.hu/02700/02787"
+    "url": "https://mek.oszk.hu/02700/02787",
+    "similar_books": [
+      {
+        "id": "12500_12529",
+        "author": "Gubcsi Lajos",
+        "title": "Jut eszembe... ami kimaradt"
+      },
+      {
+        "id": "09900_09914",
+        "author": "Gárdonyi Géza",
+        "title": "Göre Gábor biró úr könyve"
+      },
+      {
+        "id": "24900_24935",
+        "author": "Krúdy Gyula",
+        "title": "Az élet álom"
+      },
+      {
+        "id": "19500_19566",
+        "author": "Boér Péter Pál",
+        "title": "Szabályerősítő"
+      },
+      {
+        "id": "17000_17009",
+        "author": "Lehoczki Károly",
+        "title": "Sétány a pokolban"
+      }
+    ]
   },
   {
     "id": "02700_02788",
@@ -279,7 +306,34 @@
         "title": "24 - A három ujjal vezérelt élet"
       }
     ],
-    "url": "https://mek.oszk.hu/02700/02788"
+    "url": "https://mek.oszk.hu/02700/02788",
+    "similar_books": [
+      {
+        "id": "03300_03322",
+        "author": "Reményik László",
+        "title": "Ezermester kutyák"
+      },
+      {
+        "id": "04700_04769",
+        "author": "Reményik László",
+        "title": "Kicsivel könnyebb..."
+      },
+      {
+        "id": "04700_04770",
+        "author": "Reményik László",
+        "title": "Könnyű neked..."
+      },
+      {
+        "id": "11200_11242",
+        "author": "Gárdonyi Géza",
+        "title": "Láthatatlan ember"
+      },
+      {
+        "id": "03900_03986",
+        "author": "Mikszáth Kálmán",
+        "title": "Különös házasság"
+      }
+    ]
   },
   {
     "id": "03300_03322",
@@ -534,7 +588,34 @@
         "title": "60 - Epilógus"
       }
     ],
-    "url": "https://mek.oszk.hu/03300/03322"
+    "url": "https://mek.oszk.hu/03300/03322",
+    "similar_books": [
+      {
+        "id": "04700_04769",
+        "author": "Reményik László",
+        "title": "Kicsivel könnyebb..."
+      },
+      {
+        "id": "02700_02788",
+        "author": "Reményik László",
+        "title": "Életbajnokok"
+      },
+      {
+        "id": "04700_04770",
+        "author": "Reményik László",
+        "title": "Könnyű neked..."
+      },
+      {
+        "id": "11200_11242",
+        "author": "Gárdonyi Géza",
+        "title": "Láthatatlan ember"
+      },
+      {
+        "id": "10900_10945",
+        "author": "Kosztolányi Dezső",
+        "title": "Zsivajgó természet"
+      }
+    ]
   },
   {
     "id": "04700_04769",
@@ -593,7 +674,34 @@
         "title": "11 - Fülszöveg"
       }
     ],
-    "url": "https://mek.oszk.hu/04700/04769"
+    "url": "https://mek.oszk.hu/04700/04769",
+    "similar_books": [
+      {
+        "id": "03300_03322",
+        "author": "Reményik László",
+        "title": "Ezermester kutyák"
+      },
+      {
+        "id": "04700_04770",
+        "author": "Reményik László",
+        "title": "Könnyű neked..."
+      },
+      {
+        "id": "02700_02788",
+        "author": "Reményik László",
+        "title": "Életbajnokok"
+      },
+      {
+        "id": "02500_02581",
+        "author": "Kosztolányi Dezső",
+        "title": "Pacsirta"
+      },
+      {
+        "id": "10900_10945",
+        "author": "Kosztolányi Dezső",
+        "title": "Zsivajgó természet"
+      }
+    ]
   },
   {
     "id": "04700_04770",
@@ -672,6 +780,33 @@
         "title": "16 - Utószó"
       }
     ],
-    "url": "https://mek.oszk.hu/04700/04770"
+    "url": "https://mek.oszk.hu/04700/04770",
+    "similar_books": [
+      {
+        "id": "04700_04769",
+        "author": "Reményik László",
+        "title": "Kicsivel könnyebb..."
+      },
+      {
+        "id": "11700_11747",
+        "author": "Tar Károly",
+        "title": "Hajnalban vadnyuszik ablakom alatt"
+      },
+      {
+        "id": "03300_03322",
+        "author": "Reményik László",
+        "title": "Ezermester kutyák"
+      },
+      {
+        "id": "03100_03179",
+        "author": "Balázs Ferenc",
+        "title": "A rög alatt"
+      },
+      {
+        "id": "11200_11242",
+        "author": "Gárdonyi Géza",
+        "title": "Láthatatlan ember"
+      }
+    ]
   }
 ]

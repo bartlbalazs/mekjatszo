@@ -176,7 +176,34 @@
         "title": "41 - VI. könyv 40. fejezet"
       }
     ],
-    "url": "https://mek.oszk.hu/03300/03305"
+    "url": "https://mek.oszk.hu/03300/03305",
+    "similar_books": [
+      {
+        "id": "11200_11242",
+        "author": "Gárdonyi Géza",
+        "title": "Láthatatlan ember"
+      },
+      {
+        "id": "09700_09700",
+        "author": "Jókai Mór",
+        "title": "A kőszívű ember fiai"
+      },
+      {
+        "id": "02300_02387",
+        "author": "Mikszáth Kálmán",
+        "title": "Jókai Mór élete és kora"
+      },
+      {
+        "id": "05400_05486",
+        "author": "Móricz Zsigmond",
+        "title": "Betyár"
+      },
+      {
+        "id": "05300_05312",
+        "author": "Mikszáth Kálmán",
+        "title": "A fekete város"
+      }
+    ]
   },
   {
     "id": "24400_24460",
@@ -319,7 +346,34 @@
         "title": "32 - Babonaság-bolondság"
       }
     ],
-    "url": "https://mek.oszk.hu/24400/24460"
+    "url": "https://mek.oszk.hu/24400/24460",
+    "similar_books": [
+      {
+        "id": "06000_06060",
+        "author": "Móra Ferenc",
+        "title": "A körtemuzsika"
+      },
+      {
+        "id": "02500_02568",
+        "author": "Móra Ferenc",
+        "title": "A fenyőfa alatt"
+      },
+      {
+        "id": "23700_23762",
+        "author": "Molnár Ferenc",
+        "title": "A Pál utcai fiúk"
+      },
+      {
+        "id": "02300_02321",
+        "author": "Vészi Endre",
+        "title": "Az ezüst kehely"
+      },
+      {
+        "id": "24500_24579",
+        "author": "Móra Ferenc",
+        "title": "A hatrongyosi kakasok"
+      }
+    ]
   },
   {
     "id": "02500_02568",
@@ -370,7 +424,34 @@
         "title": "9 - Karácsonyi aktualitás"
       }
     ],
-    "url": "https://mek.oszk.hu/02500/02568"
+    "url": "https://mek.oszk.hu/02500/02568",
+    "similar_books": [
+      {
+        "id": "06000_06060",
+        "author": "Móra Ferenc",
+        "title": "A körtemuzsika"
+      },
+      {
+        "id": "24400_24460",
+        "author": "Móra Ferenc",
+        "title": "Az ember feje nem füge"
+      },
+      {
+        "id": "22400_22427",
+        "author": null,
+        "title": "Mannafelfújt frájereknek"
+      },
+      {
+        "id": "14600_14639",
+        "author": "Lehoczki Károly",
+        "title": "Az ismeretlen kert"
+      },
+      {
+        "id": "16100_16149",
+        "author": "Menyhei József",
+        "title": "Múltbanéző"
+      }
+    ]
   },
   {
     "id": "24500_24579",
@@ -625,7 +706,34 @@
         "title": "60 - A cinege cipője"
       }
     ],
-    "url": "https://mek.oszk.hu/24500/24579"
+    "url": "https://mek.oszk.hu/24500/24579",
+    "similar_books": [
+      {
+        "id": "06000_06060",
+        "author": "Móra Ferenc",
+        "title": "A körtemuzsika"
+      },
+      {
+        "id": "24400_24460",
+        "author": "Móra Ferenc",
+        "title": "Az ember feje nem füge"
+      },
+      {
+        "id": "10200_10222",
+        "author": "Móra Ferenc",
+        "title": "Nekopogi kovács"
+      },
+      {
+        "id": "02500_02568",
+        "author": "Móra Ferenc",
+        "title": "A fenyőfa alatt"
+      },
+      {
+        "id": "23700_23762",
+        "author": "Molnár Ferenc",
+        "title": "A Pál utcai fiúk"
+      }
+    ]
   },
   {
     "id": "09900_09931",
@@ -736,7 +844,34 @@
         "title": "24_kincskereso.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/09900/09931"
+    "url": "https://mek.oszk.hu/09900/09931",
+    "similar_books": [
+      {
+        "id": "03100_03179",
+        "author": "Balázs Ferenc",
+        "title": "A rög alatt"
+      },
+      {
+        "id": "02900_02971",
+        "author": "Benedek Elek",
+        "title": "Székely Tündérország"
+      },
+      {
+        "id": "03300_03322",
+        "author": "Reményik László",
+        "title": "Ezermester kutyák"
+      },
+      {
+        "id": "11200_11241",
+        "author": "Karinthy Frigyes",
+        "title": "Tanár úr kérem"
+      },
+      {
+        "id": "03900_03986",
+        "author": "Mikszáth Kálmán",
+        "title": "Különös házasság"
+      }
+    ]
   },
   {
     "id": "06000_06060",
@@ -875,7 +1010,34 @@
         "title": "31 - Petykó meg Matykó"
       }
     ],
-    "url": "https://mek.oszk.hu/06000/06060"
+    "url": "https://mek.oszk.hu/06000/06060",
+    "similar_books": [
+      {
+        "id": "02500_02568",
+        "author": "Móra Ferenc",
+        "title": "A fenyőfa alatt"
+      },
+      {
+        "id": "24400_24460",
+        "author": "Móra Ferenc",
+        "title": "Az ember feje nem füge"
+      },
+      {
+        "id": "24500_24579",
+        "author": "Móra Ferenc",
+        "title": "A hatrongyosi kakasok"
+      },
+      {
+        "id": "10200_10222",
+        "author": "Móra Ferenc",
+        "title": "Nekopogi kovács"
+      },
+      {
+        "id": "23700_23762",
+        "author": "Molnár Ferenc",
+        "title": "A Pál utcai fiúk"
+      }
+    ]
   },
   {
     "id": "10200_10222",
@@ -946,7 +1108,34 @@
         "title": "15_nekopogi.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/10200/10222"
+    "url": "https://mek.oszk.hu/10200/10222",
+    "similar_books": [
+      {
+        "id": "06000_06060",
+        "author": "Móra Ferenc",
+        "title": "A körtemuzsika"
+      },
+      {
+        "id": "23700_23762",
+        "author": "Molnár Ferenc",
+        "title": "A Pál utcai fiúk"
+      },
+      {
+        "id": "19500_19566",
+        "author": "Boér Péter Pál",
+        "title": "Szabályerősítő"
+      },
+      {
+        "id": "02300_02363",
+        "author": "Jókai Mór",
+        "title": "Rákóczy fia"
+      },
+      {
+        "id": "24400_24460",
+        "author": "Móra Ferenc",
+        "title": "Az ember feje nem füge"
+      }
+    ]
   },
   {
     "id": "03900_03985",
@@ -1033,6 +1222,33 @@
         "title": "18 - Minden jó, ha a vége jó"
       }
     ],
-    "url": "https://mek.oszk.hu/03900/03985"
+    "url": "https://mek.oszk.hu/03900/03985",
+    "similar_books": [
+      {
+        "id": "05400_05486",
+        "author": "Móricz Zsigmond",
+        "title": "Betyár"
+      },
+      {
+        "id": "14100_14175",
+        "author": "V. Pócsay Rozika",
+        "title": "Mélység és magasság"
+      },
+      {
+        "id": "03700_03743",
+        "author": "Mikszáth Kálmán",
+        "title": "Szent Péter esernyője"
+      },
+      {
+        "id": "06700_06785",
+        "author": "Tar Károly",
+        "title": "Szerenád dobra, cintányérra és más ütős hangszerekreHangoskönyv"
+      },
+      {
+        "id": "09700_09700",
+        "author": "Jókai Mór",
+        "title": "A kőszívű ember fiai"
+      }
+    ]
   }
 ]

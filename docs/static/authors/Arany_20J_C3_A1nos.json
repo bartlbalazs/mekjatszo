@@ -76,7 +76,34 @@
         "title": "17 - A Jóka ördöge 7."
       }
     ],
-    "url": "https://mek.oszk.hu/18000/18022"
+    "url": "https://mek.oszk.hu/18000/18022",
+    "similar_books": [
+      {
+        "id": "11900_11997",
+        "author": "V. Pócsay Rozika",
+        "title": "A puding próbája"
+      },
+      {
+        "id": "06400_06439",
+        "author": "",
+        "title": "Öt magyar népmese hangillusztrációval"
+      },
+      {
+        "id": "15200_15200",
+        "author": "Benedek Elek",
+        "title": "Válogatott mesék"
+      },
+      {
+        "id": "25100_25133",
+        "author": "Dézsi Zoltán",
+        "title": "A drótostót meséi"
+      },
+      {
+        "id": "03000_03071",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekTolna megye - Váralja,Baranya megye - Zengővárkony"
+      }
+    ]
   },
   {
     "id": "03300_03309",
@@ -267,6 +294,33 @@
         "title": "44 - Glossarium Toldi szerelméhez"
       }
     ],
-    "url": "https://mek.oszk.hu/03300/03309"
+    "url": "https://mek.oszk.hu/03300/03309",
+    "similar_books": [
+      {
+        "id": "03000_03082",
+        "author": "Gárdonyi Géza",
+        "title": "Az én falum"
+      },
+      {
+        "id": "11200_11242",
+        "author": "Gárdonyi Géza",
+        "title": "Láthatatlan ember"
+      },
+      {
+        "id": "09700_09700",
+        "author": "Jókai Mór",
+        "title": "A kőszívű ember fiai"
+      },
+      {
+        "id": "12300_12378",
+        "author": "Rejtő Jenő",
+        "title": "A pokol zsoldosai"
+      },
+      {
+        "id": "03100_03173",
+        "author": "Anton Pavlovics Csehov",
+        "title": "Sirály"
+      }
+    ]
   }
 ]

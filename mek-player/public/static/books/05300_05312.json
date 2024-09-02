@@ -71,5 +71,32 @@
       "title": "15 - Melyben a szerző akarata ellenére a gondviselés szeszélye szerint ..."
     }
   ],
-  "url": "https://mek.oszk.hu/05300/05312"
+  "url": "https://mek.oszk.hu/05300/05312",
+  "similar_books": [
+    {
+      "id": "03300_03308",
+      "author": "Mikszáth Kálmán",
+      "title": "Új Zrínyiász"
+    },
+    {
+      "id": "03300_03391",
+      "author": "Eötvös József",
+      "title": "Magyarország 1514-ben"
+    },
+    {
+      "id": "11200_11242",
+      "author": "Gárdonyi Géza",
+      "title": "Láthatatlan ember"
+    },
+    {
+      "id": "02300_02358",
+      "author": "Jókai Mór",
+      "title": "A gazdag szegények"
+    },
+    {
+      "id": "03300_03306",
+      "author": "Mikszáth Kálmán",
+      "title": "A Noszty fiú esete Tóth Marival"
+    }
+  ]
 }

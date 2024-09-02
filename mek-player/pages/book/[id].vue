@@ -60,6 +60,14 @@
     <p>{{ book.description }}</p>
     <p>Forrás: <a :href="source" target="_blank">{{ source }}</a></p>
   </div>
+  <div>
+    <h3>Hasonló könyvek</h3>
+    <div v-for="s in book.similar_books">
+    <div>
+      <p>{{ s.author }} <span v-if="!!s.author">-</span> {{ s.title }} <span><a :href="s.id">Tovább a könyvhöz</a></span></p>
+    </div>
+  </div>
+  </div>
 </template>
 
 <script lang="ts" setup>
@@ -77,6 +85,11 @@ interface Book {
   audio_files: [{
     url: string,
     title: string
+  }]
+  similar_books: [{
+    id: string,
+    title: string,
+    author: string
   }]
 }
 

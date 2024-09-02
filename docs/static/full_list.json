@@ -136,6 +136,14 @@
     "url": "https://mek.oszk.hu/09800/09885"
   },
   {
+    "id": "05700_05778",
+    "title": "Tájnyelvi hangfelvételekBukovinából Magyarországra -1.",
+    "author": "",
+    "lead": "\"Itt van a pisztoly - rámutatott a derekára -, az utolsó golyó az enyim. - És a nyakán lógott egy nyaklánc feszületvel, és azt mondta, ezt az anyja adta neki, levette, a nyakamba akasztotta - én most meghalok, ezt add anyámnak. Tük megmaradtok. S mondd, hogy itt haltam meg.\"",
+    "cover": "/05700/05778/borito.jpg",
+    "url": "https://mek.oszk.hu/05700/05778"
+  },
+  {
     "id": "03000_03072",
     "title": "Tájnyelvi hangfelvételekMoldva - Csángó panaszok",
     "author": "",
@@ -206,14 +214,6 @@
     "lead": "\"Régön ilyen tizenkétszeles bőgatyába' jártak az emberek - táncolni is, a bálba is. És ha valamelyik megharagudott a másikra, akko' azt csináta: elvágta a gatyamadzagot... Ha elü kapta föl, akko' hátu ment le. Ha hátu kapta föl, akko' elü ment le... Azt'akko' a többiek nevették.\"",
     "cover": "/03000/03071/borito.jpg",
     "url": "https://mek.oszk.hu/03000/03071"
-  },
-  {
-    "id": "05700_05778",
-    "title": "Tájnyelvi hangfelvételekBukovinából Magyarországra -1.",
-    "author": "",
-    "lead": "\"Itt van a pisztoly - rámutatott a derekára -, az utolsó golyó az enyim. - És a nyakán lógott egy nyaklánc feszületvel, és azt mondta, ezt az anyja adta neki, levette, a nyakamba akasztotta - én most meghalok, ezt add anyámnak. Tük megmaradtok. S mondd, hogy itt haltam meg.\"",
-    "cover": "/05700/05778/borito.jpg",
-    "url": "https://mek.oszk.hu/05700/05778"
   },
   {
     "id": "15600_15612",
@@ -1416,20 +1416,20 @@
     "url": "https://mek.oszk.hu/04700/04741"
   },
   {
-    "id": "12000_12013",
-    "title": "Lorre meg én",
-    "author": "Kockás Pierre",
-    "lead": "\"Itt sokkal nagyobb baj van, mint gondoltam. Most már megértettem a sorozatos szokatlan jelenségeket, kezdve a lilakék lámpás folyosótól, ahol sűrűn egymás után következnek az ajtók, és végezve azon a tömör valamin, ami ennek a helyiségnek falát és padlóját képezte. Egyszerre tudtam, hogy hol vagyok. Ez az orani tébolyda!...\"",
-    "cover": "/12000/12013/borito.jpg",
-    "url": "https://mek.oszk.hu/12000/12013"
-  },
-  {
     "id": "12000_12058",
     "title": "Lorre meg én",
     "author": "Kockás Pierre",
     "lead": "\"Délután négy órakor ismét felkerestem a herceget, hogy elvezessem a Három Csacska Kicsi Macskához. Kissé dagadt volt a bal kezem, mert előzőleg szóváltásba keveredtem Kockás Pierre barátommal, aki megtudta, hogy mi a szándékom, és olyan hevesen kikelt a dolog ellen, hogy kénytelen voltam néhány heves ökölcsapással válaszolni...\"",
     "cover": "/12000/12058/borito.jpg",
     "url": "https://mek.oszk.hu/12000/12058"
+  },
+  {
+    "id": "12000_12013",
+    "title": "Lorre meg én",
+    "author": "Kockás Pierre",
+    "lead": "\"Itt sokkal nagyobb baj van, mint gondoltam. Most már megértettem a sorozatos szokatlan jelenségeket, kezdve a lilakék lámpás folyosótól, ahol sűrűn egymás után következnek az ajtók, és végezve azon a tömör valamin, ami ennek a helyiségnek falát és padlóját képezte. Egyszerre tudtam, hogy hol vagyok. Ez az orani tébolyda!...\"",
+    "cover": "/12000/12013/borito.jpg",
+    "url": "https://mek.oszk.hu/12000/12013"
   },
   {
     "id": "12200_12244",
@@ -1464,20 +1464,20 @@
     "url": "https://mek.oszk.hu/25200/25201"
   },
   {
-    "id": "22100_22166",
-    "title": "Édes Anna",
-    "author": "Kosztolányi Dezső",
-    "lead": "\"Az újság, hogy Annának valami kérőféléje akadt, nem maradt titokban, megtudta az egész ház, s a lakókat két pártra szakította. Báthory úr gondoskodott arról, hogy távollétében hátvédeket teremtsen magának, és megdolgozza a közvéleményt. Mindenekelőtt a cselédekre támaszkodott. Ficsorné, akinek ígért valamit, ha Annát megszerzi, föltétlen híve volt.\"",
-    "cover": "/22100/22166/borito.jpg",
-    "url": "https://mek.oszk.hu/22100/22166"
-  },
-  {
     "id": "11500_11545",
     "title": "Édes Anna",
     "author": "Kosztolányi Dezső",
     "lead": "\"Édes Annát egy szigorú januári napon két fegyőr a vonatra tette, elkísérte Mária-Nosztrára. A fegyház kapuja becsapódott mögötte. Itt törzskönyvezték, megnyírták, megfürdették, számot kapott, darócruhát: megkezdte fegyencéletét. A Krisztinavárosban néha-néha még beszéltek róla, egyre ritkábban.\"",
     "cover": "/11500/11545/borito.jpg",
     "url": "https://mek.oszk.hu/11500/11545"
+  },
+  {
+    "id": "22100_22166",
+    "title": "Édes Anna",
+    "author": "Kosztolányi Dezső",
+    "lead": "\"Az újság, hogy Annának valami kérőféléje akadt, nem maradt titokban, megtudta az egész ház, s a lakókat két pártra szakította. Báthory úr gondoskodott arról, hogy távollétében hátvédeket teremtsen magának, és megdolgozza a közvéleményt. Mindenekelőtt a cselédekre támaszkodott. Ficsorné, akinek ígért valamit, ha Annát megszerzi, föltétlen híve volt.\"",
+    "cover": "/22100/22166/borito.jpg",
+    "url": "https://mek.oszk.hu/22100/22166"
   },
   {
     "id": "11300_11319",
@@ -1560,20 +1560,20 @@
     "url": "https://mek.oszk.hu/24900/24935"
   },
   {
-    "id": "11200_11236",
-    "title": "Jézuska csizmájaHangoskönyv",
-    "author": "Krúdy Gyula",
-    "lead": "\"Azért volt boldog a régi magyar író karácsonya, mert faggyúgyertyácskája mellett is falatozhatott kenyeret, amelyet a munkájával szerzett. Hol van manapság az a magyar író, akinek az olcsó betűcskék megtölthetnék üres tarisznyáját, földíszíthetnék kis karácsonyfáját?\"",
-    "cover": "/11200/11236/borito.jpg",
-    "url": "https://mek.oszk.hu/11200/11236"
-  },
-  {
     "id": "02500_02547",
     "title": "Jézuska csizmája",
     "author": "Krúdy Gyula",
     "lead": "\"A két zsoldos katona tágra nyílt szemmel bámult a kőkeresztre, amelyen egy töredezett, barna kő-Krisztus vala hóval befödve. De a lábakon, amelyeket szög vert át, két pár bivalybőr csizma függött. Két derék, nagy csizma, amelyben a zsoldosok nem ismertek a magukéra. Pedig az övék volt.\"",
     "cover": "/02500/02547/borito.jpg",
     "url": "https://mek.oszk.hu/02500/02547"
+  },
+  {
+    "id": "11200_11236",
+    "title": "Jézuska csizmájaHangoskönyv",
+    "author": "Krúdy Gyula",
+    "lead": "\"Azért volt boldog a régi magyar író karácsonya, mert faggyúgyertyácskája mellett is falatozhatott kenyeret, amelyet a munkájával szerzett. Hol van manapság az a magyar író, akinek az olcsó betűcskék megtölthetnék üres tarisznyáját, földíszíthetnék kis karácsonyfáját?\"",
+    "cover": "/11200/11236/borito.jpg",
+    "url": "https://mek.oszk.hu/11200/11236"
   },
   {
     "id": "25100_25113",

@@ -32,6 +32,33 @@
         "title": "05 - 5. fejezet"
       }
     ],
-    "url": "https://mek.oszk.hu/18100/18199"
+    "url": "https://mek.oszk.hu/18100/18199",
+    "similar_books": [
+      {
+        "id": "02500_02580",
+        "author": "Kosztolányi Dezső",
+        "title": "A rossz orvos"
+      },
+      {
+        "id": "14100_14175",
+        "author": "V. Pócsay Rozika",
+        "title": "Mélység és magasság"
+      },
+      {
+        "id": "10500_10570",
+        "author": "Gárdonyi Géza",
+        "title": "Kátsa"
+      },
+      {
+        "id": "14600_14639",
+        "author": "Lehoczki Károly",
+        "title": "Az ismeretlen kert"
+      },
+      {
+        "id": "10900_10945",
+        "author": "Kosztolányi Dezső",
+        "title": "Zsivajgó természet"
+      }
+    ]
   }
 ]

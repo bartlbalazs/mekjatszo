@@ -143,5 +143,32 @@
       "title": "33_Mate_G_Peter-A_szakallas_angyal.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/14800/14800"
+  "url": "https://mek.oszk.hu/14800/14800",
+  "similar_books": [
+    {
+      "id": "19500_19566",
+      "author": "Boér Péter Pál",
+      "title": "Szabályerősítő"
+    },
+    {
+      "id": "14100_14175",
+      "author": "V. Pócsay Rozika",
+      "title": "Mélység és magasság"
+    },
+    {
+      "id": "10500_10570",
+      "author": "Gárdonyi Géza",
+      "title": "Kátsa"
+    },
+    {
+      "id": "18700_18753",
+      "author": "Mihályi Antal",
+      "title": "Ili néni állatkertje"
+    },
+    {
+      "id": "09300_09340",
+      "author": "Gárdonyi Géza",
+      "title": "Göre Martsa lakodalma"
+    }
+  ]
 }

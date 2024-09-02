@@ -135,5 +135,32 @@
       "title": "32 - V. rész. Honlapajánló az olvasott témákhoz"
     }
   ],
-  "url": "https://mek.oszk.hu/17400/17412"
+  "url": "https://mek.oszk.hu/17400/17412",
+  "similar_books": [
+    {
+      "id": "18100_18152",
+      "author": "Árvay Mária",
+      "title": "Dorka-történetek"
+    },
+    {
+      "id": "14100_14175",
+      "author": "V. Pócsay Rozika",
+      "title": "Mélység és magasság"
+    },
+    {
+      "id": "22400_22427",
+      "author": null,
+      "title": "Mannafelfújt frájereknek"
+    },
+    {
+      "id": "06000_06060",
+      "author": "Móra Ferenc",
+      "title": "A körtemuzsika"
+    },
+    {
+      "id": "12500_12529",
+      "author": "Gubcsi Lajos",
+      "title": "Jut eszembe... ami kimaradt"
+    }
+  ]
 }

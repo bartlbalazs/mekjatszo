@@ -51,5 +51,32 @@
       "title": "11 - Wallenstein főorvos tizenkét menetben a halállal"
     }
   ],
-  "url": "https://mek.oszk.hu/12300/12367"
+  "url": "https://mek.oszk.hu/12300/12367",
+  "similar_books": [
+    {
+      "id": "16000_16012",
+      "author": "Rejtő Jenő",
+      "title": "A boszorkánymester"
+    },
+    {
+      "id": "03000_03082",
+      "author": "Gárdonyi Géza",
+      "title": "Az én falum"
+    },
+    {
+      "id": "02700_02778",
+      "author": "Bródy Sándor",
+      "title": "Az ezüst kecske ; A nap lovagja"
+    },
+    {
+      "id": "12300_12396",
+      "author": "Rejtő Jenő",
+      "title": "Az utolsó szó jogán"
+    },
+    {
+      "id": "03700_03743",
+      "author": "Mikszáth Kálmán",
+      "title": "Szent Péter esernyője"
+    }
+  ]
 }

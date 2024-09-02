@@ -39,5 +39,32 @@
       "title": "08 - Minden kiderül"
     }
   ],
-  "url": "https://mek.oszk.hu/12000/12013"
+  "url": "https://mek.oszk.hu/12000/12013",
+  "similar_books": [
+    {
+      "id": "12000_12058",
+      "author": "Kockás Pierre",
+      "title": "Lorre meg én"
+    },
+    {
+      "id": "12400_12410",
+      "author": "Nagy Károly",
+      "title": "Csempészháború"
+    },
+    {
+      "id": "12400_12409",
+      "author": "Nagy Károly",
+      "title": "Csempészháború"
+    },
+    {
+      "id": "11900_11999",
+      "author": "Charles Lorre",
+      "title": "Ki nevet a végén?"
+    },
+    {
+      "id": "12800_12892",
+      "author": "Charles Lorre",
+      "title": "A sárga pokol"
+    }
+  ]
 }

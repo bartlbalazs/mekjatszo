@@ -6,5 +6,32 @@
   "cover": "/08300/08399/borito.jpg",
   "description": "",
   "audio_files": [],
-  "url": "https://mek.oszk.hu/08300/08399"
+  "url": "https://mek.oszk.hu/08300/08399",
+  "similar_books": [
+    {
+      "id": "03000_03087",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekZala megye - Keménfai mesék"
+    },
+    {
+      "id": "02300_02321",
+      "author": "Vészi Endre",
+      "title": "Az ezüst kehely"
+    },
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    },
+    {
+      "id": "23700_23762",
+      "author": "Molnár Ferenc",
+      "title": "A Pál utcai fiúk"
+    },
+    {
+      "id": "03000_03073",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekBaranya megye - Egyházaskozár hangja az ezredfordulón"
+    }
+  ]
 }

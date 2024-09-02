@@ -51,5 +51,32 @@
       "title": "9. egyben utolsó fejezet"
     }
   ],
-  "url": "https://mek.oszk.hu/02200/02287"
+  "url": "https://mek.oszk.hu/02200/02287",
+  "similar_books": [
+    {
+      "id": "03700_03743",
+      "author": "Mikszáth Kálmán",
+      "title": "Szent Péter esernyője"
+    },
+    {
+      "id": "02200_02289",
+      "author": "Mikszáth Kálmán",
+      "title": "Kísértet Lublón"
+    },
+    {
+      "id": "03300_03310",
+      "author": "Benedek Elek",
+      "title": "Édes anyaföldem!"
+    },
+    {
+      "id": "03300_03321",
+      "author": "Benedek Elek",
+      "title": "Honszerző Árpád"
+    },
+    {
+      "id": "12300_12367",
+      "author": "Rejtő Jenő",
+      "title": "A boszorkánymester"
+    }
+  ]
 }

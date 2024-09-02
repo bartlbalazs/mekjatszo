@@ -55,5 +55,32 @@
       "title": "11 - Utóirat"
     }
   ],
-  "url": "https://mek.oszk.hu/02700/02750"
+  "url": "https://mek.oszk.hu/02700/02750",
+  "similar_books": [
+    {
+      "id": "12300_12378",
+      "author": "Rejtő Jenő",
+      "title": "A pokol zsoldosai"
+    },
+    {
+      "id": "02400_02402",
+      "author": "Alexandre Dumas",
+      "title": "Korzikai testvérek ; Herminie"
+    },
+    {
+      "id": "12300_12396",
+      "author": "Rejtő Jenő",
+      "title": "Az utolsó szó jogán"
+    },
+    {
+      "id": "03900_03981",
+      "author": "Voltaire",
+      "title": "Candide, vagy Az optimizmus"
+    },
+    {
+      "id": "03100_03166",
+      "author": "Antoine de Saint-Exupéry",
+      "title": "A kis herceg"
+    }
+  ]
 }

@@ -43,5 +43,32 @@
       "title": "09 - 9. fejezet"
     }
   ],
-  "url": "https://mek.oszk.hu/14800/14870"
+  "url": "https://mek.oszk.hu/14800/14870",
+  "similar_books": [
+    {
+      "id": "02300_02321",
+      "author": "Vészi Endre",
+      "title": "Az ezüst kehely"
+    },
+    {
+      "id": "18700_18753",
+      "author": "Mihályi Antal",
+      "title": "Ili néni állatkertje"
+    },
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    },
+    {
+      "id": "15600_15654",
+      "author": "Barsi Ödön",
+      "title": "A bálványimádó"
+    },
+    {
+      "id": "03000_03073",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekBaranya megye - Egyházaskozár hangja az ezredfordulón"
+    }
+  ]
 }

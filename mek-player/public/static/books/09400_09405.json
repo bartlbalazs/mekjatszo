@@ -83,5 +83,32 @@
       "title": "19_durbints.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/09400/09405"
+  "url": "https://mek.oszk.hu/09400/09405",
+  "similar_books": [
+    {
+      "id": "10600_10621",
+      "author": "Gárdonyi Géza",
+      "title": "No még öggyet"
+    },
+    {
+      "id": "09400_09475",
+      "author": "Gárdonyi Géza",
+      "title": "Veszödelmek"
+    },
+    {
+      "id": "10400_10454",
+      "author": "Gárdonyi Géza",
+      "title": "Tapasztalatok"
+    },
+    {
+      "id": "09300_09387",
+      "author": "Gárdonyi Géza",
+      "title": "Bojgás az világba"
+    },
+    {
+      "id": "09900_09914",
+      "author": "Gárdonyi Géza",
+      "title": "Göre Gábor biró úr könyve"
+    }
+  ]
 }

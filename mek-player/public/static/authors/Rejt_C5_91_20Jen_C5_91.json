@@ -40,7 +40,34 @@
         "title": "08 - Keleti mese"
       }
     ],
-    "url": "https://mek.oszk.hu/12300/12379"
+    "url": "https://mek.oszk.hu/12300/12379",
+    "similar_books": [
+      {
+        "id": "12300_12396",
+        "author": "Rejtő Jenő",
+        "title": "Az utolsó szó jogán"
+      },
+      {
+        "id": "12300_12368",
+        "author": "Rejtő Jenő",
+        "title": "A fekete kapitány"
+      },
+      {
+        "id": "12300_12398",
+        "author": "Rejtő Jenő",
+        "title": "Drótnélküli gyilkosság"
+      },
+      {
+        "id": "11700_11747",
+        "author": "Tar Károly",
+        "title": "Hajnalban vadnyuszik ablakom alatt"
+      },
+      {
+        "id": "12400_12439",
+        "author": "Rejtő Jenő",
+        "title": "Halálsziget"
+      }
+    ]
   },
   {
     "id": "16000_16012",
@@ -95,7 +122,34 @@
         "title": "11 - Wallenstein főorvos 12 menetben a halállal"
       }
     ],
-    "url": "https://mek.oszk.hu/16000/16012"
+    "url": "https://mek.oszk.hu/16000/16012",
+    "similar_books": [
+      {
+        "id": "15800_15812",
+        "author": "Jenei András",
+        "title": "Az enyém"
+      },
+      {
+        "id": "03100_03179",
+        "author": "Balázs Ferenc",
+        "title": "A rög alatt"
+      },
+      {
+        "id": "07600_07604",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+      },
+      {
+        "id": "02300_02321",
+        "author": "Vészi Endre",
+        "title": "Az ezüst kehely"
+      },
+      {
+        "id": "12400_12421",
+        "author": "Rejtő Jenő",
+        "title": "Trópusi pokol"
+      }
+    ]
   },
   {
     "id": "12300_12367",
@@ -150,7 +204,34 @@
         "title": "11 - Wallenstein főorvos tizenkét menetben a halállal"
       }
     ],
-    "url": "https://mek.oszk.hu/12300/12367"
+    "url": "https://mek.oszk.hu/12300/12367",
+    "similar_books": [
+      {
+        "id": "16000_16012",
+        "author": "Rejtő Jenő",
+        "title": "A boszorkánymester"
+      },
+      {
+        "id": "03000_03082",
+        "author": "Gárdonyi Géza",
+        "title": "Az én falum"
+      },
+      {
+        "id": "02700_02778",
+        "author": "Bródy Sándor",
+        "title": "Az ezüst kecske ; A nap lovagja"
+      },
+      {
+        "id": "12300_12396",
+        "author": "Rejtő Jenő",
+        "title": "Az utolsó szó jogán"
+      },
+      {
+        "id": "03700_03743",
+        "author": "Mikszáth Kálmán",
+        "title": "Szent Péter esernyője"
+      }
+    ]
   },
   {
     "id": "12300_12397",
@@ -197,7 +278,34 @@
         "title": "09 - Lord Flatherryt meglátogatja egy ügyvezető igazgató"
       }
     ],
-    "url": "https://mek.oszk.hu/12300/12397"
+    "url": "https://mek.oszk.hu/12300/12397",
+    "similar_books": [
+      {
+        "id": "11700_11747",
+        "author": "Tar Károly",
+        "title": "Hajnalban vadnyuszik ablakom alatt"
+      },
+      {
+        "id": "12300_12368",
+        "author": "Rejtő Jenő",
+        "title": "A fekete kapitány"
+      },
+      {
+        "id": "12400_12421",
+        "author": "Rejtő Jenő",
+        "title": "Trópusi pokol"
+      },
+      {
+        "id": "12400_12439",
+        "author": "Rejtő Jenő",
+        "title": "Halálsziget"
+      },
+      {
+        "id": "09700_09700",
+        "author": "Jókai Mór",
+        "title": "A kőszívű ember fiai"
+      }
+    ]
   },
   {
     "id": "12300_12398",
@@ -232,7 +340,34 @@
         "title": "06 - A történet végébe bekapcsolódik Manfréd"
       }
     ],
-    "url": "https://mek.oszk.hu/12300/12398"
+    "url": "https://mek.oszk.hu/12300/12398",
+    "similar_books": [
+      {
+        "id": "11700_11747",
+        "author": "Tar Károly",
+        "title": "Hajnalban vadnyuszik ablakom alatt"
+      },
+      {
+        "id": "12400_12421",
+        "author": "Rejtő Jenő",
+        "title": "Trópusi pokol"
+      },
+      {
+        "id": "12400_12453",
+        "author": "Rejtő Jenő",
+        "title": "Gyilkos?!"
+      },
+      {
+        "id": "09900_09914",
+        "author": "Gárdonyi Géza",
+        "title": "Göre Gábor biró úr könyve"
+      },
+      {
+        "id": "12400_12410",
+        "author": "Nagy Károly",
+        "title": "Csempészháború"
+      }
+    ]
   },
   {
     "id": "12400_12445",
@@ -295,7 +430,34 @@
         "title": "13 - 13. fejezet"
       }
     ],
-    "url": "https://mek.oszk.hu/12400/12445"
+    "url": "https://mek.oszk.hu/12400/12445",
+    "similar_books": [
+      {
+        "id": "12400_12447",
+        "author": "Rejtő Jenő",
+        "title": "Vissza a pokolba"
+      },
+      {
+        "id": "12300_12378",
+        "author": "Rejtő Jenő",
+        "title": "A pokol zsoldosai"
+      },
+      {
+        "id": "11700_11747",
+        "author": "Tar Károly",
+        "title": "Hajnalban vadnyuszik ablakom alatt"
+      },
+      {
+        "id": "03300_03310",
+        "author": "Benedek Elek",
+        "title": "Édes anyaföldem!"
+      },
+      {
+        "id": "12300_12368",
+        "author": "Rejtő Jenő",
+        "title": "A fekete kapitány"
+      }
+    ]
   },
   {
     "id": "12400_12464",
@@ -334,7 +496,34 @@
         "title": "07 - 7. fejezet"
       }
     ],
-    "url": "https://mek.oszk.hu/12400/12464"
+    "url": "https://mek.oszk.hu/12400/12464",
+    "similar_books": [
+      {
+        "id": "11700_11747",
+        "author": "Tar Károly",
+        "title": "Hajnalban vadnyuszik ablakom alatt"
+      },
+      {
+        "id": "04700_04770",
+        "author": "Reményik László",
+        "title": "Könnyű neked..."
+      },
+      {
+        "id": "12100_12107",
+        "author": "Nagy Károly",
+        "title": "Az elátkozott erőd"
+      },
+      {
+        "id": "09900_09914",
+        "author": "Gárdonyi Géza",
+        "title": "Göre Gábor biró úr könyve"
+      },
+      {
+        "id": "11200_11267",
+        "author": "Móricz Zsigmond",
+        "title": "A szerelmes levél"
+      }
+    ]
   },
   {
     "id": "02500_02545",
@@ -465,7 +654,34 @@
         "title": "29. fejezet"
       }
     ],
-    "url": "https://mek.oszk.hu/02500/02545"
+    "url": "https://mek.oszk.hu/02500/02545",
+    "similar_books": [
+      {
+        "id": "02500_02544",
+        "author": "Rejtő Jenő",
+        "title": "A láthatatlan légió"
+      },
+      {
+        "id": "03100_03172",
+        "author": "Rejtő Jenő",
+        "title": "A tizennégy karátos autó"
+      },
+      {
+        "id": "09900_09914",
+        "author": "Gárdonyi Géza",
+        "title": "Göre Gábor biró úr könyve"
+      },
+      {
+        "id": "12300_12378",
+        "author": "Rejtő Jenő",
+        "title": "A pokol zsoldosai"
+      },
+      {
+        "id": "12400_12439",
+        "author": "Rejtő Jenő",
+        "title": "Halálsziget"
+      }
+    ]
   },
   {
     "id": "12400_12471",
@@ -528,7 +744,34 @@
         "title": "13 - Befejezés"
       }
     ],
-    "url": "https://mek.oszk.hu/12400/12471"
+    "url": "https://mek.oszk.hu/12400/12471",
+    "similar_books": [
+      {
+        "id": "09700_09700",
+        "author": "Jókai Mór",
+        "title": "A kőszívű ember fiai"
+      },
+      {
+        "id": "11700_11747",
+        "author": "Tar Károly",
+        "title": "Hajnalban vadnyuszik ablakom alatt"
+      },
+      {
+        "id": "12300_12368",
+        "author": "Rejtő Jenő",
+        "title": "A fekete kapitány"
+      },
+      {
+        "id": "02900_02954",
+        "author": "Babits Mihály",
+        "title": "A gólyakalifa"
+      },
+      {
+        "id": "02900_02965",
+        "author": "Tamási Áron",
+        "title": "Ábel a rengetegben"
+      }
+    ]
   },
   {
     "id": "12300_12368",
@@ -567,7 +810,34 @@
         "title": "07 - John visszamenőleg szédül"
       }
     ],
-    "url": "https://mek.oszk.hu/12300/12368"
+    "url": "https://mek.oszk.hu/12300/12368",
+    "similar_books": [
+      {
+        "id": "12300_12396",
+        "author": "Rejtő Jenő",
+        "title": "Az utolsó szó jogán"
+      },
+      {
+        "id": "11700_11747",
+        "author": "Tar Károly",
+        "title": "Hajnalban vadnyuszik ablakom alatt"
+      },
+      {
+        "id": "03100_03172",
+        "author": "Rejtő Jenő",
+        "title": "A tizennégy karátos autó"
+      },
+      {
+        "id": "09700_09700",
+        "author": "Jókai Mór",
+        "title": "A kőszívű ember fiai"
+      },
+      {
+        "id": "12300_12398",
+        "author": "Rejtő Jenő",
+        "title": "Drótnélküli gyilkosság"
+      }
+    ]
   },
   {
     "id": "12400_12453",
@@ -686,7 +956,34 @@
         "title": "27 - 27. fejezet"
       }
     ],
-    "url": "https://mek.oszk.hu/12400/12453"
+    "url": "https://mek.oszk.hu/12400/12453",
+    "similar_books": [
+      {
+        "id": "12300_12398",
+        "author": "Rejtő Jenő",
+        "title": "Drótnélküli gyilkosság"
+      },
+      {
+        "id": "06700_06785",
+        "author": "Tar Károly",
+        "title": "Szerenád dobra, cintányérra és más ütős hangszerekreHangoskönyv"
+      },
+      {
+        "id": "09900_09914",
+        "author": "Gárdonyi Géza",
+        "title": "Göre Gábor biró úr könyve"
+      },
+      {
+        "id": "09300_09387",
+        "author": "Gárdonyi Géza",
+        "title": "Bojgás az világba"
+      },
+      {
+        "id": "25100_25113",
+        "author": "Krúdy Gyula",
+        "title": "Rózsa Sándor"
+      }
+    ]
   },
   {
     "id": "12300_12369",
@@ -721,7 +1018,34 @@
         "title": "06 - Johnson megtudja, hogy semmi baja csak meg kell halnia"
       }
     ],
-    "url": "https://mek.oszk.hu/12300/12369"
+    "url": "https://mek.oszk.hu/12300/12369",
+    "similar_books": [
+      {
+        "id": "11700_11747",
+        "author": "Tar Károly",
+        "title": "Hajnalban vadnyuszik ablakom alatt"
+      },
+      {
+        "id": "12300_12398",
+        "author": "Rejtő Jenő",
+        "title": "Drótnélküli gyilkosság"
+      },
+      {
+        "id": "12200_12244",
+        "author": "Komor Zoltán",
+        "title": "Fekete múzsák"
+      },
+      {
+        "id": "12400_12439",
+        "author": "Rejtő Jenő",
+        "title": "Halálsziget"
+      },
+      {
+        "id": "12300_12368",
+        "author": "Rejtő Jenő",
+        "title": "A fekete kapitány"
+      }
+    ]
   },
   {
     "id": "12400_12439",
@@ -776,7 +1100,34 @@
         "title": "11 - Hódítás"
       }
     ],
-    "url": "https://mek.oszk.hu/12400/12439"
+    "url": "https://mek.oszk.hu/12400/12439",
+    "similar_books": [
+      {
+        "id": "11700_11747",
+        "author": "Tar Károly",
+        "title": "Hajnalban vadnyuszik ablakom alatt"
+      },
+      {
+        "id": "04700_04770",
+        "author": "Reményik László",
+        "title": "Könnyű neked..."
+      },
+      {
+        "id": "12300_12398",
+        "author": "Rejtő Jenő",
+        "title": "Drótnélküli gyilkosság"
+      },
+      {
+        "id": "07100_07153",
+        "author": "Tornai József",
+        "title": "Villámsújtotta kor"
+      },
+      {
+        "id": "03700_03740",
+        "author": "Tamási Áron",
+        "title": "Ábel Amerikában"
+      }
+    ]
   },
   {
     "id": "12400_12419",
@@ -815,7 +1166,34 @@
         "title": "07 - 7. fejezet"
       }
     ],
-    "url": "https://mek.oszk.hu/12400/12419"
+    "url": "https://mek.oszk.hu/12400/12419",
+    "similar_books": [
+      {
+        "id": "05400_05486",
+        "author": "Móricz Zsigmond",
+        "title": "Betyár"
+      },
+      {
+        "id": "12400_12463",
+        "author": "Rejtő Jenő",
+        "title": "Vér és mahagóni"
+      },
+      {
+        "id": "02900_02965",
+        "author": "Tamási Áron",
+        "title": "Ábel a rengetegben"
+      },
+      {
+        "id": "11200_11242",
+        "author": "Gárdonyi Géza",
+        "title": "Láthatatlan ember"
+      },
+      {
+        "id": "10500_10570",
+        "author": "Gárdonyi Géza",
+        "title": "Kátsa"
+      }
+    ]
   },
   {
     "id": "12400_12446",
@@ -870,7 +1248,34 @@
         "title": "11 - Egy elfajzott utód"
       }
     ],
-    "url": "https://mek.oszk.hu/12400/12446"
+    "url": "https://mek.oszk.hu/12400/12446",
+    "similar_books": [
+      {
+        "id": "24600_24657",
+        "author": "Rejtő Jenő",
+        "title": "Legény a talpán"
+      },
+      {
+        "id": "12300_12398",
+        "author": "Rejtő Jenő",
+        "title": "Drótnélküli gyilkosság"
+      },
+      {
+        "id": "02900_02953",
+        "author": "Rejtő Jenő",
+        "title": "Piszkos Fred, a kapitány"
+      },
+      {
+        "id": "23300_23314",
+        "author": null,
+        "title": "Kató mint asszony"
+      },
+      {
+        "id": "02900_02965",
+        "author": "Tamási Áron",
+        "title": "Ábel a rengetegben"
+      }
+    ]
   },
   {
     "id": "02500_02544",
@@ -957,7 +1362,34 @@
         "title": "18 - Epilógus"
       }
     ],
-    "url": "https://mek.oszk.hu/02500/02544"
+    "url": "https://mek.oszk.hu/02500/02544",
+    "similar_books": [
+      {
+        "id": "02500_02545",
+        "author": "Rejtő Jenő",
+        "title": "Az előretolt helyőrség"
+      },
+      {
+        "id": "11200_11242",
+        "author": "Gárdonyi Géza",
+        "title": "Láthatatlan ember"
+      },
+      {
+        "id": "12400_12445",
+        "author": "Rejtő Jenő",
+        "title": "El a pokolból"
+      },
+      {
+        "id": "03100_03172",
+        "author": "Rejtő Jenő",
+        "title": "A tizennégy karátos autó"
+      },
+      {
+        "id": "12300_12378",
+        "author": "Rejtő Jenő",
+        "title": "A pokol zsoldosai"
+      }
+    ]
   },
   {
     "id": "24600_24657",
@@ -1040,7 +1472,34 @@
         "title": "17 - XVII. fejezet"
       }
     ],
-    "url": "https://mek.oszk.hu/24600/24657"
+    "url": "https://mek.oszk.hu/24600/24657",
+    "similar_books": [
+      {
+        "id": "16100_16149",
+        "author": "Menyhei József",
+        "title": "Múltbanéző"
+      },
+      {
+        "id": "11700_11747",
+        "author": "Tar Károly",
+        "title": "Hajnalban vadnyuszik ablakom alatt"
+      },
+      {
+        "id": "24900_24935",
+        "author": "Krúdy Gyula",
+        "title": "Az élet álom"
+      },
+      {
+        "id": "14600_14639",
+        "author": "Lehoczki Károly",
+        "title": "Az ismeretlen kert"
+      },
+      {
+        "id": "13800_13810",
+        "author": "Jenei András",
+        "title": "Nyeregben a Konstantin-kereszt"
+      }
+    ]
   },
   {
     "id": "12700_12722",
@@ -1087,7 +1546,34 @@
         "title": "09 - Életre-halálra"
       }
     ],
-    "url": "https://mek.oszk.hu/12700/12722"
+    "url": "https://mek.oszk.hu/12700/12722",
+    "similar_books": [
+      {
+        "id": "03000_03087",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekZala megye - Keménfai mesék"
+      },
+      {
+        "id": "24600_24657",
+        "author": "Rejtő Jenő",
+        "title": "Legény a talpán"
+      },
+      {
+        "id": "19000_19059",
+        "author": "Szente B. Levente",
+        "title": "Az ezüsthajú tündérleány"
+      },
+      {
+        "id": "18700_18753",
+        "author": "Mihályi Antal",
+        "title": "Ili néni állatkertje"
+      },
+      {
+        "id": "02300_02321",
+        "author": "Vészi Endre",
+        "title": "Az ezüst kehely"
+      }
+    ]
   },
   {
     "id": "12400_12454",
@@ -1150,7 +1636,34 @@
         "title": "13 - 13. fejezet"
       }
     ],
-    "url": "https://mek.oszk.hu/12400/12454"
+    "url": "https://mek.oszk.hu/12400/12454",
+    "similar_books": [
+      {
+        "id": "02900_02971",
+        "author": "Benedek Elek",
+        "title": "Székely Tündérország"
+      },
+      {
+        "id": "12300_12398",
+        "author": "Rejtő Jenő",
+        "title": "Drótnélküli gyilkosság"
+      },
+      {
+        "id": "12300_12368",
+        "author": "Rejtő Jenő",
+        "title": "A fekete kapitány"
+      },
+      {
+        "id": "12400_12420",
+        "author": "Rejtő Jenő",
+        "title": "Víkend a pokolban"
+      },
+      {
+        "id": "11700_11747",
+        "author": "Tar Károly",
+        "title": "Hajnalban vadnyuszik ablakom alatt"
+      }
+    ]
   },
   {
     "id": "12300_12377",
@@ -1193,7 +1706,34 @@
         "title": "08 - Dr. Gucseff"
       }
     ],
-    "url": "https://mek.oszk.hu/12300/12377"
+    "url": "https://mek.oszk.hu/12300/12377",
+    "similar_books": [
+      {
+        "id": "03100_03172",
+        "author": "Rejtő Jenő",
+        "title": "A tizennégy karátos autó"
+      },
+      {
+        "id": "12400_12463",
+        "author": "Rejtő Jenő",
+        "title": "Vér és mahagóni"
+      },
+      {
+        "id": "02900_02953",
+        "author": "Rejtő Jenő",
+        "title": "Piszkos Fred, a kapitány"
+      },
+      {
+        "id": "12300_12368",
+        "author": "Rejtő Jenő",
+        "title": "A fekete kapitány"
+      },
+      {
+        "id": "12400_12445",
+        "author": "Rejtő Jenő",
+        "title": "El a pokolból"
+      }
+    ]
   },
   {
     "id": "24600_24626",
@@ -1244,7 +1784,34 @@
         "title": "09 - IX. fejezet"
       }
     ],
-    "url": "https://mek.oszk.hu/24600/24626"
+    "url": "https://mek.oszk.hu/24600/24626",
+    "similar_books": [
+      {
+        "id": "13700_13790",
+        "author": "Jenei András",
+        "title": "Tengercseppek"
+      },
+      {
+        "id": "16100_16149",
+        "author": "Menyhei József",
+        "title": "Múltbanéző"
+      },
+      {
+        "id": "22100_22167",
+        "author": "Móricz Zsigmond",
+        "title": "Pillangó és válogatott elbeszélések"
+      },
+      {
+        "id": "13800_13810",
+        "author": "Jenei András",
+        "title": "Nyeregben a Konstantin-kereszt"
+      },
+      {
+        "id": "06700_06785",
+        "author": "Tar Károly",
+        "title": "Szerenád dobra, cintányérra és más ütős hangszerekreHangoskönyv"
+      }
+    ]
   },
   {
     "id": "02900_02953",
@@ -1359,7 +1926,34 @@
         "title": "25. fejezet"
       }
     ],
-    "url": "https://mek.oszk.hu/02900/02953"
+    "url": "https://mek.oszk.hu/02900/02953",
+    "similar_books": [
+      {
+        "id": "05400_05486",
+        "author": "Móricz Zsigmond",
+        "title": "Betyár"
+      },
+      {
+        "id": "12400_12446",
+        "author": "Rejtő Jenő",
+        "title": "Jó üzlet a halál"
+      },
+      {
+        "id": "03300_03310",
+        "author": "Benedek Elek",
+        "title": "Édes anyaföldem!"
+      },
+      {
+        "id": "24600_24626",
+        "author": "Rejtő Jenő",
+        "title": "Pipacs, a fenegyerek"
+      },
+      {
+        "id": "08300_08399",
+        "author": "Nagy Pál",
+        "title": "Nagy Pál visszaemlékezései"
+      }
+    ]
   },
   {
     "id": "12400_12462",
@@ -1406,7 +2000,34 @@
         "title": "09 - A nagy küzdelem 2/2"
       }
     ],
-    "url": "https://mek.oszk.hu/12400/12462"
+    "url": "https://mek.oszk.hu/12400/12462",
+    "similar_books": [
+      {
+        "id": "04700_04770",
+        "author": "Reményik László",
+        "title": "Könnyű neked..."
+      },
+      {
+        "id": "11700_11747",
+        "author": "Tar Károly",
+        "title": "Hajnalban vadnyuszik ablakom alatt"
+      },
+      {
+        "id": "11200_11242",
+        "author": "Gárdonyi Géza",
+        "title": "Láthatatlan ember"
+      },
+      {
+        "id": "09800_09885",
+        "author": "",
+        "title": "A szív árnyaiHangoskönyv"
+      },
+      {
+        "id": "12100_12181",
+        "author": "Nagy Károly",
+        "title": "A sátánlégió"
+      }
+    ]
   },
   {
     "id": "12300_12378",
@@ -1489,7 +2110,34 @@
         "title": "18 - A becsületrend"
       }
     ],
-    "url": "https://mek.oszk.hu/12300/12378"
+    "url": "https://mek.oszk.hu/12300/12378",
+    "similar_books": [
+      {
+        "id": "02700_02778",
+        "author": "Bródy Sándor",
+        "title": "Az ezüst kecske ; A nap lovagja"
+      },
+      {
+        "id": "12300_12396",
+        "author": "Rejtő Jenő",
+        "title": "Az utolsó szó jogán"
+      },
+      {
+        "id": "09700_09700",
+        "author": "Jókai Mór",
+        "title": "A kőszívű ember fiai"
+      },
+      {
+        "id": "11700_11747",
+        "author": "Tar Károly",
+        "title": "Hajnalban vadnyuszik ablakom alatt"
+      },
+      {
+        "id": "02300_02387",
+        "author": "Mikszáth Kálmán",
+        "title": "Jókai Mór élete és kora"
+      }
+    ]
   },
   {
     "id": "02900_02966",
@@ -1548,7 +2196,34 @@
         "title": "10. fejezet"
       }
     ],
-    "url": "https://mek.oszk.hu/02900/02966"
+    "url": "https://mek.oszk.hu/02900/02966",
+    "similar_books": [
+      {
+        "id": "12300_12398",
+        "author": "Rejtő Jenő",
+        "title": "Drótnélküli gyilkosság"
+      },
+      {
+        "id": "11700_11747",
+        "author": "Tar Károly",
+        "title": "Hajnalban vadnyuszik ablakom alatt"
+      },
+      {
+        "id": "02500_02545",
+        "author": "Rejtő Jenő",
+        "title": "Az előretolt helyőrség"
+      },
+      {
+        "id": "03900_03986",
+        "author": "Mikszáth Kálmán",
+        "title": "Különös házasság"
+      },
+      {
+        "id": "03000_03071",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekTolna megye - Váralja,Baranya megye - Zengővárkony"
+      }
+    ]
   },
   {
     "id": "12700_12723",
@@ -1627,7 +2302,34 @@
         "title": "17 - A nagy összecsapás"
       }
     ],
-    "url": "https://mek.oszk.hu/12700/12723"
+    "url": "https://mek.oszk.hu/12700/12723",
+    "similar_books": [
+      {
+        "id": "24600_24657",
+        "author": "Rejtő Jenő",
+        "title": "Legény a talpán"
+      },
+      {
+        "id": "11800_11839",
+        "author": "Végh Miki",
+        "title": "Humor-morzsák"
+      },
+      {
+        "id": "22600_22667",
+        "author": null,
+        "title": "Mesepelyhek"
+      },
+      {
+        "id": "10600_10621",
+        "author": "Gárdonyi Géza",
+        "title": "No még öggyet"
+      },
+      {
+        "id": "10500_10570",
+        "author": "Gárdonyi Géza",
+        "title": "Kátsa"
+      }
+    ]
   },
   {
     "id": "03100_03172",
@@ -1726,7 +2428,34 @@
         "title": "21. fejezet"
       }
     ],
-    "url": "https://mek.oszk.hu/03100/03172"
+    "url": "https://mek.oszk.hu/03100/03172",
+    "similar_books": [
+      {
+        "id": "02500_02545",
+        "author": "Rejtő Jenő",
+        "title": "Az előretolt helyőrség"
+      },
+      {
+        "id": "12300_12368",
+        "author": "Rejtő Jenő",
+        "title": "A fekete kapitány"
+      },
+      {
+        "id": "03700_03743",
+        "author": "Mikszáth Kálmán",
+        "title": "Szent Péter esernyője"
+      },
+      {
+        "id": "12300_12396",
+        "author": "Rejtő Jenő",
+        "title": "Az utolsó szó jogán"
+      },
+      {
+        "id": "11200_11242",
+        "author": "Gárdonyi Géza",
+        "title": "Láthatatlan ember"
+      }
+    ]
   },
   {
     "id": "12400_12421",
@@ -1769,7 +2498,34 @@
         "title": "08 - A nagy karantén"
       }
     ],
-    "url": "https://mek.oszk.hu/12400/12421"
+    "url": "https://mek.oszk.hu/12400/12421",
+    "similar_books": [
+      {
+        "id": "07600_07604",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+      },
+      {
+        "id": "16100_16149",
+        "author": "Menyhei József",
+        "title": "Múltbanéző"
+      },
+      {
+        "id": "11700_11747",
+        "author": "Tar Károly",
+        "title": "Hajnalban vadnyuszik ablakom alatt"
+      },
+      {
+        "id": "12400_12447",
+        "author": "Rejtő Jenő",
+        "title": "Vissza a pokolba"
+      },
+      {
+        "id": "24600_24657",
+        "author": "Rejtő Jenő",
+        "title": "Legény a talpán"
+      }
+    ]
   },
   {
     "id": "12300_12396",
@@ -1848,7 +2604,34 @@
         "title": "17 - Az utolsó szó jogán"
       }
     ],
-    "url": "https://mek.oszk.hu/12300/12396"
+    "url": "https://mek.oszk.hu/12300/12396",
+    "similar_books": [
+      {
+        "id": "12300_12378",
+        "author": "Rejtő Jenő",
+        "title": "A pokol zsoldosai"
+      },
+      {
+        "id": "12300_12368",
+        "author": "Rejtő Jenő",
+        "title": "A fekete kapitány"
+      },
+      {
+        "id": "12300_12379",
+        "author": "Rejtő Jenő",
+        "title": "Akik életet cseréltek"
+      },
+      {
+        "id": "04700_04770",
+        "author": "Reményik László",
+        "title": "Könnyű neked..."
+      },
+      {
+        "id": "03100_03172",
+        "author": "Rejtő Jenő",
+        "title": "A tizennégy karátos autó"
+      }
+    ]
   },
   {
     "id": "12400_12463",
@@ -1887,7 +2670,34 @@
         "title": "07 - Mr. Howard célbalő"
       }
     ],
-    "url": "https://mek.oszk.hu/12400/12463"
+    "url": "https://mek.oszk.hu/12400/12463",
+    "similar_books": [
+      {
+        "id": "02300_02359",
+        "author": "Jókai Mór",
+        "title": "Csataképek a magyar szabadságharcból"
+      },
+      {
+        "id": "03700_03743",
+        "author": "Mikszáth Kálmán",
+        "title": "Szent Péter esernyője"
+      },
+      {
+        "id": "12400_12447",
+        "author": "Rejtő Jenő",
+        "title": "Vissza a pokolba"
+      },
+      {
+        "id": "03100_03179",
+        "author": "Balázs Ferenc",
+        "title": "A rög alatt"
+      },
+      {
+        "id": "02900_02965",
+        "author": "Tamási Áron",
+        "title": "Ábel a rengetegben"
+      }
+    ]
   },
   {
     "id": "12400_12420",
@@ -1918,7 +2728,34 @@
         "title": "05 - Vihar tör ki mindenféle értelemben"
       }
     ],
-    "url": "https://mek.oszk.hu/12400/12420"
+    "url": "https://mek.oszk.hu/12400/12420",
+    "similar_books": [
+      {
+        "id": "03700_03740",
+        "author": "Tamási Áron",
+        "title": "Ábel Amerikában"
+      },
+      {
+        "id": "03300_03310",
+        "author": "Benedek Elek",
+        "title": "Édes anyaföldem!"
+      },
+      {
+        "id": "12300_12368",
+        "author": "Rejtő Jenő",
+        "title": "A fekete kapitány"
+      },
+      {
+        "id": "12300_12378",
+        "author": "Rejtő Jenő",
+        "title": "A pokol zsoldosai"
+      },
+      {
+        "id": "11700_11747",
+        "author": "Tar Károly",
+        "title": "Hajnalban vadnyuszik ablakom alatt"
+      }
+    ]
   },
   {
     "id": "12400_12447",
@@ -2009,6 +2846,33 @@
         "title": "20 - 20. fejezet"
       }
     ],
-    "url": "https://mek.oszk.hu/12400/12447"
+    "url": "https://mek.oszk.hu/12400/12447",
+    "similar_books": [
+      {
+        "id": "12400_12421",
+        "author": "Rejtő Jenő",
+        "title": "Trópusi pokol"
+      },
+      {
+        "id": "11800_11839",
+        "author": "Végh Miki",
+        "title": "Humor-morzsák"
+      },
+      {
+        "id": "22200_22243",
+        "author": "Kosztolányi Dezső",
+        "title": "Pacsirta"
+      },
+      {
+        "id": "12400_12463",
+        "author": "Rejtő Jenő",
+        "title": "Vér és mahagóni"
+      },
+      {
+        "id": "09300_09387",
+        "author": "Gárdonyi Géza",
+        "title": "Bojgás az világba"
+      }
+    ]
   }
 ]

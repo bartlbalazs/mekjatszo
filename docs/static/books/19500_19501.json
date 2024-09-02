@@ -39,5 +39,32 @@
       "title": "08_Bolhapiac_II_resz.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/19500/19501"
+  "url": "https://mek.oszk.hu/19500/19501",
+  "similar_books": [
+    {
+      "id": "14600_14639",
+      "author": "Lehoczki Károly",
+      "title": "Az ismeretlen kert"
+    },
+    {
+      "id": "17000_17009",
+      "author": "Lehoczki Károly",
+      "title": "Sétány a pokolban"
+    },
+    {
+      "id": "21900_21995",
+      "author": "Németh Árpád",
+      "title": "A kő"
+    },
+    {
+      "id": "22300_22321",
+      "author": "Lehoczki Károly",
+      "title": "Dal a semmiből"
+    },
+    {
+      "id": "02700_02787",
+      "author": "Reményik László",
+      "title": "Akik a sötétben is látnak"
+    }
+  ]
 }

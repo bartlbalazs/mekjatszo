@@ -167,5 +167,32 @@
       "title": "39 - Utószó"
     }
   ],
-  "url": "https://mek.oszk.hu/02700/02787"
+  "url": "https://mek.oszk.hu/02700/02787",
+  "similar_books": [
+    {
+      "id": "12500_12529",
+      "author": "Gubcsi Lajos",
+      "title": "Jut eszembe... ami kimaradt"
+    },
+    {
+      "id": "09900_09914",
+      "author": "Gárdonyi Géza",
+      "title": "Göre Gábor biró úr könyve"
+    },
+    {
+      "id": "24900_24935",
+      "author": "Krúdy Gyula",
+      "title": "Az élet álom"
+    },
+    {
+      "id": "19500_19566",
+      "author": "Boér Péter Pál",
+      "title": "Szabályerősítő"
+    },
+    {
+      "id": "17000_17009",
+      "author": "Lehoczki Károly",
+      "title": "Sétány a pokolban"
+    }
+  ]
 }

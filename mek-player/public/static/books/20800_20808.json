@@ -31,5 +31,32 @@
       "title": "06 - Ismét Holli-Bolliában"
     }
   ],
-  "url": "https://mek.oszk.hu/20800/20808"
+  "url": "https://mek.oszk.hu/20800/20808",
+  "similar_books": [
+    {
+      "id": "18700_18753",
+      "author": "Mihályi Antal",
+      "title": "Ili néni állatkertje"
+    },
+    {
+      "id": "17000_17009",
+      "author": "Lehoczki Károly",
+      "title": "Sétány a pokolban"
+    },
+    {
+      "id": "22200_22250",
+      "author": "Vidra Szabó Ferenc",
+      "title": "Uszadékfa"
+    },
+    {
+      "id": "06700_06785",
+      "author": "Tar Károly",
+      "title": "Szerenád dobra, cintányérra és más ütős hangszerekreHangoskönyv"
+    },
+    {
+      "id": "22300_22321",
+      "author": "Lehoczki Károly",
+      "title": "Dal a semmiből"
+    }
+  ]
 }

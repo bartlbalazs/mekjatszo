@@ -119,5 +119,32 @@
       "title": "28-janosvitez-27-enek.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/08700/08789"
+  "url": "https://mek.oszk.hu/08700/08789",
+  "similar_books": [
+    {
+      "id": "22200_22217",
+      "author": "Petőfi Sándor",
+      "title": "Petőfi Sándor válogatott költeményei"
+    },
+    {
+      "id": "02200_02268",
+      "author": "Petőfi Sándor",
+      "title": "A helység kalapácsa"
+    },
+    {
+      "id": "02300_02321",
+      "author": "Vészi Endre",
+      "title": "Az ezüst kehely"
+    },
+    {
+      "id": "05400_05486",
+      "author": "Móricz Zsigmond",
+      "title": "Betyár"
+    },
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    }
+  ]
 }

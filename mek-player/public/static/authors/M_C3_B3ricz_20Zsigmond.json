@@ -40,7 +40,34 @@
         "title": "7 - Hetedik zsoltár (67:51 min. 20,4 Mbyte)"
       }
     ],
-    "url": "https://mek.oszk.hu/03100/03168"
+    "url": "https://mek.oszk.hu/03100/03168",
+    "similar_books": [
+      {
+        "id": "02500_02595",
+        "author": "Csáth Géza",
+        "title": "Lidércálmok"
+      },
+      {
+        "id": "11300_11390",
+        "author": "Móricz Zsigmond",
+        "title": "Móricz Zsigmond válogatott művei a Nyugatból"
+      },
+      {
+        "id": "02300_02388",
+        "author": "Csáth Géza",
+        "title": "Egy elmebeteg nő naplója"
+      },
+      {
+        "id": "03100_03171",
+        "author": "Tamási Áron",
+        "title": "Vadrózsa ága"
+      },
+      {
+        "id": "22200_22239",
+        "author": "Móricz Zsigmond",
+        "title": "Árvácska"
+      }
+    ]
   },
   {
     "id": "22200_22239",
@@ -95,7 +122,34 @@
         "title": "11. rész"
       }
     ],
-    "url": "https://mek.oszk.hu/22200/22239"
+    "url": "https://mek.oszk.hu/22200/22239",
+    "similar_books": [
+      {
+        "id": "11200_11267",
+        "author": "Móricz Zsigmond",
+        "title": "A szerelmes levél"
+      },
+      {
+        "id": "11300_11390",
+        "author": "Móricz Zsigmond",
+        "title": "Móricz Zsigmond válogatott művei a Nyugatból"
+      },
+      {
+        "id": "02200_02289",
+        "author": "Mikszáth Kálmán",
+        "title": "Kísértet Lublón"
+      },
+      {
+        "id": "03100_03168",
+        "author": "Móricz Zsigmond",
+        "title": "Árvácska"
+      },
+      {
+        "id": "11200_11236",
+        "author": "Krúdy Gyula",
+        "title": "Jézuska csizmájaHangoskönyv"
+      }
+    ]
   },
   {
     "id": "03300_03385",
@@ -150,7 +204,34 @@
         "title": "10 - Gyuri levelet kap"
       }
     ],
-    "url": "https://mek.oszk.hu/03300/03385"
+    "url": "https://mek.oszk.hu/03300/03385",
+    "similar_books": [
+      {
+        "id": "09700_09700",
+        "author": "Jókai Mór",
+        "title": "A kőszívű ember fiai"
+      },
+      {
+        "id": "02500_02595",
+        "author": "Csáth Géza",
+        "title": "Lidércálmok"
+      },
+      {
+        "id": "03100_03168",
+        "author": "Móricz Zsigmond",
+        "title": "Árvácska"
+      },
+      {
+        "id": "04400_04480",
+        "author": "Nyikolaj Vasziljevics Gogol",
+        "title": "Az orr"
+      },
+      {
+        "id": "03000_03082",
+        "author": "Gárdonyi Géza",
+        "title": "Az én falum"
+      }
+    ]
   },
   {
     "id": "05400_05486",
@@ -261,7 +342,34 @@
         "title": "24 - Negyedik ének 6."
       }
     ],
-    "url": "https://mek.oszk.hu/05400/05486"
+    "url": "https://mek.oszk.hu/05400/05486",
+    "similar_books": [
+      {
+        "id": "02900_02965",
+        "author": "Tamási Áron",
+        "title": "Ábel a rengetegben"
+      },
+      {
+        "id": "09700_09700",
+        "author": "Jókai Mór",
+        "title": "A kőszívű ember fiai"
+      },
+      {
+        "id": "11200_11242",
+        "author": "Gárdonyi Géza",
+        "title": "Láthatatlan ember"
+      },
+      {
+        "id": "03900_03985",
+        "author": "Móra Ferenc",
+        "title": "Rab ember fiai"
+      },
+      {
+        "id": "02700_02778",
+        "author": "Bródy Sándor",
+        "title": "Az ezüst kecske ; A nap lovagja"
+      }
+    ]
   },
   {
     "id": "07500_07547",
@@ -324,7 +432,34 @@
         "title": "12 - A nap árnyéka 4. könyv"
       }
     ],
-    "url": "https://mek.oszk.hu/07500/07547"
+    "url": "https://mek.oszk.hu/07500/07547",
+    "similar_books": [
+      {
+        "id": "02300_02367",
+        "author": "Jókai Mór",
+        "title": "Törökvilág Magyarországon"
+      },
+      {
+        "id": "09400_09475",
+        "author": "Gárdonyi Géza",
+        "title": "Veszödelmek"
+      },
+      {
+        "id": "24800_24803",
+        "author": "Mikszáth Kálmán",
+        "title": "Beszterce ostroma"
+      },
+      {
+        "id": "10200_10222",
+        "author": "Móra Ferenc",
+        "title": "Nekopogi kovács"
+      },
+      {
+        "id": "23600_23604",
+        "author": "Móricz Zsigmond",
+        "title": "Úri muri"
+      }
+    ]
   },
   {
     "id": "22200_22211",
@@ -383,7 +518,34 @@
         "title": "11 - Barbárok (2. rész) - A kondás legszennyesebb inge"
       }
     ],
-    "url": "https://mek.oszk.hu/22200/22211"
+    "url": "https://mek.oszk.hu/22200/22211",
+    "similar_books": [
+      {
+        "id": "11200_11267",
+        "author": "Móricz Zsigmond",
+        "title": "A szerelmes levél"
+      },
+      {
+        "id": "22100_22167",
+        "author": "Móricz Zsigmond",
+        "title": "Pillangó és válogatott elbeszélések"
+      },
+      {
+        "id": "14100_14175",
+        "author": "V. Pócsay Rozika",
+        "title": "Mélység és magasság"
+      },
+      {
+        "id": "11400_11424",
+        "author": "",
+        "title": "Klasszikusok novellái a magyar szabadságharcról"
+      },
+      {
+        "id": "11300_11390",
+        "author": "Móricz Zsigmond",
+        "title": "Móricz Zsigmond válogatott művei a Nyugatból"
+      }
+    ]
   },
   {
     "id": "03000_03075",
@@ -446,7 +608,34 @@
         "title": "87 - 12. fejezet"
       }
     ],
-    "url": "https://mek.oszk.hu/03000/03075"
+    "url": "https://mek.oszk.hu/03000/03075",
+    "similar_books": [
+      {
+        "id": "12300_12378",
+        "author": "Rejtő Jenő",
+        "title": "A pokol zsoldosai"
+      },
+      {
+        "id": "09900_09931",
+        "author": "Móra Ferenc",
+        "title": "Kincskereső kisködmön"
+      },
+      {
+        "id": "02500_02580",
+        "author": "Kosztolányi Dezső",
+        "title": "A rossz orvos"
+      },
+      {
+        "id": "02300_02358",
+        "author": "Jókai Mór",
+        "title": "A gazdag szegények"
+      },
+      {
+        "id": "02300_02377",
+        "author": "Ottlik Géza",
+        "title": "Próza"
+      }
+    ]
   },
   {
     "id": "11300_11390",
@@ -525,7 +714,34 @@
         "title": "16-Moricz_Zsigmond_valogatott_muvei - Disznótor"
       }
     ],
-    "url": "https://mek.oszk.hu/11300/11390"
+    "url": "https://mek.oszk.hu/11300/11390",
+    "similar_books": [
+      {
+        "id": "11200_11267",
+        "author": "Móricz Zsigmond",
+        "title": "A szerelmes levél"
+      },
+      {
+        "id": "03100_03168",
+        "author": "Móricz Zsigmond",
+        "title": "Árvácska"
+      },
+      {
+        "id": "23600_23604",
+        "author": "Móricz Zsigmond",
+        "title": "Úri muri"
+      },
+      {
+        "id": "22200_22239",
+        "author": "Móricz Zsigmond",
+        "title": "Árvácska"
+      },
+      {
+        "id": "22200_22211",
+        "author": "Móricz Zsigmond",
+        "title": "Kivilágos kivirradtig és két novella"
+      }
+    ]
   },
   {
     "id": "22100_22167",
@@ -600,7 +816,34 @@
         "title": "15 - Egyszer jóllakni"
       }
     ],
-    "url": "https://mek.oszk.hu/22100/22167"
+    "url": "https://mek.oszk.hu/22100/22167",
+    "similar_books": [
+      {
+        "id": "06700_06785",
+        "author": "Tar Károly",
+        "title": "Szerenád dobra, cintányérra és más ütős hangszerekreHangoskönyv"
+      },
+      {
+        "id": "07100_07153",
+        "author": "Tornai József",
+        "title": "Villámsújtotta kor"
+      },
+      {
+        "id": "16100_16149",
+        "author": "Menyhei József",
+        "title": "Múltbanéző"
+      },
+      {
+        "id": "09300_09387",
+        "author": "Gárdonyi Géza",
+        "title": "Bojgás az világba"
+      },
+      {
+        "id": "10600_10621",
+        "author": "Gárdonyi Géza",
+        "title": "No még öggyet"
+      }
+    ]
   },
   {
     "id": "04700_04748",
@@ -667,7 +910,34 @@
         "title": "13 - Mikor a fülemile csattog"
       }
     ],
-    "url": "https://mek.oszk.hu/04700/04748"
+    "url": "https://mek.oszk.hu/04700/04748",
+    "similar_books": [
+      {
+        "id": "03100_03168",
+        "author": "Móricz Zsigmond",
+        "title": "Árvácska"
+      },
+      {
+        "id": "03300_03307",
+        "author": "Móricz Zsigmond",
+        "title": "Rokonok"
+      },
+      {
+        "id": "05400_05486",
+        "author": "Móricz Zsigmond",
+        "title": "Betyár"
+      },
+      {
+        "id": "03700_03743",
+        "author": "Mikszáth Kálmán",
+        "title": "Szent Péter esernyője"
+      },
+      {
+        "id": "02300_02388",
+        "author": "Csáth Géza",
+        "title": "Egy elmebeteg nő naplója"
+      }
+    ]
   },
   {
     "id": "03300_03307",
@@ -782,7 +1052,34 @@
         "title": "25."
       }
     ],
-    "url": "https://mek.oszk.hu/03300/03307"
+    "url": "https://mek.oszk.hu/03300/03307",
+    "similar_books": [
+      {
+        "id": "22200_22239",
+        "author": "Móricz Zsigmond",
+        "title": "Árvácska"
+      },
+      {
+        "id": "03000_03082",
+        "author": "Gárdonyi Géza",
+        "title": "Az én falum"
+      },
+      {
+        "id": "02200_02289",
+        "author": "Mikszáth Kálmán",
+        "title": "Kísértet Lublón"
+      },
+      {
+        "id": "05400_05486",
+        "author": "Móricz Zsigmond",
+        "title": "Betyár"
+      },
+      {
+        "id": "23600_23604",
+        "author": "Móricz Zsigmond",
+        "title": "Úri muri"
+      }
+    ]
   },
   {
     "id": "11200_11267",
@@ -845,7 +1142,34 @@
         "title": "12 - 12. fejezet"
       }
     ],
-    "url": "https://mek.oszk.hu/11200/11267"
+    "url": "https://mek.oszk.hu/11200/11267",
+    "similar_books": [
+      {
+        "id": "11300_11390",
+        "author": "Móricz Zsigmond",
+        "title": "Móricz Zsigmond válogatott művei a Nyugatból"
+      },
+      {
+        "id": "24900_24935",
+        "author": "Krúdy Gyula",
+        "title": "Az élet álom"
+      },
+      {
+        "id": "22200_22239",
+        "author": "Móricz Zsigmond",
+        "title": "Árvácska"
+      },
+      {
+        "id": "09900_09914",
+        "author": "Gárdonyi Géza",
+        "title": "Göre Gábor biró úr könyve"
+      },
+      {
+        "id": "07600_07604",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+      }
+    ]
   },
   {
     "id": "23600_23604",
@@ -988,6 +1312,33 @@
         "title": "32 - 32. fejezet"
       }
     ],
-    "url": "https://mek.oszk.hu/23600/23604"
+    "url": "https://mek.oszk.hu/23600/23604",
+    "similar_books": [
+      {
+        "id": "11300_11390",
+        "author": "Móricz Zsigmond",
+        "title": "Móricz Zsigmond válogatott művei a Nyugatból"
+      },
+      {
+        "id": "11200_11267",
+        "author": "Móricz Zsigmond",
+        "title": "A szerelmes levél"
+      },
+      {
+        "id": "22200_22239",
+        "author": "Móricz Zsigmond",
+        "title": "Árvácska"
+      },
+      {
+        "id": "11800_11839",
+        "author": "Végh Miki",
+        "title": "Humor-morzsák"
+      },
+      {
+        "id": "09300_09361",
+        "author": "Gárdonyi Géza",
+        "title": "A pesti úr"
+      }
+    ]
   }
 ]

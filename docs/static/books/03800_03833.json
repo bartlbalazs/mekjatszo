@@ -99,5 +99,32 @@
       "title": "23. Mese: Jézus a nuntában - ...nem eppe van borik..."
     }
   ],
-  "url": "https://mek.oszk.hu/03800/03833"
+  "url": "https://mek.oszk.hu/03800/03833",
+  "similar_books": [
+    {
+      "id": "03000_03072",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekMoldva - Csángó panaszok"
+    },
+    {
+      "id": "15800_15812",
+      "author": "Jenei András",
+      "title": "Az enyém"
+    },
+    {
+      "id": "03000_03087",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekZala megye - Keménfai mesék"
+    },
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    },
+    {
+      "id": "03000_03073",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekBaranya megye - Egyházaskozár hangja az ezredfordulón"
+    }
+  ]
 }

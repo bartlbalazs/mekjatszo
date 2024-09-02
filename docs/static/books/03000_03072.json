@@ -123,5 +123,32 @@
       "title": "29. Azt mondta a plébános, mük rományok vagyunk..."
     }
   ],
-  "url": "https://mek.oszk.hu/03000/03072"
+  "url": "https://mek.oszk.hu/03000/03072",
+  "similar_books": [
+    {
+      "id": "03800_03833",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekMoldva - Magyarfalusi asszonyok"
+    },
+    {
+      "id": "15800_15812",
+      "author": "Jenei András",
+      "title": "Az enyém"
+    },
+    {
+      "id": "05700_05748",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekMoldva - Csángó mesék"
+    },
+    {
+      "id": "03000_03071",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekTolna megye - Váralja,Baranya megye - Zengővárkony"
+    },
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    }
+  ]
 }

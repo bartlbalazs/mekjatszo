@@ -287,5 +287,32 @@
       "title": "69 - Utószó"
     }
   ],
-  "url": "https://mek.oszk.hu/02300/02376"
+  "url": "https://mek.oszk.hu/02300/02376",
+  "similar_books": [
+    {
+      "id": "18300_18384",
+      "author": "Karinthy Frigyes",
+      "title": "100 új humoreszk"
+    },
+    {
+      "id": "04400_04481",
+      "author": "Karinthy Frigyes",
+      "title": "Így írtok ti"
+    },
+    {
+      "id": "11200_11241",
+      "author": "Karinthy Frigyes",
+      "title": "Tanár úr kérem"
+    },
+    {
+      "id": "02600_02660",
+      "author": "Karinthy Frigyes",
+      "title": "Jelbeszéd 1."
+    },
+    {
+      "id": "19100_19144",
+      "author": "Karinthy Frigyes",
+      "title": "Tanár úr kérem"
+    }
+  ]
 }

@@ -51,5 +51,32 @@
       "title": "11_Track_11.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/25100/25131"
+  "url": "https://mek.oszk.hu/25100/25131",
+  "similar_books": [
+    {
+      "id": "12500_12529",
+      "author": "Gubcsi Lajos",
+      "title": "Jut eszembe... ami kimaradt"
+    },
+    {
+      "id": "10500_10570",
+      "author": "Gárdonyi Géza",
+      "title": "Kátsa"
+    },
+    {
+      "id": "24900_24935",
+      "author": "Krúdy Gyula",
+      "title": "Az élet álom"
+    },
+    {
+      "id": "17000_17009",
+      "author": "Lehoczki Károly",
+      "title": "Sétány a pokolban"
+    },
+    {
+      "id": "09300_09387",
+      "author": "Gárdonyi Géza",
+      "title": "Bojgás az világba"
+    }
+  ]
 }

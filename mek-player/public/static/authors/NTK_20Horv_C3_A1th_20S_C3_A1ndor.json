@@ -52,7 +52,34 @@
         "title": "11_az_orok_vandor.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/08900/08959"
+    "url": "https://mek.oszk.hu/08900/08959",
+    "similar_books": [
+      {
+        "id": "08900_08958",
+        "author": "NTK Horváth Sándor",
+        "title": "Már rég kihajoltak"
+      },
+      {
+        "id": "23700_23762",
+        "author": "Molnár Ferenc",
+        "title": "A Pál utcai fiúk"
+      },
+      {
+        "id": "23500_23596",
+        "author": "Rozványi Dávid",
+        "title": "Erdélyi útiképek"
+      },
+      {
+        "id": "06700_06785",
+        "author": "Tar Károly",
+        "title": "Szerenád dobra, cintányérra és más ütős hangszerekreHangoskönyv"
+      },
+      {
+        "id": "17000_17009",
+        "author": "Lehoczki Károly",
+        "title": "Sétány a pokolban"
+      }
+    ]
   },
   {
     "id": "19800_19874",
@@ -67,7 +94,34 @@
         "title": "0 - Horvath_Sandor-A_kiraly_alma.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/19800/19874"
+    "url": "https://mek.oszk.hu/19800/19874",
+    "similar_books": [
+      {
+        "id": "08900_08958",
+        "author": "NTK Horváth Sándor",
+        "title": "Már rég kihajoltak"
+      },
+      {
+        "id": "15800_15812",
+        "author": "Jenei András",
+        "title": "Az enyém"
+      },
+      {
+        "id": "07600_07604",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+      },
+      {
+        "id": "08900_08959",
+        "author": "NTK Horváth Sándor",
+        "title": "Fényudvar"
+      },
+      {
+        "id": "18700_18753",
+        "author": "Mihályi Antal",
+        "title": "Ili néni állatkertje"
+      }
+    ]
   },
   {
     "id": "08900_08958",
@@ -118,6 +172,33 @@
         "title": "10_szamvetes.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/08900/08958"
+    "url": "https://mek.oszk.hu/08900/08958",
+    "similar_books": [
+      {
+        "id": "08900_08959",
+        "author": "NTK Horváth Sándor",
+        "title": "Fényudvar"
+      },
+      {
+        "id": "19800_19874",
+        "author": "NTK Horváth Sándor",
+        "title": "A király álma [Hangjáték]"
+      },
+      {
+        "id": "06200_06227",
+        "author": "",
+        "title": "Folyik a híd"
+      },
+      {
+        "id": "21900_21995",
+        "author": "Németh Árpád",
+        "title": "A kő"
+      },
+      {
+        "id": "15800_15812",
+        "author": "Jenei András",
+        "title": "Az enyém"
+      }
+    ]
   }
 ]

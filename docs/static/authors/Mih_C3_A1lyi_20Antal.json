@@ -72,7 +72,34 @@
         "title": "16 - Minden jó, ha..."
       }
     ],
-    "url": "https://mek.oszk.hu/19900/19901"
+    "url": "https://mek.oszk.hu/19900/19901",
+    "similar_books": [
+      {
+        "id": "20000_20040",
+        "author": "Mihályi Antal",
+        "title": "Egbert egér rendet rak"
+      },
+      {
+        "id": "19700_19760",
+        "author": "Mihályi Antal",
+        "title": "Egbert egér útrakél"
+      },
+      {
+        "id": "20200_20290",
+        "author": "Mihályi Antal",
+        "title": "A szkarabeusz titka"
+      },
+      {
+        "id": "19500_19566",
+        "author": "Boér Péter Pál",
+        "title": "Szabályerősítő"
+      },
+      {
+        "id": "18700_18753",
+        "author": "Mihályi Antal",
+        "title": "Ili néni állatkertje"
+      }
+    ]
   },
   {
     "id": "20000_20040",
@@ -147,7 +174,34 @@
         "title": "16 - ...ha jó a vége!"
       }
     ],
-    "url": "https://mek.oszk.hu/20000/20040"
+    "url": "https://mek.oszk.hu/20000/20040",
+    "similar_books": [
+      {
+        "id": "19900_19901",
+        "author": "Mihályi Antal",
+        "title": "Egbert egér intézkedik"
+      },
+      {
+        "id": "19700_19760",
+        "author": "Mihályi Antal",
+        "title": "Egbert egér útrakél"
+      },
+      {
+        "id": "10500_10570",
+        "author": "Gárdonyi Géza",
+        "title": "Kátsa"
+      },
+      {
+        "id": "18700_18753",
+        "author": "Mihályi Antal",
+        "title": "Ili néni állatkertje"
+      },
+      {
+        "id": "15200_15201",
+        "author": "Máté G. Péter",
+        "title": "Eldobott asszony"
+      }
+    ]
   },
   {
     "id": "19700_19760",
@@ -222,7 +276,34 @@
         "title": "16 - A randevú"
       }
     ],
-    "url": "https://mek.oszk.hu/19700/19760"
+    "url": "https://mek.oszk.hu/19700/19760",
+    "similar_books": [
+      {
+        "id": "19900_19901",
+        "author": "Mihályi Antal",
+        "title": "Egbert egér intézkedik"
+      },
+      {
+        "id": "20000_20040",
+        "author": "Mihályi Antal",
+        "title": "Egbert egér rendet rak"
+      },
+      {
+        "id": "03700_03741",
+        "author": "Tamási Áron",
+        "title": "Ábel az országban"
+      },
+      {
+        "id": "19500_19566",
+        "author": "Boér Péter Pál",
+        "title": "Szabályerősítő"
+      },
+      {
+        "id": "22200_22219",
+        "author": "Szerb Antal",
+        "title": "Magyar irodalomtörténet"
+      }
+    ]
   },
   {
     "id": "18700_18753",
@@ -273,7 +354,34 @@
         "title": "10 - 10. Ili néni születésnapja"
       }
     ],
-    "url": "https://mek.oszk.hu/18700/18753"
+    "url": "https://mek.oszk.hu/18700/18753",
+    "similar_books": [
+      {
+        "id": "19500_19566",
+        "author": "Boér Péter Pál",
+        "title": "Szabályerősítő"
+      },
+      {
+        "id": "11700_11747",
+        "author": "Tar Károly",
+        "title": "Hajnalban vadnyuszik ablakom alatt"
+      },
+      {
+        "id": "16100_16149",
+        "author": "Menyhei József",
+        "title": "Múltbanéző"
+      },
+      {
+        "id": "20200_20290",
+        "author": "Mihályi Antal",
+        "title": "A szkarabeusz titka"
+      },
+      {
+        "id": "02300_02321",
+        "author": "Vészi Endre",
+        "title": "Az ezüst kehely"
+      }
+    ]
   },
   {
     "id": "19500_19567",
@@ -432,7 +540,34 @@
         "title": "37 - Magyarország királyai a mohácsi vészig"
       }
     ],
-    "url": "https://mek.oszk.hu/19500/19567"
+    "url": "https://mek.oszk.hu/19500/19567",
+    "similar_books": [
+      {
+        "id": "12200_12297",
+        "author": "Gubcsi Lajos",
+        "title": "Magyar pokol - 1514"
+      },
+      {
+        "id": "10500_10519",
+        "author": "Brodarics István",
+        "title": "Igaz leírás a magyaroknak a törökökkel Mohácsnál vívott csatájáról"
+      },
+      {
+        "id": "20200_20290",
+        "author": "Mihályi Antal",
+        "title": "A szkarabeusz titka"
+      },
+      {
+        "id": "16200_16225",
+        "author": "Nagy Károly",
+        "title": "A légió kísértete"
+      },
+      {
+        "id": "13700_13793",
+        "author": "Harsányi Zsolt",
+        "title": "Mátyás király"
+      }
+    ]
   },
   {
     "id": "20200_20290",
@@ -563,7 +698,34 @@
         "title": "30 - Utóhang"
       }
     ],
-    "url": "https://mek.oszk.hu/20200/20290"
+    "url": "https://mek.oszk.hu/20200/20290",
+    "similar_books": [
+      {
+        "id": "18700_18753",
+        "author": "Mihályi Antal",
+        "title": "Ili néni állatkertje"
+      },
+      {
+        "id": "14800_14800",
+        "author": "Máté G. Péter",
+        "title": "A szakállas angyal"
+      },
+      {
+        "id": "11700_11747",
+        "author": "Tar Károly",
+        "title": "Hajnalban vadnyuszik ablakom alatt"
+      },
+      {
+        "id": "22100_22163",
+        "author": "Arany László",
+        "title": "Válogatás Arany László Magyar népmesék című gyűjteményéből"
+      },
+      {
+        "id": "10500_10570",
+        "author": "Gárdonyi Géza",
+        "title": "Kátsa"
+      }
+    ]
   },
   {
     "id": "20100_20110",
@@ -682,6 +844,33 @@
         "title": "26-Mihalyi_Antal-Titok_huseg_hitszeges.mp3 -"
       }
     ],
-    "url": "https://mek.oszk.hu/20100/20110"
+    "url": "https://mek.oszk.hu/20100/20110",
+    "similar_books": [
+      {
+        "id": "18700_18753",
+        "author": "Mihályi Antal",
+        "title": "Ili néni állatkertje"
+      },
+      {
+        "id": "20200_20290",
+        "author": "Mihályi Antal",
+        "title": "A szkarabeusz titka"
+      },
+      {
+        "id": "03000_03087",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekZala megye - Keménfai mesék"
+      },
+      {
+        "id": "09400_09475",
+        "author": "Gárdonyi Géza",
+        "title": "Veszödelmek"
+      },
+      {
+        "id": "22200_22211",
+        "author": "Móricz Zsigmond",
+        "title": "Kivilágos kivirradtig és két novella"
+      }
+    ]
   }
 ]

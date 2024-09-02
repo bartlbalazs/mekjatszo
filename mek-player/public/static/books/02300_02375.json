@@ -103,5 +103,32 @@
       "title": "23 - XXIV."
     }
   ],
-  "url": "https://mek.oszk.hu/02300/02375"
+  "url": "https://mek.oszk.hu/02300/02375",
+  "similar_books": [
+    {
+      "id": "12300_12378",
+      "author": "Rejtő Jenő",
+      "title": "A pokol zsoldosai"
+    },
+    {
+      "id": "05300_05312",
+      "author": "Mikszáth Kálmán",
+      "title": "A fekete város"
+    },
+    {
+      "id": "03300_03391",
+      "author": "Eötvös József",
+      "title": "Magyarország 1514-ben"
+    },
+    {
+      "id": "02300_02358",
+      "author": "Jókai Mór",
+      "title": "A gazdag szegények"
+    },
+    {
+      "id": "05400_05486",
+      "author": "Móricz Zsigmond",
+      "title": "Betyár"
+    }
+  ]
 }

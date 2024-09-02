@@ -107,5 +107,32 @@
       "title": "24_kincskereso.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/09900/09931"
+  "url": "https://mek.oszk.hu/09900/09931",
+  "similar_books": [
+    {
+      "id": "03100_03179",
+      "author": "Balázs Ferenc",
+      "title": "A rög alatt"
+    },
+    {
+      "id": "02900_02971",
+      "author": "Benedek Elek",
+      "title": "Székely Tündérország"
+    },
+    {
+      "id": "03300_03322",
+      "author": "Reményik László",
+      "title": "Ezermester kutyák"
+    },
+    {
+      "id": "11200_11241",
+      "author": "Karinthy Frigyes",
+      "title": "Tanár úr kérem"
+    },
+    {
+      "id": "03900_03986",
+      "author": "Mikszáth Kálmán",
+      "title": "Különös házasság"
+    }
+  ]
 }

@@ -31,5 +31,32 @@
       "title": "5 - IV. ének"
     }
   ],
-  "url": "https://mek.oszk.hu/02200/02268"
+  "url": "https://mek.oszk.hu/02200/02268",
+  "similar_books": [
+    {
+      "id": "02800_02800",
+      "author": "Reményik Sándor",
+      "title": "Reményik Sándor összes versei"
+    },
+    {
+      "id": "08700_08789",
+      "author": "Petőfi Sándor",
+      "title": "János vitéz"
+    },
+    {
+      "id": "02700_02778",
+      "author": "Bródy Sándor",
+      "title": "Az ezüst kecske ; A nap lovagja"
+    },
+    {
+      "id": "08700_08799",
+      "author": "Petőfi Sándor",
+      "title": "Az apostol"
+    },
+    {
+      "id": "18800_18838",
+      "author": "Petőfi Sándor",
+      "title": "A helység kalapácsa"
+    }
+  ]
 }

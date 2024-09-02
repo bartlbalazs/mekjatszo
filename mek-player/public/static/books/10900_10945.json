@@ -47,5 +47,32 @@
       "title": "10_Dragakovek_beszede.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/10900/10945"
+  "url": "https://mek.oszk.hu/10900/10945",
+  "similar_books": [
+    {
+      "id": "02500_02580",
+      "author": "Kosztolányi Dezső",
+      "title": "A rossz orvos"
+    },
+    {
+      "id": "02500_02581",
+      "author": "Kosztolányi Dezső",
+      "title": "Pacsirta"
+    },
+    {
+      "id": "22200_22243",
+      "author": "Kosztolányi Dezső",
+      "title": "Pacsirta"
+    },
+    {
+      "id": "22200_22224",
+      "author": "Kosztolányi Dezső",
+      "title": "Kosztolányi Dezső összes novellája"
+    },
+    {
+      "id": "22100_22166",
+      "author": "Kosztolányi Dezső",
+      "title": "Édes Anna"
+    }
+  ]
 }

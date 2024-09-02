@@ -43,5 +43,32 @@
       "title": "8 - Fülszöveg"
     }
   ],
-  "url": "https://mek.oszk.hu/05300/05354"
+  "url": "https://mek.oszk.hu/05300/05354",
+  "similar_books": [
+    {
+      "id": "22100_22166",
+      "author": "Kosztolányi Dezső",
+      "title": "Édes Anna"
+    },
+    {
+      "id": "02500_02581",
+      "author": "Kosztolányi Dezső",
+      "title": "Pacsirta"
+    },
+    {
+      "id": "02300_02387",
+      "author": "Mikszáth Kálmán",
+      "title": "Jókai Mór élete és kora"
+    },
+    {
+      "id": "09700_09700",
+      "author": "Jókai Mór",
+      "title": "A kőszívű ember fiai"
+    },
+    {
+      "id": "02500_02580",
+      "author": "Kosztolányi Dezső",
+      "title": "A rossz orvos"
+    }
+  ]
 }

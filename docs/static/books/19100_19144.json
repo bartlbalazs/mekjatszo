@@ -87,5 +87,32 @@
       "title": "20 - A papám"
     }
   ],
-  "url": "https://mek.oszk.hu/19100/19144"
+  "url": "https://mek.oszk.hu/19100/19144",
+  "similar_books": [
+    {
+      "id": "11200_11241",
+      "author": "Karinthy Frigyes",
+      "title": "Tanár úr kérem"
+    },
+    {
+      "id": "04700_04788",
+      "author": "Karinthy Frigyes",
+      "title": "Görbe tükör 1."
+    },
+    {
+      "id": "18300_18384",
+      "author": "Karinthy Frigyes",
+      "title": "100 új humoreszk"
+    },
+    {
+      "id": "06500_06566",
+      "author": "Kéri Katalin",
+      "title": "Karácsonyi hanganyag"
+    },
+    {
+      "id": "06700_06785",
+      "author": "Tar Károly",
+      "title": "Szerenád dobra, cintányérra és más ütős hangszerekreHangoskönyv"
+    }
+  ]
 }

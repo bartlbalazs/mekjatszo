@@ -19,5 +19,32 @@
       "title": "03 - A fekete vitorlás gazdát cserél"
     }
   ],
-  "url": "https://mek.oszk.hu/12400/12410"
+  "url": "https://mek.oszk.hu/12400/12410",
+  "similar_books": [
+    {
+      "id": "12400_12409",
+      "author": "Nagy Károly",
+      "title": "Csempészháború"
+    },
+    {
+      "id": "04700_04770",
+      "author": "Reményik László",
+      "title": "Könnyű neked..."
+    },
+    {
+      "id": "12000_12013",
+      "author": "Kockás Pierre",
+      "title": "Lorre meg én"
+    },
+    {
+      "id": "11700_11747",
+      "author": "Tar Károly",
+      "title": "Hajnalban vadnyuszik ablakom alatt"
+    },
+    {
+      "id": "12000_12058",
+      "author": "Kockás Pierre",
+      "title": "Lorre meg én"
+    }
+  ]
 }

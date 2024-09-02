@@ -304,7 +304,34 @@
         "title": "73 - Pár szó az íróról"
       }
     ],
-    "url": "https://mek.oszk.hu/19900/19937"
+    "url": "https://mek.oszk.hu/19900/19937",
+    "similar_books": [
+      {
+        "id": "21900_21995",
+        "author": "Németh Árpád",
+        "title": "A kő"
+      },
+      {
+        "id": "16100_16149",
+        "author": "Menyhei József",
+        "title": "Múltbanéző"
+      },
+      {
+        "id": "06200_06227",
+        "author": "",
+        "title": "Folyik a híd"
+      },
+      {
+        "id": "18700_18753",
+        "author": "Mihályi Antal",
+        "title": "Ili néni állatkertje"
+      },
+      {
+        "id": "14600_14639",
+        "author": "Lehoczki Károly",
+        "title": "Az ismeretlen kert"
+      }
+    ]
   },
   {
     "id": "15100_15104",
@@ -523,7 +550,34 @@
         "title": "51_Beleska_o_autoru.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/15100/15104"
+    "url": "https://mek.oszk.hu/15100/15104",
+    "similar_books": [
+      {
+        "id": "21900_21995",
+        "author": "Németh Árpád",
+        "title": "A kő"
+      },
+      {
+        "id": "16100_16149",
+        "author": "Menyhei József",
+        "title": "Múltbanéző"
+      },
+      {
+        "id": "24600_24657",
+        "author": "Rejtő Jenő",
+        "title": "Legény a talpán"
+      },
+      {
+        "id": "07600_07604",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+      },
+      {
+        "id": "02300_02386",
+        "author": "Mikszáth Kálmán",
+        "title": "A gyerekek"
+      }
+    ]
   },
   {
     "id": "04700_04763",
@@ -1130,7 +1184,34 @@
         "title": "1999. március 24"
       }
     ],
-    "url": "https://mek.oszk.hu/04700/04763"
+    "url": "https://mek.oszk.hu/04700/04763",
+    "similar_books": [
+      {
+        "id": "03100_03168",
+        "author": "Móricz Zsigmond",
+        "title": "Árvácska"
+      },
+      {
+        "id": "03100_03171",
+        "author": "Tamási Áron",
+        "title": "Vadrózsa ága"
+      },
+      {
+        "id": "02500_02595",
+        "author": "Csáth Géza",
+        "title": "Lidércálmok"
+      },
+      {
+        "id": "03300_03391",
+        "author": "Eötvös József",
+        "title": "Magyarország 1514-ben"
+      },
+      {
+        "id": "02300_02367",
+        "author": "Jókai Mór",
+        "title": "Törökvilág Magyarországon"
+      }
+    ]
   },
   {
     "id": "21900_21995",
@@ -1409,7 +1490,34 @@
         "title": "66 - Arpadove snohvatice"
       }
     ],
-    "url": "https://mek.oszk.hu/21900/21995"
+    "url": "https://mek.oszk.hu/21900/21995",
+    "similar_books": [
+      {
+        "id": "13800_13810",
+        "author": "Jenei András",
+        "title": "Nyeregben a Konstantin-kereszt"
+      },
+      {
+        "id": "07600_07604",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+      },
+      {
+        "id": "02300_02321",
+        "author": "Vészi Endre",
+        "title": "Az ezüst kehely"
+      },
+      {
+        "id": "02300_02386",
+        "author": "Mikszáth Kálmán",
+        "title": "A gyerekek"
+      },
+      {
+        "id": "14600_14639",
+        "author": "Lehoczki Károly",
+        "title": "Az ismeretlen kert"
+      }
+    ]
   },
   {
     "id": "22500_22591",
@@ -1672,7 +1780,34 @@
         "title": "62 - Tragom Arpadove nepresušne pripovedačke inspiracije (Velibor Pilić)"
       }
     ],
-    "url": "https://mek.oszk.hu/22500/22591"
+    "url": "https://mek.oszk.hu/22500/22591",
+    "similar_books": [
+      {
+        "id": "21900_21995",
+        "author": "Németh Árpád",
+        "title": "A kő"
+      },
+      {
+        "id": "13800_13810",
+        "author": "Jenei András",
+        "title": "Nyeregben a Konstantin-kereszt"
+      },
+      {
+        "id": "02300_02386",
+        "author": "Mikszáth Kálmán",
+        "title": "A gyerekek"
+      },
+      {
+        "id": "17700_17713",
+        "author": "Komor Zoltán",
+        "title": "Klitorisz-krampusz és karácsonyfa bukkake"
+      },
+      {
+        "id": "07600_07604",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+      }
+    ]
   },
   {
     "id": "11000_11029",
@@ -1795,6 +1930,33 @@
         "title": "27_O_piscu.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/11000/11029"
+    "url": "https://mek.oszk.hu/11000/11029",
+    "similar_books": [
+      {
+        "id": "11200_11267",
+        "author": "Móricz Zsigmond",
+        "title": "A szerelmes levél"
+      },
+      {
+        "id": "13900_13959",
+        "author": "José Alexander Nogueira",
+        "title": "Nem a 8. utas a halál"
+      },
+      {
+        "id": "21900_21995",
+        "author": "Németh Árpád",
+        "title": "A kő"
+      },
+      {
+        "id": "04700_04763",
+        "author": "Németh Árpád",
+        "title": "A kamera mögül"
+      },
+      {
+        "id": "18900_18972",
+        "author": "Máté G. Péter",
+        "title": "Láthatatlan lények"
+      }
+    ]
   }
 ]

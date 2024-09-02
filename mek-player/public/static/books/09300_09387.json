@@ -111,5 +111,32 @@
       "title": "26_bojgas.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/09300/09387"
+  "url": "https://mek.oszk.hu/09300/09387",
+  "similar_books": [
+    {
+      "id": "10600_10621",
+      "author": "Gárdonyi Géza",
+      "title": "No még öggyet"
+    },
+    {
+      "id": "09900_09914",
+      "author": "Gárdonyi Géza",
+      "title": "Göre Gábor biró úr könyve"
+    },
+    {
+      "id": "22500_22519",
+      "author": "Gárdonyi Géza",
+      "title": "Ida regénye"
+    },
+    {
+      "id": "10400_10454",
+      "author": "Gárdonyi Géza",
+      "title": "Tapasztalatok"
+    },
+    {
+      "id": "10000_10018",
+      "author": "Gárdonyi Géza",
+      "title": "Vakarts"
+    }
+  ]
 }

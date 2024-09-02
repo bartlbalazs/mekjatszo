@@ -107,5 +107,32 @@
       "title": "24 - A három ujjal vezérelt élet"
     }
   ],
-  "url": "https://mek.oszk.hu/02700/02788"
+  "url": "https://mek.oszk.hu/02700/02788",
+  "similar_books": [
+    {
+      "id": "03300_03322",
+      "author": "Reményik László",
+      "title": "Ezermester kutyák"
+    },
+    {
+      "id": "04700_04769",
+      "author": "Reményik László",
+      "title": "Kicsivel könnyebb..."
+    },
+    {
+      "id": "04700_04770",
+      "author": "Reményik László",
+      "title": "Könnyű neked..."
+    },
+    {
+      "id": "11200_11242",
+      "author": "Gárdonyi Géza",
+      "title": "Láthatatlan ember"
+    },
+    {
+      "id": "03900_03986",
+      "author": "Mikszáth Kálmán",
+      "title": "Különös házasság"
+    }
+  ]
 }

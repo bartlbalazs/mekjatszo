@@ -32,6 +32,33 @@
         "title": "05 - Negyedik levonás"
       }
     ],
-    "url": "https://mek.oszk.hu/07100/07120"
+    "url": "https://mek.oszk.hu/07100/07120",
+    "similar_books": [
+      {
+        "id": "08700_08789",
+        "author": "Petőfi Sándor",
+        "title": "János vitéz"
+      },
+      {
+        "id": "10900_10945",
+        "author": "Kosztolányi Dezső",
+        "title": "Zsivajgó természet"
+      },
+      {
+        "id": "02900_02970",
+        "author": "Tamási Áron",
+        "title": "Bölcső és Bagoly"
+      },
+      {
+        "id": "02700_02778",
+        "author": "Bródy Sándor",
+        "title": "Az ezüst kecske ; A nap lovagja"
+      },
+      {
+        "id": "20200_20290",
+        "author": "Mihályi Antal",
+        "title": "A szkarabeusz titka"
+      }
+    ]
   }
 ]

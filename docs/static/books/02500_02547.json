@@ -35,5 +35,32 @@
       "title": "6 - Karácsony este"
     }
   ],
-  "url": "https://mek.oszk.hu/02500/02547"
+  "url": "https://mek.oszk.hu/02500/02547",
+  "similar_books": [
+    {
+      "id": "11200_11236",
+      "author": "Krúdy Gyula",
+      "title": "Jézuska csizmájaHangoskönyv"
+    },
+    {
+      "id": "10500_10570",
+      "author": "Gárdonyi Géza",
+      "title": "Kátsa"
+    },
+    {
+      "id": "24900_24935",
+      "author": "Krúdy Gyula",
+      "title": "Az élet álom"
+    },
+    {
+      "id": "25100_25113",
+      "author": "Krúdy Gyula",
+      "title": "Rózsa Sándor"
+    },
+    {
+      "id": "03700_03743",
+      "author": "Mikszáth Kálmán",
+      "title": "Szent Péter esernyője"
+    }
+  ]
 }

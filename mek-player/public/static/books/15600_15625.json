@@ -11,5 +11,32 @@
       "title": "0 - Aszlanyi-Karoly_A-tolvajkiraly.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/15600/15625"
+  "url": "https://mek.oszk.hu/15600/15625",
+  "similar_books": [
+    {
+      "id": "23300_23314",
+      "author": null,
+      "title": "Kató mint asszony"
+    },
+    {
+      "id": "10500_10519",
+      "author": "Brodarics István",
+      "title": "Igaz leírás a magyaroknak a törökökkel Mohácsnál vívott csatájáról"
+    },
+    {
+      "id": "02500_02580",
+      "author": "Kosztolányi Dezső",
+      "title": "A rossz orvos"
+    },
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    },
+    {
+      "id": "03000_03087",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekZala megye - Keménfai mesék"
+    }
+  ]
 }

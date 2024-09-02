@@ -43,5 +43,32 @@
       "title": "09 - Életre-halálra"
     }
   ],
-  "url": "https://mek.oszk.hu/12700/12722"
+  "url": "https://mek.oszk.hu/12700/12722",
+  "similar_books": [
+    {
+      "id": "03000_03087",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekZala megye - Keménfai mesék"
+    },
+    {
+      "id": "24600_24657",
+      "author": "Rejtő Jenő",
+      "title": "Legény a talpán"
+    },
+    {
+      "id": "19000_19059",
+      "author": "Szente B. Levente",
+      "title": "Az ezüsthajú tündérleány"
+    },
+    {
+      "id": "18700_18753",
+      "author": "Mihályi Antal",
+      "title": "Ili néni állatkertje"
+    },
+    {
+      "id": "02300_02321",
+      "author": "Vészi Endre",
+      "title": "Az ezüst kehely"
+    }
+  ]
 }

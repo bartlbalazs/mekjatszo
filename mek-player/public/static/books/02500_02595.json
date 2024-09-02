@@ -103,5 +103,32 @@
       "title": "23 - A varázsló halála"
     }
   ],
-  "url": "https://mek.oszk.hu/02500/02595"
+  "url": "https://mek.oszk.hu/02500/02595",
+  "similar_books": [
+    {
+      "id": "02300_02388",
+      "author": "Csáth Géza",
+      "title": "Egy elmebeteg nő naplója"
+    },
+    {
+      "id": "02300_02359",
+      "author": "Jókai Mór",
+      "title": "Csataképek a magyar szabadságharcból"
+    },
+    {
+      "id": "03000_03082",
+      "author": "Gárdonyi Géza",
+      "title": "Az én falum"
+    },
+    {
+      "id": "09700_09700",
+      "author": "Jókai Mór",
+      "title": "A kőszívű ember fiai"
+    },
+    {
+      "id": "02300_02358",
+      "author": "Jókai Mór",
+      "title": "A gazdag szegények"
+    }
+  ]
 }

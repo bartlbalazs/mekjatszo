@@ -63,5 +63,32 @@
       "title": "13 - Martba fiam, martba!"
     }
   ],
-  "url": "https://mek.oszk.hu/05700/05748"
+  "url": "https://mek.oszk.hu/05700/05748",
+  "similar_books": [
+    {
+      "id": "03000_03072",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekMoldva - Csángó panaszok"
+    },
+    {
+      "id": "03800_03833",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekMoldva - Magyarfalusi asszonyok"
+    },
+    {
+      "id": "16000_16012",
+      "author": "Rejtő Jenő",
+      "title": "A boszorkánymester"
+    },
+    {
+      "id": "02500_02595",
+      "author": "Csáth Géza",
+      "title": "Lidércálmok"
+    },
+    {
+      "id": "05800_05893",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekBukovina - Andrásfalvi mesék"
+    }
+  ]
 }

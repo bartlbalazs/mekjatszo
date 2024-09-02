@@ -51,5 +51,32 @@
       "title": "10 - Túlélők"
     }
   ],
-  "url": "https://mek.oszk.hu/11900/11997"
+  "url": "https://mek.oszk.hu/11900/11997",
+  "similar_books": [
+    {
+      "id": "14100_14175",
+      "author": "V. Pócsay Rozika",
+      "title": "Mélység és magasság"
+    },
+    {
+      "id": "06400_06439",
+      "author": "",
+      "title": "Öt magyar népmese hangillusztrációval"
+    },
+    {
+      "id": "18000_18022",
+      "author": "Arany János",
+      "title": "Rózsa és Ibolya"
+    },
+    {
+      "id": "22600_22667",
+      "author": null,
+      "title": "Mesepelyhek"
+    },
+    {
+      "id": "15200_15200",
+      "author": "Benedek Elek",
+      "title": "Válogatott mesék"
+    }
+  ]
 }

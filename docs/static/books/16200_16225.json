@@ -27,5 +27,32 @@
       "title": "05 - A béka igen hasznos háziállat"
     }
   ],
-  "url": "https://mek.oszk.hu/16200/16225"
+  "url": "https://mek.oszk.hu/16200/16225",
+  "similar_books": [
+    {
+      "id": "12100_12107",
+      "author": "Nagy Károly",
+      "title": "Az elátkozott erőd"
+    },
+    {
+      "id": "14600_14639",
+      "author": "Lehoczki Károly",
+      "title": "Az ismeretlen kert"
+    },
+    {
+      "id": "11200_11236",
+      "author": "Krúdy Gyula",
+      "title": "Jézuska csizmájaHangoskönyv"
+    },
+    {
+      "id": "17700_17713",
+      "author": "Komor Zoltán",
+      "title": "Klitorisz-krampusz és karácsonyfa bukkake"
+    },
+    {
+      "id": "02300_02367",
+      "author": "Jókai Mór",
+      "title": "Törökvilág Magyarországon"
+    }
+  ]
 }

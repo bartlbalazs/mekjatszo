@@ -87,5 +87,32 @@
       "title": "20 - 20. fejezet"
     }
   ],
-  "url": "https://mek.oszk.hu/12400/12447"
+  "url": "https://mek.oszk.hu/12400/12447",
+  "similar_books": [
+    {
+      "id": "12400_12421",
+      "author": "Rejtő Jenő",
+      "title": "Trópusi pokol"
+    },
+    {
+      "id": "11800_11839",
+      "author": "Végh Miki",
+      "title": "Humor-morzsák"
+    },
+    {
+      "id": "22200_22243",
+      "author": "Kosztolányi Dezső",
+      "title": "Pacsirta"
+    },
+    {
+      "id": "12400_12463",
+      "author": "Rejtő Jenő",
+      "title": "Vér és mahagóni"
+    },
+    {
+      "id": "09300_09387",
+      "author": "Gárdonyi Géza",
+      "title": "Bojgás az világba"
+    }
+  ]
 }

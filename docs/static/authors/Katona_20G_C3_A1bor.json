@@ -448,6 +448,33 @@
         "title": "110_2009-10-14.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/09000/09059"
+    "url": "https://mek.oszk.hu/09000/09059",
+    "similar_books": [
+      {
+        "id": "03700_03740",
+        "author": "Tamási Áron",
+        "title": "Ábel Amerikában"
+      },
+      {
+        "id": "09400_09475",
+        "author": "Gárdonyi Géza",
+        "title": "Veszödelmek"
+      },
+      {
+        "id": "10400_10454",
+        "author": "Gárdonyi Géza",
+        "title": "Tapasztalatok"
+      },
+      {
+        "id": "10500_10570",
+        "author": "Gárdonyi Géza",
+        "title": "Kátsa"
+      },
+      {
+        "id": "21400_21457",
+        "author": "Fekete Árpád",
+        "title": "A kereszténység kritikája"
+      }
+    ]
   }
 ]

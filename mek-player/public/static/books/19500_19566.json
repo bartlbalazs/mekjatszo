@@ -163,5 +163,32 @@
       "title": "38 - Pehelyinda"
     }
   ],
-  "url": "https://mek.oszk.hu/19500/19566"
+  "url": "https://mek.oszk.hu/19500/19566",
+  "similar_books": [
+    {
+      "id": "18700_18753",
+      "author": "Mihályi Antal",
+      "title": "Ili néni állatkertje"
+    },
+    {
+      "id": "14800_14800",
+      "author": "Máté G. Péter",
+      "title": "A szakállas angyal"
+    },
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    },
+    {
+      "id": "24900_24935",
+      "author": "Krúdy Gyula",
+      "title": "Az élet álom"
+    },
+    {
+      "id": "02300_02321",
+      "author": "Vészi Endre",
+      "title": "Az ezüst kehely"
+    }
+  ]
 }

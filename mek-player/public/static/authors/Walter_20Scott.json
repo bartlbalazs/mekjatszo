@@ -192,6 +192,33 @@
         "title": "45 - Szinnai Tivadar: Walter Scott"
       }
     ],
-    "url": "https://mek.oszk.hu/03700/03799"
+    "url": "https://mek.oszk.hu/03700/03799",
+    "similar_books": [
+      {
+        "id": "03900_03980",
+        "author": "William Shakespeare",
+        "title": "William Shakespeare szonettjei"
+      },
+      {
+        "id": "02700_02751",
+        "author": "Daniel Defoe",
+        "title": "Robinson"
+      },
+      {
+        "id": "12300_12368",
+        "author": "Rejtő Jenő",
+        "title": "A fekete kapitány"
+      },
+      {
+        "id": "02300_02359",
+        "author": "Jókai Mór",
+        "title": "Csataképek a magyar szabadságharcból"
+      },
+      {
+        "id": "22200_22224",
+        "author": "Kosztolányi Dezső",
+        "title": "Kosztolányi Dezső összes novellája"
+      }
+    ]
   }
 ]

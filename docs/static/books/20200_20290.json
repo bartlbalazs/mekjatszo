@@ -127,5 +127,32 @@
       "title": "30 - Utóhang"
     }
   ],
-  "url": "https://mek.oszk.hu/20200/20290"
+  "url": "https://mek.oszk.hu/20200/20290",
+  "similar_books": [
+    {
+      "id": "18700_18753",
+      "author": "Mihályi Antal",
+      "title": "Ili néni állatkertje"
+    },
+    {
+      "id": "14800_14800",
+      "author": "Máté G. Péter",
+      "title": "A szakállas angyal"
+    },
+    {
+      "id": "11700_11747",
+      "author": "Tar Károly",
+      "title": "Hajnalban vadnyuszik ablakom alatt"
+    },
+    {
+      "id": "22100_22163",
+      "author": "Arany László",
+      "title": "Válogatás Arany László Magyar népmesék című gyűjteményéből"
+    },
+    {
+      "id": "10500_10570",
+      "author": "Gárdonyi Géza",
+      "title": "Kátsa"
+    }
+  ]
 }

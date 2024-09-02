@@ -324,6 +324,33 @@
         "title": "2. Elveszett méreg"
       }
     ],
-    "url": "https://mek.oszk.hu/02600/02614"
+    "url": "https://mek.oszk.hu/02600/02614",
+    "similar_books": [
+      {
+        "id": "03100_03168",
+        "author": "Móricz Zsigmond",
+        "title": "Árvácska"
+      },
+      {
+        "id": "02700_02750",
+        "author": "Denis Diderot",
+        "title": "Az apáca"
+      },
+      {
+        "id": "02800_02800",
+        "author": "Reményik Sándor",
+        "title": "Reményik Sándor összes versei"
+      },
+      {
+        "id": "04200_04247",
+        "author": "François Villon",
+        "title": "François Villon balladáiFaludy György átköltésében"
+      },
+      {
+        "id": "03100_03166",
+        "author": "Antoine de Saint-Exupéry",
+        "title": "A kis herceg"
+      }
+    ]
   }
 ]

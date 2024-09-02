@@ -23,5 +23,32 @@
       "title": "3 - Illés Endre: Tamási Áron utolsó hónapjairól"
     }
   ],
-  "url": "https://mek.oszk.hu/03100/03171"
+  "url": "https://mek.oszk.hu/03100/03171",
+  "similar_books": [
+    {
+      "id": "02900_02965",
+      "author": "Tamási Áron",
+      "title": "Ábel a rengetegben"
+    },
+    {
+      "id": "02900_02970",
+      "author": "Tamási Áron",
+      "title": "Bölcső és Bagoly"
+    },
+    {
+      "id": "03700_03740",
+      "author": "Tamási Áron",
+      "title": "Ábel Amerikában"
+    },
+    {
+      "id": "03700_03741",
+      "author": "Tamási Áron",
+      "title": "Ábel az országban"
+    },
+    {
+      "id": "09400_09475",
+      "author": "Gárdonyi Géza",
+      "title": "Veszödelmek"
+    }
+  ]
 }

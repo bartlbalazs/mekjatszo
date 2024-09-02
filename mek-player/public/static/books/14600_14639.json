@@ -91,5 +91,32 @@
       "title": "20_Level_a_hoba.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/14600/14639"
+  "url": "https://mek.oszk.hu/14600/14639",
+  "similar_books": [
+    {
+      "id": "19500_19501",
+      "author": "Lehoczki Károly",
+      "title": "Szobrok huzatban"
+    },
+    {
+      "id": "17000_17009",
+      "author": "Lehoczki Károly",
+      "title": "Sétány a pokolban"
+    },
+    {
+      "id": "22300_22321",
+      "author": "Lehoczki Károly",
+      "title": "Dal a semmiből"
+    },
+    {
+      "id": "24900_24935",
+      "author": "Krúdy Gyula",
+      "title": "Az élet álom"
+    },
+    {
+      "id": "18700_18753",
+      "author": "Mihályi Antal",
+      "title": "Ili néni állatkertje"
+    }
+  ]
 }

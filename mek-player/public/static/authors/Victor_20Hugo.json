@@ -248,6 +248,33 @@
         "title": "4."
       }
     ],
-    "url": "https://mek.oszk.hu/03300/03378"
+    "url": "https://mek.oszk.hu/03300/03378",
+    "similar_books": [
+      {
+        "id": "02700_02776",
+        "author": "Honoré de Balzac",
+        "title": "Goriot apó"
+      },
+      {
+        "id": "02400_02402",
+        "author": "Alexandre Dumas",
+        "title": "Korzikai testvérek ; Herminie"
+      },
+      {
+        "id": "03900_03979",
+        "author": "Lucius Apuleius",
+        "title": "Az aranyszamár"
+      },
+      {
+        "id": "02700_02750",
+        "author": "Denis Diderot",
+        "title": "Az apáca"
+      },
+      {
+        "id": "03100_03166",
+        "author": "Antoine de Saint-Exupéry",
+        "title": "A kis herceg"
+      }
+    ]
   }
 ]

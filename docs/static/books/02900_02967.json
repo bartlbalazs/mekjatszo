@@ -55,5 +55,32 @@
       "title": "10."
     }
   ],
-  "url": "https://mek.oszk.hu/02900/02967"
+  "url": "https://mek.oszk.hu/02900/02967",
+  "similar_books": [
+    {
+      "id": "07000_07027",
+      "author": "Katona József",
+      "title": "Bánk bán"
+    },
+    {
+      "id": "03900_03986",
+      "author": "Mikszáth Kálmán",
+      "title": "Különös házasság"
+    },
+    {
+      "id": "09700_09700",
+      "author": "Jókai Mór",
+      "title": "A kőszívű ember fiai"
+    },
+    {
+      "id": "02200_02289",
+      "author": "Mikszáth Kálmán",
+      "title": "Kísértet Lublón"
+    },
+    {
+      "id": "03000_03082",
+      "author": "Gárdonyi Géza",
+      "title": "Az én falum"
+    }
+  ]
 }

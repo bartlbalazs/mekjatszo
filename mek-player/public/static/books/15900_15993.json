@@ -99,5 +99,32 @@
       "title": "23 - Carlo Fantin"
     }
   ],
-  "url": "https://mek.oszk.hu/15900/15993"
+  "url": "https://mek.oszk.hu/15900/15993",
+  "similar_books": [
+    {
+      "id": "15500_15513",
+      "author": "Maderspach Viktor",
+      "title": "Menekülésem Erdélyből"
+    },
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    },
+    {
+      "id": "02300_02321",
+      "author": "Vészi Endre",
+      "title": "Az ezüst kehely"
+    },
+    {
+      "id": "14100_14175",
+      "author": "V. Pócsay Rozika",
+      "title": "Mélység és magasság"
+    },
+    {
+      "id": "19500_19566",
+      "author": "Boér Péter Pál",
+      "title": "Szabályerősítő"
+    }
+  ]
 }

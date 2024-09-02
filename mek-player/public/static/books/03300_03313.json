@@ -251,5 +251,32 @@
       "title": "60 - Jegyzet"
     }
   ],
-  "url": "https://mek.oszk.hu/03300/03313"
+  "url": "https://mek.oszk.hu/03300/03313",
+  "similar_books": [
+    {
+      "id": "02300_02328",
+      "author": "Jókai Mór",
+      "title": "A janicsárok végnapjai"
+    },
+    {
+      "id": "02300_02358",
+      "author": "Jókai Mór",
+      "title": "A gazdag szegények"
+    },
+    {
+      "id": "02500_02569",
+      "author": "Jókai Mór",
+      "title": "A cigánybáró"
+    },
+    {
+      "id": "02300_02387",
+      "author": "Mikszáth Kálmán",
+      "title": "Jókai Mór élete és kora"
+    },
+    {
+      "id": "09700_09700",
+      "author": "Jókai Mór",
+      "title": "A kőszívű ember fiai"
+    }
+  ]
 }

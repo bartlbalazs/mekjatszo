@@ -143,5 +143,32 @@
       "title": "33 - Életem"
     }
   ],
-  "url": "https://mek.oszk.hu/07700/07736"
+  "url": "https://mek.oszk.hu/07700/07736",
+  "similar_books": [
+    {
+      "id": "02800_02800",
+      "author": "Reményik Sándor",
+      "title": "Reményik Sándor összes versei"
+    },
+    {
+      "id": "02500_02595",
+      "author": "Csáth Géza",
+      "title": "Lidércálmok"
+    },
+    {
+      "id": "03000_03082",
+      "author": "Gárdonyi Géza",
+      "title": "Az én falum"
+    },
+    {
+      "id": "07700_07793",
+      "author": "Gubcsi Lajos",
+      "title": "Egy kun Budán és Pesten"
+    },
+    {
+      "id": "02700_02778",
+      "author": "Bródy Sándor",
+      "title": "Az ezüst kecske ; A nap lovagja"
+    }
+  ]
 }

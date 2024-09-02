@@ -39,5 +39,32 @@
       "title": "08 - Dr. Gucseff"
     }
   ],
-  "url": "https://mek.oszk.hu/12300/12377"
+  "url": "https://mek.oszk.hu/12300/12377",
+  "similar_books": [
+    {
+      "id": "03100_03172",
+      "author": "Rejtő Jenő",
+      "title": "A tizennégy karátos autó"
+    },
+    {
+      "id": "12400_12463",
+      "author": "Rejtő Jenő",
+      "title": "Vér és mahagóni"
+    },
+    {
+      "id": "02900_02953",
+      "author": "Rejtő Jenő",
+      "title": "Piszkos Fred, a kapitány"
+    },
+    {
+      "id": "12300_12368",
+      "author": "Rejtő Jenő",
+      "title": "A fekete kapitány"
+    },
+    {
+      "id": "12400_12445",
+      "author": "Rejtő Jenő",
+      "title": "El a pokolból"
+    }
+  ]
 }

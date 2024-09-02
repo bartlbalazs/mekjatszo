@@ -171,5 +171,32 @@
       "title": "40-Mate_G_Peter-Lathatatlan_lenyek.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/18900/18972"
+  "url": "https://mek.oszk.hu/18900/18972",
+  "similar_books": [
+    {
+      "id": "14900_14924",
+      "author": "Máté G. Péter",
+      "title": "Lopott éjszakák"
+    },
+    {
+      "id": "19500_19566",
+      "author": "Boér Péter Pál",
+      "title": "Szabályerősítő"
+    },
+    {
+      "id": "15200_15201",
+      "author": "Máté G. Péter",
+      "title": "Eldobott asszony"
+    },
+    {
+      "id": "19300_19312",
+      "author": "Máté G. Péter",
+      "title": "Józsefváros hercegnője ; Olyan, mint az egyszeregy ; Apatitok"
+    },
+    {
+      "id": "09300_09340",
+      "author": "Gárdonyi Géza",
+      "title": "Göre Martsa lakodalma"
+    }
+  ]
 }

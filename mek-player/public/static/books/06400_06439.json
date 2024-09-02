@@ -31,5 +31,32 @@
       "title": "5 - Impresszum"
     }
   ],
-  "url": "https://mek.oszk.hu/06400/06439"
+  "url": "https://mek.oszk.hu/06400/06439",
+  "similar_books": [
+    {
+      "id": "22600_22667",
+      "author": null,
+      "title": "Mesepelyhek"
+    },
+    {
+      "id": "15200_15200",
+      "author": "Benedek Elek",
+      "title": "Válogatott mesék"
+    },
+    {
+      "id": "18900_18907",
+      "author": "Nógrádi Gábor",
+      "title": "Angyali üzenet"
+    },
+    {
+      "id": "03000_03087",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekZala megye - Keménfai mesék"
+    },
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    }
+  ]
 }

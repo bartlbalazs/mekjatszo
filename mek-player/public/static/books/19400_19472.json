@@ -91,5 +91,32 @@
       "title": "21 - (ezer év)"
     }
   ],
-  "url": "https://mek.oszk.hu/19400/19472"
+  "url": "https://mek.oszk.hu/19400/19472",
+  "similar_books": [
+    {
+      "id": "19000_19059",
+      "author": "Szente B. Levente",
+      "title": "Az ezüsthajú tündérleány"
+    },
+    {
+      "id": "19400_19476",
+      "author": "Szente B. Levente",
+      "title": "Csillagtitok"
+    },
+    {
+      "id": "02300_02321",
+      "author": "Vészi Endre",
+      "title": "Az ezüst kehely"
+    },
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    },
+    {
+      "id": "19300_19341",
+      "author": "Szente B. Levente",
+      "title": "Tücsök, Zöld Manó és a többiek"
+    }
+  ]
 }

@@ -47,5 +47,32 @@
       "title": "09-Kato_mint_asszony.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/23300/23314"
+  "url": "https://mek.oszk.hu/23300/23314",
+  "similar_books": [
+    {
+      "id": "06700_06785",
+      "author": "Tar Károly",
+      "title": "Szerenád dobra, cintányérra és más ütős hangszerekreHangoskönyv"
+    },
+    {
+      "id": "10500_10570",
+      "author": "Gárdonyi Géza",
+      "title": "Kátsa"
+    },
+    {
+      "id": "14700_14727",
+      "author": "Kéri Katalin",
+      "title": "Decemberi csillagok"
+    },
+    {
+      "id": "06200_06227",
+      "author": "",
+      "title": "Folyik a híd"
+    },
+    {
+      "id": "02300_02321",
+      "author": "Vészi Endre",
+      "title": "Az ezüst kehely"
+    }
+  ]
 }

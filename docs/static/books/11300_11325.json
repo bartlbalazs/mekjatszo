@@ -99,5 +99,32 @@
       "title": "22 - Kosztolányi Dezső: Világ vége"
     }
   ],
-  "url": "https://mek.oszk.hu/11300/11325"
+  "url": "https://mek.oszk.hu/11300/11325",
+  "similar_books": [
+    {
+      "id": "14100_14175",
+      "author": "V. Pócsay Rozika",
+      "title": "Mélység és magasság"
+    },
+    {
+      "id": "24900_24991",
+      "author": "Rozványi Dávid",
+      "title": "Felvidéki útiképek (Hangoskönyv)"
+    },
+    {
+      "id": "03000_03071",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekTolna megye - Váralja,Baranya megye - Zengővárkony"
+    },
+    {
+      "id": "17000_17009",
+      "author": "Lehoczki Károly",
+      "title": "Sétány a pokolban"
+    },
+    {
+      "id": "06200_06227",
+      "author": "",
+      "title": "Folyik a híd"
+    }
+  ]
 }

@@ -127,5 +127,32 @@
       "title": "29. fejezet"
     }
   ],
-  "url": "https://mek.oszk.hu/02500/02545"
+  "url": "https://mek.oszk.hu/02500/02545",
+  "similar_books": [
+    {
+      "id": "02500_02544",
+      "author": "Rejtő Jenő",
+      "title": "A láthatatlan légió"
+    },
+    {
+      "id": "03100_03172",
+      "author": "Rejtő Jenő",
+      "title": "A tizennégy karátos autó"
+    },
+    {
+      "id": "09900_09914",
+      "author": "Gárdonyi Géza",
+      "title": "Göre Gábor biró úr könyve"
+    },
+    {
+      "id": "12300_12378",
+      "author": "Rejtő Jenő",
+      "title": "A pokol zsoldosai"
+    },
+    {
+      "id": "12400_12439",
+      "author": "Rejtő Jenő",
+      "title": "Halálsziget"
+    }
+  ]
 }

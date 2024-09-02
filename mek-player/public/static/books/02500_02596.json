@@ -111,5 +111,32 @@
       "title": "25 - Az ember, aki nem tudott aludni"
     }
   ],
-  "url": "https://mek.oszk.hu/02500/02596"
+  "url": "https://mek.oszk.hu/02500/02596",
+  "similar_books": [
+    {
+      "id": "03000_03082",
+      "author": "Gárdonyi Géza",
+      "title": "Az én falum"
+    },
+    {
+      "id": "02500_02595",
+      "author": "Csáth Géza",
+      "title": "Lidércálmok"
+    },
+    {
+      "id": "09700_09700",
+      "author": "Jókai Mór",
+      "title": "A kőszívű ember fiai"
+    },
+    {
+      "id": "02300_02359",
+      "author": "Jókai Mór",
+      "title": "Csataképek a magyar szabadságharcból"
+    },
+    {
+      "id": "03300_03310",
+      "author": "Benedek Elek",
+      "title": "Édes anyaföldem!"
+    }
+  ]
 }

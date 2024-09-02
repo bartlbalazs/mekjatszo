@@ -11,5 +11,32 @@
       "title": "0 - Szerelmünk, Sisi"
     }
   ],
-  "url": "https://mek.oszk.hu/18900/18906"
+  "url": "https://mek.oszk.hu/18900/18906",
+  "similar_books": [
+    {
+      "id": "25100_25113",
+      "author": "Krúdy Gyula",
+      "title": "Rózsa Sándor"
+    },
+    {
+      "id": "22500_22519",
+      "author": "Gárdonyi Géza",
+      "title": "Ida regénye"
+    },
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    },
+    {
+      "id": "10500_10570",
+      "author": "Gárdonyi Géza",
+      "title": "Kátsa"
+    },
+    {
+      "id": "15800_15812",
+      "author": "Jenei András",
+      "title": "Az enyém"
+    }
+  ]
 }

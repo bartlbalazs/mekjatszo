@@ -95,5 +95,32 @@
       "title": "22. rész"
     }
   ],
-  "url": "https://mek.oszk.hu/22100/22199"
+  "url": "https://mek.oszk.hu/22100/22199",
+  "similar_books": [
+    {
+      "id": "19500_19566",
+      "author": "Boér Péter Pál",
+      "title": "Szabályerősítő"
+    },
+    {
+      "id": "10500_10570",
+      "author": "Gárdonyi Géza",
+      "title": "Kátsa"
+    },
+    {
+      "id": "02900_02954",
+      "author": "Babits Mihály",
+      "title": "A gólyakalifa"
+    },
+    {
+      "id": "18700_18753",
+      "author": "Mihályi Antal",
+      "title": "Ili néni állatkertje"
+    },
+    {
+      "id": "10600_10621",
+      "author": "Gárdonyi Géza",
+      "title": "No még öggyet"
+    }
+  ]
 }

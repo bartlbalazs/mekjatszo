@@ -115,5 +115,32 @@
       "title": "26-Mihalyi_Antal-Titok_huseg_hitszeges.mp3 -"
     }
   ],
-  "url": "https://mek.oszk.hu/20100/20110"
+  "url": "https://mek.oszk.hu/20100/20110",
+  "similar_books": [
+    {
+      "id": "18700_18753",
+      "author": "Mihályi Antal",
+      "title": "Ili néni állatkertje"
+    },
+    {
+      "id": "20200_20290",
+      "author": "Mihályi Antal",
+      "title": "A szkarabeusz titka"
+    },
+    {
+      "id": "03000_03087",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekZala megye - Keménfai mesék"
+    },
+    {
+      "id": "09400_09475",
+      "author": "Gárdonyi Géza",
+      "title": "Veszödelmek"
+    },
+    {
+      "id": "22200_22211",
+      "author": "Móricz Zsigmond",
+      "title": "Kivilágos kivirradtig és két novella"
+    }
+  ]
 }

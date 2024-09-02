@@ -12,6 +12,33 @@
         "title": "14_Elindult_a_kolto_a_tegnapi_maba.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/07500/07570"
+    "url": "https://mek.oszk.hu/07500/07570",
+    "similar_books": [
+      {
+        "id": "15600_15654",
+        "author": "Barsi Ödön",
+        "title": "A bálványimádó"
+      },
+      {
+        "id": "14800_14870",
+        "author": "Barsi Ödön",
+        "title": "A nevető halál"
+      },
+      {
+        "id": "14000_14087",
+        "author": "Vígh Kristóf",
+        "title": "Magyar virrasztásBizánci alkonyati és napkeleti zsolozsma ősi magyar dallamokon"
+      },
+      {
+        "id": "09300_09340",
+        "author": "Gárdonyi Géza",
+        "title": "Göre Martsa lakodalma"
+      },
+      {
+        "id": "02300_02321",
+        "author": "Vészi Endre",
+        "title": "Az ezüst kehely"
+      }
+    ]
   }
 ]

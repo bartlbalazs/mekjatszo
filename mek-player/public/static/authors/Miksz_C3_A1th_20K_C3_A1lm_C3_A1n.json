@@ -48,7 +48,34 @@
         "title": "9 - Kilencedik fejezet"
       }
     ],
-    "url": "https://mek.oszk.hu/03900/03987"
+    "url": "https://mek.oszk.hu/03900/03987",
+    "similar_books": [
+      {
+        "id": "02200_02289",
+        "author": "Mikszáth Kálmán",
+        "title": "Kísértet Lublón"
+      },
+      {
+        "id": "09500_09586",
+        "author": "Mikszáth Kálmán",
+        "title": "A jó palócok"
+      },
+      {
+        "id": "02300_02386",
+        "author": "Mikszáth Kálmán",
+        "title": "A gyerekek"
+      },
+      {
+        "id": "07600_07625",
+        "author": "Mikszáth Kálmán",
+        "title": "Tót atyafiak"
+      },
+      {
+        "id": "05300_05312",
+        "author": "Mikszáth Kálmán",
+        "title": "A fekete város"
+      }
+    ]
   },
   {
     "id": "24800_24803",
@@ -155,7 +182,34 @@
         "title": "23 - Függelék"
       }
     ],
-    "url": "https://mek.oszk.hu/24800/24803"
+    "url": "https://mek.oszk.hu/24800/24803",
+    "similar_books": [
+      {
+        "id": "07600_07604",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+      },
+      {
+        "id": "03100_03179",
+        "author": "Balázs Ferenc",
+        "title": "A rög alatt"
+      },
+      {
+        "id": "02300_02386",
+        "author": "Mikszáth Kálmán",
+        "title": "A gyerekek"
+      },
+      {
+        "id": "21900_21995",
+        "author": "Németh Árpád",
+        "title": "A kő"
+      },
+      {
+        "id": "22200_22227",
+        "author": "Mikszáth Kálmán",
+        "title": "A gavallérok"
+      }
+    ]
   },
   {
     "id": "05300_05312",
@@ -230,7 +284,34 @@
         "title": "15 - Melyben a szerző akarata ellenére a gondviselés szeszélye szerint ..."
       }
     ],
-    "url": "https://mek.oszk.hu/05300/05312"
+    "url": "https://mek.oszk.hu/05300/05312",
+    "similar_books": [
+      {
+        "id": "03300_03308",
+        "author": "Mikszáth Kálmán",
+        "title": "Új Zrínyiász"
+      },
+      {
+        "id": "03300_03391",
+        "author": "Eötvös József",
+        "title": "Magyarország 1514-ben"
+      },
+      {
+        "id": "11200_11242",
+        "author": "Gárdonyi Géza",
+        "title": "Láthatatlan ember"
+      },
+      {
+        "id": "02300_02358",
+        "author": "Jókai Mór",
+        "title": "A gazdag szegények"
+      },
+      {
+        "id": "03300_03306",
+        "author": "Mikszáth Kálmán",
+        "title": "A Noszty fiú esete Tóth Marival"
+      }
+    ]
   },
   {
     "id": "22200_22227",
@@ -257,7 +338,34 @@
         "title": "04. rész"
       }
     ],
-    "url": "https://mek.oszk.hu/22200/22227"
+    "url": "https://mek.oszk.hu/22200/22227",
+    "similar_books": [
+      {
+        "id": "02300_02386",
+        "author": "Mikszáth Kálmán",
+        "title": "A gyerekek"
+      },
+      {
+        "id": "02200_02289",
+        "author": "Mikszáth Kálmán",
+        "title": "Kísértet Lublón"
+      },
+      {
+        "id": "22200_22237",
+        "author": "Mikszáth Kálmán",
+        "title": "A sipsirica"
+      },
+      {
+        "id": "14600_14639",
+        "author": "Lehoczki Károly",
+        "title": "Az ismeretlen kert"
+      },
+      {
+        "id": "17700_17713",
+        "author": "Komor Zoltán",
+        "title": "Klitorisz-krampusz és karácsonyfa bukkake"
+      }
+    ]
   },
   {
     "id": "02300_02386",
@@ -320,7 +428,34 @@
         "title": "12 - A fahuszár, meg a lova, meg a ló sípja"
       }
     ],
-    "url": "https://mek.oszk.hu/02300/02386"
+    "url": "https://mek.oszk.hu/02300/02386",
+    "similar_books": [
+      {
+        "id": "22200_22227",
+        "author": "Mikszáth Kálmán",
+        "title": "A gavallérok"
+      },
+      {
+        "id": "02200_02289",
+        "author": "Mikszáth Kálmán",
+        "title": "Kísértet Lublón"
+      },
+      {
+        "id": "02300_02321",
+        "author": "Vészi Endre",
+        "title": "Az ezüst kehely"
+      },
+      {
+        "id": "07600_07604",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+      },
+      {
+        "id": "17700_17713",
+        "author": "Komor Zoltán",
+        "title": "Klitorisz-krampusz és karácsonyfa bukkake"
+      }
+    ]
   },
   {
     "id": "09500_09586",
@@ -395,7 +530,34 @@
         "title": "15_jo_palocok.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/09500/09586"
+    "url": "https://mek.oszk.hu/09500/09586",
+    "similar_books": [
+      {
+        "id": "07600_07625",
+        "author": "Mikszáth Kálmán",
+        "title": "Tót atyafiak"
+      },
+      {
+        "id": "09700_09700",
+        "author": "Jókai Mór",
+        "title": "A kőszívű ember fiai"
+      },
+      {
+        "id": "02300_02359",
+        "author": "Jókai Mór",
+        "title": "Csataképek a magyar szabadságharcból"
+      },
+      {
+        "id": "11400_11424",
+        "author": "",
+        "title": "Klasszikusok novellái a magyar szabadságharcról"
+      },
+      {
+        "id": "11700_11747",
+        "author": "Tar Károly",
+        "title": "Hajnalban vadnyuszik ablakom alatt"
+      }
+    ]
   },
   {
     "id": "02300_02387",
@@ -522,7 +684,34 @@
         "title": "28 - Epilog"
       }
     ],
-    "url": "https://mek.oszk.hu/02300/02387"
+    "url": "https://mek.oszk.hu/02300/02387",
+    "similar_books": [
+      {
+        "id": "09700_09700",
+        "author": "Jókai Mór",
+        "title": "A kőszívű ember fiai"
+      },
+      {
+        "id": "03900_03986",
+        "author": "Mikszáth Kálmán",
+        "title": "Különös házasság"
+      },
+      {
+        "id": "12300_12378",
+        "author": "Rejtő Jenő",
+        "title": "A pokol zsoldosai"
+      },
+      {
+        "id": "02200_02289",
+        "author": "Mikszáth Kálmán",
+        "title": "Kísértet Lublón"
+      },
+      {
+        "id": "11700_11747",
+        "author": "Tar Károly",
+        "title": "Hajnalban vadnyuszik ablakom alatt"
+      }
+    ]
   },
   {
     "id": "02200_02289",
@@ -553,7 +742,34 @@
         "title": "4 - Jegyzetek"
       }
     ],
-    "url": "https://mek.oszk.hu/02200/02289"
+    "url": "https://mek.oszk.hu/02200/02289",
+    "similar_books": [
+      {
+        "id": "02300_02386",
+        "author": "Mikszáth Kálmán",
+        "title": "A gyerekek"
+      },
+      {
+        "id": "22200_22227",
+        "author": "Mikszáth Kálmán",
+        "title": "A gavallérok"
+      },
+      {
+        "id": "17700_17713",
+        "author": "Komor Zoltán",
+        "title": "Klitorisz-krampusz és karácsonyfa bukkake"
+      },
+      {
+        "id": "03900_03987",
+        "author": "Mikszáth Kálmán",
+        "title": "A beszélő köntös"
+      },
+      {
+        "id": "14600_14639",
+        "author": "Lehoczki Károly",
+        "title": "Az ismeretlen kert"
+      }
+    ]
   },
   {
     "id": "03900_03986",
@@ -724,7 +940,34 @@
         "title": "39 - Harminckilencedik fejezet"
       }
     ],
-    "url": "https://mek.oszk.hu/03900/03986"
+    "url": "https://mek.oszk.hu/03900/03986",
+    "similar_books": [
+      {
+        "id": "02300_02387",
+        "author": "Mikszáth Kálmán",
+        "title": "Jókai Mór élete és kora"
+      },
+      {
+        "id": "09700_09700",
+        "author": "Jókai Mór",
+        "title": "A kőszívű ember fiai"
+      },
+      {
+        "id": "03300_03322",
+        "author": "Reményik László",
+        "title": "Ezermester kutyák"
+      },
+      {
+        "id": "02200_02289",
+        "author": "Mikszáth Kálmán",
+        "title": "Kísértet Lublón"
+      },
+      {
+        "id": "10900_10945",
+        "author": "Kosztolányi Dezső",
+        "title": "Zsivajgó természet"
+      }
+    ]
   },
   {
     "id": "03300_03306",
@@ -847,7 +1090,34 @@
         "title": "27 - Utóhang"
       }
     ],
-    "url": "https://mek.oszk.hu/03300/03306"
+    "url": "https://mek.oszk.hu/03300/03306",
+    "similar_books": [
+      {
+        "id": "03300_03308",
+        "author": "Mikszáth Kálmán",
+        "title": "Új Zrínyiász"
+      },
+      {
+        "id": "02200_02289",
+        "author": "Mikszáth Kálmán",
+        "title": "Kísértet Lublón"
+      },
+      {
+        "id": "03700_03743",
+        "author": "Mikszáth Kálmán",
+        "title": "Szent Péter esernyője"
+      },
+      {
+        "id": "05300_05312",
+        "author": "Mikszáth Kálmán",
+        "title": "A fekete város"
+      },
+      {
+        "id": "02300_02387",
+        "author": "Mikszáth Kálmán",
+        "title": "Jókai Mór élete és kora"
+      }
+    ]
   },
   {
     "id": "22200_22237",
@@ -882,7 +1152,34 @@
         "title": "06. rész"
       }
     ],
-    "url": "https://mek.oszk.hu/22200/22237"
+    "url": "https://mek.oszk.hu/22200/22237",
+    "similar_books": [
+      {
+        "id": "22200_22227",
+        "author": "Mikszáth Kálmán",
+        "title": "A gavallérok"
+      },
+      {
+        "id": "02200_02289",
+        "author": "Mikszáth Kálmán",
+        "title": "Kísértet Lublón"
+      },
+      {
+        "id": "02300_02386",
+        "author": "Mikszáth Kálmán",
+        "title": "A gyerekek"
+      },
+      {
+        "id": "03700_03743",
+        "author": "Mikszáth Kálmán",
+        "title": "Szent Péter esernyője"
+      },
+      {
+        "id": "17700_17713",
+        "author": "Komor Zoltán",
+        "title": "Klitorisz-krampusz és karácsonyfa bukkake"
+      }
+    ]
   },
   {
     "id": "03700_03743",
@@ -921,7 +1218,34 @@
         "title": "6 - Néhány sor Mikszáth Kálmánról"
       }
     ],
-    "url": "https://mek.oszk.hu/03700/03743"
+    "url": "https://mek.oszk.hu/03700/03743",
+    "similar_books": [
+      {
+        "id": "03100_03179",
+        "author": "Balázs Ferenc",
+        "title": "A rög alatt"
+      },
+      {
+        "id": "10900_10945",
+        "author": "Kosztolányi Dezső",
+        "title": "Zsivajgó természet"
+      },
+      {
+        "id": "02200_02289",
+        "author": "Mikszáth Kálmán",
+        "title": "Kísértet Lublón"
+      },
+      {
+        "id": "13800_13810",
+        "author": "Jenei András",
+        "title": "Nyeregben a Konstantin-kereszt"
+      },
+      {
+        "id": "05400_05486",
+        "author": "Móricz Zsigmond",
+        "title": "Betyár"
+      }
+    ]
   },
   {
     "id": "07600_07625",
@@ -976,7 +1300,34 @@
         "title": "10_tot_atyafiak.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/07600/07625"
+    "url": "https://mek.oszk.hu/07600/07625",
+    "similar_books": [
+      {
+        "id": "09500_09586",
+        "author": "Mikszáth Kálmán",
+        "title": "A jó palócok"
+      },
+      {
+        "id": "11400_11424",
+        "author": "",
+        "title": "Klasszikusok novellái a magyar szabadságharcról"
+      },
+      {
+        "id": "09700_09700",
+        "author": "Jókai Mór",
+        "title": "A kőszívű ember fiai"
+      },
+      {
+        "id": "09800_09885",
+        "author": "",
+        "title": "A szív árnyaiHangoskönyv"
+      },
+      {
+        "id": "11700_11747",
+        "author": "Tar Károly",
+        "title": "Hajnalban vadnyuszik ablakom alatt"
+      }
+    ]
   },
   {
     "id": "03300_03308",
@@ -1043,6 +1394,33 @@
         "title": "13 - XII. Epilog"
       }
     ],
-    "url": "https://mek.oszk.hu/03300/03308"
+    "url": "https://mek.oszk.hu/03300/03308",
+    "similar_books": [
+      {
+        "id": "05300_05312",
+        "author": "Mikszáth Kálmán",
+        "title": "A fekete város"
+      },
+      {
+        "id": "03300_03391",
+        "author": "Eötvös József",
+        "title": "Magyarország 1514-ben"
+      },
+      {
+        "id": "03100_03167",
+        "author": "Zrínyi Miklós",
+        "title": "Szigeti veszedelem"
+      },
+      {
+        "id": "02500_02580",
+        "author": "Kosztolányi Dezső",
+        "title": "A rossz orvos"
+      },
+      {
+        "id": "03300_03306",
+        "author": "Mikszáth Kálmán",
+        "title": "A Noszty fiú esete Tóth Marival"
+      }
+    ]
   }
 ]

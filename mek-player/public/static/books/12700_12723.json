@@ -75,5 +75,32 @@
       "title": "17 - A nagy összecsapás"
     }
   ],
-  "url": "https://mek.oszk.hu/12700/12723"
+  "url": "https://mek.oszk.hu/12700/12723",
+  "similar_books": [
+    {
+      "id": "24600_24657",
+      "author": "Rejtő Jenő",
+      "title": "Legény a talpán"
+    },
+    {
+      "id": "11800_11839",
+      "author": "Végh Miki",
+      "title": "Humor-morzsák"
+    },
+    {
+      "id": "22600_22667",
+      "author": null,
+      "title": "Mesepelyhek"
+    },
+    {
+      "id": "10600_10621",
+      "author": "Gárdonyi Géza",
+      "title": "No még öggyet"
+    },
+    {
+      "id": "10500_10570",
+      "author": "Gárdonyi Géza",
+      "title": "Kátsa"
+    }
+  ]
 }

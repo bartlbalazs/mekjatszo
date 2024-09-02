@@ -36,6 +36,33 @@
         "title": "07-Kempis_Tamas-Krisztus_kovetese-Negyedik_konyv.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/22400/22439"
+    "url": "https://mek.oszk.hu/22400/22439",
+    "similar_books": [
+      {
+        "id": "07600_07604",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+      },
+      {
+        "id": "02500_02547",
+        "author": "Krúdy Gyula",
+        "title": "Jézuska csizmája"
+      },
+      {
+        "id": "13800_13810",
+        "author": "Jenei András",
+        "title": "Nyeregben a Konstantin-kereszt"
+      },
+      {
+        "id": "10500_10570",
+        "author": "Gárdonyi Géza",
+        "title": "Kátsa"
+      },
+      {
+        "id": "02600_02651",
+        "author": "Thomas Mann",
+        "title": "A kiválasztott"
+      }
+    ]
   }
 ]

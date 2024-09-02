@@ -84,7 +84,34 @@
         "title": "19 - A szamuráj"
       }
     ],
-    "url": "https://mek.oszk.hu/14700/14776"
+    "url": "https://mek.oszk.hu/14700/14776",
+    "similar_books": [
+      {
+        "id": "13700_13790",
+        "author": "Jenei András",
+        "title": "Tengercseppek"
+      },
+      {
+        "id": "15800_15812",
+        "author": "Jenei András",
+        "title": "Az enyém"
+      },
+      {
+        "id": "07600_07604",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+      },
+      {
+        "id": "13800_13810",
+        "author": "Jenei András",
+        "title": "Nyeregben a Konstantin-kereszt"
+      },
+      {
+        "id": "16100_16149",
+        "author": "Menyhei József",
+        "title": "Múltbanéző"
+      }
+    ]
   },
   {
     "id": "15800_15812",
@@ -111,7 +138,34 @@
         "title": "04 - 4. fejezet"
       }
     ],
-    "url": "https://mek.oszk.hu/15800/15812"
+    "url": "https://mek.oszk.hu/15800/15812",
+    "similar_books": [
+      {
+        "id": "03000_03087",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekZala megye - Keménfai mesék"
+      },
+      {
+        "id": "18700_18753",
+        "author": "Mihályi Antal",
+        "title": "Ili néni állatkertje"
+      },
+      {
+        "id": "07600_07604",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+      },
+      {
+        "id": "02300_02321",
+        "author": "Vészi Endre",
+        "title": "Az ezüst kehely"
+      },
+      {
+        "id": "13700_13790",
+        "author": "Jenei András",
+        "title": "Tengercseppek"
+      }
+    ]
   },
   {
     "id": "13800_13810",
@@ -154,7 +208,34 @@
         "title": "08 - VIII. fejezet"
       }
     ],
-    "url": "https://mek.oszk.hu/13800/13810"
+    "url": "https://mek.oszk.hu/13800/13810",
+    "similar_books": [
+      {
+        "id": "21900_21995",
+        "author": "Németh Árpád",
+        "title": "A kő"
+      },
+      {
+        "id": "19500_19566",
+        "author": "Boér Péter Pál",
+        "title": "Szabályerősítő"
+      },
+      {
+        "id": "06700_06785",
+        "author": "Tar Károly",
+        "title": "Szerenád dobra, cintányérra és más ütős hangszerekreHangoskönyv"
+      },
+      {
+        "id": "13700_13790",
+        "author": "Jenei András",
+        "title": "Tengercseppek"
+      },
+      {
+        "id": "07600_07604",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+      }
+    ]
   },
   {
     "id": "13700_13790",
@@ -245,6 +326,33 @@
         "title": "20 - A Koronaőr"
       }
     ],
-    "url": "https://mek.oszk.hu/13700/13790"
+    "url": "https://mek.oszk.hu/13700/13790",
+    "similar_books": [
+      {
+        "id": "10400_10454",
+        "author": "Gárdonyi Géza",
+        "title": "Tapasztalatok"
+      },
+      {
+        "id": "16100_16149",
+        "author": "Menyhei József",
+        "title": "Múltbanéző"
+      },
+      {
+        "id": "13800_13810",
+        "author": "Jenei András",
+        "title": "Nyeregben a Konstantin-kereszt"
+      },
+      {
+        "id": "15800_15812",
+        "author": "Jenei András",
+        "title": "Az enyém"
+      },
+      {
+        "id": "14700_14776",
+        "author": "Jenei András",
+        "title": "Dűneszemek Hangoskönyv"
+      }
+    ]
   }
 ]

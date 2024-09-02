@@ -111,5 +111,32 @@
       "title": "25. fejezet"
     }
   ],
-  "url": "https://mek.oszk.hu/02900/02953"
+  "url": "https://mek.oszk.hu/02900/02953",
+  "similar_books": [
+    {
+      "id": "05400_05486",
+      "author": "Móricz Zsigmond",
+      "title": "Betyár"
+    },
+    {
+      "id": "12400_12446",
+      "author": "Rejtő Jenő",
+      "title": "Jó üzlet a halál"
+    },
+    {
+      "id": "03300_03310",
+      "author": "Benedek Elek",
+      "title": "Édes anyaföldem!"
+    },
+    {
+      "id": "24600_24626",
+      "author": "Rejtő Jenő",
+      "title": "Pipacs, a fenegyerek"
+    },
+    {
+      "id": "08300_08399",
+      "author": "Nagy Pál",
+      "title": "Nagy Pál visszaemlékezései"
+    }
+  ]
 }

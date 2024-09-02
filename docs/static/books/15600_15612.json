@@ -51,5 +51,32 @@
       "title": "10 - hefop10.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/15600/15612"
+  "url": "https://mek.oszk.hu/15600/15612",
+  "similar_books": [
+    {
+      "id": "22200_22219",
+      "author": "Szerb Antal",
+      "title": "Magyar irodalomtörténet"
+    },
+    {
+      "id": "14100_14175",
+      "author": "V. Pócsay Rozika",
+      "title": "Mélység és magasság"
+    },
+    {
+      "id": "19400_19476",
+      "author": "Szente B. Levente",
+      "title": "Csillagtitok"
+    },
+    {
+      "id": "03100_03179",
+      "author": "Balázs Ferenc",
+      "title": "A rög alatt"
+    },
+    {
+      "id": "10400_10454",
+      "author": "Gárdonyi Géza",
+      "title": "Tapasztalatok"
+    }
+  ]
 }

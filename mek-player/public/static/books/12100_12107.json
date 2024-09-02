@@ -39,5 +39,32 @@
       "title": "08 - 8. fejezet"
     }
   ],
-  "url": "https://mek.oszk.hu/12100/12107"
+  "url": "https://mek.oszk.hu/12100/12107",
+  "similar_books": [
+    {
+      "id": "16200_16225",
+      "author": "Nagy Károly",
+      "title": "A légió kísértete"
+    },
+    {
+      "id": "14600_14639",
+      "author": "Lehoczki Károly",
+      "title": "Az ismeretlen kert"
+    },
+    {
+      "id": "11200_11236",
+      "author": "Krúdy Gyula",
+      "title": "Jézuska csizmájaHangoskönyv"
+    },
+    {
+      "id": "11700_11747",
+      "author": "Tar Károly",
+      "title": "Hajnalban vadnyuszik ablakom alatt"
+    },
+    {
+      "id": "24900_24935",
+      "author": "Krúdy Gyula",
+      "title": "Az élet álom"
+    }
+  ]
 }

@@ -287,5 +287,32 @@
       "title": "69 - Az Oxford-streeti gyilkosság"
     }
   ],
-  "url": "https://mek.oszk.hu/02600/02660"
+  "url": "https://mek.oszk.hu/02600/02660",
+  "similar_books": [
+    {
+      "id": "11200_11241",
+      "author": "Karinthy Frigyes",
+      "title": "Tanár úr kérem"
+    },
+    {
+      "id": "03000_03082",
+      "author": "Gárdonyi Géza",
+      "title": "Az én falum"
+    },
+    {
+      "id": "02300_02387",
+      "author": "Mikszáth Kálmán",
+      "title": "Jókai Mór élete és kora"
+    },
+    {
+      "id": "02900_02954",
+      "author": "Babits Mihály",
+      "title": "A gólyakalifa"
+    },
+    {
+      "id": "02300_02376",
+      "author": "Karinthy Frigyes",
+      "title": "Az utolsó palackposta"
+    }
+  ]
 }

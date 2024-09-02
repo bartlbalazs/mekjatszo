@@ -27,5 +27,32 @@
       "title": "4. fejezet"
     }
   ],
-  "url": "https://mek.oszk.hu/03700/03740"
+  "url": "https://mek.oszk.hu/03700/03740",
+  "similar_books": [
+    {
+      "id": "02900_02965",
+      "author": "Tamási Áron",
+      "title": "Ábel a rengetegben"
+    },
+    {
+      "id": "03700_03741",
+      "author": "Tamási Áron",
+      "title": "Ábel az országban"
+    },
+    {
+      "id": "03100_03171",
+      "author": "Tamási Áron",
+      "title": "Vadrózsa ága"
+    },
+    {
+      "id": "09400_09475",
+      "author": "Gárdonyi Géza",
+      "title": "Veszödelmek"
+    },
+    {
+      "id": "11700_11747",
+      "author": "Tar Károly",
+      "title": "Hajnalban vadnyuszik ablakom alatt"
+    }
+  ]
 }

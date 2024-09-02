@@ -15,5 +15,32 @@
       "title": "1 - Folyik a híd 2. rész"
     }
   ],
-  "url": "https://mek.oszk.hu/06200/06227"
+  "url": "https://mek.oszk.hu/06200/06227",
+  "similar_books": [
+    {
+      "id": "18700_18753",
+      "author": "Mihályi Antal",
+      "title": "Ili néni állatkertje"
+    },
+    {
+      "id": "10600_10621",
+      "author": "Gárdonyi Géza",
+      "title": "No még öggyet"
+    },
+    {
+      "id": "22100_22188",
+      "author": "Jókai Mór",
+      "title": "És mégis mozog a föld"
+    },
+    {
+      "id": "22600_22667",
+      "author": null,
+      "title": "Mesepelyhek"
+    },
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    }
+  ]
 }

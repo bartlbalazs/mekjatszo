@@ -156,6 +156,33 @@
         "title": "36 - Utószó (Gyergyai Albert)"
       }
     ],
-    "url": "https://mek.oszk.hu/03900/03994"
+    "url": "https://mek.oszk.hu/03900/03994",
+    "similar_books": [
+      {
+        "id": "03300_03379",
+        "author": "Emily Brontë",
+        "title": "Üvöltő szelek"
+      },
+      {
+        "id": "03300_03314",
+        "author": "Charlotte Brontë",
+        "title": "Jane Eyre"
+      },
+      {
+        "id": "03300_03384",
+        "author": "Giovanni Boccaccio",
+        "title": "Dekameron"
+      },
+      {
+        "id": "02400_02402",
+        "author": "Alexandre Dumas",
+        "title": "Korzikai testvérek ; Herminie"
+      },
+      {
+        "id": "02700_02776",
+        "author": "Honoré de Balzac",
+        "title": "Goriot apó"
+      }
+    ]
   }
 ]

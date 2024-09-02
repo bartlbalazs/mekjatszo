@@ -59,5 +59,32 @@
       "title": "13 - 13. fejezet"
     }
   ],
-  "url": "https://mek.oszk.hu/12400/12445"
+  "url": "https://mek.oszk.hu/12400/12445",
+  "similar_books": [
+    {
+      "id": "12400_12447",
+      "author": "Rejtő Jenő",
+      "title": "Vissza a pokolba"
+    },
+    {
+      "id": "12300_12378",
+      "author": "Rejtő Jenő",
+      "title": "A pokol zsoldosai"
+    },
+    {
+      "id": "11700_11747",
+      "author": "Tar Károly",
+      "title": "Hajnalban vadnyuszik ablakom alatt"
+    },
+    {
+      "id": "03300_03310",
+      "author": "Benedek Elek",
+      "title": "Édes anyaföldem!"
+    },
+    {
+      "id": "12300_12368",
+      "author": "Rejtő Jenő",
+      "title": "A fekete kapitány"
+    }
+  ]
 }

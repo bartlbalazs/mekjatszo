@@ -132,6 +132,33 @@
         "title": "30 - Emanuel_Swedenborg_-_Menny_es_pokol_588-603.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/11200/11247"
+    "url": "https://mek.oszk.hu/11200/11247",
+    "similar_books": [
+      {
+        "id": "07600_07604",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+      },
+      {
+        "id": "03000_03087",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekZala megye - Keménfai mesék"
+      },
+      {
+        "id": "18700_18753",
+        "author": "Mihályi Antal",
+        "title": "Ili néni állatkertje"
+      },
+      {
+        "id": "06400_06439",
+        "author": "",
+        "title": "Öt magyar népmese hangillusztrációval"
+      },
+      {
+        "id": "03000_03071",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekTolna megye - Váralja,Baranya megye - Zengővárkony"
+      }
+    ]
   }
 ]

@@ -67,5 +67,32 @@
       "title": "14 - Kilencszázhét"
     }
   ],
-  "url": "https://mek.oszk.hu/03300/03321"
+  "url": "https://mek.oszk.hu/03300/03321",
+  "similar_books": [
+    {
+      "id": "03300_03310",
+      "author": "Benedek Elek",
+      "title": "Édes anyaföldem!"
+    },
+    {
+      "id": "02900_02972",
+      "author": "Benedek Elek",
+      "title": "Többsincs királyfi és más mesék"
+    },
+    {
+      "id": "11200_11242",
+      "author": "Gárdonyi Géza",
+      "title": "Láthatatlan ember"
+    },
+    {
+      "id": "02900_02965",
+      "author": "Tamási Áron",
+      "title": "Ábel a rengetegben"
+    },
+    {
+      "id": "09700_09700",
+      "author": "Jókai Mór",
+      "title": "A kőszívű ember fiai"
+    }
+  ]
 }

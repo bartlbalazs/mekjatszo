@@ -123,5 +123,32 @@
       "title": "28 - Epilog"
     }
   ],
-  "url": "https://mek.oszk.hu/02300/02387"
+  "url": "https://mek.oszk.hu/02300/02387",
+  "similar_books": [
+    {
+      "id": "09700_09700",
+      "author": "Jókai Mór",
+      "title": "A kőszívű ember fiai"
+    },
+    {
+      "id": "03900_03986",
+      "author": "Mikszáth Kálmán",
+      "title": "Különös házasság"
+    },
+    {
+      "id": "12300_12378",
+      "author": "Rejtő Jenő",
+      "title": "A pokol zsoldosai"
+    },
+    {
+      "id": "02200_02289",
+      "author": "Mikszáth Kálmán",
+      "title": "Kísértet Lublón"
+    },
+    {
+      "id": "11700_11747",
+      "author": "Tar Károly",
+      "title": "Hajnalban vadnyuszik ablakom alatt"
+    }
+  ]
 }

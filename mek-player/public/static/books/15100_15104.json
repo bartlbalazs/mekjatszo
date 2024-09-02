@@ -215,5 +215,32 @@
       "title": "51_Beleska_o_autoru.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/15100/15104"
+  "url": "https://mek.oszk.hu/15100/15104",
+  "similar_books": [
+    {
+      "id": "21900_21995",
+      "author": "Németh Árpád",
+      "title": "A kő"
+    },
+    {
+      "id": "16100_16149",
+      "author": "Menyhei József",
+      "title": "Múltbanéző"
+    },
+    {
+      "id": "24600_24657",
+      "author": "Rejtő Jenő",
+      "title": "Legény a talpán"
+    },
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    },
+    {
+      "id": "02300_02386",
+      "author": "Mikszáth Kálmán",
+      "title": "A gyerekek"
+    }
+  ]
 }

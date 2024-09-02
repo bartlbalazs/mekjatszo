@@ -47,5 +47,32 @@
       "title": "10_szamvetes.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/08900/08958"
+  "url": "https://mek.oszk.hu/08900/08958",
+  "similar_books": [
+    {
+      "id": "08900_08959",
+      "author": "NTK Horváth Sándor",
+      "title": "Fényudvar"
+    },
+    {
+      "id": "19800_19874",
+      "author": "NTK Horváth Sándor",
+      "title": "A király álma [Hangjáték]"
+    },
+    {
+      "id": "06200_06227",
+      "author": "",
+      "title": "Folyik a híd"
+    },
+    {
+      "id": "21900_21995",
+      "author": "Németh Árpád",
+      "title": "A kő"
+    },
+    {
+      "id": "15800_15812",
+      "author": "Jenei András",
+      "title": "Az enyém"
+    }
+  ]
 }

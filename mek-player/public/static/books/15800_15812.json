@@ -23,5 +23,32 @@
       "title": "04 - 4. fejezet"
     }
   ],
-  "url": "https://mek.oszk.hu/15800/15812"
+  "url": "https://mek.oszk.hu/15800/15812",
+  "similar_books": [
+    {
+      "id": "03000_03087",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekZala megye - Keménfai mesék"
+    },
+    {
+      "id": "18700_18753",
+      "author": "Mihályi Antal",
+      "title": "Ili néni állatkertje"
+    },
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    },
+    {
+      "id": "02300_02321",
+      "author": "Vészi Endre",
+      "title": "Az ezüst kehely"
+    },
+    {
+      "id": "13700_13790",
+      "author": "Jenei András",
+      "title": "Tengercseppek"
+    }
+  ]
 }

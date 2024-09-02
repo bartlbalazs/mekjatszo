@@ -75,5 +75,32 @@
       "title": "15 - Tizenötödik szín"
     }
   ],
-  "url": "https://mek.oszk.hu/06800/06840"
+  "url": "https://mek.oszk.hu/06800/06840",
+  "similar_books": [
+    {
+      "id": "02300_02358",
+      "author": "Jókai Mór",
+      "title": "A gazdag szegények"
+    },
+    {
+      "id": "03300_03391",
+      "author": "Eötvös József",
+      "title": "Magyarország 1514-ben"
+    },
+    {
+      "id": "09700_09700",
+      "author": "Jókai Mór",
+      "title": "A kőszívű ember fiai"
+    },
+    {
+      "id": "12300_12378",
+      "author": "Rejtő Jenő",
+      "title": "A pokol zsoldosai"
+    },
+    {
+      "id": "12400_12463",
+      "author": "Rejtő Jenő",
+      "title": "Vér és mahagóni"
+    }
+  ]
 }

@@ -36,7 +36,34 @@
         "title": "05 - V. felvonás"
       }
     ],
-    "url": "https://mek.oszk.hu/06200/06233"
+    "url": "https://mek.oszk.hu/06200/06233",
+    "similar_books": [
+      {
+        "id": "03900_03980",
+        "author": "William Shakespeare",
+        "title": "William Shakespeare szonettjei"
+      },
+      {
+        "id": "16000_16079",
+        "author": "Lipcsey Emőke",
+        "title": "Sziklarajzok"
+      },
+      {
+        "id": "22100_22199",
+        "author": "Babits Mihály",
+        "title": "Halálfiai"
+      },
+      {
+        "id": "06200_06227",
+        "author": "",
+        "title": "Folyik a híd"
+      },
+      {
+        "id": "15800_15812",
+        "author": "Jenei András",
+        "title": "Az enyém"
+      }
+    ]
   },
   {
     "id": "07000_07036",
@@ -79,7 +106,34 @@
         "title": "07 - Ötödik felvonás"
       }
     ],
-    "url": "https://mek.oszk.hu/07000/07036"
+    "url": "https://mek.oszk.hu/07000/07036",
+    "similar_books": [
+      {
+        "id": "03900_03980",
+        "author": "William Shakespeare",
+        "title": "William Shakespeare szonettjei"
+      },
+      {
+        "id": "03300_03379",
+        "author": "Emily Brontë",
+        "title": "Üvöltő szelek"
+      },
+      {
+        "id": "03300_03376",
+        "author": "Stendhal",
+        "title": "A pármai kolostor"
+      },
+      {
+        "id": "12300_12396",
+        "author": "Rejtő Jenő",
+        "title": "Az utolsó szó jogán"
+      },
+      {
+        "id": "03900_03994",
+        "author": "Gustave Flaubert",
+        "title": "Bovaryné"
+      }
+    ]
   },
   {
     "id": "03900_03980",
@@ -98,6 +152,33 @@
         "title": "1 - Szonettek"
       }
     ],
-    "url": "https://mek.oszk.hu/03900/03980"
+    "url": "https://mek.oszk.hu/03900/03980",
+    "similar_books": [
+      {
+        "id": "07000_07036",
+        "author": "William Shakespeare",
+        "title": "Romeo és Júlia"
+      },
+      {
+        "id": "03300_03391",
+        "author": "Eötvös József",
+        "title": "Magyarország 1514-ben"
+      },
+      {
+        "id": "03100_03167",
+        "author": "Zrínyi Miklós",
+        "title": "Szigeti veszedelem"
+      },
+      {
+        "id": "03900_03979",
+        "author": "Lucius Apuleius",
+        "title": "Az aranyszamár"
+      },
+      {
+        "id": "07300_07363",
+        "author": "Gárdonyi Géza",
+        "title": "Egri csillagok"
+      }
+    ]
   }
 ]

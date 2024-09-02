@@ -67,5 +67,32 @@
       "title": "14 - Le az öregekkel!"
     }
   ],
-  "url": "https://mek.oszk.hu/02300/02321"
+  "url": "https://mek.oszk.hu/02300/02321",
+  "similar_books": [
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    },
+    {
+      "id": "10600_10621",
+      "author": "Gárdonyi Géza",
+      "title": "No még öggyet"
+    },
+    {
+      "id": "03000_03087",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekZala megye - Keménfai mesék"
+    },
+    {
+      "id": "18700_18753",
+      "author": "Mihályi Antal",
+      "title": "Ili néni állatkertje"
+    },
+    {
+      "id": "10400_10454",
+      "author": "Gárdonyi Géza",
+      "title": "Tapasztalatok"
+    }
+  ]
 }

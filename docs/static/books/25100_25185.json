@@ -6,5 +6,32 @@
   "cover": null,
   "description": null,
   "audio_files": [],
-  "url": "https://mek.oszk.hu/25100/25185"
+  "url": "https://mek.oszk.hu/25100/25185",
+  "similar_books": [
+    {
+      "id": "03700_03742",
+      "author": "Nyikolaj Vasziljevics Gogol",
+      "title": "A köpenyeg ; Egy kép a régi jó időből"
+    },
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    },
+    {
+      "id": "18800_18884",
+      "author": "Epiktétos",
+      "title": "Epiktétos kézikönyvecskéje vagyis A stoikus bölcs breviáriuma"
+    },
+    {
+      "id": "10200_10222",
+      "author": "Móra Ferenc",
+      "title": "Nekopogi kovács"
+    },
+    {
+      "id": "22200_22247",
+      "author": "Radnóti Miklós",
+      "title": "Radnóti Miklós összes versei és versfordításai"
+    }
+  ]
 }

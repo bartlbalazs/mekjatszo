@@ -32,6 +32,33 @@
         "title": "5 - Utószó"
       }
     ],
-    "url": "https://mek.oszk.hu/06000/06059"
+    "url": "https://mek.oszk.hu/06000/06059",
+    "similar_books": [
+      {
+        "id": "19400_19476",
+        "author": "Szente B. Levente",
+        "title": "Csillagtitok"
+      },
+      {
+        "id": "19500_19566",
+        "author": "Boér Péter Pál",
+        "title": "Szabályerősítő"
+      },
+      {
+        "id": "19000_19059",
+        "author": "Szente B. Levente",
+        "title": "Az ezüsthajú tündérleány"
+      },
+      {
+        "id": "06700_06795",
+        "author": "Szécsi Margit",
+        "title": "Vadak jegyében"
+      },
+      {
+        "id": "06200_06227",
+        "author": "",
+        "title": "Folyik a híd"
+      }
+    ]
   }
 ]

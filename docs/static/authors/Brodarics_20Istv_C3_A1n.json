@@ -40,6 +40,33 @@
         "title": "08_mohacs.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/10500/10519"
+    "url": "https://mek.oszk.hu/10500/10519",
+    "similar_books": [
+      {
+        "id": "06200_06227",
+        "author": "",
+        "title": "Folyik a híd"
+      },
+      {
+        "id": "18700_18753",
+        "author": "Mihályi Antal",
+        "title": "Ili néni állatkertje"
+      },
+      {
+        "id": "16200_16225",
+        "author": "Nagy Károly",
+        "title": "A légió kísértete"
+      },
+      {
+        "id": "20200_20290",
+        "author": "Mihályi Antal",
+        "title": "A szkarabeusz titka"
+      },
+      {
+        "id": "11200_11236",
+        "author": "Krúdy Gyula",
+        "title": "Jézuska csizmájaHangoskönyv"
+      }
+    ]
   }
 ]

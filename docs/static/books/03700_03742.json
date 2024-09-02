@@ -23,5 +23,32 @@
       "title": "3 - Egy kép a régi jó időből"
     }
   ],
-  "url": "https://mek.oszk.hu/03700/03742"
+  "url": "https://mek.oszk.hu/03700/03742",
+  "similar_books": [
+    {
+      "id": "25100_25185",
+      "author": "Nyikolaj Vasziljevics Gogol",
+      "title": "A köpönyeg"
+    },
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    },
+    {
+      "id": "10600_10621",
+      "author": "Gárdonyi Géza",
+      "title": "No még öggyet"
+    },
+    {
+      "id": "18800_18884",
+      "author": "Epiktétos",
+      "title": "Epiktétos kézikönyvecskéje vagyis A stoikus bölcs breviáriuma"
+    },
+    {
+      "id": "22100_22188",
+      "author": "Jókai Mór",
+      "title": "És mégis mozog a föld"
+    }
+  ]
 }

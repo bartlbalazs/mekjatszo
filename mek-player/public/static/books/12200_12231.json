@@ -11,5 +11,32 @@
       "title": "0 - Sose_szolj_be_varazslonak.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/12200/12231"
+  "url": "https://mek.oszk.hu/12200/12231",
+  "similar_books": [
+    {
+      "id": "09800_09885",
+      "author": "",
+      "title": "A szív árnyaiHangoskönyv"
+    },
+    {
+      "id": "11700_11747",
+      "author": "Tar Károly",
+      "title": "Hajnalban vadnyuszik ablakom alatt"
+    },
+    {
+      "id": "22600_22667",
+      "author": null,
+      "title": "Mesepelyhek"
+    },
+    {
+      "id": "04700_04770",
+      "author": "Reményik László",
+      "title": "Könnyű neked..."
+    },
+    {
+      "id": "11400_11424",
+      "author": "",
+      "title": "Klasszikusok novellái a magyar szabadságharcról"
+    }
+  ]
 }

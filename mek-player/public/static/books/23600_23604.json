@@ -139,5 +139,32 @@
       "title": "32 - 32. fejezet"
     }
   ],
-  "url": "https://mek.oszk.hu/23600/23604"
+  "url": "https://mek.oszk.hu/23600/23604",
+  "similar_books": [
+    {
+      "id": "11300_11390",
+      "author": "Móricz Zsigmond",
+      "title": "Móricz Zsigmond válogatott művei a Nyugatból"
+    },
+    {
+      "id": "11200_11267",
+      "author": "Móricz Zsigmond",
+      "title": "A szerelmes levél"
+    },
+    {
+      "id": "22200_22239",
+      "author": "Móricz Zsigmond",
+      "title": "Árvácska"
+    },
+    {
+      "id": "11800_11839",
+      "author": "Végh Miki",
+      "title": "Humor-morzsák"
+    },
+    {
+      "id": "09300_09361",
+      "author": "Gárdonyi Géza",
+      "title": "A pesti úr"
+    }
+  ]
 }

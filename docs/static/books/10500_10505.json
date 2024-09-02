@@ -51,5 +51,32 @@
       "title": "11_hipermarket.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/10500/10505"
+  "url": "https://mek.oszk.hu/10500/10505",
+  "similar_books": [
+    {
+      "id": "14600_14639",
+      "author": "Lehoczki Károly",
+      "title": "Az ismeretlen kert"
+    },
+    {
+      "id": "03000_03082",
+      "author": "Gárdonyi Géza",
+      "title": "Az én falum"
+    },
+    {
+      "id": "09600_09639",
+      "author": "Lehoczki Károly",
+      "title": "Elgurult gyöngyök"
+    },
+    {
+      "id": "02200_02289",
+      "author": "Mikszáth Kálmán",
+      "title": "Kísértet Lublón"
+    },
+    {
+      "id": "11700_11747",
+      "author": "Tar Károly",
+      "title": "Hajnalban vadnyuszik ablakom alatt"
+    }
+  ]
 }

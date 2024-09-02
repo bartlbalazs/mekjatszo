@@ -6,5 +6,32 @@
   "cover": null,
   "description": null,
   "audio_files": [],
-  "url": "https://mek.oszk.hu/12200/12297"
+  "url": "https://mek.oszk.hu/12200/12297",
+  "similar_books": [
+    {
+      "id": "19500_19567",
+      "author": "Mihályi Antal",
+      "title": "Lajos király barátja"
+    },
+    {
+      "id": "16200_16225",
+      "author": "Nagy Károly",
+      "title": "A légió kísértete"
+    },
+    {
+      "id": "03000_03087",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekZala megye - Keménfai mesék"
+    },
+    {
+      "id": "10500_10519",
+      "author": "Brodarics István",
+      "title": "Igaz leírás a magyaroknak a törökökkel Mohácsnál vívott csatájáról"
+    },
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    }
+  ]
 }

@@ -343,5 +343,32 @@
       "title": "83 - IV. kötet (17) 19. fejezet"
     }
   ],
-  "url": "https://mek.oszk.hu/03000/03086"
+  "url": "https://mek.oszk.hu/03000/03086",
+  "similar_books": [
+    {
+      "id": "02500_02580",
+      "author": "Kosztolányi Dezső",
+      "title": "A rossz orvos"
+    },
+    {
+      "id": "03300_03308",
+      "author": "Mikszáth Kálmán",
+      "title": "Új Zrínyiász"
+    },
+    {
+      "id": "05400_05486",
+      "author": "Móricz Zsigmond",
+      "title": "Betyár"
+    },
+    {
+      "id": "02700_02778",
+      "author": "Bródy Sándor",
+      "title": "Az ezüst kecske ; A nap lovagja"
+    },
+    {
+      "id": "10500_10570",
+      "author": "Gárdonyi Géza",
+      "title": "Kátsa"
+    }
+  ]
 }

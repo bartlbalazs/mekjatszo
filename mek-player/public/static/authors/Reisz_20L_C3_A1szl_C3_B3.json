@@ -36,6 +36,33 @@
         "title": "7-Reisz-Laszlo-Konyvtarkarcok.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/15600/15638"
+    "url": "https://mek.oszk.hu/15600/15638",
+    "similar_books": [
+      {
+        "id": "02500_02580",
+        "author": "Kosztolányi Dezső",
+        "title": "A rossz orvos"
+      },
+      {
+        "id": "22200_22239",
+        "author": "Móricz Zsigmond",
+        "title": "Árvácska"
+      },
+      {
+        "id": "03300_03308",
+        "author": "Mikszáth Kálmán",
+        "title": "Új Zrínyiász"
+      },
+      {
+        "id": "22200_22224",
+        "author": "Kosztolányi Dezső",
+        "title": "Kosztolányi Dezső összes novellája"
+      },
+      {
+        "id": "21900_21995",
+        "author": "Németh Árpád",
+        "title": "A kő"
+      }
+    ]
   }
 ]

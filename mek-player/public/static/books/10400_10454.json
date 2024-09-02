@@ -131,5 +131,32 @@
       "title": "30_tapasztalatok.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/10400/10454"
+  "url": "https://mek.oszk.hu/10400/10454",
+  "similar_books": [
+    {
+      "id": "10600_10621",
+      "author": "Gárdonyi Géza",
+      "title": "No még öggyet"
+    },
+    {
+      "id": "22500_22519",
+      "author": "Gárdonyi Géza",
+      "title": "Ida regénye"
+    },
+    {
+      "id": "04700_04754",
+      "author": "Gárdonyi Géza",
+      "title": "Égre néző lélek"
+    },
+    {
+      "id": "09900_09914",
+      "author": "Gárdonyi Géza",
+      "title": "Göre Gábor biró úr könyve"
+    },
+    {
+      "id": "09300_09340",
+      "author": "Gárdonyi Géza",
+      "title": "Göre Martsa lakodalma"
+    }
+  ]
 }

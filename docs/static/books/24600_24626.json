@@ -47,5 +47,32 @@
       "title": "09 - IX. fejezet"
     }
   ],
-  "url": "https://mek.oszk.hu/24600/24626"
+  "url": "https://mek.oszk.hu/24600/24626",
+  "similar_books": [
+    {
+      "id": "13700_13790",
+      "author": "Jenei András",
+      "title": "Tengercseppek"
+    },
+    {
+      "id": "16100_16149",
+      "author": "Menyhei József",
+      "title": "Múltbanéző"
+    },
+    {
+      "id": "22100_22167",
+      "author": "Móricz Zsigmond",
+      "title": "Pillangó és válogatott elbeszélések"
+    },
+    {
+      "id": "13800_13810",
+      "author": "Jenei András",
+      "title": "Nyeregben a Konstantin-kereszt"
+    },
+    {
+      "id": "06700_06785",
+      "author": "Tar Károly",
+      "title": "Szerenád dobra, cintányérra és más ütős hangszerekreHangoskönyv"
+    }
+  ]
 }

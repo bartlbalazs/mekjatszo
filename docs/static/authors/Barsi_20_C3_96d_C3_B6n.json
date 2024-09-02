@@ -12,7 +12,34 @@
         "title": "0 - Az álarcos fantom"
       }
     ],
-    "url": "https://mek.oszk.hu/14600/14694"
+    "url": "https://mek.oszk.hu/14600/14694",
+    "similar_books": [
+      {
+        "id": "14800_14870",
+        "author": "Barsi Ödön",
+        "title": "A nevető halál"
+      },
+      {
+        "id": "15600_15654",
+        "author": "Barsi Ödön",
+        "title": "A bálványimádó"
+      },
+      {
+        "id": "22200_22224",
+        "author": "Kosztolányi Dezső",
+        "title": "Kosztolányi Dezső összes novellája"
+      },
+      {
+        "id": "03000_03073",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekBaranya megye - Egyházaskozár hangja az ezredfordulón"
+      },
+      {
+        "id": "03100_03171",
+        "author": "Tamási Áron",
+        "title": "Vadrózsa ága"
+      }
+    ]
   },
   {
     "id": "15600_15654",
@@ -59,7 +86,34 @@
         "title": "09 - Befejezés"
       }
     ],
-    "url": "https://mek.oszk.hu/15600/15654"
+    "url": "https://mek.oszk.hu/15600/15654",
+    "similar_books": [
+      {
+        "id": "14800_14870",
+        "author": "Barsi Ödön",
+        "title": "A nevető halál"
+      },
+      {
+        "id": "14600_14639",
+        "author": "Lehoczki Károly",
+        "title": "Az ismeretlen kert"
+      },
+      {
+        "id": "18700_18753",
+        "author": "Mihályi Antal",
+        "title": "Ili néni állatkertje"
+      },
+      {
+        "id": "03700_03741",
+        "author": "Tamási Áron",
+        "title": "Ábel az országban"
+      },
+      {
+        "id": "09700_09700",
+        "author": "Jókai Mór",
+        "title": "A kőszívű ember fiai"
+      }
+    ]
   },
   {
     "id": "14600_14696",
@@ -118,7 +172,34 @@
         "title": "12 - Az álarc lehull"
       }
     ],
-    "url": "https://mek.oszk.hu/14600/14696"
+    "url": "https://mek.oszk.hu/14600/14696",
+    "similar_books": [
+      {
+        "id": "14800_14870",
+        "author": "Barsi Ödön",
+        "title": "A nevető halál"
+      },
+      {
+        "id": "14500_14575",
+        "author": "Barsi Ödön",
+        "title": "Számum"
+      },
+      {
+        "id": "15600_15654",
+        "author": "Barsi Ödön",
+        "title": "A bálványimádó"
+      },
+      {
+        "id": "14500_14576",
+        "author": "Barsi Ödön",
+        "title": "A Déli-sark aranya"
+      },
+      {
+        "id": "06200_06227",
+        "author": "",
+        "title": "Folyik a híd"
+      }
+    ]
   },
   {
     "id": "14500_14576",
@@ -137,7 +218,34 @@
         "title": "02 - Második rész"
       }
     ],
-    "url": "https://mek.oszk.hu/14500/14576"
+    "url": "https://mek.oszk.hu/14500/14576",
+    "similar_books": [
+      {
+        "id": "14500_14575",
+        "author": "Barsi Ödön",
+        "title": "Számum"
+      },
+      {
+        "id": "15600_15654",
+        "author": "Barsi Ödön",
+        "title": "A bálványimádó"
+      },
+      {
+        "id": "14600_14696",
+        "author": "Barsi Ödön",
+        "title": "A Bolingbroke kastély kisértete"
+      },
+      {
+        "id": "16200_16225",
+        "author": "Nagy Károly",
+        "title": "A légió kísértete"
+      },
+      {
+        "id": "14800_14870",
+        "author": "Barsi Ödön",
+        "title": "A nevető halál"
+      }
+    ]
   },
   {
     "id": "14700_14771",
@@ -308,7 +416,34 @@
         "title": "39 - IV. Az ismeretlen birodalom - Újra El Doradoban"
       }
     ],
-    "url": "https://mek.oszk.hu/14700/14771"
+    "url": "https://mek.oszk.hu/14700/14771",
+    "similar_books": [
+      {
+        "id": "15600_15654",
+        "author": "Barsi Ödön",
+        "title": "A bálványimádó"
+      },
+      {
+        "id": "14800_14870",
+        "author": "Barsi Ödön",
+        "title": "A nevető halál"
+      },
+      {
+        "id": "21900_21995",
+        "author": "Németh Árpád",
+        "title": "A kő"
+      },
+      {
+        "id": "02300_02321",
+        "author": "Vészi Endre",
+        "title": "Az ezüst kehely"
+      },
+      {
+        "id": "15800_15812",
+        "author": "Jenei András",
+        "title": "Az enyém"
+      }
+    ]
   },
   {
     "id": "14800_14870",
@@ -355,7 +490,34 @@
         "title": "09 - 9. fejezet"
       }
     ],
-    "url": "https://mek.oszk.hu/14800/14870"
+    "url": "https://mek.oszk.hu/14800/14870",
+    "similar_books": [
+      {
+        "id": "02300_02321",
+        "author": "Vészi Endre",
+        "title": "Az ezüst kehely"
+      },
+      {
+        "id": "18700_18753",
+        "author": "Mihályi Antal",
+        "title": "Ili néni állatkertje"
+      },
+      {
+        "id": "07600_07604",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+      },
+      {
+        "id": "15600_15654",
+        "author": "Barsi Ödön",
+        "title": "A bálványimádó"
+      },
+      {
+        "id": "03000_03073",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekBaranya megye - Egyházaskozár hangja az ezredfordulón"
+      }
+    ]
   },
   {
     "id": "14500_14575",
@@ -402,7 +564,34 @@
         "title": "09 - Kilencedik fejezet: Utolsó összecsapás"
       }
     ],
-    "url": "https://mek.oszk.hu/14500/14575"
+    "url": "https://mek.oszk.hu/14500/14575",
+    "similar_books": [
+      {
+        "id": "10400_10454",
+        "author": "Gárdonyi Géza",
+        "title": "Tapasztalatok"
+      },
+      {
+        "id": "10500_10570",
+        "author": "Gárdonyi Géza",
+        "title": "Kátsa"
+      },
+      {
+        "id": "10600_10621",
+        "author": "Gárdonyi Géza",
+        "title": "No még öggyet"
+      },
+      {
+        "id": "22500_22519",
+        "author": "Gárdonyi Géza",
+        "title": "Ida regénye"
+      },
+      {
+        "id": "14800_14870",
+        "author": "Barsi Ödön",
+        "title": "A nevető halál"
+      }
+    ]
   },
   {
     "id": "14600_14697",
@@ -493,7 +682,34 @@
         "title": "20 - Epilógus"
       }
     ],
-    "url": "https://mek.oszk.hu/14600/14697"
+    "url": "https://mek.oszk.hu/14600/14697",
+    "similar_books": [
+      {
+        "id": "14500_14575",
+        "author": "Barsi Ödön",
+        "title": "Számum"
+      },
+      {
+        "id": "14800_14870",
+        "author": "Barsi Ödön",
+        "title": "A nevető halál"
+      },
+      {
+        "id": "21900_21995",
+        "author": "Németh Árpád",
+        "title": "A kő"
+      },
+      {
+        "id": "02300_02321",
+        "author": "Vészi Endre",
+        "title": "Az ezüst kehely"
+      },
+      {
+        "id": "15600_15654",
+        "author": "Barsi Ödön",
+        "title": "A bálványimádó"
+      }
+    ]
   },
   {
     "id": "14600_14695",
@@ -548,6 +764,33 @@
         "title": "11 - XI. fejezet"
       }
     ],
-    "url": "https://mek.oszk.hu/14600/14695"
+    "url": "https://mek.oszk.hu/14600/14695",
+    "similar_books": [
+      {
+        "id": "14600_14694",
+        "author": "Barsi Ödön",
+        "title": "Az álarcos fantom"
+      },
+      {
+        "id": "14800_14870",
+        "author": "Barsi Ödön",
+        "title": "A nevető halál"
+      },
+      {
+        "id": "15800_15812",
+        "author": "Jenei András",
+        "title": "Az enyém"
+      },
+      {
+        "id": "20200_20290",
+        "author": "Mihályi Antal",
+        "title": "A szkarabeusz titka"
+      },
+      {
+        "id": "15600_15654",
+        "author": "Barsi Ödön",
+        "title": "A bálványimádó"
+      }
+    ]
   }
 ]

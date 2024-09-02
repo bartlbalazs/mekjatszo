@@ -23,5 +23,32 @@
       "title": "03-Mate_G_Peter-Jozsefvaros_hercegnoje.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/19300/19312"
+  "url": "https://mek.oszk.hu/19300/19312",
+  "similar_books": [
+    {
+      "id": "15200_15201",
+      "author": "Máté G. Péter",
+      "title": "Eldobott asszony"
+    },
+    {
+      "id": "18900_18972",
+      "author": "Máté G. Péter",
+      "title": "Láthatatlan lények"
+    },
+    {
+      "id": "19500_19566",
+      "author": "Boér Péter Pál",
+      "title": "Szabályerősítő"
+    },
+    {
+      "id": "14800_14800",
+      "author": "Máté G. Péter",
+      "title": "A szakállas angyal"
+    },
+    {
+      "id": "10500_10570",
+      "author": "Gárdonyi Géza",
+      "title": "Kátsa"
+    }
+  ]
 }

@@ -12,7 +12,34 @@
         "title": "0 - Bingyó Bernyó Nekeresdországban"
       }
     ],
-    "url": "https://mek.oszk.hu/19000/19013"
+    "url": "https://mek.oszk.hu/19000/19013",
+    "similar_books": [
+      {
+        "id": "19000_19059",
+        "author": "Szente B. Levente",
+        "title": "Az ezüsthajú tündérleány"
+      },
+      {
+        "id": "19400_19476",
+        "author": "Szente B. Levente",
+        "title": "Csillagtitok"
+      },
+      {
+        "id": "19400_19472",
+        "author": "Szente B. Levente",
+        "title": "Az első éj"
+      },
+      {
+        "id": "19500_19566",
+        "author": "Boér Péter Pál",
+        "title": "Szabályerősítő"
+      },
+      {
+        "id": "19300_19341",
+        "author": "Szente B. Levente",
+        "title": "Tücsök, Zöld Manó és a többiek"
+      }
+    ]
   },
   {
     "id": "19400_19476",
@@ -475,7 +502,34 @@
         "title": "113-Szente-B-Levente-Csillagtitok.mp3 -"
       }
     ],
-    "url": "https://mek.oszk.hu/19400/19476"
+    "url": "https://mek.oszk.hu/19400/19476",
+    "similar_books": [
+      {
+        "id": "19000_19059",
+        "author": "Szente B. Levente",
+        "title": "Az ezüsthajú tündérleány"
+      },
+      {
+        "id": "19400_19472",
+        "author": "Szente B. Levente",
+        "title": "Az első éj"
+      },
+      {
+        "id": "19200_19258",
+        "author": "Szente B. Levente",
+        "title": "Tollkalitka"
+      },
+      {
+        "id": "19300_19341",
+        "author": "Szente B. Levente",
+        "title": "Tücsök, Zöld Manó és a többiek"
+      },
+      {
+        "id": "19500_19566",
+        "author": "Boér Péter Pál",
+        "title": "Szabályerősítő"
+      }
+    ]
   },
   {
     "id": "19400_19472",
@@ -570,7 +624,34 @@
         "title": "21 - (ezer év)"
       }
     ],
-    "url": "https://mek.oszk.hu/19400/19472"
+    "url": "https://mek.oszk.hu/19400/19472",
+    "similar_books": [
+      {
+        "id": "19000_19059",
+        "author": "Szente B. Levente",
+        "title": "Az ezüsthajú tündérleány"
+      },
+      {
+        "id": "19400_19476",
+        "author": "Szente B. Levente",
+        "title": "Csillagtitok"
+      },
+      {
+        "id": "02300_02321",
+        "author": "Vészi Endre",
+        "title": "Az ezüst kehely"
+      },
+      {
+        "id": "07600_07604",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+      },
+      {
+        "id": "19300_19341",
+        "author": "Szente B. Levente",
+        "title": "Tücsök, Zöld Manó és a többiek"
+      }
+    ]
   },
   {
     "id": "19000_19059",
@@ -645,7 +726,34 @@
         "title": "15 - Kacor király meséje"
       }
     ],
-    "url": "https://mek.oszk.hu/19000/19059"
+    "url": "https://mek.oszk.hu/19000/19059",
+    "similar_books": [
+      {
+        "id": "19400_19476",
+        "author": "Szente B. Levente",
+        "title": "Csillagtitok"
+      },
+      {
+        "id": "19400_19472",
+        "author": "Szente B. Levente",
+        "title": "Az első éj"
+      },
+      {
+        "id": "02300_02321",
+        "author": "Vészi Endre",
+        "title": "Az ezüst kehely"
+      },
+      {
+        "id": "07600_07604",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+      },
+      {
+        "id": "19500_19566",
+        "author": "Boér Péter Pál",
+        "title": "Szabályerősítő"
+      }
+    ]
   },
   {
     "id": "19200_19258",
@@ -876,7 +984,34 @@
         "title": "55 - Az idő ellen"
       }
     ],
-    "url": "https://mek.oszk.hu/19200/19258"
+    "url": "https://mek.oszk.hu/19200/19258",
+    "similar_books": [
+      {
+        "id": "19400_19476",
+        "author": "Szente B. Levente",
+        "title": "Csillagtitok"
+      },
+      {
+        "id": "14100_14175",
+        "author": "V. Pócsay Rozika",
+        "title": "Mélység és magasság"
+      },
+      {
+        "id": "17000_17009",
+        "author": "Lehoczki Károly",
+        "title": "Sétány a pokolban"
+      },
+      {
+        "id": "19400_19472",
+        "author": "Szente B. Levente",
+        "title": "Az első éj"
+      },
+      {
+        "id": "01800_01897",
+        "author": "Ladik Katalin",
+        "title": "Ikarosz biciklijénHangköltemények"
+      }
+    ]
   },
   {
     "id": "19300_19341",
@@ -911,6 +1046,33 @@
         "title": "06 - Hazatérés"
       }
     ],
-    "url": "https://mek.oszk.hu/19300/19341"
+    "url": "https://mek.oszk.hu/19300/19341",
+    "similar_books": [
+      {
+        "id": "19400_19476",
+        "author": "Szente B. Levente",
+        "title": "Csillagtitok"
+      },
+      {
+        "id": "19000_19059",
+        "author": "Szente B. Levente",
+        "title": "Az ezüsthajú tündérleány"
+      },
+      {
+        "id": "07600_07604",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+      },
+      {
+        "id": "19400_19472",
+        "author": "Szente B. Levente",
+        "title": "Az első éj"
+      },
+      {
+        "id": "19500_19566",
+        "author": "Boér Péter Pál",
+        "title": "Szabályerősítő"
+      }
+    ]
   }
 ]

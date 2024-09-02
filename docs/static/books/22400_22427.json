@@ -79,5 +79,32 @@
       "title": "18-Mannafelfujt_frajereknek-Manoporkolt_II.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/22400/22427"
+  "url": "https://mek.oszk.hu/22400/22427",
+  "similar_books": [
+    {
+      "id": "16100_16149",
+      "author": "Menyhei József",
+      "title": "Múltbanéző"
+    },
+    {
+      "id": "11700_11747",
+      "author": "Tar Károly",
+      "title": "Hajnalban vadnyuszik ablakom alatt"
+    },
+    {
+      "id": "02500_02568",
+      "author": "Móra Ferenc",
+      "title": "A fenyőfa alatt"
+    },
+    {
+      "id": "22600_22667",
+      "author": null,
+      "title": "Mesepelyhek"
+    },
+    {
+      "id": "23500_23596",
+      "author": "Rozványi Dávid",
+      "title": "Erdélyi útiképek"
+    }
+  ]
 }

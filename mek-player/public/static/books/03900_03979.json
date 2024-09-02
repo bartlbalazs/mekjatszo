@@ -59,5 +59,32 @@
       "title": "12 - Tizenegyedik könyv"
     }
   ],
-  "url": "https://mek.oszk.hu/03900/03979"
+  "url": "https://mek.oszk.hu/03900/03979",
+  "similar_books": [
+    {
+      "id": "03300_03384",
+      "author": "Giovanni Boccaccio",
+      "title": "Dekameron"
+    },
+    {
+      "id": "02400_02402",
+      "author": "Alexandre Dumas",
+      "title": "Korzikai testvérek ; Herminie"
+    },
+    {
+      "id": "03900_03994",
+      "author": "Gustave Flaubert",
+      "title": "Bovaryné"
+    },
+    {
+      "id": "03900_03980",
+      "author": "William Shakespeare",
+      "title": "William Shakespeare szonettjei"
+    },
+    {
+      "id": "07300_07363",
+      "author": "Gárdonyi Géza",
+      "title": "Egri csillagok"
+    }
+  ]
 }

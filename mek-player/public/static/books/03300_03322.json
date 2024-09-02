@@ -251,5 +251,32 @@
       "title": "60 - Epilógus"
     }
   ],
-  "url": "https://mek.oszk.hu/03300/03322"
+  "url": "https://mek.oszk.hu/03300/03322",
+  "similar_books": [
+    {
+      "id": "04700_04769",
+      "author": "Reményik László",
+      "title": "Kicsivel könnyebb..."
+    },
+    {
+      "id": "02700_02788",
+      "author": "Reményik László",
+      "title": "Életbajnokok"
+    },
+    {
+      "id": "04700_04770",
+      "author": "Reményik László",
+      "title": "Könnyű neked..."
+    },
+    {
+      "id": "11200_11242",
+      "author": "Gárdonyi Géza",
+      "title": "Láthatatlan ember"
+    },
+    {
+      "id": "10900_10945",
+      "author": "Kosztolányi Dezső",
+      "title": "Zsivajgó természet"
+    }
+  ]
 }

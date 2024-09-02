@@ -19,5 +19,32 @@
       "title": "03 - A fekete vitorlás gazdát cserél"
     }
   ],
-  "url": "https://mek.oszk.hu/12400/12409"
+  "url": "https://mek.oszk.hu/12400/12409",
+  "similar_books": [
+    {
+      "id": "12400_12410",
+      "author": "Nagy Károly",
+      "title": "Csempészháború"
+    },
+    {
+      "id": "12000_12058",
+      "author": "Kockás Pierre",
+      "title": "Lorre meg én"
+    },
+    {
+      "id": "16200_16225",
+      "author": "Nagy Károly",
+      "title": "A légió kísértete"
+    },
+    {
+      "id": "12000_12013",
+      "author": "Kockás Pierre",
+      "title": "Lorre meg én"
+    },
+    {
+      "id": "10200_10222",
+      "author": "Móra Ferenc",
+      "title": "Nekopogi kovács"
+    }
+  ]
 }

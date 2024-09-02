@@ -44,6 +44,33 @@
         "title": "08 - Craz: Jegenye Brúnó, a zombivadász"
       }
     ],
-    "url": "https://mek.oszk.hu/20700/20721"
+    "url": "https://mek.oszk.hu/20700/20721",
+    "similar_books": [
+      {
+        "id": "02300_02359",
+        "author": "Jókai Mór",
+        "title": "Csataképek a magyar szabadságharcból"
+      },
+      {
+        "id": "22200_22250",
+        "author": "Vidra Szabó Ferenc",
+        "title": "Uszadékfa"
+      },
+      {
+        "id": "03300_03385",
+        "author": "Móricz Zsigmond",
+        "title": "Barbárok"
+      },
+      {
+        "id": "09700_09700",
+        "author": "Jókai Mór",
+        "title": "A kőszívű ember fiai"
+      },
+      {
+        "id": "07600_07625",
+        "author": "Mikszáth Kálmán",
+        "title": "Tót atyafiak"
+      }
+    ]
   }
 ]

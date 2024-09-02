@@ -39,5 +39,32 @@
       "title": "7 - Hetedik zsoltár (67:51 min. 20,4 Mbyte)"
     }
   ],
-  "url": "https://mek.oszk.hu/03100/03168"
+  "url": "https://mek.oszk.hu/03100/03168",
+  "similar_books": [
+    {
+      "id": "02500_02595",
+      "author": "Csáth Géza",
+      "title": "Lidércálmok"
+    },
+    {
+      "id": "11300_11390",
+      "author": "Móricz Zsigmond",
+      "title": "Móricz Zsigmond válogatott művei a Nyugatból"
+    },
+    {
+      "id": "02300_02388",
+      "author": "Csáth Géza",
+      "title": "Egy elmebeteg nő naplója"
+    },
+    {
+      "id": "03100_03171",
+      "author": "Tamási Áron",
+      "title": "Vadrózsa ága"
+    },
+    {
+      "id": "22200_22239",
+      "author": "Móricz Zsigmond",
+      "title": "Árvácska"
+    }
+  ]
 }

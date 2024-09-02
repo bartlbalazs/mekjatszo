@@ -87,5 +87,32 @@
       "title": "20 - 20. rész"
     }
   ],
-  "url": "https://mek.oszk.hu/18900/18938"
+  "url": "https://mek.oszk.hu/18900/18938",
+  "similar_books": [
+    {
+      "id": "18800_18838",
+      "author": "Petőfi Sándor",
+      "title": "A helység kalapácsa"
+    },
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    },
+    {
+      "id": "19400_19476",
+      "author": "Szente B. Levente",
+      "title": "Csillagtitok"
+    },
+    {
+      "id": "24900_24935",
+      "author": "Krúdy Gyula",
+      "title": "Az élet álom"
+    },
+    {
+      "id": "17000_17009",
+      "author": "Lehoczki Károly",
+      "title": "Sétány a pokolban"
+    }
+  ]
 }

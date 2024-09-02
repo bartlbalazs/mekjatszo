@@ -79,5 +79,32 @@
       "title": "17 - Jegyzetek"
     }
   ],
-  "url": "https://mek.oszk.hu/02200/02286"
+  "url": "https://mek.oszk.hu/02200/02286",
+  "similar_books": [
+    {
+      "id": "24600_24626",
+      "author": "Rejtő Jenő",
+      "title": "Pipacs, a fenegyerek"
+    },
+    {
+      "id": "22100_22167",
+      "author": "Móricz Zsigmond",
+      "title": "Pillangó és válogatott elbeszélések"
+    },
+    {
+      "id": "03700_03741",
+      "author": "Tamási Áron",
+      "title": "Ábel az országban"
+    },
+    {
+      "id": "16100_16149",
+      "author": "Menyhei József",
+      "title": "Múltbanéző"
+    },
+    {
+      "id": "04200_04248",
+      "author": "Juhász Gyula",
+      "title": "Orbán lelke"
+    }
+  ]
 }

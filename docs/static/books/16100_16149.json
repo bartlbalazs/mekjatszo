@@ -23,5 +23,32 @@
       "title": "04_multbanezo.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/16100/16149"
+  "url": "https://mek.oszk.hu/16100/16149",
+  "similar_books": [
+    {
+      "id": "18700_18753",
+      "author": "Mihályi Antal",
+      "title": "Ili néni állatkertje"
+    },
+    {
+      "id": "22400_22427",
+      "author": null,
+      "title": "Mannafelfújt frájereknek"
+    },
+    {
+      "id": "13700_13790",
+      "author": "Jenei András",
+      "title": "Tengercseppek"
+    },
+    {
+      "id": "24600_24657",
+      "author": "Rejtő Jenő",
+      "title": "Legény a talpán"
+    },
+    {
+      "id": "22100_22188",
+      "author": "Jókai Mór",
+      "title": "És mégis mozog a föld"
+    }
+  ]
 }

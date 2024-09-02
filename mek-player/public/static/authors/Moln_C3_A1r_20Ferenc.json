@@ -52,6 +52,33 @@
         "title": "10 - X. fejezet"
       }
     ],
-    "url": "https://mek.oszk.hu/23700/23762"
+    "url": "https://mek.oszk.hu/23700/23762",
+    "similar_books": [
+      {
+        "id": "18700_18753",
+        "author": "Mihályi Antal",
+        "title": "Ili néni állatkertje"
+      },
+      {
+        "id": "19500_19566",
+        "author": "Boér Péter Pál",
+        "title": "Szabályerősítő"
+      },
+      {
+        "id": "24400_24460",
+        "author": "Móra Ferenc",
+        "title": "Az ember feje nem füge"
+      },
+      {
+        "id": "07600_07604",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+      },
+      {
+        "id": "11700_11747",
+        "author": "Tar Károly",
+        "title": "Hajnalban vadnyuszik ablakom alatt"
+      }
+    ]
   }
 ]

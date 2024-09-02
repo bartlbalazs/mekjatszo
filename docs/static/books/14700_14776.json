@@ -83,5 +83,32 @@
       "title": "19 - A szamuráj"
     }
   ],
-  "url": "https://mek.oszk.hu/14700/14776"
+  "url": "https://mek.oszk.hu/14700/14776",
+  "similar_books": [
+    {
+      "id": "13700_13790",
+      "author": "Jenei András",
+      "title": "Tengercseppek"
+    },
+    {
+      "id": "15800_15812",
+      "author": "Jenei András",
+      "title": "Az enyém"
+    },
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    },
+    {
+      "id": "13800_13810",
+      "author": "Jenei András",
+      "title": "Nyeregben a Konstantin-kereszt"
+    },
+    {
+      "id": "16100_16149",
+      "author": "Menyhei József",
+      "title": "Múltbanéző"
+    }
+  ]
 }

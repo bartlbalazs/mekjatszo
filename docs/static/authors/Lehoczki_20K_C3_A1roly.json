@@ -48,7 +48,34 @@
         "title": "10. rész"
       }
     ],
-    "url": "https://mek.oszk.hu/22300/22321"
+    "url": "https://mek.oszk.hu/22300/22321",
+    "similar_books": [
+      {
+        "id": "14600_14639",
+        "author": "Lehoczki Károly",
+        "title": "Az ismeretlen kert"
+      },
+      {
+        "id": "17000_17009",
+        "author": "Lehoczki Károly",
+        "title": "Sétány a pokolban"
+      },
+      {
+        "id": "18700_18753",
+        "author": "Mihályi Antal",
+        "title": "Ili néni állatkertje"
+      },
+      {
+        "id": "06700_06785",
+        "author": "Tar Károly",
+        "title": "Szerenád dobra, cintányérra és más ütős hangszerekreHangoskönyv"
+      },
+      {
+        "id": "19500_19501",
+        "author": "Lehoczki Károly",
+        "title": "Szobrok huzatban"
+      }
+    ]
   },
   {
     "id": "09600_09639",
@@ -271,7 +298,34 @@
         "title": "52_Aldas.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/09600/09639"
+    "url": "https://mek.oszk.hu/09600/09639",
+    "similar_books": [
+      {
+        "id": "14600_14639",
+        "author": "Lehoczki Károly",
+        "title": "Az ismeretlen kert"
+      },
+      {
+        "id": "10800_10874",
+        "author": "Lehoczki Károly",
+        "title": "Tensz"
+      },
+      {
+        "id": "11700_11747",
+        "author": "Tar Károly",
+        "title": "Hajnalban vadnyuszik ablakom alatt"
+      },
+      {
+        "id": "22300_22321",
+        "author": "Lehoczki Károly",
+        "title": "Dal a semmiből"
+      },
+      {
+        "id": "17000_17009",
+        "author": "Lehoczki Károly",
+        "title": "Sétány a pokolban"
+      }
+    ]
   },
   {
     "id": "10500_10505",
@@ -326,7 +380,34 @@
         "title": "11_hipermarket.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/10500/10505"
+    "url": "https://mek.oszk.hu/10500/10505",
+    "similar_books": [
+      {
+        "id": "14600_14639",
+        "author": "Lehoczki Károly",
+        "title": "Az ismeretlen kert"
+      },
+      {
+        "id": "03000_03082",
+        "author": "Gárdonyi Géza",
+        "title": "Az én falum"
+      },
+      {
+        "id": "09600_09639",
+        "author": "Lehoczki Károly",
+        "title": "Elgurult gyöngyök"
+      },
+      {
+        "id": "02200_02289",
+        "author": "Mikszáth Kálmán",
+        "title": "Kísértet Lublón"
+      },
+      {
+        "id": "11700_11747",
+        "author": "Tar Károly",
+        "title": "Hajnalban vadnyuszik ablakom alatt"
+      }
+    ]
   },
   {
     "id": "14600_14639",
@@ -421,7 +502,34 @@
         "title": "20_Level_a_hoba.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/14600/14639"
+    "url": "https://mek.oszk.hu/14600/14639",
+    "similar_books": [
+      {
+        "id": "19500_19501",
+        "author": "Lehoczki Károly",
+        "title": "Szobrok huzatban"
+      },
+      {
+        "id": "17000_17009",
+        "author": "Lehoczki Károly",
+        "title": "Sétány a pokolban"
+      },
+      {
+        "id": "22300_22321",
+        "author": "Lehoczki Károly",
+        "title": "Dal a semmiből"
+      },
+      {
+        "id": "24900_24935",
+        "author": "Krúdy Gyula",
+        "title": "Az élet álom"
+      },
+      {
+        "id": "18700_18753",
+        "author": "Mihályi Antal",
+        "title": "Ili néni állatkertje"
+      }
+    ]
   },
   {
     "id": "17000_17009",
@@ -604,7 +712,34 @@
         "title": "42_Toszt.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/17000/17009"
+    "url": "https://mek.oszk.hu/17000/17009",
+    "similar_books": [
+      {
+        "id": "14600_14639",
+        "author": "Lehoczki Károly",
+        "title": "Az ismeretlen kert"
+      },
+      {
+        "id": "22300_22321",
+        "author": "Lehoczki Károly",
+        "title": "Dal a semmiből"
+      },
+      {
+        "id": "24900_24935",
+        "author": "Krúdy Gyula",
+        "title": "Az élet álom"
+      },
+      {
+        "id": "19500_19501",
+        "author": "Lehoczki Károly",
+        "title": "Szobrok huzatban"
+      },
+      {
+        "id": "14100_14175",
+        "author": "V. Pócsay Rozika",
+        "title": "Mélység és magasság"
+      }
+    ]
   },
   {
     "id": "19500_19501",
@@ -647,7 +782,34 @@
         "title": "08_Bolhapiac_II_resz.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/19500/19501"
+    "url": "https://mek.oszk.hu/19500/19501",
+    "similar_books": [
+      {
+        "id": "14600_14639",
+        "author": "Lehoczki Károly",
+        "title": "Az ismeretlen kert"
+      },
+      {
+        "id": "17000_17009",
+        "author": "Lehoczki Károly",
+        "title": "Sétány a pokolban"
+      },
+      {
+        "id": "21900_21995",
+        "author": "Németh Árpád",
+        "title": "A kő"
+      },
+      {
+        "id": "22300_22321",
+        "author": "Lehoczki Károly",
+        "title": "Dal a semmiből"
+      },
+      {
+        "id": "02700_02787",
+        "author": "Reményik László",
+        "title": "Akik a sötétben is látnak"
+      }
+    ]
   },
   {
     "id": "10800_10874",
@@ -938,6 +1100,33 @@
         "title": "69_Te_vagy_csak_nekem.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/10800/10874"
+    "url": "https://mek.oszk.hu/10800/10874",
+    "similar_books": [
+      {
+        "id": "09600_09639",
+        "author": "Lehoczki Károly",
+        "title": "Elgurult gyöngyök"
+      },
+      {
+        "id": "03000_03082",
+        "author": "Gárdonyi Géza",
+        "title": "Az én falum"
+      },
+      {
+        "id": "12200_12244",
+        "author": "Komor Zoltán",
+        "title": "Fekete múzsák"
+      },
+      {
+        "id": "03300_03319",
+        "author": "Homérosz",
+        "title": "Iliász"
+      },
+      {
+        "id": "03000_03071",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekTolna megye - Váralja,Baranya megye - Zengővárkony"
+      }
+    ]
   }
 ]

@@ -59,5 +59,32 @@
       "title": "12 - 12. fejezet"
     }
   ],
-  "url": "https://mek.oszk.hu/11200/11267"
+  "url": "https://mek.oszk.hu/11200/11267",
+  "similar_books": [
+    {
+      "id": "11300_11390",
+      "author": "Móricz Zsigmond",
+      "title": "Móricz Zsigmond válogatott művei a Nyugatból"
+    },
+    {
+      "id": "24900_24935",
+      "author": "Krúdy Gyula",
+      "title": "Az élet álom"
+    },
+    {
+      "id": "22200_22239",
+      "author": "Móricz Zsigmond",
+      "title": "Árvácska"
+    },
+    {
+      "id": "09900_09914",
+      "author": "Gárdonyi Géza",
+      "title": "Göre Gábor biró úr könyve"
+    },
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    }
+  ]
 }

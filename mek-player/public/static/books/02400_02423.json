@@ -335,5 +335,32 @@
       "title": "81 - Az író utószava"
     }
   ],
-  "url": "https://mek.oszk.hu/02400/02423"
+  "url": "https://mek.oszk.hu/02400/02423",
+  "similar_books": [
+    {
+      "id": "05300_05312",
+      "author": "Mikszáth Kálmán",
+      "title": "A fekete város"
+    },
+    {
+      "id": "11200_11242",
+      "author": "Gárdonyi Géza",
+      "title": "Láthatatlan ember"
+    },
+    {
+      "id": "03300_03391",
+      "author": "Eötvös József",
+      "title": "Magyarország 1514-ben"
+    },
+    {
+      "id": "02300_02368",
+      "author": "Passuth László",
+      "title": "A bíborbanszületett"
+    },
+    {
+      "id": "03300_03319",
+      "author": "Homérosz",
+      "title": "Iliász"
+    }
+  ]
 }

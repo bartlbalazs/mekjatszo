@@ -11,5 +11,32 @@
       "title": "0 - Haiku a poggyászban"
     }
   ],
-  "url": "https://mek.oszk.hu/06200/06252"
+  "url": "https://mek.oszk.hu/06200/06252",
+  "similar_books": [
+    {
+      "id": "23700_23762",
+      "author": "Molnár Ferenc",
+      "title": "A Pál utcai fiúk"
+    },
+    {
+      "id": "17000_17009",
+      "author": "Lehoczki Károly",
+      "title": "Sétány a pokolban"
+    },
+    {
+      "id": "06600_06690",
+      "author": "Han Pál Görbicz Tamás",
+      "title": "MenekülésTotemrehívás"
+    },
+    {
+      "id": "14600_14639",
+      "author": "Lehoczki Károly",
+      "title": "Az ismeretlen kert"
+    },
+    {
+      "id": "14100_14175",
+      "author": "V. Pócsay Rozika",
+      "title": "Mélység és magasság"
+    }
+  ]
 }

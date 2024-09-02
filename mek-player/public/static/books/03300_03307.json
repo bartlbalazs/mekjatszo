@@ -111,5 +111,32 @@
       "title": "25."
     }
   ],
-  "url": "https://mek.oszk.hu/03300/03307"
+  "url": "https://mek.oszk.hu/03300/03307",
+  "similar_books": [
+    {
+      "id": "22200_22239",
+      "author": "Móricz Zsigmond",
+      "title": "Árvácska"
+    },
+    {
+      "id": "03000_03082",
+      "author": "Gárdonyi Géza",
+      "title": "Az én falum"
+    },
+    {
+      "id": "02200_02289",
+      "author": "Mikszáth Kálmán",
+      "title": "Kísértet Lublón"
+    },
+    {
+      "id": "05400_05486",
+      "author": "Móricz Zsigmond",
+      "title": "Betyár"
+    },
+    {
+      "id": "23600_23604",
+      "author": "Móricz Zsigmond",
+      "title": "Úri muri"
+    }
+  ]
 }

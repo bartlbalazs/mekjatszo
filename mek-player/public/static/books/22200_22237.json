@@ -31,5 +31,32 @@
       "title": "06. rész"
     }
   ],
-  "url": "https://mek.oszk.hu/22200/22237"
+  "url": "https://mek.oszk.hu/22200/22237",
+  "similar_books": [
+    {
+      "id": "22200_22227",
+      "author": "Mikszáth Kálmán",
+      "title": "A gavallérok"
+    },
+    {
+      "id": "02200_02289",
+      "author": "Mikszáth Kálmán",
+      "title": "Kísértet Lublón"
+    },
+    {
+      "id": "02300_02386",
+      "author": "Mikszáth Kálmán",
+      "title": "A gyerekek"
+    },
+    {
+      "id": "03700_03743",
+      "author": "Mikszáth Kálmán",
+      "title": "Szent Péter esernyője"
+    },
+    {
+      "id": "17700_17713",
+      "author": "Komor Zoltán",
+      "title": "Klitorisz-krampusz és karácsonyfa bukkake"
+    }
+  ]
 }

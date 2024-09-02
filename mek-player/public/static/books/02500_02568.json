@@ -47,5 +47,32 @@
       "title": "9 - Karácsonyi aktualitás"
     }
   ],
-  "url": "https://mek.oszk.hu/02500/02568"
+  "url": "https://mek.oszk.hu/02500/02568",
+  "similar_books": [
+    {
+      "id": "06000_06060",
+      "author": "Móra Ferenc",
+      "title": "A körtemuzsika"
+    },
+    {
+      "id": "24400_24460",
+      "author": "Móra Ferenc",
+      "title": "Az ember feje nem füge"
+    },
+    {
+      "id": "22400_22427",
+      "author": null,
+      "title": "Mannafelfújt frájereknek"
+    },
+    {
+      "id": "14600_14639",
+      "author": "Lehoczki Károly",
+      "title": "Az ismeretlen kert"
+    },
+    {
+      "id": "16100_16149",
+      "author": "Menyhei József",
+      "title": "Múltbanéző"
+    }
+  ]
 }

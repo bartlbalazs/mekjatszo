@@ -164,6 +164,33 @@
         "title": "39. rész"
       }
     ],
-    "url": "https://mek.oszk.hu/22200/22219"
+    "url": "https://mek.oszk.hu/22200/22219",
+    "similar_books": [
+      {
+        "id": "18700_18753",
+        "author": "Mihályi Antal",
+        "title": "Ili néni állatkertje"
+      },
+      {
+        "id": "06700_06785",
+        "author": "Tar Károly",
+        "title": "Szerenád dobra, cintányérra és más ütős hangszerekreHangoskönyv"
+      },
+      {
+        "id": "11200_11236",
+        "author": "Krúdy Gyula",
+        "title": "Jézuska csizmájaHangoskönyv"
+      },
+      {
+        "id": "22500_22519",
+        "author": "Gárdonyi Géza",
+        "title": "Ida regénye"
+      },
+      {
+        "id": "11700_11747",
+        "author": "Tar Károly",
+        "title": "Hajnalban vadnyuszik ablakom alatt"
+      }
+    ]
   }
 ]

@@ -35,5 +35,32 @@
       "title": "6 - Néhány sor Mikszáth Kálmánról"
     }
   ],
-  "url": "https://mek.oszk.hu/03700/03743"
+  "url": "https://mek.oszk.hu/03700/03743",
+  "similar_books": [
+    {
+      "id": "03100_03179",
+      "author": "Balázs Ferenc",
+      "title": "A rög alatt"
+    },
+    {
+      "id": "10900_10945",
+      "author": "Kosztolányi Dezső",
+      "title": "Zsivajgó természet"
+    },
+    {
+      "id": "02200_02289",
+      "author": "Mikszáth Kálmán",
+      "title": "Kísértet Lublón"
+    },
+    {
+      "id": "13800_13810",
+      "author": "Jenei András",
+      "title": "Nyeregben a Konstantin-kereszt"
+    },
+    {
+      "id": "05400_05486",
+      "author": "Móricz Zsigmond",
+      "title": "Betyár"
+    }
+  ]
 }

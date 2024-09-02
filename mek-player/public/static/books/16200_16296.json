@@ -155,5 +155,32 @@
       "title": "36-Mate_G_Peter-Csak_fuss.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/16200/16296"
+  "url": "https://mek.oszk.hu/16200/16296",
+  "similar_books": [
+    {
+      "id": "09900_09914",
+      "author": "Gárdonyi Géza",
+      "title": "Göre Gábor biró úr könyve"
+    },
+    {
+      "id": "03900_03986",
+      "author": "Mikszáth Kálmán",
+      "title": "Különös házasság"
+    },
+    {
+      "id": "22100_22166",
+      "author": "Kosztolányi Dezső",
+      "title": "Édes Anna"
+    },
+    {
+      "id": "18900_18907",
+      "author": "Nógrádi Gábor",
+      "title": "Angyali üzenet"
+    },
+    {
+      "id": "19100_19150",
+      "author": "Máté G. Péter",
+      "title": "Földönkívüliek vacsorája"
+    }
+  ]
 }

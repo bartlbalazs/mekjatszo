@@ -27,5 +27,32 @@
       "title": "4. fejezet"
     }
   ],
-  "url": "https://mek.oszk.hu/03700/03741"
+  "url": "https://mek.oszk.hu/03700/03741",
+  "similar_books": [
+    {
+      "id": "02900_02965",
+      "author": "Tamási Áron",
+      "title": "Ábel a rengetegben"
+    },
+    {
+      "id": "03700_03740",
+      "author": "Tamási Áron",
+      "title": "Ábel Amerikában"
+    },
+    {
+      "id": "11700_11747",
+      "author": "Tar Károly",
+      "title": "Hajnalban vadnyuszik ablakom alatt"
+    },
+    {
+      "id": "03100_03171",
+      "author": "Tamási Áron",
+      "title": "Vadrózsa ága"
+    },
+    {
+      "id": "06700_06785",
+      "author": "Tar Károly",
+      "title": "Szerenád dobra, cintányérra és más ütős hangszerekreHangoskönyv"
+    }
+  ]
 }

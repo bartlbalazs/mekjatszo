@@ -7,6 +7,10 @@ class AudioFile(BaseModel):
     url: str
     title: str
 
+class SimilarBook(BaseModel):
+    id: str
+    author: Optional[str] = None
+    title: str
 
 class Book(BaseModel):
     id: str
@@ -17,3 +21,4 @@ class Book(BaseModel):
     description: Optional[str] = None
     audio_files: List[AudioFile]
     url: str
+    similar_books: Optional[List[SimilarBook]] = []

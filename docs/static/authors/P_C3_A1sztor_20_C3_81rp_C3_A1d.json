@@ -68,6 +68,33 @@
         "title": "15-Pasztor_Arpad-A_Muzi.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/15300/15349"
+    "url": "https://mek.oszk.hu/15300/15349",
+    "similar_books": [
+      {
+        "id": "21900_21995",
+        "author": "Németh Árpád",
+        "title": "A kő"
+      },
+      {
+        "id": "02300_02358",
+        "author": "Jókai Mór",
+        "title": "A gazdag szegények"
+      },
+      {
+        "id": "06200_06227",
+        "author": "",
+        "title": "Folyik a híd"
+      },
+      {
+        "id": "10600_10679",
+        "author": "",
+        "title": "Magyar klasszikusok válogatott művei I."
+      },
+      {
+        "id": "02200_02289",
+        "author": "Mikszáth Kálmán",
+        "title": "Kísértet Lublón"
+      }
+    ]
   }
 ]

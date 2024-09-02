@@ -59,5 +59,32 @@
       "title": "13_martsa.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/09300/09340"
+  "url": "https://mek.oszk.hu/09300/09340",
+  "similar_books": [
+    {
+      "id": "09900_09914",
+      "author": "Gárdonyi Géza",
+      "title": "Göre Gábor biró úr könyve"
+    },
+    {
+      "id": "10400_10454",
+      "author": "Gárdonyi Géza",
+      "title": "Tapasztalatok"
+    },
+    {
+      "id": "10600_10621",
+      "author": "Gárdonyi Géza",
+      "title": "No még öggyet"
+    },
+    {
+      "id": "22500_22519",
+      "author": "Gárdonyi Géza",
+      "title": "Ida regénye"
+    },
+    {
+      "id": "09300_09387",
+      "author": "Gárdonyi Géza",
+      "title": "Bojgás az világba"
+    }
+  ]
 }

@@ -151,5 +151,32 @@
       "title": "35 - Clio vétója"
     }
   ],
-  "url": "https://mek.oszk.hu/02300/02363"
+  "url": "https://mek.oszk.hu/02300/02363",
+  "similar_books": [
+    {
+      "id": "11800_11839",
+      "author": "Végh Miki",
+      "title": "Humor-morzsák"
+    },
+    {
+      "id": "22100_22188",
+      "author": "Jókai Mór",
+      "title": "És mégis mozog a föld"
+    },
+    {
+      "id": "16100_16149",
+      "author": "Menyhei József",
+      "title": "Múltbanéző"
+    },
+    {
+      "id": "10200_10222",
+      "author": "Móra Ferenc",
+      "title": "Nekopogi kovács"
+    },
+    {
+      "id": "06000_06060",
+      "author": "Móra Ferenc",
+      "title": "A körtemuzsika"
+    }
+  ]
 }

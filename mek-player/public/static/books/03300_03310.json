@@ -67,5 +67,32 @@
       "title": "13. fejezet"
     }
   ],
-  "url": "https://mek.oszk.hu/03300/03310"
+  "url": "https://mek.oszk.hu/03300/03310",
+  "similar_books": [
+    {
+      "id": "02900_02972",
+      "author": "Benedek Elek",
+      "title": "Többsincs királyfi és más mesék"
+    },
+    {
+      "id": "03100_03179",
+      "author": "Balázs Ferenc",
+      "title": "A rög alatt"
+    },
+    {
+      "id": "02900_02971",
+      "author": "Benedek Elek",
+      "title": "Székely Tündérország"
+    },
+    {
+      "id": "03000_03082",
+      "author": "Gárdonyi Géza",
+      "title": "Az én falum"
+    },
+    {
+      "id": "03300_03321",
+      "author": "Benedek Elek",
+      "title": "Honszerző Árpád"
+    }
+  ]
 }

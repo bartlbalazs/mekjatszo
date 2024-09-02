@@ -535,5 +535,32 @@
       "title": "131 - Hetvennegyedik fejezet"
     }
   ],
-  "url": "https://mek.oszk.hu/03700/03798"
+  "url": "https://mek.oszk.hu/03700/03798",
+  "similar_books": [
+    {
+      "id": "03300_03384",
+      "author": "Giovanni Boccaccio",
+      "title": "Dekameron"
+    },
+    {
+      "id": "02700_02750",
+      "author": "Denis Diderot",
+      "title": "Az apáca"
+    },
+    {
+      "id": "03100_03166",
+      "author": "Antoine de Saint-Exupéry",
+      "title": "A kis herceg"
+    },
+    {
+      "id": "04700_04771",
+      "author": "John Milton",
+      "title": "A küzdő Sámson"
+    },
+    {
+      "id": "03900_03980",
+      "author": "William Shakespeare",
+      "title": "William Shakespeare szonettjei"
+    }
+  ]
 }

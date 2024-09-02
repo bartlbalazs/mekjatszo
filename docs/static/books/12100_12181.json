@@ -87,5 +87,32 @@
       "title": "20 - 20. fejezet"
     }
   ],
-  "url": "https://mek.oszk.hu/12100/12181"
+  "url": "https://mek.oszk.hu/12100/12181",
+  "similar_books": [
+    {
+      "id": "11700_11747",
+      "author": "Tar Károly",
+      "title": "Hajnalban vadnyuszik ablakom alatt"
+    },
+    {
+      "id": "11200_11242",
+      "author": "Gárdonyi Géza",
+      "title": "Láthatatlan ember"
+    },
+    {
+      "id": "12300_12378",
+      "author": "Rejtő Jenő",
+      "title": "A pokol zsoldosai"
+    },
+    {
+      "id": "06700_06785",
+      "author": "Tar Károly",
+      "title": "Szerenád dobra, cintányérra és más ütős hangszerekreHangoskönyv"
+    },
+    {
+      "id": "07100_07153",
+      "author": "Tornai József",
+      "title": "Villámsújtotta kor"
+    }
+  ]
 }

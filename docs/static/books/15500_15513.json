@@ -11,5 +11,32 @@
       "title": "0 - Maderspach_Viktor-Menekulesem_Erdelybol.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/15500/15513"
+  "url": "https://mek.oszk.hu/15500/15513",
+  "similar_books": [
+    {
+      "id": "16100_16149",
+      "author": "Menyhei József",
+      "title": "Múltbanéző"
+    },
+    {
+      "id": "15900_15993",
+      "author": "Maderspach Viktor",
+      "title": "Páreng - Retyezát"
+    },
+    {
+      "id": "23700_23762",
+      "author": "Molnár Ferenc",
+      "title": "A Pál utcai fiúk"
+    },
+    {
+      "id": "19500_19566",
+      "author": "Boér Péter Pál",
+      "title": "Szabályerősítő"
+    },
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    }
+  ]
 }

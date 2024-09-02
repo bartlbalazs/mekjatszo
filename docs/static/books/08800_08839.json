@@ -251,5 +251,32 @@
       "title": "61 Év vége"
     }
   ],
-  "url": "https://mek.oszk.hu/08800/08839"
+  "url": "https://mek.oszk.hu/08800/08839",
+  "similar_books": [
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    },
+    {
+      "id": "03000_03087",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekZala megye - Keménfai mesék"
+    },
+    {
+      "id": "12500_12529",
+      "author": "Gubcsi Lajos",
+      "title": "Jut eszembe... ami kimaradt"
+    },
+    {
+      "id": "09900_09914",
+      "author": "Gárdonyi Géza",
+      "title": "Göre Gábor biró úr könyve"
+    },
+    {
+      "id": "19000_19059",
+      "author": "Szente B. Levente",
+      "title": "Az ezüsthajú tündérleány"
+    }
+  ]
 }

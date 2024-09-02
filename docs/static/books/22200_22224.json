@@ -55,5 +55,32 @@
       "title": "12. rész"
     }
   ],
-  "url": "https://mek.oszk.hu/22200/22224"
+  "url": "https://mek.oszk.hu/22200/22224",
+  "similar_books": [
+    {
+      "id": "10900_10945",
+      "author": "Kosztolányi Dezső",
+      "title": "Zsivajgó természet"
+    },
+    {
+      "id": "02500_02580",
+      "author": "Kosztolányi Dezső",
+      "title": "A rossz orvos"
+    },
+    {
+      "id": "22100_22166",
+      "author": "Kosztolányi Dezső",
+      "title": "Édes Anna"
+    },
+    {
+      "id": "02500_02595",
+      "author": "Csáth Géza",
+      "title": "Lidércálmok"
+    },
+    {
+      "id": "02700_02778",
+      "author": "Bródy Sándor",
+      "title": "Az ezüst kecske ; A nap lovagja"
+    }
+  ]
 }

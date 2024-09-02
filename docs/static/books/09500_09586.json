@@ -71,5 +71,32 @@
       "title": "15_jo_palocok.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/09500/09586"
+  "url": "https://mek.oszk.hu/09500/09586",
+  "similar_books": [
+    {
+      "id": "07600_07625",
+      "author": "Mikszáth Kálmán",
+      "title": "Tót atyafiak"
+    },
+    {
+      "id": "09700_09700",
+      "author": "Jókai Mór",
+      "title": "A kőszívű ember fiai"
+    },
+    {
+      "id": "02300_02359",
+      "author": "Jókai Mór",
+      "title": "Csataképek a magyar szabadságharcból"
+    },
+    {
+      "id": "11400_11424",
+      "author": "",
+      "title": "Klasszikusok novellái a magyar szabadságharcról"
+    },
+    {
+      "id": "11700_11747",
+      "author": "Tar Károly",
+      "title": "Hajnalban vadnyuszik ablakom alatt"
+    }
+  ]
 }

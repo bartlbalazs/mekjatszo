@@ -59,5 +59,32 @@
       "title": "12 - A nap árnyéka 4. könyv"
     }
   ],
-  "url": "https://mek.oszk.hu/07500/07547"
+  "url": "https://mek.oszk.hu/07500/07547",
+  "similar_books": [
+    {
+      "id": "02300_02367",
+      "author": "Jókai Mór",
+      "title": "Törökvilág Magyarországon"
+    },
+    {
+      "id": "09400_09475",
+      "author": "Gárdonyi Géza",
+      "title": "Veszödelmek"
+    },
+    {
+      "id": "24800_24803",
+      "author": "Mikszáth Kálmán",
+      "title": "Beszterce ostroma"
+    },
+    {
+      "id": "10200_10222",
+      "author": "Móra Ferenc",
+      "title": "Nekopogi kovács"
+    },
+    {
+      "id": "23600_23604",
+      "author": "Móricz Zsigmond",
+      "title": "Úri muri"
+    }
+  ]
 }

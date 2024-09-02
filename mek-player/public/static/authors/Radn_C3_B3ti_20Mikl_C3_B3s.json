@@ -24,6 +24,33 @@
         "title": "04. rész"
       }
     ],
-    "url": "https://mek.oszk.hu/22200/22247"
+    "url": "https://mek.oszk.hu/22200/22247",
+    "similar_books": [
+      {
+        "id": "15800_15812",
+        "author": "Jenei András",
+        "title": "Az enyém"
+      },
+      {
+        "id": "02300_02386",
+        "author": "Mikszáth Kálmán",
+        "title": "A gyerekek"
+      },
+      {
+        "id": "11800_11839",
+        "author": "Végh Miki",
+        "title": "Humor-morzsák"
+      },
+      {
+        "id": "02300_02363",
+        "author": "Jókai Mór",
+        "title": "Rákóczy fia"
+      },
+      {
+        "id": "10500_10570",
+        "author": "Gárdonyi Géza",
+        "title": "Kátsa"
+      }
+    ]
   }
 ]

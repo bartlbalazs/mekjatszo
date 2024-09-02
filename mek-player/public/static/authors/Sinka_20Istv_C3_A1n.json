@@ -168,6 +168,33 @@
         "title": "39 - Utószó"
       }
     ],
-    "url": "https://mek.oszk.hu/03100/03181"
+    "url": "https://mek.oszk.hu/03100/03181",
+    "similar_books": [
+      {
+        "id": "03100_03179",
+        "author": "Balázs Ferenc",
+        "title": "A rög alatt"
+      },
+      {
+        "id": "02300_02321",
+        "author": "Vészi Endre",
+        "title": "Az ezüst kehely"
+      },
+      {
+        "id": "05300_05312",
+        "author": "Mikszáth Kálmán",
+        "title": "A fekete város"
+      },
+      {
+        "id": "03100_03171",
+        "author": "Tamási Áron",
+        "title": "Vadrózsa ága"
+      },
+      {
+        "id": "02900_02971",
+        "author": "Benedek Elek",
+        "title": "Székely Tündérország"
+      }
+    ]
   }
 ]

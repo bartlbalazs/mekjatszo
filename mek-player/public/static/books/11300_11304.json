@@ -35,5 +35,32 @@
       "title": "06 - 6. fejezet"
     }
   ],
-  "url": "https://mek.oszk.hu/11300/11304"
+  "url": "https://mek.oszk.hu/11300/11304",
+  "similar_books": [
+    {
+      "id": "16200_16225",
+      "author": "Nagy Károly",
+      "title": "A légió kísértete"
+    },
+    {
+      "id": "13800_13810",
+      "author": "Jenei András",
+      "title": "Nyeregben a Konstantin-kereszt"
+    },
+    {
+      "id": "21900_21995",
+      "author": "Németh Árpád",
+      "title": "A kő"
+    },
+    {
+      "id": "19500_19501",
+      "author": "Lehoczki Károly",
+      "title": "Szobrok huzatban"
+    },
+    {
+      "id": "12400_12409",
+      "author": "Nagy Károly",
+      "title": "Csempészháború"
+    }
+  ]
 }

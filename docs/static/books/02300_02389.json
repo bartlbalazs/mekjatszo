@@ -63,5 +63,32 @@
       "title": "13 - Advent : II. fejezet 3."
     }
   ],
-  "url": "https://mek.oszk.hu/02300/02389"
+  "url": "https://mek.oszk.hu/02300/02389",
+  "similar_books": [
+    {
+      "id": "03300_03386",
+      "author": "Henrik Ibsen",
+      "title": "A vadkacsa ; Solness építőmester"
+    },
+    {
+      "id": "03300_03310",
+      "author": "Benedek Elek",
+      "title": "Édes anyaföldem!"
+    },
+    {
+      "id": "06800_06840",
+      "author": "Madách Imre",
+      "title": "Az ember tragédiája"
+    },
+    {
+      "id": "02700_02778",
+      "author": "Bródy Sándor",
+      "title": "Az ezüst kecske ; A nap lovagja"
+    },
+    {
+      "id": "03100_03179",
+      "author": "Balázs Ferenc",
+      "title": "A rög alatt"
+    }
+  ]
 }

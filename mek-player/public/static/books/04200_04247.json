@@ -91,5 +91,32 @@
       "title": "20 - A testamentum"
     }
   ],
-  "url": "https://mek.oszk.hu/04200/04247"
+  "url": "https://mek.oszk.hu/04200/04247",
+  "similar_books": [
+    {
+      "id": "03000_03082",
+      "author": "Gárdonyi Géza",
+      "title": "Az én falum"
+    },
+    {
+      "id": "02700_02778",
+      "author": "Bródy Sándor",
+      "title": "Az ezüst kecske ; A nap lovagja"
+    },
+    {
+      "id": "03300_03386",
+      "author": "Henrik Ibsen",
+      "title": "A vadkacsa ; Solness építőmester"
+    },
+    {
+      "id": "03300_03310",
+      "author": "Benedek Elek",
+      "title": "Édes anyaföldem!"
+    },
+    {
+      "id": "02800_02800",
+      "author": "Reményik Sándor",
+      "title": "Reményik Sándor összes versei"
+    }
+  ]
 }

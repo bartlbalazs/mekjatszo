@@ -35,5 +35,32 @@
       "title": "6 - versek_3.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/01800/01895"
+  "url": "https://mek.oszk.hu/01800/01895",
+  "similar_books": [
+    {
+      "id": "01800_01897",
+      "author": "Ladik Katalin",
+      "title": "Ikarosz biciklijénHangköltemények"
+    },
+    {
+      "id": "01300_01329",
+      "author": "Ladik Katalin",
+      "title": "FűketrecHangköltemények"
+    },
+    {
+      "id": "06500_06566",
+      "author": "Kéri Katalin",
+      "title": "Karácsonyi hanganyag"
+    },
+    {
+      "id": "24900_24935",
+      "author": "Krúdy Gyula",
+      "title": "Az élet álom"
+    },
+    {
+      "id": "12500_12529",
+      "author": "Gubcsi Lajos",
+      "title": "Jut eszembe... ami kimaradt"
+    }
+  ]
 }

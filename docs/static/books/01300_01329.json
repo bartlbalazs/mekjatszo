@@ -23,5 +23,32 @@
       "title": "3 - Fűketrec 4. - fuketrec4.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/01300/01329"
+  "url": "https://mek.oszk.hu/01300/01329",
+  "similar_books": [
+    {
+      "id": "01800_01897",
+      "author": "Ladik Katalin",
+      "title": "Ikarosz biciklijénHangköltemények"
+    },
+    {
+      "id": "01800_01895",
+      "author": "Ladik Katalin",
+      "title": "Kiűzetés, JegyességHangköltemények"
+    },
+    {
+      "id": "06500_06566",
+      "author": "Kéri Katalin",
+      "title": "Karácsonyi hanganyag"
+    },
+    {
+      "id": "02300_02386",
+      "author": "Mikszáth Kálmán",
+      "title": "A gyerekek"
+    },
+    {
+      "id": "17000_17009",
+      "author": "Lehoczki Károly",
+      "title": "Sétány a pokolban"
+    }
+  ]
 }

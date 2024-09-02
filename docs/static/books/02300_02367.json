@@ -151,5 +151,32 @@
       "title": "35 - XXXIV. Az utolsó nap"
     }
   ],
-  "url": "https://mek.oszk.hu/02300/02367"
+  "url": "https://mek.oszk.hu/02300/02367",
+  "similar_books": [
+    {
+      "id": "02300_02359",
+      "author": "Jókai Mór",
+      "title": "Csataképek a magyar szabadságharcból"
+    },
+    {
+      "id": "03300_03391",
+      "author": "Eötvös József",
+      "title": "Magyarország 1514-ben"
+    },
+    {
+      "id": "02900_02965",
+      "author": "Tamási Áron",
+      "title": "Ábel a rengetegben"
+    },
+    {
+      "id": "11200_11242",
+      "author": "Gárdonyi Géza",
+      "title": "Láthatatlan ember"
+    },
+    {
+      "id": "07500_07547",
+      "author": "Móricz Zsigmond",
+      "title": "Erdély-trilógiaGéphangoskönyv"
+    }
+  ]
 }

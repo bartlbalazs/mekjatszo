@@ -123,5 +123,32 @@
       "title": "28 - Utószó"
     }
   ],
-  "url": "https://mek.oszk.hu/02400/02402"
+  "url": "https://mek.oszk.hu/02400/02402",
+  "similar_books": [
+    {
+      "id": "03100_03166",
+      "author": "Antoine de Saint-Exupéry",
+      "title": "A kis herceg"
+    },
+    {
+      "id": "10900_10945",
+      "author": "Kosztolányi Dezső",
+      "title": "Zsivajgó természet"
+    },
+    {
+      "id": "02700_02750",
+      "author": "Denis Diderot",
+      "title": "Az apáca"
+    },
+    {
+      "id": "03900_03994",
+      "author": "Gustave Flaubert",
+      "title": "Bovaryné"
+    },
+    {
+      "id": "09700_09700",
+      "author": "Jókai Mór",
+      "title": "A kőszívű ember fiai"
+    }
+  ]
 }

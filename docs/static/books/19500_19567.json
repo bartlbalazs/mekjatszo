@@ -155,5 +155,32 @@
       "title": "37 - Magyarország királyai a mohácsi vészig"
     }
   ],
-  "url": "https://mek.oszk.hu/19500/19567"
+  "url": "https://mek.oszk.hu/19500/19567",
+  "similar_books": [
+    {
+      "id": "12200_12297",
+      "author": "Gubcsi Lajos",
+      "title": "Magyar pokol - 1514"
+    },
+    {
+      "id": "10500_10519",
+      "author": "Brodarics István",
+      "title": "Igaz leírás a magyaroknak a törökökkel Mohácsnál vívott csatájáról"
+    },
+    {
+      "id": "20200_20290",
+      "author": "Mihályi Antal",
+      "title": "A szkarabeusz titka"
+    },
+    {
+      "id": "16200_16225",
+      "author": "Nagy Károly",
+      "title": "A légió kísértete"
+    },
+    {
+      "id": "13700_13793",
+      "author": "Harsányi Zsolt",
+      "title": "Mátyás király"
+    }
+  ]
 }

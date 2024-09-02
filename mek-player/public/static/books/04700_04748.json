@@ -63,5 +63,32 @@
       "title": "13 - Mikor a fülemile csattog"
     }
   ],
-  "url": "https://mek.oszk.hu/04700/04748"
+  "url": "https://mek.oszk.hu/04700/04748",
+  "similar_books": [
+    {
+      "id": "03100_03168",
+      "author": "Móricz Zsigmond",
+      "title": "Árvácska"
+    },
+    {
+      "id": "03300_03307",
+      "author": "Móricz Zsigmond",
+      "title": "Rokonok"
+    },
+    {
+      "id": "05400_05486",
+      "author": "Móricz Zsigmond",
+      "title": "Betyár"
+    },
+    {
+      "id": "03700_03743",
+      "author": "Mikszáth Kálmán",
+      "title": "Szent Péter esernyője"
+    },
+    {
+      "id": "02300_02388",
+      "author": "Csáth Géza",
+      "title": "Egy elmebeteg nő naplója"
+    }
+  ]
 }

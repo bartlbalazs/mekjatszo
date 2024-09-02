@@ -128,7 +128,34 @@
         "title": "29-Cserfes_csitri.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/12500/12534"
+    "url": "https://mek.oszk.hu/12500/12534",
+    "similar_books": [
+      {
+        "id": "11800_11839",
+        "author": "Végh Miki",
+        "title": "Humor-morzsák"
+      },
+      {
+        "id": "02300_02386",
+        "author": "Mikszáth Kálmán",
+        "title": "A gyerekek"
+      },
+      {
+        "id": "03700_03743",
+        "author": "Mikszáth Kálmán",
+        "title": "Szent Péter esernyője"
+      },
+      {
+        "id": "18700_18753",
+        "author": "Mihályi Antal",
+        "title": "Ili néni állatkertje"
+      },
+      {
+        "id": "11200_11236",
+        "author": "Krúdy Gyula",
+        "title": "Jézuska csizmájaHangoskönyv"
+      }
+    ]
   },
   {
     "id": "11800_11839",
@@ -243,6 +270,33 @@
         "title": "25_Zuhanyfulke.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/11800/11839"
+    "url": "https://mek.oszk.hu/11800/11839",
+    "similar_books": [
+      {
+        "id": "14100_14175",
+        "author": "V. Pócsay Rozika",
+        "title": "Mélység és magasság"
+      },
+      {
+        "id": "02300_02363",
+        "author": "Jókai Mór",
+        "title": "Rákóczy fia"
+      },
+      {
+        "id": "06000_06060",
+        "author": "Móra Ferenc",
+        "title": "A körtemuzsika"
+      },
+      {
+        "id": "06200_06227",
+        "author": "",
+        "title": "Folyik a híd"
+      },
+      {
+        "id": "22100_22188",
+        "author": "Jókai Mór",
+        "title": "És mégis mozog a föld"
+      }
+    ]
   }
 ]

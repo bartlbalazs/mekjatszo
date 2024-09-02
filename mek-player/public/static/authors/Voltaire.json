@@ -136,6 +136,33 @@
         "title": "31 - Harmincadik fejezet"
       }
     ],
-    "url": "https://mek.oszk.hu/03900/03981"
+    "url": "https://mek.oszk.hu/03900/03981",
+    "similar_books": [
+      {
+        "id": "04200_04247",
+        "author": "François Villon",
+        "title": "François Villon balladáiFaludy György átköltésében"
+      },
+      {
+        "id": "02700_02750",
+        "author": "Denis Diderot",
+        "title": "Az apáca"
+      },
+      {
+        "id": "12300_12378",
+        "author": "Rejtő Jenő",
+        "title": "A pokol zsoldosai"
+      },
+      {
+        "id": "04700_04771",
+        "author": "John Milton",
+        "title": "A küzdő Sámson"
+      },
+      {
+        "id": "03300_03386",
+        "author": "Henrik Ibsen",
+        "title": "A vadkacsa ; Solness építőmester"
+      }
+    ]
   }
 ]

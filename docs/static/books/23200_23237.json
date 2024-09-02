@@ -119,5 +119,32 @@
       "title": "28-Dolinay_Tamas-A_csend_mellem_ul.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/23200/23237"
+  "url": "https://mek.oszk.hu/23200/23237",
+  "similar_books": [
+    {
+      "id": "06700_06785",
+      "author": "Tar Károly",
+      "title": "Szerenád dobra, cintányérra és más ütős hangszerekreHangoskönyv"
+    },
+    {
+      "id": "24900_24935",
+      "author": "Krúdy Gyula",
+      "title": "Az élet álom"
+    },
+    {
+      "id": "18100_18152",
+      "author": "Árvay Mária",
+      "title": "Dorka-történetek"
+    },
+    {
+      "id": "03000_03087",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekZala megye - Keménfai mesék"
+    },
+    {
+      "id": "23300_23314",
+      "author": null,
+      "title": "Kató mint asszony"
+    }
+  ]
 }

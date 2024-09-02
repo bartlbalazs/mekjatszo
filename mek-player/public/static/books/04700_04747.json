@@ -103,5 +103,32 @@
       "title": "23. fejezet"
     }
   ],
-  "url": "https://mek.oszk.hu/04700/04747"
+  "url": "https://mek.oszk.hu/04700/04747",
+  "similar_books": [
+    {
+      "id": "05400_05486",
+      "author": "Móricz Zsigmond",
+      "title": "Betyár"
+    },
+    {
+      "id": "02900_02965",
+      "author": "Tamási Áron",
+      "title": "Ábel a rengetegben"
+    },
+    {
+      "id": "12300_12368",
+      "author": "Rejtő Jenő",
+      "title": "A fekete kapitány"
+    },
+    {
+      "id": "03300_03391",
+      "author": "Eötvös József",
+      "title": "Magyarország 1514-ben"
+    },
+    {
+      "id": "11200_11242",
+      "author": "Gárdonyi Géza",
+      "title": "Láthatatlan ember"
+    }
+  ]
 }

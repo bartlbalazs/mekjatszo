@@ -35,5 +35,32 @@
       "title": "05 - V. felvonás"
     }
   ],
-  "url": "https://mek.oszk.hu/06200/06233"
+  "url": "https://mek.oszk.hu/06200/06233",
+  "similar_books": [
+    {
+      "id": "03900_03980",
+      "author": "William Shakespeare",
+      "title": "William Shakespeare szonettjei"
+    },
+    {
+      "id": "16000_16079",
+      "author": "Lipcsey Emőke",
+      "title": "Sziklarajzok"
+    },
+    {
+      "id": "22100_22199",
+      "author": "Babits Mihály",
+      "title": "Halálfiai"
+    },
+    {
+      "id": "06200_06227",
+      "author": "",
+      "title": "Folyik a híd"
+    },
+    {
+      "id": "15800_15812",
+      "author": "Jenei András",
+      "title": "Az enyém"
+    }
+  ]
 }

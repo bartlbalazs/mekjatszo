@@ -107,5 +107,32 @@
       "title": "25 - 25. ének"
     }
   ],
-  "url": "https://mek.oszk.hu/03200/03295"
+  "url": "https://mek.oszk.hu/03200/03295",
+  "similar_books": [
+    {
+      "id": "03000_03087",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekZala megye - Keménfai mesék"
+    },
+    {
+      "id": "17000_17009",
+      "author": "Lehoczki Károly",
+      "title": "Sétány a pokolban"
+    },
+    {
+      "id": "14600_14639",
+      "author": "Lehoczki Károly",
+      "title": "Az ismeretlen kert"
+    },
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    },
+    {
+      "id": "11200_11267",
+      "author": "Móricz Zsigmond",
+      "title": "A szerelmes levél"
+    }
+  ]
 }

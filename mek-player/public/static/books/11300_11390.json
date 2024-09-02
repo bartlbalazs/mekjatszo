@@ -75,5 +75,32 @@
       "title": "16-Moricz_Zsigmond_valogatott_muvei - Disznótor"
     }
   ],
-  "url": "https://mek.oszk.hu/11300/11390"
+  "url": "https://mek.oszk.hu/11300/11390",
+  "similar_books": [
+    {
+      "id": "11200_11267",
+      "author": "Móricz Zsigmond",
+      "title": "A szerelmes levél"
+    },
+    {
+      "id": "03100_03168",
+      "author": "Móricz Zsigmond",
+      "title": "Árvácska"
+    },
+    {
+      "id": "23600_23604",
+      "author": "Móricz Zsigmond",
+      "title": "Úri muri"
+    },
+    {
+      "id": "22200_22239",
+      "author": "Móricz Zsigmond",
+      "title": "Árvácska"
+    },
+    {
+      "id": "22200_22211",
+      "author": "Móricz Zsigmond",
+      "title": "Kivilágos kivirradtig és két novella"
+    }
+  ]
 }

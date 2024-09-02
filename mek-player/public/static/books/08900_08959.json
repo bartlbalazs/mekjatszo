@@ -51,5 +51,32 @@
       "title": "11_az_orok_vandor.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/08900/08959"
+  "url": "https://mek.oszk.hu/08900/08959",
+  "similar_books": [
+    {
+      "id": "08900_08958",
+      "author": "NTK Horváth Sándor",
+      "title": "Már rég kihajoltak"
+    },
+    {
+      "id": "23700_23762",
+      "author": "Molnár Ferenc",
+      "title": "A Pál utcai fiúk"
+    },
+    {
+      "id": "23500_23596",
+      "author": "Rozványi Dávid",
+      "title": "Erdélyi útiképek"
+    },
+    {
+      "id": "06700_06785",
+      "author": "Tar Károly",
+      "title": "Szerenád dobra, cintányérra és más ütős hangszerekreHangoskönyv"
+    },
+    {
+      "id": "17000_17009",
+      "author": "Lehoczki Károly",
+      "title": "Sétány a pokolban"
+    }
+  ]
 }

@@ -119,5 +119,32 @@
       "title": "27_O_piscu.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/11000/11029"
+  "url": "https://mek.oszk.hu/11000/11029",
+  "similar_books": [
+    {
+      "id": "11200_11267",
+      "author": "Móricz Zsigmond",
+      "title": "A szerelmes levél"
+    },
+    {
+      "id": "13900_13959",
+      "author": "José Alexander Nogueira",
+      "title": "Nem a 8. utas a halál"
+    },
+    {
+      "id": "21900_21995",
+      "author": "Németh Árpád",
+      "title": "A kő"
+    },
+    {
+      "id": "04700_04763",
+      "author": "Németh Árpád",
+      "title": "A kamera mögül"
+    },
+    {
+      "id": "18900_18972",
+      "author": "Máté G. Péter",
+      "title": "Láthatatlan lények"
+    }
+  ]
 }

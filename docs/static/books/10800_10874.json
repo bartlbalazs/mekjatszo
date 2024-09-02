@@ -287,5 +287,32 @@
       "title": "69_Te_vagy_csak_nekem.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/10800/10874"
+  "url": "https://mek.oszk.hu/10800/10874",
+  "similar_books": [
+    {
+      "id": "09600_09639",
+      "author": "Lehoczki Károly",
+      "title": "Elgurult gyöngyök"
+    },
+    {
+      "id": "03000_03082",
+      "author": "Gárdonyi Géza",
+      "title": "Az én falum"
+    },
+    {
+      "id": "12200_12244",
+      "author": "Komor Zoltán",
+      "title": "Fekete múzsák"
+    },
+    {
+      "id": "03300_03319",
+      "author": "Homérosz",
+      "title": "Iliász"
+    },
+    {
+      "id": "03000_03071",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekTolna megye - Váralja,Baranya megye - Zengővárkony"
+    }
+  ]
 }

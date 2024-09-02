@@ -59,5 +59,32 @@
       "title": "13-Manoporkolt-hokedlival.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/12000/12080"
+  "url": "https://mek.oszk.hu/12000/12080",
+  "similar_books": [
+    {
+      "id": "03000_03093",
+      "author": "Zsoldos Péter",
+      "title": "Távoli tűz"
+    },
+    {
+      "id": "02500_02595",
+      "author": "Csáth Géza",
+      "title": "Lidércálmok"
+    },
+    {
+      "id": "14100_14175",
+      "author": "V. Pócsay Rozika",
+      "title": "Mélység és magasság"
+    },
+    {
+      "id": "09700_09700",
+      "author": "Jókai Mór",
+      "title": "A kőszívű ember fiai"
+    },
+    {
+      "id": "04700_04770",
+      "author": "Reményik László",
+      "title": "Könnyű neked..."
+    }
+  ]
 }

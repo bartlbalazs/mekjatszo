@@ -71,5 +71,32 @@
       "title": "15 - Kacor király meséje"
     }
   ],
-  "url": "https://mek.oszk.hu/19000/19059"
+  "url": "https://mek.oszk.hu/19000/19059",
+  "similar_books": [
+    {
+      "id": "19400_19476",
+      "author": "Szente B. Levente",
+      "title": "Csillagtitok"
+    },
+    {
+      "id": "19400_19472",
+      "author": "Szente B. Levente",
+      "title": "Az első éj"
+    },
+    {
+      "id": "02300_02321",
+      "author": "Vészi Endre",
+      "title": "Az ezüst kehely"
+    },
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    },
+    {
+      "id": "19500_19566",
+      "author": "Boér Péter Pál",
+      "title": "Szabályerősítő"
+    }
+  ]
 }

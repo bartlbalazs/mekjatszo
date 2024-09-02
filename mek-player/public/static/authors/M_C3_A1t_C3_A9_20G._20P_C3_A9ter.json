@@ -20,7 +20,34 @@
         "title": "02 - Egyszerű történet"
       }
     ],
-    "url": "https://mek.oszk.hu/19900/19999"
+    "url": "https://mek.oszk.hu/19900/19999",
+    "similar_books": [
+      {
+        "id": "14900_14924",
+        "author": "Máté G. Péter",
+        "title": "Lopott éjszakák"
+      },
+      {
+        "id": "18900_18972",
+        "author": "Máté G. Péter",
+        "title": "Láthatatlan lények"
+      },
+      {
+        "id": "19300_19312",
+        "author": "Máté G. Péter",
+        "title": "Józsefváros hercegnője ; Olyan, mint az egyszeregy ; Apatitok"
+      },
+      {
+        "id": "24800_24803",
+        "author": "Mikszáth Kálmán",
+        "title": "Beszterce ostroma"
+      },
+      {
+        "id": "16100_16149",
+        "author": "Menyhei József",
+        "title": "Múltbanéző"
+      }
+    ]
   },
   {
     "id": "16200_16296",
@@ -179,7 +206,34 @@
         "title": "36-Mate_G_Peter-Csak_fuss.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/16200/16296"
+    "url": "https://mek.oszk.hu/16200/16296",
+    "similar_books": [
+      {
+        "id": "09900_09914",
+        "author": "Gárdonyi Géza",
+        "title": "Göre Gábor biró úr könyve"
+      },
+      {
+        "id": "03900_03986",
+        "author": "Mikszáth Kálmán",
+        "title": "Különös házasság"
+      },
+      {
+        "id": "22100_22166",
+        "author": "Kosztolányi Dezső",
+        "title": "Édes Anna"
+      },
+      {
+        "id": "18900_18907",
+        "author": "Nógrádi Gábor",
+        "title": "Angyali üzenet"
+      },
+      {
+        "id": "19100_19150",
+        "author": "Máté G. Péter",
+        "title": "Földönkívüliek vacsorája"
+      }
+    ]
   },
   {
     "id": "15200_15201",
@@ -322,7 +376,34 @@
         "title": "32-Mate_G_Peter-Eldobott_asszony.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/15200/15201"
+    "url": "https://mek.oszk.hu/15200/15201",
+    "similar_books": [
+      {
+        "id": "19500_19566",
+        "author": "Boér Péter Pál",
+        "title": "Szabályerősítő"
+      },
+      {
+        "id": "19300_19312",
+        "author": "Máté G. Péter",
+        "title": "Józsefváros hercegnője ; Olyan, mint az egyszeregy ; Apatitok"
+      },
+      {
+        "id": "18900_18972",
+        "author": "Máté G. Péter",
+        "title": "Láthatatlan lények"
+      },
+      {
+        "id": "14800_14800",
+        "author": "Máté G. Péter",
+        "title": "A szakállas angyal"
+      },
+      {
+        "id": "02900_02972",
+        "author": "Benedek Elek",
+        "title": "Többsincs királyfi és más mesék"
+      }
+    ]
   },
   {
     "id": "19100_19150",
@@ -557,7 +638,34 @@
         "title": "55-Mate_G_Peter-Foldonkivuliek_vacsoraja.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/19100/19150"
+    "url": "https://mek.oszk.hu/19100/19150",
+    "similar_books": [
+      {
+        "id": "10400_10454",
+        "author": "Gárdonyi Géza",
+        "title": "Tapasztalatok"
+      },
+      {
+        "id": "14900_14924",
+        "author": "Máté G. Péter",
+        "title": "Lopott éjszakák"
+      },
+      {
+        "id": "21400_21457",
+        "author": "Fekete Árpád",
+        "title": "A kereszténység kritikája"
+      },
+      {
+        "id": "25200_25201",
+        "author": "Komor Zoltán",
+        "title": "Magyalország"
+      },
+      {
+        "id": "18900_18972",
+        "author": "Máté G. Péter",
+        "title": "Láthatatlan lények"
+      }
+    ]
   },
   {
     "id": "19300_19312",
@@ -584,7 +692,34 @@
         "title": "03-Mate_G_Peter-Jozsefvaros_hercegnoje.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/19300/19312"
+    "url": "https://mek.oszk.hu/19300/19312",
+    "similar_books": [
+      {
+        "id": "15200_15201",
+        "author": "Máté G. Péter",
+        "title": "Eldobott asszony"
+      },
+      {
+        "id": "18900_18972",
+        "author": "Máté G. Péter",
+        "title": "Láthatatlan lények"
+      },
+      {
+        "id": "19500_19566",
+        "author": "Boér Péter Pál",
+        "title": "Szabályerősítő"
+      },
+      {
+        "id": "14800_14800",
+        "author": "Máté G. Péter",
+        "title": "A szakállas angyal"
+      },
+      {
+        "id": "10500_10570",
+        "author": "Gárdonyi Géza",
+        "title": "Kátsa"
+      }
+    ]
   },
   {
     "id": "18900_18972",
@@ -759,7 +894,34 @@
         "title": "40-Mate_G_Peter-Lathatatlan_lenyek.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/18900/18972"
+    "url": "https://mek.oszk.hu/18900/18972",
+    "similar_books": [
+      {
+        "id": "14900_14924",
+        "author": "Máté G. Péter",
+        "title": "Lopott éjszakák"
+      },
+      {
+        "id": "19500_19566",
+        "author": "Boér Péter Pál",
+        "title": "Szabályerősítő"
+      },
+      {
+        "id": "15200_15201",
+        "author": "Máté G. Péter",
+        "title": "Eldobott asszony"
+      },
+      {
+        "id": "19300_19312",
+        "author": "Máté G. Péter",
+        "title": "Józsefváros hercegnője ; Olyan, mint az egyszeregy ; Apatitok"
+      },
+      {
+        "id": "09300_09340",
+        "author": "Gárdonyi Géza",
+        "title": "Göre Martsa lakodalma"
+      }
+    ]
   },
   {
     "id": "14900_14924",
@@ -862,7 +1024,34 @@
         "title": "22-Mate_G_Peter-Lopott_ejszakak.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/14900/14924"
+    "url": "https://mek.oszk.hu/14900/14924",
+    "similar_books": [
+      {
+        "id": "14100_14175",
+        "author": "V. Pócsay Rozika",
+        "title": "Mélység és magasság"
+      },
+      {
+        "id": "19500_19566",
+        "author": "Boér Péter Pál",
+        "title": "Szabályerősítő"
+      },
+      {
+        "id": "18900_18972",
+        "author": "Máté G. Péter",
+        "title": "Láthatatlan lények"
+      },
+      {
+        "id": "06200_06227",
+        "author": "",
+        "title": "Folyik a híd"
+      },
+      {
+        "id": "14800_14800",
+        "author": "Máté G. Péter",
+        "title": "A szakállas angyal"
+      }
+    ]
   },
   {
     "id": "14800_14800",
@@ -1009,6 +1198,33 @@
         "title": "33_Mate_G_Peter-A_szakallas_angyal.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/14800/14800"
+    "url": "https://mek.oszk.hu/14800/14800",
+    "similar_books": [
+      {
+        "id": "19500_19566",
+        "author": "Boér Péter Pál",
+        "title": "Szabályerősítő"
+      },
+      {
+        "id": "14100_14175",
+        "author": "V. Pócsay Rozika",
+        "title": "Mélység és magasság"
+      },
+      {
+        "id": "10500_10570",
+        "author": "Gárdonyi Géza",
+        "title": "Kátsa"
+      },
+      {
+        "id": "18700_18753",
+        "author": "Mihályi Antal",
+        "title": "Ili néni állatkertje"
+      },
+      {
+        "id": "09300_09340",
+        "author": "Gárdonyi Géza",
+        "title": "Göre Martsa lakodalma"
+      }
+    ]
   }
 ]

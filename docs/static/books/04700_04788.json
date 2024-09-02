@@ -551,5 +551,32 @@
       "title": "135 - Beszéljünk másról - Rájöttem valamire (05:25 min. 1,6 Mbyte)"
     }
   ],
-  "url": "https://mek.oszk.hu/04700/04788"
+  "url": "https://mek.oszk.hu/04700/04788",
+  "similar_books": [
+    {
+      "id": "19100_19144",
+      "author": "Karinthy Frigyes",
+      "title": "Tanár úr kérem"
+    },
+    {
+      "id": "09900_09914",
+      "author": "Gárdonyi Géza",
+      "title": "Göre Gábor biró úr könyve"
+    },
+    {
+      "id": "24900_24935",
+      "author": "Krúdy Gyula",
+      "title": "Az élet álom"
+    },
+    {
+      "id": "18300_18384",
+      "author": "Karinthy Frigyes",
+      "title": "100 új humoreszk"
+    },
+    {
+      "id": "14100_14175",
+      "author": "V. Pócsay Rozika",
+      "title": "Mélység és magasság"
+    }
+  ]
 }

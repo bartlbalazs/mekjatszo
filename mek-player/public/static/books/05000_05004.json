@@ -147,5 +147,32 @@
       "title": "34 - Életrajzi jegyzetek"
     }
   ],
-  "url": "https://mek.oszk.hu/05000/05004"
+  "url": "https://mek.oszk.hu/05000/05004",
+  "similar_books": [
+    {
+      "id": "06200_06227",
+      "author": "",
+      "title": "Folyik a híd"
+    },
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    },
+    {
+      "id": "06400_06439",
+      "author": "",
+      "title": "Öt magyar népmese hangillusztrációval"
+    },
+    {
+      "id": "11700_11747",
+      "author": "Tar Károly",
+      "title": "Hajnalban vadnyuszik ablakom alatt"
+    },
+    {
+      "id": "02300_02321",
+      "author": "Vészi Endre",
+      "title": "Az ezüst kehely"
+    }
+  ]
 }

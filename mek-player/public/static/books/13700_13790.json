@@ -87,5 +87,32 @@
       "title": "20 - A Koronaőr"
     }
   ],
-  "url": "https://mek.oszk.hu/13700/13790"
+  "url": "https://mek.oszk.hu/13700/13790",
+  "similar_books": [
+    {
+      "id": "10400_10454",
+      "author": "Gárdonyi Géza",
+      "title": "Tapasztalatok"
+    },
+    {
+      "id": "16100_16149",
+      "author": "Menyhei József",
+      "title": "Múltbanéző"
+    },
+    {
+      "id": "13800_13810",
+      "author": "Jenei András",
+      "title": "Nyeregben a Konstantin-kereszt"
+    },
+    {
+      "id": "15800_15812",
+      "author": "Jenei András",
+      "title": "Az enyém"
+    },
+    {
+      "id": "14700_14776",
+      "author": "Jenei András",
+      "title": "Dűneszemek Hangoskönyv"
+    }
+  ]
 }

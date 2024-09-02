@@ -23,5 +23,32 @@
       "title": "04 - Kommandósok bábszínháza"
     }
   ],
-  "url": "https://mek.oszk.hu/20000/20041"
+  "url": "https://mek.oszk.hu/20000/20041",
+  "similar_books": [
+    {
+      "id": "11400_11424",
+      "author": "",
+      "title": "Klasszikusok novellái a magyar szabadságharcról"
+    },
+    {
+      "id": "22500_22519",
+      "author": "Gárdonyi Géza",
+      "title": "Ida regénye"
+    },
+    {
+      "id": "09900_09914",
+      "author": "Gárdonyi Géza",
+      "title": "Göre Gábor biró úr könyve"
+    },
+    {
+      "id": "02300_02359",
+      "author": "Jókai Mór",
+      "title": "Csataképek a magyar szabadságharcból"
+    },
+    {
+      "id": "09700_09700",
+      "author": "Jókai Mór",
+      "title": "A kőszívű ember fiai"
+    }
+  ]
 }

@@ -84,6 +84,33 @@
         "title": "18. fejezet - A hajó visszaszerzése - hazatérés"
       }
     ],
-    "url": "https://mek.oszk.hu/02700/02751"
+    "url": "https://mek.oszk.hu/02700/02751",
+    "similar_books": [
+      {
+        "id": "03300_03384",
+        "author": "Giovanni Boccaccio",
+        "title": "Dekameron"
+      },
+      {
+        "id": "12300_12396",
+        "author": "Rejtő Jenő",
+        "title": "Az utolsó szó jogán"
+      },
+      {
+        "id": "03300_03307",
+        "author": "Móricz Zsigmond",
+        "title": "Rokonok"
+      },
+      {
+        "id": "03300_03379",
+        "author": "Emily Brontë",
+        "title": "Üvöltő szelek"
+      },
+      {
+        "id": "02300_02387",
+        "author": "Mikszáth Kálmán",
+        "title": "Jókai Mór élete és kora"
+      }
+    ]
   }
 ]

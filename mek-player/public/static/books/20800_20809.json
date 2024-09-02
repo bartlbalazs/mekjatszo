@@ -35,5 +35,32 @@
       "title": "07 - Hófüllencs Galádor"
     }
   ],
-  "url": "https://mek.oszk.hu/20800/20809"
+  "url": "https://mek.oszk.hu/20800/20809",
+  "similar_books": [
+    {
+      "id": "20800_20808",
+      "author": "Pálnagy László",
+      "title": "Digitelló Holli-Bolliában"
+    },
+    {
+      "id": "15600_15626",
+      "author": "Komor Zoltán",
+      "title": "Húgycsőbalerina"
+    },
+    {
+      "id": "09900_09914",
+      "author": "Gárdonyi Géza",
+      "title": "Göre Gábor biró úr könyve"
+    },
+    {
+      "id": "06200_06227",
+      "author": "",
+      "title": "Folyik a híd"
+    },
+    {
+      "id": "09300_09387",
+      "author": "Gárdonyi Géza",
+      "title": "Bojgás az világba"
+    }
+  ]
 }

@@ -31,5 +31,32 @@
       "title": "06-Cabe_Ferrant-A_Mars_hencegoje.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/15100/15144"
+  "url": "https://mek.oszk.hu/15100/15144",
+  "similar_books": [
+    {
+      "id": "15100_15100",
+      "author": "Cabe Ferrant",
+      "title": "A Mars szégyene"
+    },
+    {
+      "id": "15200_15299",
+      "author": "Cabe Ferrant",
+      "title": "Az álmodó rocker esete"
+    },
+    {
+      "id": "06000_06060",
+      "author": "Móra Ferenc",
+      "title": "A körtemuzsika"
+    },
+    {
+      "id": "14900_14924",
+      "author": "Máté G. Péter",
+      "title": "Lopott éjszakák"
+    },
+    {
+      "id": "24400_24460",
+      "author": "Móra Ferenc",
+      "title": "Az ember feje nem füge"
+    }
+  ]
 }

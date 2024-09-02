@@ -67,5 +67,32 @@
       "title": "15-Mesepelyhek.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/22600/22667"
+  "url": "https://mek.oszk.hu/22600/22667",
+  "similar_books": [
+    {
+      "id": "06400_06439",
+      "author": "",
+      "title": "Öt magyar népmese hangillusztrációval"
+    },
+    {
+      "id": "18900_18907",
+      "author": "Nógrádi Gábor",
+      "title": "Angyali üzenet"
+    },
+    {
+      "id": "10600_10621",
+      "author": "Gárdonyi Géza",
+      "title": "No még öggyet"
+    },
+    {
+      "id": "22400_22427",
+      "author": null,
+      "title": "Mannafelfújt frájereknek"
+    },
+    {
+      "id": "10400_10454",
+      "author": "Gárdonyi Géza",
+      "title": "Tapasztalatok"
+    }
+  ]
 }

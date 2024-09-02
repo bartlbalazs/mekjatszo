@@ -259,5 +259,32 @@
       "title": "62 - Fülszöveg"
     }
   ],
-  "url": "https://mek.oszk.hu/06000/06058"
+  "url": "https://mek.oszk.hu/06000/06058",
+  "similar_books": [
+    {
+      "id": "03300_03314",
+      "author": "Charlotte Brontë",
+      "title": "Jane Eyre"
+    },
+    {
+      "id": "03300_03379",
+      "author": "Emily Brontë",
+      "title": "Üvöltő szelek"
+    },
+    {
+      "id": "03900_03994",
+      "author": "Gustave Flaubert",
+      "title": "Bovaryné"
+    },
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    },
+    {
+      "id": "22200_22224",
+      "author": "Kosztolányi Dezső",
+      "title": "Kosztolányi Dezső összes novellája"
+    }
+  ]
 }

@@ -83,5 +83,32 @@
       "title": "18 - A kettétört kardok"
     }
   ],
-  "url": "https://mek.oszk.hu/02300/02328"
+  "url": "https://mek.oszk.hu/02300/02328",
+  "similar_books": [
+    {
+      "id": "03300_03313",
+      "author": "Jókai Mór",
+      "title": "A jövő század regénye"
+    },
+    {
+      "id": "02300_02358",
+      "author": "Jókai Mór",
+      "title": "A gazdag szegények"
+    },
+    {
+      "id": "02500_02569",
+      "author": "Jókai Mór",
+      "title": "A cigánybáró"
+    },
+    {
+      "id": "02300_02359",
+      "author": "Jókai Mór",
+      "title": "Csataképek a magyar szabadságharcból"
+    },
+    {
+      "id": "09700_09700",
+      "author": "Jókai Mór",
+      "title": "A kőszívű ember fiai"
+    }
+  ]
 }

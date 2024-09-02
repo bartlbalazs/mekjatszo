@@ -311,5 +311,32 @@
       "title": "75 - Zárszó"
     }
   ],
-  "url": "https://mek.oszk.hu/04200/04249"
+  "url": "https://mek.oszk.hu/04200/04249",
+  "similar_books": [
+    {
+      "id": "22100_22195",
+      "author": "Kosztolányi Dezső",
+      "title": "Nero, a véres költő"
+    },
+    {
+      "id": "03300_03388",
+      "author": "Publius Vergilius Maro",
+      "title": "Aeneis"
+    },
+    {
+      "id": "03900_03979",
+      "author": "Lucius Apuleius",
+      "title": "Az aranyszamár"
+    },
+    {
+      "id": "07000_07036",
+      "author": "William Shakespeare",
+      "title": "Romeo és Júlia"
+    },
+    {
+      "id": "03300_03319",
+      "author": "Homérosz",
+      "title": "Iliász"
+    }
+  ]
 }

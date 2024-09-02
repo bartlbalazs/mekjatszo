@@ -27,5 +27,32 @@
       "title": "05 - Vihar tör ki mindenféle értelemben"
     }
   ],
-  "url": "https://mek.oszk.hu/12400/12420"
+  "url": "https://mek.oszk.hu/12400/12420",
+  "similar_books": [
+    {
+      "id": "03700_03740",
+      "author": "Tamási Áron",
+      "title": "Ábel Amerikában"
+    },
+    {
+      "id": "03300_03310",
+      "author": "Benedek Elek",
+      "title": "Édes anyaföldem!"
+    },
+    {
+      "id": "12300_12368",
+      "author": "Rejtő Jenő",
+      "title": "A fekete kapitány"
+    },
+    {
+      "id": "12300_12378",
+      "author": "Rejtő Jenő",
+      "title": "A pokol zsoldosai"
+    },
+    {
+      "id": "11700_11747",
+      "author": "Tar Károly",
+      "title": "Hajnalban vadnyuszik ablakom alatt"
+    }
+  ]
 }

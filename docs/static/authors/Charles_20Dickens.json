@@ -244,6 +244,33 @@
         "title": "58 - Utószó"
       }
     ],
-    "url": "https://mek.oszk.hu/03300/03323"
+    "url": "https://mek.oszk.hu/03300/03323",
+    "similar_books": [
+      {
+        "id": "04700_04742",
+        "author": "Gilbert Keith Chesterton",
+        "title": "Brown atya botránya"
+      },
+      {
+        "id": "02900_02953",
+        "author": "Rejtő Jenő",
+        "title": "Piszkos Fred, a kapitány"
+      },
+      {
+        "id": "03100_03168",
+        "author": "Móricz Zsigmond",
+        "title": "Árvácska"
+      },
+      {
+        "id": "02300_02385",
+        "author": "Jules Verne",
+        "title": "Fekete Indiák"
+      },
+      {
+        "id": "02200_02268",
+        "author": "Petőfi Sándor",
+        "title": "A helység kalapácsa"
+      }
+    ]
   }
 ]

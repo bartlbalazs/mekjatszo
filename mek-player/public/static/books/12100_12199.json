@@ -163,5 +163,32 @@
       "title": "39 - IV. Utazás Hauhnhnm országba - 12. fejezet"
     }
   ],
-  "url": "https://mek.oszk.hu/12100/12199"
+  "url": "https://mek.oszk.hu/12100/12199",
+  "similar_books": [
+    {
+      "id": "04700_04771",
+      "author": "John Milton",
+      "title": "A küzdő Sámson"
+    },
+    {
+      "id": "14900_14924",
+      "author": "Máté G. Péter",
+      "title": "Lopott éjszakák"
+    },
+    {
+      "id": "02700_02751",
+      "author": "Daniel Defoe",
+      "title": "Robinson"
+    },
+    {
+      "id": "12300_12368",
+      "author": "Rejtő Jenő",
+      "title": "A fekete kapitány"
+    },
+    {
+      "id": "04700_04741",
+      "author": "Rudyard Kipling",
+      "title": "A maharadzsa kincse"
+    }
+  ]
 }

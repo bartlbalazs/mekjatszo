@@ -43,5 +43,32 @@
       "title": "8 - A tojás"
     }
   ],
-  "url": "https://mek.oszk.hu/05800/05893"
+  "url": "https://mek.oszk.hu/05800/05893",
+  "similar_books": [
+    {
+      "id": "03000_03087",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekZala megye - Keménfai mesék"
+    },
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    },
+    {
+      "id": "16000_16012",
+      "author": "Rejtő Jenő",
+      "title": "A boszorkánymester"
+    },
+    {
+      "id": "15800_15812",
+      "author": "Jenei András",
+      "title": "Az enyém"
+    },
+    {
+      "id": "03000_03071",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekTolna megye - Váralja,Baranya megye - Zengővárkony"
+    }
+  ]
 }

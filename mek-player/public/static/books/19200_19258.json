@@ -227,5 +227,32 @@
       "title": "55 - Az idő ellen"
     }
   ],
-  "url": "https://mek.oszk.hu/19200/19258"
+  "url": "https://mek.oszk.hu/19200/19258",
+  "similar_books": [
+    {
+      "id": "19400_19476",
+      "author": "Szente B. Levente",
+      "title": "Csillagtitok"
+    },
+    {
+      "id": "14100_14175",
+      "author": "V. Pócsay Rozika",
+      "title": "Mélység és magasság"
+    },
+    {
+      "id": "17000_17009",
+      "author": "Lehoczki Károly",
+      "title": "Sétány a pokolban"
+    },
+    {
+      "id": "19400_19472",
+      "author": "Szente B. Levente",
+      "title": "Az első éj"
+    },
+    {
+      "id": "01800_01897",
+      "author": "Ladik Katalin",
+      "title": "Ikarosz biciklijénHangköltemények"
+    }
+  ]
 }

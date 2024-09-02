@@ -59,5 +59,32 @@
       "title": "12 - KARÁCSONYI KÖSZÖNTŐ"
     }
   ],
-  "url": "https://mek.oszk.hu/07600/07604"
+  "url": "https://mek.oszk.hu/07600/07604",
+  "similar_books": [
+    {
+      "id": "03000_03087",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekZala megye - Keménfai mesék"
+    },
+    {
+      "id": "02300_02321",
+      "author": "Vészi Endre",
+      "title": "Az ezüst kehely"
+    },
+    {
+      "id": "03000_03073",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekBaranya megye - Egyházaskozár hangja az ezredfordulón"
+    },
+    {
+      "id": "24900_24935",
+      "author": "Krúdy Gyula",
+      "title": "Az élet álom"
+    },
+    {
+      "id": "03000_03071",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekTolna megye - Váralja,Baranya megye - Zengővárkony"
+    }
+  ]
 }

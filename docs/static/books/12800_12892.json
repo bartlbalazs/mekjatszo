@@ -31,5 +31,32 @@
       "title": "06 - V. fejezet"
     }
   ],
-  "url": "https://mek.oszk.hu/12800/12892"
+  "url": "https://mek.oszk.hu/12800/12892",
+  "similar_books": [
+    {
+      "id": "12000_12013",
+      "author": "Kockás Pierre",
+      "title": "Lorre meg én"
+    },
+    {
+      "id": "12000_12058",
+      "author": "Kockás Pierre",
+      "title": "Lorre meg én"
+    },
+    {
+      "id": "11900_11999",
+      "author": "Charles Lorre",
+      "title": "Ki nevet a végén?"
+    },
+    {
+      "id": "12400_12439",
+      "author": "Rejtő Jenő",
+      "title": "Halálsziget"
+    },
+    {
+      "id": "12400_12410",
+      "author": "Nagy Károly",
+      "title": "Csempészháború"
+    }
+  ]
 }

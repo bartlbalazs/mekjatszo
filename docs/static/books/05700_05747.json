@@ -55,5 +55,32 @@
       "title": "11 - Kék levél /// ugye leánka, de rosszat tettem /// Miska"
     }
   ],
-  "url": "https://mek.oszk.hu/05700/05747"
+  "url": "https://mek.oszk.hu/05700/05747",
+  "similar_books": [
+    {
+      "id": "05700_05778",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekBukovinából Magyarországra -1."
+    },
+    {
+      "id": "02900_02970",
+      "author": "Tamási Áron",
+      "title": "Bölcső és Bagoly"
+    },
+    {
+      "id": "03000_03071",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekTolna megye - Váralja,Baranya megye - Zengővárkony"
+    },
+    {
+      "id": "02600_02616",
+      "author": "Krúdy Gyula",
+      "title": "Bukfenc ; Az útitárs"
+    },
+    {
+      "id": "10500_10519",
+      "author": "Brodarics István",
+      "title": "Igaz leírás a magyaroknak a törökökkel Mohácsnál vívott csatájáról"
+    }
+  ]
 }

@@ -160,7 +160,34 @@
         "title": "38-Cabe_Ferrant-Az_almodo_rocker_esete.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/15200/15299"
+    "url": "https://mek.oszk.hu/15200/15299",
+    "similar_books": [
+      {
+        "id": "15100_15100",
+        "author": "Cabe Ferrant",
+        "title": "A Mars szégyene"
+      },
+      {
+        "id": "15100_15144",
+        "author": "Cabe Ferrant",
+        "title": "A Mars hencegője"
+      },
+      {
+        "id": "02300_02321",
+        "author": "Vészi Endre",
+        "title": "Az ezüst kehely"
+      },
+      {
+        "id": "23700_23762",
+        "author": "Molnár Ferenc",
+        "title": "A Pál utcai fiúk"
+      },
+      {
+        "id": "06000_06060",
+        "author": "Móra Ferenc",
+        "title": "A körtemuzsika"
+      }
+    ]
   },
   {
     "id": "15100_15144",
@@ -195,7 +222,34 @@
         "title": "06-Cabe_Ferrant-A_Mars_hencegoje.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/15100/15144"
+    "url": "https://mek.oszk.hu/15100/15144",
+    "similar_books": [
+      {
+        "id": "15100_15100",
+        "author": "Cabe Ferrant",
+        "title": "A Mars szégyene"
+      },
+      {
+        "id": "15200_15299",
+        "author": "Cabe Ferrant",
+        "title": "Az álmodó rocker esete"
+      },
+      {
+        "id": "06000_06060",
+        "author": "Móra Ferenc",
+        "title": "A körtemuzsika"
+      },
+      {
+        "id": "14900_14924",
+        "author": "Máté G. Péter",
+        "title": "Lopott éjszakák"
+      },
+      {
+        "id": "24400_24460",
+        "author": "Móra Ferenc",
+        "title": "Az ember feje nem füge"
+      }
+    ]
   },
   {
     "id": "15100_15100",
@@ -210,6 +264,33 @@
         "title": "0 - Cabe_Ferrant-A_Mars_szegyene.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/15100/15100"
+    "url": "https://mek.oszk.hu/15100/15100",
+    "similar_books": [
+      {
+        "id": "15100_15144",
+        "author": "Cabe Ferrant",
+        "title": "A Mars hencegője"
+      },
+      {
+        "id": "15200_15299",
+        "author": "Cabe Ferrant",
+        "title": "Az álmodó rocker esete"
+      },
+      {
+        "id": "14900_14924",
+        "author": "Máté G. Péter",
+        "title": "Lopott éjszakák"
+      },
+      {
+        "id": "06000_06060",
+        "author": "Móra Ferenc",
+        "title": "A körtemuzsika"
+      },
+      {
+        "id": "02300_02321",
+        "author": "Vészi Endre",
+        "title": "Az ezüst kehely"
+      }
+    ]
   }
 ]

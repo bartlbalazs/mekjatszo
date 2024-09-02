@@ -71,5 +71,32 @@
       "title": "16 - ...ha jó a vége!"
     }
   ],
-  "url": "https://mek.oszk.hu/20000/20040"
+  "url": "https://mek.oszk.hu/20000/20040",
+  "similar_books": [
+    {
+      "id": "19900_19901",
+      "author": "Mihályi Antal",
+      "title": "Egbert egér intézkedik"
+    },
+    {
+      "id": "19700_19760",
+      "author": "Mihályi Antal",
+      "title": "Egbert egér útrakél"
+    },
+    {
+      "id": "10500_10570",
+      "author": "Gárdonyi Géza",
+      "title": "Kátsa"
+    },
+    {
+      "id": "18700_18753",
+      "author": "Mihályi Antal",
+      "title": "Ili néni állatkertje"
+    },
+    {
+      "id": "15200_15201",
+      "author": "Máté G. Péter",
+      "title": "Eldobott asszony"
+    }
+  ]
 }

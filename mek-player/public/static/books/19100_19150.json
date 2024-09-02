@@ -231,5 +231,32 @@
       "title": "55-Mate_G_Peter-Foldonkivuliek_vacsoraja.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/19100/19150"
+  "url": "https://mek.oszk.hu/19100/19150",
+  "similar_books": [
+    {
+      "id": "10400_10454",
+      "author": "Gárdonyi Géza",
+      "title": "Tapasztalatok"
+    },
+    {
+      "id": "14900_14924",
+      "author": "Máté G. Péter",
+      "title": "Lopott éjszakák"
+    },
+    {
+      "id": "21400_21457",
+      "author": "Fekete Árpád",
+      "title": "A kereszténység kritikája"
+    },
+    {
+      "id": "25200_25201",
+      "author": "Komor Zoltán",
+      "title": "Magyalország"
+    },
+    {
+      "id": "18900_18972",
+      "author": "Máté G. Péter",
+      "title": "Láthatatlan lények"
+    }
+  ]
 }

@@ -71,5 +71,32 @@
       "title": "16. rész"
     }
   ],
-  "url": "https://mek.oszk.hu/22500/22518"
+  "url": "https://mek.oszk.hu/22500/22518",
+  "similar_books": [
+    {
+      "id": "04700_04754",
+      "author": "Gárdonyi Géza",
+      "title": "Égre néző lélek"
+    },
+    {
+      "id": "15900_15993",
+      "author": "Maderspach Viktor",
+      "title": "Páreng - Retyezát"
+    },
+    {
+      "id": "10500_10570",
+      "author": "Gárdonyi Géza",
+      "title": "Kátsa"
+    },
+    {
+      "id": "12200_12297",
+      "author": "Gubcsi Lajos",
+      "title": "Magyar pokol - 1514"
+    },
+    {
+      "id": "11200_11236",
+      "author": "Krúdy Gyula",
+      "title": "Jézuska csizmájaHangoskönyv"
+    }
+  ]
 }

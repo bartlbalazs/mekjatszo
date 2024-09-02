@@ -47,5 +47,32 @@
       "title": "9 - Második könyv 7."
     }
   ],
-  "url": "https://mek.oszk.hu/03000/03094"
+  "url": "https://mek.oszk.hu/03000/03094",
+  "similar_books": [
+    {
+      "id": "12400_12463",
+      "author": "Rejtő Jenő",
+      "title": "Vér és mahagóni"
+    },
+    {
+      "id": "11200_11236",
+      "author": "Krúdy Gyula",
+      "title": "Jézuska csizmájaHangoskönyv"
+    },
+    {
+      "id": "16200_16225",
+      "author": "Nagy Károly",
+      "title": "A légió kísértete"
+    },
+    {
+      "id": "03300_03307",
+      "author": "Móricz Zsigmond",
+      "title": "Rokonok"
+    },
+    {
+      "id": "02200_02289",
+      "author": "Mikszáth Kálmán",
+      "title": "Kísértet Lublón"
+    }
+  ]
 }

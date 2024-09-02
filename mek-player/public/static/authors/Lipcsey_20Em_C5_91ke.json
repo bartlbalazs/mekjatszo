@@ -7,6 +7,33 @@
     "cover": null,
     "description": null,
     "audio_files": [],
-    "url": "https://mek.oszk.hu/16000/16079"
+    "url": "https://mek.oszk.hu/16000/16079",
+    "similar_books": [
+      {
+        "id": "14600_14639",
+        "author": "Lehoczki Károly",
+        "title": "Az ismeretlen kert"
+      },
+      {
+        "id": "19400_19472",
+        "author": "Szente B. Levente",
+        "title": "Az első éj"
+      },
+      {
+        "id": "11200_11267",
+        "author": "Móricz Zsigmond",
+        "title": "A szerelmes levél"
+      },
+      {
+        "id": "19500_19566",
+        "author": "Boér Péter Pál",
+        "title": "Szabályerősítő"
+      },
+      {
+        "id": "19400_19476",
+        "author": "Szente B. Levente",
+        "title": "Csillagtitok"
+      }
+    ]
   }
 ]

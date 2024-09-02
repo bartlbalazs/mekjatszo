@@ -55,5 +55,32 @@
       "title": "11 - A magánzó"
     }
   ],
-  "url": "https://mek.oszk.hu/03100/03179"
+  "url": "https://mek.oszk.hu/03100/03179",
+  "similar_books": [
+    {
+      "id": "02900_02971",
+      "author": "Benedek Elek",
+      "title": "Székely Tündérország"
+    },
+    {
+      "id": "03300_03310",
+      "author": "Benedek Elek",
+      "title": "Édes anyaföldem!"
+    },
+    {
+      "id": "11200_11242",
+      "author": "Gárdonyi Géza",
+      "title": "Láthatatlan ember"
+    },
+    {
+      "id": "04700_04770",
+      "author": "Reményik László",
+      "title": "Könnyű neked..."
+    },
+    {
+      "id": "03000_03082",
+      "author": "Gárdonyi Géza",
+      "title": "Az én falum"
+    }
+  ]
 }

@@ -79,5 +79,32 @@
       "title": "18 - A becsületrend"
     }
   ],
-  "url": "https://mek.oszk.hu/12300/12378"
+  "url": "https://mek.oszk.hu/12300/12378",
+  "similar_books": [
+    {
+      "id": "02700_02778",
+      "author": "Bródy Sándor",
+      "title": "Az ezüst kecske ; A nap lovagja"
+    },
+    {
+      "id": "12300_12396",
+      "author": "Rejtő Jenő",
+      "title": "Az utolsó szó jogán"
+    },
+    {
+      "id": "09700_09700",
+      "author": "Jókai Mór",
+      "title": "A kőszívű ember fiai"
+    },
+    {
+      "id": "11700_11747",
+      "author": "Tar Károly",
+      "title": "Hajnalban vadnyuszik ablakom alatt"
+    },
+    {
+      "id": "02300_02387",
+      "author": "Mikszáth Kálmán",
+      "title": "Jókai Mór élete és kora"
+    }
+  ]
 }

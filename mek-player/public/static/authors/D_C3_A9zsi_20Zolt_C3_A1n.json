@@ -52,7 +52,34 @@
         "title": "11_Track_11.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/25100/25131"
+    "url": "https://mek.oszk.hu/25100/25131",
+    "similar_books": [
+      {
+        "id": "12500_12529",
+        "author": "Gubcsi Lajos",
+        "title": "Jut eszembe... ami kimaradt"
+      },
+      {
+        "id": "10500_10570",
+        "author": "Gárdonyi Géza",
+        "title": "Kátsa"
+      },
+      {
+        "id": "24900_24935",
+        "author": "Krúdy Gyula",
+        "title": "Az élet álom"
+      },
+      {
+        "id": "17000_17009",
+        "author": "Lehoczki Károly",
+        "title": "Sétány a pokolban"
+      },
+      {
+        "id": "09300_09387",
+        "author": "Gárdonyi Géza",
+        "title": "Bojgás az világba"
+      }
+    ]
   },
   {
     "id": "25100_25132",
@@ -163,7 +190,34 @@
         "title": "25_Track_25.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/25100/25132"
+    "url": "https://mek.oszk.hu/25100/25132",
+    "similar_books": [
+      {
+        "id": "17000_17009",
+        "author": "Lehoczki Károly",
+        "title": "Sétány a pokolban"
+      },
+      {
+        "id": "19400_19476",
+        "author": "Szente B. Levente",
+        "title": "Csillagtitok"
+      },
+      {
+        "id": "23500_23596",
+        "author": "Rozványi Dávid",
+        "title": "Erdélyi útiképek"
+      },
+      {
+        "id": "24900_24935",
+        "author": "Krúdy Gyula",
+        "title": "Az élet álom"
+      },
+      {
+        "id": "24900_24991",
+        "author": "Rozványi Dávid",
+        "title": "Felvidéki útiképek (Hangoskönyv)"
+      }
+    ]
   },
   {
     "id": "25100_25133",
@@ -274,7 +328,34 @@
         "title": "25_track_25.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/25100/25133"
+    "url": "https://mek.oszk.hu/25100/25133",
+    "similar_books": [
+      {
+        "id": "06400_06439",
+        "author": "",
+        "title": "Öt magyar népmese hangillusztrációval"
+      },
+      {
+        "id": "15200_15200",
+        "author": "Benedek Elek",
+        "title": "Válogatott mesék"
+      },
+      {
+        "id": "18000_18022",
+        "author": "Arany János",
+        "title": "Rózsa és Ibolya"
+      },
+      {
+        "id": "14000_14087",
+        "author": "Vígh Kristóf",
+        "title": "Magyar virrasztásBizánci alkonyati és napkeleti zsolozsma ősi magyar dallamokon"
+      },
+      {
+        "id": "11900_11997",
+        "author": "V. Pócsay Rozika",
+        "title": "A puding próbája"
+      }
+    ]
   },
   {
     "id": "25100_25135",
@@ -345,6 +426,33 @@
         "title": "15_track_15.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/25100/25135"
+    "url": "https://mek.oszk.hu/25100/25135",
+    "similar_books": [
+      {
+        "id": "02300_02321",
+        "author": "Vészi Endre",
+        "title": "Az ezüst kehely"
+      },
+      {
+        "id": "03000_03087",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekZala megye - Keménfai mesék"
+      },
+      {
+        "id": "06400_06439",
+        "author": "",
+        "title": "Öt magyar népmese hangillusztrációval"
+      },
+      {
+        "id": "19400_19472",
+        "author": "Szente B. Levente",
+        "title": "Az első éj"
+      },
+      {
+        "id": "25100_25133",
+        "author": "Dézsi Zoltán",
+        "title": "A drótostót meséi"
+      }
+    ]
   }
 ]

@@ -220,6 +220,33 @@
         "title": "53 - Befejezés."
       }
     ],
-    "url": "https://mek.oszk.hu/14400/14452"
+    "url": "https://mek.oszk.hu/14400/14452",
+    "similar_books": [
+      {
+        "id": "10600_10621",
+        "author": "Gárdonyi Géza",
+        "title": "No még öggyet"
+      },
+      {
+        "id": "22500_22519",
+        "author": "Gárdonyi Géza",
+        "title": "Ida regénye"
+      },
+      {
+        "id": "09900_09914",
+        "author": "Gárdonyi Géza",
+        "title": "Göre Gábor biró úr könyve"
+      },
+      {
+        "id": "06400_06439",
+        "author": "",
+        "title": "Öt magyar népmese hangillusztrációval"
+      },
+      {
+        "id": "02300_02321",
+        "author": "Vészi Endre",
+        "title": "Az ezüst kehely"
+      }
+    ]
   }
 ]

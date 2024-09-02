@@ -19,5 +19,32 @@
       "title": "02 - Egyszerű történet"
     }
   ],
-  "url": "https://mek.oszk.hu/19900/19999"
+  "url": "https://mek.oszk.hu/19900/19999",
+  "similar_books": [
+    {
+      "id": "14900_14924",
+      "author": "Máté G. Péter",
+      "title": "Lopott éjszakák"
+    },
+    {
+      "id": "18900_18972",
+      "author": "Máté G. Péter",
+      "title": "Láthatatlan lények"
+    },
+    {
+      "id": "19300_19312",
+      "author": "Máté G. Péter",
+      "title": "Józsefváros hercegnője ; Olyan, mint az egyszeregy ; Apatitok"
+    },
+    {
+      "id": "24800_24803",
+      "author": "Mikszáth Kálmán",
+      "title": "Beszterce ostroma"
+    },
+    {
+      "id": "16100_16149",
+      "author": "Menyhei József",
+      "title": "Múltbanéző"
+    }
+  ]
 }

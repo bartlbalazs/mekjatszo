@@ -35,5 +35,32 @@
       "title": "07 - Csalamádé-mikulás"
     }
   ],
-  "url": "https://mek.oszk.hu/17700/17713"
+  "url": "https://mek.oszk.hu/17700/17713",
+  "similar_books": [
+    {
+      "id": "11200_11236",
+      "author": "Krúdy Gyula",
+      "title": "Jézuska csizmájaHangoskönyv"
+    },
+    {
+      "id": "06500_06566",
+      "author": "Kéri Katalin",
+      "title": "Karácsonyi hanganyag"
+    },
+    {
+      "id": "14600_14639",
+      "author": "Lehoczki Károly",
+      "title": "Az ismeretlen kert"
+    },
+    {
+      "id": "02200_02289",
+      "author": "Mikszáth Kálmán",
+      "title": "Kísértet Lublón"
+    },
+    {
+      "id": "02300_02386",
+      "author": "Mikszáth Kálmán",
+      "title": "A gyerekek"
+    }
+  ]
 }

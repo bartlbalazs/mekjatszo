@@ -15,5 +15,32 @@
       "title": "1 - Han Pál bizonyságtétele 2. rész"
     }
   ],
-  "url": "https://mek.oszk.hu/06600/06690"
+  "url": "https://mek.oszk.hu/06600/06690",
+  "similar_books": [
+    {
+      "id": "23700_23762",
+      "author": "Molnár Ferenc",
+      "title": "A Pál utcai fiúk"
+    },
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    },
+    {
+      "id": "19500_19566",
+      "author": "Boér Péter Pál",
+      "title": "Szabályerősítő"
+    },
+    {
+      "id": "06400_06439",
+      "author": "",
+      "title": "Öt magyar népmese hangillusztrációval"
+    },
+    {
+      "id": "11900_11997",
+      "author": "V. Pócsay Rozika",
+      "title": "A puding próbája"
+    }
+  ]
 }

@@ -191,5 +191,32 @@
       "title": "45 - A nap lovagja 19."
     }
   ],
-  "url": "https://mek.oszk.hu/02700/02778"
+  "url": "https://mek.oszk.hu/02700/02778",
+  "similar_books": [
+    {
+      "id": "05400_05486",
+      "author": "Móricz Zsigmond",
+      "title": "Betyár"
+    },
+    {
+      "id": "25100_25113",
+      "author": "Krúdy Gyula",
+      "title": "Rózsa Sándor"
+    },
+    {
+      "id": "12300_12378",
+      "author": "Rejtő Jenő",
+      "title": "A pokol zsoldosai"
+    },
+    {
+      "id": "02600_02616",
+      "author": "Krúdy Gyula",
+      "title": "Bukfenc ; Az útitárs"
+    },
+    {
+      "id": "03000_03082",
+      "author": "Gárdonyi Géza",
+      "title": "Az én falum"
+    }
+  ]
 }

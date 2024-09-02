@@ -43,5 +43,32 @@
       "title": "7. rész"
     }
   ],
-  "url": "https://mek.oszk.hu/02900/02970"
+  "url": "https://mek.oszk.hu/02900/02970",
+  "similar_books": [
+    {
+      "id": "03100_03171",
+      "author": "Tamási Áron",
+      "title": "Vadrózsa ága"
+    },
+    {
+      "id": "02900_02965",
+      "author": "Tamási Áron",
+      "title": "Ábel a rengetegben"
+    },
+    {
+      "id": "03000_03082",
+      "author": "Gárdonyi Géza",
+      "title": "Az én falum"
+    },
+    {
+      "id": "11200_11242",
+      "author": "Gárdonyi Géza",
+      "title": "Láthatatlan ember"
+    },
+    {
+      "id": "11700_11747",
+      "author": "Tar Károly",
+      "title": "Hajnalban vadnyuszik ablakom alatt"
+    }
+  ]
 }

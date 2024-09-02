@@ -55,5 +55,32 @@
       "title": "11 - Fülszöveg"
     }
   ],
-  "url": "https://mek.oszk.hu/04700/04769"
+  "url": "https://mek.oszk.hu/04700/04769",
+  "similar_books": [
+    {
+      "id": "03300_03322",
+      "author": "Reményik László",
+      "title": "Ezermester kutyák"
+    },
+    {
+      "id": "04700_04770",
+      "author": "Reményik László",
+      "title": "Könnyű neked..."
+    },
+    {
+      "id": "02700_02788",
+      "author": "Reményik László",
+      "title": "Életbajnokok"
+    },
+    {
+      "id": "02500_02581",
+      "author": "Kosztolányi Dezső",
+      "title": "Pacsirta"
+    },
+    {
+      "id": "10900_10945",
+      "author": "Kosztolányi Dezső",
+      "title": "Zsivajgó természet"
+    }
+  ]
 }

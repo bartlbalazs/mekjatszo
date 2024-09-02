@@ -99,5 +99,32 @@
       "title": "22 - Firtos"
     }
   ],
-  "url": "https://mek.oszk.hu/02900/02971"
+  "url": "https://mek.oszk.hu/02900/02971",
+  "similar_books": [
+    {
+      "id": "03100_03179",
+      "author": "Balázs Ferenc",
+      "title": "A rög alatt"
+    },
+    {
+      "id": "03300_03310",
+      "author": "Benedek Elek",
+      "title": "Édes anyaföldem!"
+    },
+    {
+      "id": "02900_02972",
+      "author": "Benedek Elek",
+      "title": "Többsincs királyfi és más mesék"
+    },
+    {
+      "id": "11200_11242",
+      "author": "Gárdonyi Géza",
+      "title": "Láthatatlan ember"
+    },
+    {
+      "id": "09900_09931",
+      "author": "Móra Ferenc",
+      "title": "Kincskereső kisködmön"
+    }
+  ]
 }

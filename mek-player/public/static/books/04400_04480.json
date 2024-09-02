@@ -23,5 +23,32 @@
       "title": "3. rész"
     }
   ],
-  "url": "https://mek.oszk.hu/04400/04480"
+  "url": "https://mek.oszk.hu/04400/04480",
+  "similar_books": [
+    {
+      "id": "03300_03385",
+      "author": "Móricz Zsigmond",
+      "title": "Barbárok"
+    },
+    {
+      "id": "02500_02595",
+      "author": "Csáth Géza",
+      "title": "Lidércálmok"
+    },
+    {
+      "id": "02300_02388",
+      "author": "Csáth Géza",
+      "title": "Egy elmebeteg nő naplója"
+    },
+    {
+      "id": "02300_02364",
+      "author": "",
+      "title": "Kalevala"
+    },
+    {
+      "id": "09700_09700",
+      "author": "Jókai Mór",
+      "title": "A kőszívű ember fiai"
+    }
+  ]
 }

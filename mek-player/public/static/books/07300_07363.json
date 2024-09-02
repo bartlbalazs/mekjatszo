@@ -403,5 +403,32 @@
       "title": "98 - Jegyzetek, névsor"
     }
   ],
-  "url": "https://mek.oszk.hu/07300/07363"
+  "url": "https://mek.oszk.hu/07300/07363",
+  "similar_books": [
+    {
+      "id": "09100_09129",
+      "author": "Gárdonyi Géza",
+      "title": "Egri csillagok"
+    },
+    {
+      "id": "04700_04754",
+      "author": "Gárdonyi Géza",
+      "title": "Égre néző lélek"
+    },
+    {
+      "id": "11200_11242",
+      "author": "Gárdonyi Géza",
+      "title": "Láthatatlan ember"
+    },
+    {
+      "id": "02300_02358",
+      "author": "Jókai Mór",
+      "title": "A gazdag szegények"
+    },
+    {
+      "id": "03000_03082",
+      "author": "Gárdonyi Géza",
+      "title": "Az én falum"
+    }
+  ]
 }

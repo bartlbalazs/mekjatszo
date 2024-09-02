@@ -179,5 +179,32 @@
       "title": "42_Toszt.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/17000/17009"
+  "url": "https://mek.oszk.hu/17000/17009",
+  "similar_books": [
+    {
+      "id": "14600_14639",
+      "author": "Lehoczki Károly",
+      "title": "Az ismeretlen kert"
+    },
+    {
+      "id": "22300_22321",
+      "author": "Lehoczki Károly",
+      "title": "Dal a semmiből"
+    },
+    {
+      "id": "24900_24935",
+      "author": "Krúdy Gyula",
+      "title": "Az élet álom"
+    },
+    {
+      "id": "19500_19501",
+      "author": "Lehoczki Károly",
+      "title": "Szobrok huzatban"
+    },
+    {
+      "id": "14100_14175",
+      "author": "V. Pócsay Rozika",
+      "title": "Mélység és magasság"
+    }
+  ]
 }

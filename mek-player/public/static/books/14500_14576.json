@@ -15,5 +15,32 @@
       "title": "02 - Második rész"
     }
   ],
-  "url": "https://mek.oszk.hu/14500/14576"
+  "url": "https://mek.oszk.hu/14500/14576",
+  "similar_books": [
+    {
+      "id": "14500_14575",
+      "author": "Barsi Ödön",
+      "title": "Számum"
+    },
+    {
+      "id": "15600_15654",
+      "author": "Barsi Ödön",
+      "title": "A bálványimádó"
+    },
+    {
+      "id": "14600_14696",
+      "author": "Barsi Ödön",
+      "title": "A Bolingbroke kastély kisértete"
+    },
+    {
+      "id": "16200_16225",
+      "author": "Nagy Károly",
+      "title": "A légió kísértete"
+    },
+    {
+      "id": "14800_14870",
+      "author": "Barsi Ödön",
+      "title": "A nevető halál"
+    }
+  ]
 }

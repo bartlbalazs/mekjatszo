@@ -83,5 +83,32 @@
       "title": "19. rész"
     }
   ],
-  "url": "https://mek.oszk.hu/22100/22166"
+  "url": "https://mek.oszk.hu/22100/22166",
+  "similar_books": [
+    {
+      "id": "18700_18753",
+      "author": "Mihályi Antal",
+      "title": "Ili néni állatkertje"
+    },
+    {
+      "id": "10900_10945",
+      "author": "Kosztolányi Dezső",
+      "title": "Zsivajgó természet"
+    },
+    {
+      "id": "22200_22224",
+      "author": "Kosztolányi Dezső",
+      "title": "Kosztolányi Dezső összes novellája"
+    },
+    {
+      "id": "05300_05354",
+      "author": "Jókai Anna",
+      "title": "Ne féljetek"
+    },
+    {
+      "id": "02500_02580",
+      "author": "Kosztolányi Dezső",
+      "title": "A rossz orvos"
+    }
+  ]
 }

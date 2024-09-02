@@ -67,5 +67,32 @@
       "title": "15 - A szegényember és a halál"
     }
   ],
-  "url": "https://mek.oszk.hu/15200/15200"
+  "url": "https://mek.oszk.hu/15200/15200",
+  "similar_books": [
+    {
+      "id": "06400_06439",
+      "author": "",
+      "title": "Öt magyar népmese hangillusztrációval"
+    },
+    {
+      "id": "02300_02321",
+      "author": "Vészi Endre",
+      "title": "Az ezüst kehely"
+    },
+    {
+      "id": "18900_18907",
+      "author": "Nógrádi Gábor",
+      "title": "Angyali üzenet"
+    },
+    {
+      "id": "02900_02972",
+      "author": "Benedek Elek",
+      "title": "Többsincs királyfi és más mesék"
+    },
+    {
+      "id": "22100_22163",
+      "author": "Arany László",
+      "title": "Válogatás Arany László Magyar népmesék című gyűjteményéből"
+    }
+  ]
 }

@@ -87,5 +87,32 @@
       "title": "19 - Vay Sándor: Nincs Szirmay"
     }
   ],
-  "url": "https://mek.oszk.hu/11400/11424"
+  "url": "https://mek.oszk.hu/11400/11424",
+  "similar_books": [
+    {
+      "id": "09800_09885",
+      "author": "",
+      "title": "A szív árnyaiHangoskönyv"
+    },
+    {
+      "id": "11700_11747",
+      "author": "Tar Károly",
+      "title": "Hajnalban vadnyuszik ablakom alatt"
+    },
+    {
+      "id": "07600_07625",
+      "author": "Mikszáth Kálmán",
+      "title": "Tót atyafiak"
+    },
+    {
+      "id": "09500_09586",
+      "author": "Mikszáth Kálmán",
+      "title": "A jó palócok"
+    },
+    {
+      "id": "14100_14175",
+      "author": "V. Pócsay Rozika",
+      "title": "Mélység és magasság"
+    }
+  ]
 }

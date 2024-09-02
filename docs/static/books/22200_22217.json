@@ -23,5 +23,32 @@
       "title": "04. rész"
     }
   ],
-  "url": "https://mek.oszk.hu/22200/22217"
+  "url": "https://mek.oszk.hu/22200/22217",
+  "similar_books": [
+    {
+      "id": "08700_08789",
+      "author": "Petőfi Sándor",
+      "title": "János vitéz"
+    },
+    {
+      "id": "19100_19149",
+      "author": "Petőfi Sándor",
+      "title": "János vitéz"
+    },
+    {
+      "id": "15200_15201",
+      "author": "Máté G. Péter",
+      "title": "Eldobott asszony"
+    },
+    {
+      "id": "02200_02268",
+      "author": "Petőfi Sándor",
+      "title": "A helység kalapácsa"
+    },
+    {
+      "id": "18800_18838",
+      "author": "Petőfi Sándor",
+      "title": "A helység kalapácsa"
+    }
+  ]
 }

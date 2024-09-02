@@ -87,5 +87,32 @@
       "title": "20_pesti.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/09300/09361"
+  "url": "https://mek.oszk.hu/09300/09361",
+  "similar_books": [
+    {
+      "id": "10600_10621",
+      "author": "Gárdonyi Géza",
+      "title": "No még öggyet"
+    },
+    {
+      "id": "09900_09914",
+      "author": "Gárdonyi Géza",
+      "title": "Göre Gábor biró úr könyve"
+    },
+    {
+      "id": "22500_22519",
+      "author": "Gárdonyi Géza",
+      "title": "Ida regénye"
+    },
+    {
+      "id": "09300_09387",
+      "author": "Gárdonyi Géza",
+      "title": "Bojgás az világba"
+    },
+    {
+      "id": "04700_04754",
+      "author": "Gárdonyi Géza",
+      "title": "Égre néző lélek"
+    }
+  ]
 }

@@ -139,5 +139,32 @@
       "title": "32 - Az audencia"
     }
   ],
-  "url": "https://mek.oszk.hu/02600/02651"
+  "url": "https://mek.oszk.hu/02600/02651",
+  "similar_books": [
+    {
+      "id": "03300_03380",
+      "author": "Thomas Mann",
+      "title": "A varázshegy"
+    },
+    {
+      "id": "02300_02388",
+      "author": "Csáth Géza",
+      "title": "Egy elmebeteg nő naplója"
+    },
+    {
+      "id": "02400_02402",
+      "author": "Alexandre Dumas",
+      "title": "Korzikai testvérek ; Herminie"
+    },
+    {
+      "id": "02300_02358",
+      "author": "Jókai Mór",
+      "title": "A gazdag szegények"
+    },
+    {
+      "id": "22400_22439",
+      "author": "Thomas a Kempis",
+      "title": "Krisztus követése"
+    }
+  ]
 }

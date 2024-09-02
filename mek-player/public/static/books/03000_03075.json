@@ -59,5 +59,32 @@
       "title": "87 - 12. fejezet"
     }
   ],
-  "url": "https://mek.oszk.hu/03000/03075"
+  "url": "https://mek.oszk.hu/03000/03075",
+  "similar_books": [
+    {
+      "id": "12300_12378",
+      "author": "Rejtő Jenő",
+      "title": "A pokol zsoldosai"
+    },
+    {
+      "id": "09900_09931",
+      "author": "Móra Ferenc",
+      "title": "Kincskereső kisködmön"
+    },
+    {
+      "id": "02500_02580",
+      "author": "Kosztolányi Dezső",
+      "title": "A rossz orvos"
+    },
+    {
+      "id": "02300_02358",
+      "author": "Jókai Mór",
+      "title": "A gazdag szegények"
+    },
+    {
+      "id": "02300_02377",
+      "author": "Ottlik Géza",
+      "title": "Próza"
+    }
+  ]
 }

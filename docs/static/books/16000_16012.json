@@ -51,5 +51,32 @@
       "title": "11 - Wallenstein főorvos 12 menetben a halállal"
     }
   ],
-  "url": "https://mek.oszk.hu/16000/16012"
+  "url": "https://mek.oszk.hu/16000/16012",
+  "similar_books": [
+    {
+      "id": "15800_15812",
+      "author": "Jenei András",
+      "title": "Az enyém"
+    },
+    {
+      "id": "03100_03179",
+      "author": "Balázs Ferenc",
+      "title": "A rög alatt"
+    },
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    },
+    {
+      "id": "02300_02321",
+      "author": "Vészi Endre",
+      "title": "Az ezüst kehely"
+    },
+    {
+      "id": "12400_12421",
+      "author": "Rejtő Jenő",
+      "title": "Trópusi pokol"
+    }
+  ]
 }

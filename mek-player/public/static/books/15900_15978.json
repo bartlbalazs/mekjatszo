@@ -91,5 +91,32 @@
       "title": "21 - II. rész - Terbanks megőrül"
     }
   ],
-  "url": "https://mek.oszk.hu/15900/15978"
+  "url": "https://mek.oszk.hu/15900/15978",
+  "similar_books": [
+    {
+      "id": "10400_10454",
+      "author": "Gárdonyi Géza",
+      "title": "Tapasztalatok"
+    },
+    {
+      "id": "09400_09475",
+      "author": "Gárdonyi Géza",
+      "title": "Veszödelmek"
+    },
+    {
+      "id": "21400_21457",
+      "author": "Fekete Árpád",
+      "title": "A kereszténység kritikája"
+    },
+    {
+      "id": "22200_22243",
+      "author": "Kosztolányi Dezső",
+      "title": "Pacsirta"
+    },
+    {
+      "id": "17000_17009",
+      "author": "Lehoczki Károly",
+      "title": "Sétány a pokolban"
+    }
+  ]
 }

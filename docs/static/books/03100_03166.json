@@ -123,5 +123,32 @@
       "title": "27. fejezet"
     }
   ],
-  "url": "https://mek.oszk.hu/03100/03166"
+  "url": "https://mek.oszk.hu/03100/03166",
+  "similar_books": [
+    {
+      "id": "02400_02402",
+      "author": "Alexandre Dumas",
+      "title": "Korzikai testvérek ; Herminie"
+    },
+    {
+      "id": "02700_02750",
+      "author": "Denis Diderot",
+      "title": "Az apáca"
+    },
+    {
+      "id": "02500_02595",
+      "author": "Csáth Géza",
+      "title": "Lidércálmok"
+    },
+    {
+      "id": "22200_22224",
+      "author": "Kosztolányi Dezső",
+      "title": "Kosztolányi Dezső összes novellája"
+    },
+    {
+      "id": "03000_03087",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekZala megye - Keménfai mesék"
+    }
+  ]
 }

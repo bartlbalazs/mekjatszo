@@ -75,5 +75,32 @@
       "title": "21 pont a fizikusokhoz"
     }
   ],
-  "url": "https://mek.oszk.hu/03100/03180"
+  "url": "https://mek.oszk.hu/03100/03180",
+  "similar_books": [
+    {
+      "id": "03300_03386",
+      "author": "Henrik Ibsen",
+      "title": "A vadkacsa ; Solness építőmester"
+    },
+    {
+      "id": "04700_04787",
+      "author": "Juhász Gyula",
+      "title": "Szakállszárító"
+    },
+    {
+      "id": "02300_02388",
+      "author": "Csáth Géza",
+      "title": "Egy elmebeteg nő naplója"
+    },
+    {
+      "id": "02300_02389",
+      "author": "Füst Milán",
+      "title": "Advent"
+    },
+    {
+      "id": "02700_02750",
+      "author": "Denis Diderot",
+      "title": "Az apáca"
+    }
+  ]
 }

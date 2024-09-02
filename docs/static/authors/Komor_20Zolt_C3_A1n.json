@@ -48,7 +48,34 @@
         "title": "10-Fekete_muzsak.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/12200/12244"
+    "url": "https://mek.oszk.hu/12200/12244",
+    "similar_books": [
+      {
+        "id": "11700_11747",
+        "author": "Tar Károly",
+        "title": "Hajnalban vadnyuszik ablakom alatt"
+      },
+      {
+        "id": "04700_04770",
+        "author": "Reményik László",
+        "title": "Könnyű neked..."
+      },
+      {
+        "id": "09700_09700",
+        "author": "Jókai Mór",
+        "title": "A kőszívű ember fiai"
+      },
+      {
+        "id": "03100_03179",
+        "author": "Balázs Ferenc",
+        "title": "A rög alatt"
+      },
+      {
+        "id": "25200_25201",
+        "author": "Komor Zoltán",
+        "title": "Magyalország"
+      }
+    ]
   },
   {
     "id": "15600_15626",
@@ -63,7 +90,34 @@
         "title": "0 - Komor-Zoltan-Hugycsobalerina.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/15600/15626"
+    "url": "https://mek.oszk.hu/15600/15626",
+    "similar_books": [
+      {
+        "id": "17700_17713",
+        "author": "Komor Zoltán",
+        "title": "Klitorisz-krampusz és karácsonyfa bukkake"
+      },
+      {
+        "id": "14600_14639",
+        "author": "Lehoczki Károly",
+        "title": "Az ismeretlen kert"
+      },
+      {
+        "id": "09300_09387",
+        "author": "Gárdonyi Géza",
+        "title": "Bojgás az világba"
+      },
+      {
+        "id": "06700_06785",
+        "author": "Tar Károly",
+        "title": "Szerenád dobra, cintányérra és más ütős hangszerekreHangoskönyv"
+      },
+      {
+        "id": "10600_10621",
+        "author": "Gárdonyi Géza",
+        "title": "No még öggyet"
+      }
+    ]
   },
   {
     "id": "17700_17713",
@@ -102,7 +156,34 @@
         "title": "07 - Csalamádé-mikulás"
       }
     ],
-    "url": "https://mek.oszk.hu/17700/17713"
+    "url": "https://mek.oszk.hu/17700/17713",
+    "similar_books": [
+      {
+        "id": "11200_11236",
+        "author": "Krúdy Gyula",
+        "title": "Jézuska csizmájaHangoskönyv"
+      },
+      {
+        "id": "06500_06566",
+        "author": "Kéri Katalin",
+        "title": "Karácsonyi hanganyag"
+      },
+      {
+        "id": "14600_14639",
+        "author": "Lehoczki Károly",
+        "title": "Az ismeretlen kert"
+      },
+      {
+        "id": "02200_02289",
+        "author": "Mikszáth Kálmán",
+        "title": "Kísértet Lublón"
+      },
+      {
+        "id": "02300_02386",
+        "author": "Mikszáth Kálmán",
+        "title": "A gyerekek"
+      }
+    ]
   },
   {
     "id": "25200_25201",
@@ -165,6 +246,33 @@
         "title": "13 - 13. Epilógus"
       }
     ],
-    "url": "https://mek.oszk.hu/25200/25201"
+    "url": "https://mek.oszk.hu/25200/25201",
+    "similar_books": [
+      {
+        "id": "17700_17713",
+        "author": "Komor Zoltán",
+        "title": "Klitorisz-krampusz és karácsonyfa bukkake"
+      },
+      {
+        "id": "11200_11236",
+        "author": "Krúdy Gyula",
+        "title": "Jézuska csizmájaHangoskönyv"
+      },
+      {
+        "id": "12200_12244",
+        "author": "Komor Zoltán",
+        "title": "Fekete múzsák"
+      },
+      {
+        "id": "06700_06785",
+        "author": "Tar Károly",
+        "title": "Szerenád dobra, cintányérra és más ütős hangszerekreHangoskönyv"
+      },
+      {
+        "id": "18900_18907",
+        "author": "Nógrádi Gábor",
+        "title": "Angyali üzenet"
+      }
+    ]
   }
 ]

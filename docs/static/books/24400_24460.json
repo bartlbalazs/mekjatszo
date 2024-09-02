@@ -139,5 +139,32 @@
       "title": "32 - Babonaság-bolondság"
     }
   ],
-  "url": "https://mek.oszk.hu/24400/24460"
+  "url": "https://mek.oszk.hu/24400/24460",
+  "similar_books": [
+    {
+      "id": "06000_06060",
+      "author": "Móra Ferenc",
+      "title": "A körtemuzsika"
+    },
+    {
+      "id": "02500_02568",
+      "author": "Móra Ferenc",
+      "title": "A fenyőfa alatt"
+    },
+    {
+      "id": "23700_23762",
+      "author": "Molnár Ferenc",
+      "title": "A Pál utcai fiúk"
+    },
+    {
+      "id": "02300_02321",
+      "author": "Vészi Endre",
+      "title": "Az ezüst kehely"
+    },
+    {
+      "id": "24500_24579",
+      "author": "Móra Ferenc",
+      "title": "A hatrongyosi kakasok"
+    }
+  ]
 }

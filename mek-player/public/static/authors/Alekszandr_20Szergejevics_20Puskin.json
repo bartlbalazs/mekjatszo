@@ -48,6 +48,33 @@
         "title": "8. fejezet"
       }
     ],
-    "url": "https://mek.oszk.hu/03300/03304"
+    "url": "https://mek.oszk.hu/03300/03304",
+    "similar_books": [
+      {
+        "id": "03100_03170",
+        "author": "Alexandr Szolzsenyicin",
+        "title": "Ivan Gyenyiszovics egy napja"
+      },
+      {
+        "id": "02300_02358",
+        "author": "Jókai Mór",
+        "title": "A gazdag szegények"
+      },
+      {
+        "id": "02300_02328",
+        "author": "Jókai Mór",
+        "title": "A janicsárok végnapjai"
+      },
+      {
+        "id": "07300_07363",
+        "author": "Gárdonyi Géza",
+        "title": "Egri csillagok"
+      },
+      {
+        "id": "03300_03321",
+        "author": "Benedek Elek",
+        "title": "Honszerző Árpád"
+      }
+    ]
   }
 ]

@@ -79,5 +79,32 @@
       "title": "17 - A nevemet adom érte"
     }
   ],
-  "url": "https://mek.oszk.hu/18100/18152"
+  "url": "https://mek.oszk.hu/18100/18152",
+  "similar_books": [
+    {
+      "id": "09300_09340",
+      "author": "Gárdonyi Géza",
+      "title": "Göre Martsa lakodalma"
+    },
+    {
+      "id": "22100_22187",
+      "author": "Jókai Mór",
+      "title": "Sárga rózsa"
+    },
+    {
+      "id": "06200_06227",
+      "author": "",
+      "title": "Folyik a híd"
+    },
+    {
+      "id": "22100_22188",
+      "author": "Jókai Mór",
+      "title": "És mégis mozog a föld"
+    },
+    {
+      "id": "17400_17412",
+      "author": "Árvay Mária",
+      "title": "Erről jut eszembe!"
+    }
+  ]
 }

@@ -124,6 +124,33 @@
         "title": "29 - Befejezés"
       }
     ],
-    "url": "https://mek.oszk.hu/13700/13799"
+    "url": "https://mek.oszk.hu/13700/13799",
+    "similar_books": [
+      {
+        "id": "14000_14087",
+        "author": "Vígh Kristóf",
+        "title": "Magyar virrasztásBizánci alkonyati és napkeleti zsolozsma ősi magyar dallamokon"
+      },
+      {
+        "id": "11700_11747",
+        "author": "Tar Károly",
+        "title": "Hajnalban vadnyuszik ablakom alatt"
+      },
+      {
+        "id": "14100_14175",
+        "author": "V. Pócsay Rozika",
+        "title": "Mélység és magasság"
+      },
+      {
+        "id": "09300_09387",
+        "author": "Gárdonyi Géza",
+        "title": "Bojgás az világba"
+      },
+      {
+        "id": "24900_24935",
+        "author": "Krúdy Gyula",
+        "title": "Az élet álom"
+      }
+    ]
   }
 ]

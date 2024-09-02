@@ -124,6 +124,33 @@
         "title": "29_lepanto.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/10700/10799"
+    "url": "https://mek.oszk.hu/10700/10799",
+    "similar_books": [
+      {
+        "id": "03700_03743",
+        "author": "Mikszáth Kálmán",
+        "title": "Szent Péter esernyője"
+      },
+      {
+        "id": "19000_19059",
+        "author": "Szente B. Levente",
+        "title": "Az ezüsthajú tündérleány"
+      },
+      {
+        "id": "19400_19479",
+        "author": "Váli Dezső",
+        "title": "Versnapló [1966-2015]"
+      },
+      {
+        "id": "10900_10945",
+        "author": "Kosztolányi Dezső",
+        "title": "Zsivajgó természet"
+      },
+      {
+        "id": "03100_03167",
+        "author": "Zrínyi Miklós",
+        "title": "Szigeti veszedelem"
+      }
+    ]
   }
 ]

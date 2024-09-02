@@ -32,6 +32,33 @@
         "title": "06 - Engedett-e Jézus a kísértésnek?"
       }
     ],
-    "url": "https://mek.oszk.hu/21400/21457"
+    "url": "https://mek.oszk.hu/21400/21457",
+    "similar_books": [
+      {
+        "id": "10400_10454",
+        "author": "Gárdonyi Géza",
+        "title": "Tapasztalatok"
+      },
+      {
+        "id": "10600_10621",
+        "author": "Gárdonyi Géza",
+        "title": "No még öggyet"
+      },
+      {
+        "id": "02300_02321",
+        "author": "Vészi Endre",
+        "title": "Az ezüst kehely"
+      },
+      {
+        "id": "09300_09387",
+        "author": "Gárdonyi Géza",
+        "title": "Bojgás az világba"
+      },
+      {
+        "id": "16100_16149",
+        "author": "Menyhei József",
+        "title": "Múltbanéző"
+      }
+    ]
   }
 ]

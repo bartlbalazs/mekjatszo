@@ -23,5 +23,32 @@
       "title": "04. rész"
     }
   ],
-  "url": "https://mek.oszk.hu/22200/22227"
+  "url": "https://mek.oszk.hu/22200/22227",
+  "similar_books": [
+    {
+      "id": "02300_02386",
+      "author": "Mikszáth Kálmán",
+      "title": "A gyerekek"
+    },
+    {
+      "id": "02200_02289",
+      "author": "Mikszáth Kálmán",
+      "title": "Kísértet Lublón"
+    },
+    {
+      "id": "22200_22237",
+      "author": "Mikszáth Kálmán",
+      "title": "A sipsirica"
+    },
+    {
+      "id": "14600_14639",
+      "author": "Lehoczki Károly",
+      "title": "Az ismeretlen kert"
+    },
+    {
+      "id": "17700_17713",
+      "author": "Komor Zoltán",
+      "title": "Klitorisz-krampusz és karácsonyfa bukkake"
+    }
+  ]
 }

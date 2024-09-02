@@ -47,5 +47,32 @@
       "title": "9 - Kilencedik fejezet"
     }
   ],
-  "url": "https://mek.oszk.hu/03900/03987"
+  "url": "https://mek.oszk.hu/03900/03987",
+  "similar_books": [
+    {
+      "id": "02200_02289",
+      "author": "Mikszáth Kálmán",
+      "title": "Kísértet Lublón"
+    },
+    {
+      "id": "09500_09586",
+      "author": "Mikszáth Kálmán",
+      "title": "A jó palócok"
+    },
+    {
+      "id": "02300_02386",
+      "author": "Mikszáth Kálmán",
+      "title": "A gyerekek"
+    },
+    {
+      "id": "07600_07625",
+      "author": "Mikszáth Kálmán",
+      "title": "Tót atyafiak"
+    },
+    {
+      "id": "05300_05312",
+      "author": "Mikszáth Kálmán",
+      "title": "A fekete város"
+    }
+  ]
 }

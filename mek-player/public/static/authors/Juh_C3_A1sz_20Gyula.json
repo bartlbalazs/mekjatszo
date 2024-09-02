@@ -72,7 +72,34 @@
         "title": "15. fejezet"
       }
     ],
-    "url": "https://mek.oszk.hu/04200/04248"
+    "url": "https://mek.oszk.hu/04200/04248",
+    "similar_books": [
+      {
+        "id": "02300_02388",
+        "author": "Csáth Géza",
+        "title": "Egy elmebeteg nő naplója"
+      },
+      {
+        "id": "03300_03391",
+        "author": "Eötvös József",
+        "title": "Magyarország 1514-ben"
+      },
+      {
+        "id": "02500_02595",
+        "author": "Csáth Géza",
+        "title": "Lidércálmok"
+      },
+      {
+        "id": "05300_05312",
+        "author": "Mikszáth Kálmán",
+        "title": "A fekete város"
+      },
+      {
+        "id": "02600_02616",
+        "author": "Krúdy Gyula",
+        "title": "Bukfenc ; Az útitárs"
+      }
+    ]
   },
   {
     "id": "04700_04787",
@@ -271,6 +298,33 @@
         "title": "46 - Késő szüret"
       }
     ],
-    "url": "https://mek.oszk.hu/04700/04787"
+    "url": "https://mek.oszk.hu/04700/04787",
+    "similar_books": [
+      {
+        "id": "02300_02388",
+        "author": "Csáth Géza",
+        "title": "Egy elmebeteg nő naplója"
+      },
+      {
+        "id": "03100_03167",
+        "author": "Zrínyi Miklós",
+        "title": "Szigeti veszedelem"
+      },
+      {
+        "id": "10500_10570",
+        "author": "Gárdonyi Géza",
+        "title": "Kátsa"
+      },
+      {
+        "id": "10900_10945",
+        "author": "Kosztolányi Dezső",
+        "title": "Zsivajgó természet"
+      },
+      {
+        "id": "03100_03171",
+        "author": "Tamási Áron",
+        "title": "Vadrózsa ága"
+      }
+    ]
   }
 ]

@@ -104,7 +104,34 @@
         "title": "23 - Utószó"
       }
     ],
-    "url": "https://mek.oszk.hu/02600/02616"
+    "url": "https://mek.oszk.hu/02600/02616",
+    "similar_books": [
+      {
+        "id": "02600_02671",
+        "author": "Tóth Béla",
+        "title": "A magyar anekdotakincs"
+      },
+      {
+        "id": "02700_02778",
+        "author": "Bródy Sándor",
+        "title": "Az ezüst kecske ; A nap lovagja"
+      },
+      {
+        "id": "03000_03082",
+        "author": "Gárdonyi Géza",
+        "title": "Az én falum"
+      },
+      {
+        "id": "02900_02970",
+        "author": "Tamási Áron",
+        "title": "Bölcső és Bagoly"
+      },
+      {
+        "id": "03300_03322",
+        "author": "Reményik László",
+        "title": "Ezermester kutyák"
+      }
+    ]
   },
   {
     "id": "24900_24935",
@@ -203,46 +230,34 @@
         "title": "21 - A kidobott vendég"
       }
     ],
-    "url": "https://mek.oszk.hu/24900/24935"
-  },
-  {
-    "id": "11200_11236",
-    "title": "Jézuska csizmájaHangoskönyv",
-    "author": "Krúdy Gyula",
-    "lead": "\"Azért volt boldog a régi magyar író karácsonya, mert faggyúgyertyácskája mellett is falatozhatott kenyeret, amelyet a munkájával szerzett. Hol van manapság az a magyar író, akinek az olcsó betűcskék megtölthetnék üres tarisznyáját, földíszíthetnék kis karácsonyfáját?\"",
-    "cover": "/11200/11236/borito.jpg",
-    "description": null,
-    "audio_files": [
+    "url": "https://mek.oszk.hu/24900/24935",
+    "similar_books": [
       {
-        "url": "00-Krudy_Gyula-Jezuska_csizmaja.mp3",
-        "title": "00 - Hangos katalóguscédula"
+        "id": "09900_09914",
+        "author": "Gárdonyi Géza",
+        "title": "Göre Gábor biró úr könyve"
       },
       {
-        "url": "01-Krudy_Gyula-Jezuska_csizmaja.mp3",
-        "title": "01 - Téli szelek"
+        "id": "12500_12529",
+        "author": "Gubcsi Lajos",
+        "title": "Jut eszembe... ami kimaradt"
       },
       {
-        "url": "02-Krudy_Gyula-Jezuska_csizmaja.mp3",
-        "title": "02 - Középkori álom"
+        "id": "06700_06785",
+        "author": "Tar Károly",
+        "title": "Szerenád dobra, cintányérra és más ütős hangszerekreHangoskönyv"
       },
       {
-        "url": "03-Krudy_Gyula-Jezuska_csizmaja.mp3",
-        "title": "03 - Madame Louise délutánjai"
+        "id": "09300_09340",
+        "author": "Gárdonyi Géza",
+        "title": "Göre Martsa lakodalma"
       },
       {
-        "url": "04-Krudy_Gyula-Jezuska_csizmaja.mp3",
-        "title": "04 - Jézuska csizmája"
-      },
-      {
-        "url": "05-Krudy_Gyula-Jezuska_csizmaja.mp3",
-        "title": "05 - Magyar író karácsonya"
-      },
-      {
-        "url": "06-Krudy_Gyula-Jezuska_csizmaja.mp3",
-        "title": "06 - Karácsony este"
+        "id": "25100_25113",
+        "author": "Krúdy Gyula",
+        "title": "Rózsa Sándor"
       }
-    ],
-    "url": "https://mek.oszk.hu/11200/11236"
+    ]
   },
   {
     "id": "02500_02547",
@@ -281,7 +296,100 @@
         "title": "6 - Karácsony este"
       }
     ],
-    "url": "https://mek.oszk.hu/02500/02547"
+    "url": "https://mek.oszk.hu/02500/02547",
+    "similar_books": [
+      {
+        "id": "11200_11236",
+        "author": "Krúdy Gyula",
+        "title": "Jézuska csizmájaHangoskönyv"
+      },
+      {
+        "id": "10500_10570",
+        "author": "Gárdonyi Géza",
+        "title": "Kátsa"
+      },
+      {
+        "id": "24900_24935",
+        "author": "Krúdy Gyula",
+        "title": "Az élet álom"
+      },
+      {
+        "id": "25100_25113",
+        "author": "Krúdy Gyula",
+        "title": "Rózsa Sándor"
+      },
+      {
+        "id": "03700_03743",
+        "author": "Mikszáth Kálmán",
+        "title": "Szent Péter esernyője"
+      }
+    ]
+  },
+  {
+    "id": "11200_11236",
+    "title": "Jézuska csizmájaHangoskönyv",
+    "author": "Krúdy Gyula",
+    "lead": "\"Azért volt boldog a régi magyar író karácsonya, mert faggyúgyertyácskája mellett is falatozhatott kenyeret, amelyet a munkájával szerzett. Hol van manapság az a magyar író, akinek az olcsó betűcskék megtölthetnék üres tarisznyáját, földíszíthetnék kis karácsonyfáját?\"",
+    "cover": "/11200/11236/borito.jpg",
+    "description": null,
+    "audio_files": [
+      {
+        "url": "00-Krudy_Gyula-Jezuska_csizmaja.mp3",
+        "title": "00 - Hangos katalóguscédula"
+      },
+      {
+        "url": "01-Krudy_Gyula-Jezuska_csizmaja.mp3",
+        "title": "01 - Téli szelek"
+      },
+      {
+        "url": "02-Krudy_Gyula-Jezuska_csizmaja.mp3",
+        "title": "02 - Középkori álom"
+      },
+      {
+        "url": "03-Krudy_Gyula-Jezuska_csizmaja.mp3",
+        "title": "03 - Madame Louise délutánjai"
+      },
+      {
+        "url": "04-Krudy_Gyula-Jezuska_csizmaja.mp3",
+        "title": "04 - Jézuska csizmája"
+      },
+      {
+        "url": "05-Krudy_Gyula-Jezuska_csizmaja.mp3",
+        "title": "05 - Magyar író karácsonya"
+      },
+      {
+        "url": "06-Krudy_Gyula-Jezuska_csizmaja.mp3",
+        "title": "06 - Karácsony este"
+      }
+    ],
+    "url": "https://mek.oszk.hu/11200/11236",
+    "similar_books": [
+      {
+        "id": "17700_17713",
+        "author": "Komor Zoltán",
+        "title": "Klitorisz-krampusz és karácsonyfa bukkake"
+      },
+      {
+        "id": "02500_02547",
+        "author": "Krúdy Gyula",
+        "title": "Jézuska csizmája"
+      },
+      {
+        "id": "09300_09387",
+        "author": "Gárdonyi Géza",
+        "title": "Bojgás az világba"
+      },
+      {
+        "id": "10500_10570",
+        "author": "Gárdonyi Géza",
+        "title": "Kátsa"
+      },
+      {
+        "id": "24900_24935",
+        "author": "Krúdy Gyula",
+        "title": "Az élet álom"
+      }
+    ]
   },
   {
     "id": "25100_25113",
@@ -376,6 +484,33 @@
         "title": "20 - Az utolsó stikli: a vonatrablás"
       }
     ],
-    "url": "https://mek.oszk.hu/25100/25113"
+    "url": "https://mek.oszk.hu/25100/25113",
+    "similar_books": [
+      {
+        "id": "24900_24935",
+        "author": "Krúdy Gyula",
+        "title": "Az élet álom"
+      },
+      {
+        "id": "06700_06785",
+        "author": "Tar Károly",
+        "title": "Szerenád dobra, cintányérra és más ütős hangszerekreHangoskönyv"
+      },
+      {
+        "id": "14100_14175",
+        "author": "V. Pócsay Rozika",
+        "title": "Mélység és magasság"
+      },
+      {
+        "id": "09900_09914",
+        "author": "Gárdonyi Géza",
+        "title": "Göre Gábor biró úr könyve"
+      },
+      {
+        "id": "02700_02778",
+        "author": "Bródy Sándor",
+        "title": "Az ezüst kecske ; A nap lovagja"
+      }
+    ]
   }
 ]

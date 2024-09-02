@@ -151,5 +151,32 @@
       "title": "22. A két menekült"
     }
   ],
-  "url": "https://mek.oszk.hu/02300/02359"
+  "url": "https://mek.oszk.hu/02300/02359",
+  "similar_books": [
+    {
+      "id": "09700_09700",
+      "author": "Jókai Mór",
+      "title": "A kőszívű ember fiai"
+    },
+    {
+      "id": "02300_02367",
+      "author": "Jókai Mór",
+      "title": "Törökvilág Magyarországon"
+    },
+    {
+      "id": "02500_02595",
+      "author": "Csáth Géza",
+      "title": "Lidércálmok"
+    },
+    {
+      "id": "22100_22187",
+      "author": "Jókai Mór",
+      "title": "Sárga rózsa"
+    },
+    {
+      "id": "09500_09586",
+      "author": "Mikszáth Kálmán",
+      "title": "A jó palócok"
+    }
+  ]
 }

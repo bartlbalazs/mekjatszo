@@ -59,5 +59,32 @@
       "title": "12 - Alice tanúvallomása"
     }
   ],
-  "url": "https://mek.oszk.hu/02900/02952"
+  "url": "https://mek.oszk.hu/02900/02952",
+  "similar_books": [
+    {
+      "id": "12100_12199",
+      "author": "Jonathan Swift",
+      "title": "Gulliver utazásai"
+    },
+    {
+      "id": "22200_22224",
+      "author": "Kosztolányi Dezső",
+      "title": "Kosztolányi Dezső összes novellája"
+    },
+    {
+      "id": "03700_03799",
+      "author": "Walter Scott",
+      "title": "Ivanhoe"
+    },
+    {
+      "id": "03900_03979",
+      "author": "Lucius Apuleius",
+      "title": "Az aranyszamár"
+    },
+    {
+      "id": "03900_03994",
+      "author": "Gustave Flaubert",
+      "title": "Bovaryné"
+    }
+  ]
 }

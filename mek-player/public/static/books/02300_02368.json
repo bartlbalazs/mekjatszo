@@ -199,5 +199,32 @@
       "title": "7. rész: Utószó A bíborbanszületett-hez"
     }
   ],
-  "url": "https://mek.oszk.hu/02300/02368"
+  "url": "https://mek.oszk.hu/02300/02368",
+  "similar_books": [
+    {
+      "id": "11200_11242",
+      "author": "Gárdonyi Géza",
+      "title": "Láthatatlan ember"
+    },
+    {
+      "id": "02900_02970",
+      "author": "Tamási Áron",
+      "title": "Bölcső és Bagoly"
+    },
+    {
+      "id": "05400_05486",
+      "author": "Móricz Zsigmond",
+      "title": "Betyár"
+    },
+    {
+      "id": "05300_05312",
+      "author": "Mikszáth Kálmán",
+      "title": "A fekete város"
+    },
+    {
+      "id": "02700_02778",
+      "author": "Bródy Sándor",
+      "title": "Az ezüst kecske ; A nap lovagja"
+    }
+  ]
 }

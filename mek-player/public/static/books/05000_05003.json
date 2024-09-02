@@ -59,5 +59,32 @@
       "title": "12 - Brown atya tündérmeséje"
     }
   ],
-  "url": "https://mek.oszk.hu/05000/05003"
+  "url": "https://mek.oszk.hu/05000/05003",
+  "similar_books": [
+    {
+      "id": "04700_04742",
+      "author": "Gilbert Keith Chesterton",
+      "title": "Brown atya botránya"
+    },
+    {
+      "id": "10500_10570",
+      "author": "Gárdonyi Géza",
+      "title": "Kátsa"
+    },
+    {
+      "id": "03700_03743",
+      "author": "Mikszáth Kálmán",
+      "title": "Szent Péter esernyője"
+    },
+    {
+      "id": "13800_13810",
+      "author": "Jenei András",
+      "title": "Nyeregben a Konstantin-kereszt"
+    },
+    {
+      "id": "15200_15201",
+      "author": "Máté G. Péter",
+      "title": "Eldobott asszony"
+    }
+  ]
 }

@@ -59,5 +59,32 @@
       "title": "12 - Dániel Anna: Balzac"
     }
   ],
-  "url": "https://mek.oszk.hu/02700/02776"
+  "url": "https://mek.oszk.hu/02700/02776",
+  "similar_books": [
+    {
+      "id": "03900_03994",
+      "author": "Gustave Flaubert",
+      "title": "Bovaryné"
+    },
+    {
+      "id": "05400_05486",
+      "author": "Móricz Zsigmond",
+      "title": "Betyár"
+    },
+    {
+      "id": "09700_09700",
+      "author": "Jókai Mór",
+      "title": "A kőszívű ember fiai"
+    },
+    {
+      "id": "02400_02402",
+      "author": "Alexandre Dumas",
+      "title": "Korzikai testvérek ; Herminie"
+    },
+    {
+      "id": "03300_03378",
+      "author": "Victor Hugo",
+      "title": "A párizsi Notre-Dame"
+    }
+  ]
 }

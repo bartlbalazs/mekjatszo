@@ -88,7 +88,34 @@
         "title": "20 - 20. rész"
       }
     ],
-    "url": "https://mek.oszk.hu/18900/18938"
+    "url": "https://mek.oszk.hu/18900/18938",
+    "similar_books": [
+      {
+        "id": "18800_18838",
+        "author": "Petőfi Sándor",
+        "title": "A helység kalapácsa"
+      },
+      {
+        "id": "07600_07604",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+      },
+      {
+        "id": "19400_19476",
+        "author": "Szente B. Levente",
+        "title": "Csillagtitok"
+      },
+      {
+        "id": "24900_24935",
+        "author": "Krúdy Gyula",
+        "title": "Az élet álom"
+      },
+      {
+        "id": "17000_17009",
+        "author": "Lehoczki Károly",
+        "title": "Sétány a pokolban"
+      }
+    ]
   },
   {
     "id": "08700_08799",
@@ -183,7 +210,34 @@
         "title": "20-az_apostol-20resz.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/08700/08799"
+    "url": "https://mek.oszk.hu/08700/08799",
+    "similar_books": [
+      {
+        "id": "02200_02268",
+        "author": "Petőfi Sándor",
+        "title": "A helység kalapácsa"
+      },
+      {
+        "id": "18900_18938",
+        "author": "Petőfi Sándor",
+        "title": "Az apostol"
+      },
+      {
+        "id": "02800_02800",
+        "author": "Reményik Sándor",
+        "title": "Reményik Sándor összes versei"
+      },
+      {
+        "id": "03300_03391",
+        "author": "Eötvös József",
+        "title": "Magyarország 1514-ben"
+      },
+      {
+        "id": "03300_03321",
+        "author": "Benedek Elek",
+        "title": "Honszerző Árpád"
+      }
+    ]
   },
   {
     "id": "18200_18262",
@@ -198,7 +252,34 @@
         "title": "0 - Bolond Istók"
       }
     ],
-    "url": "https://mek.oszk.hu/18200/18262"
+    "url": "https://mek.oszk.hu/18200/18262",
+    "similar_books": [
+      {
+        "id": "14800_14870",
+        "author": "Barsi Ödön",
+        "title": "A nevető halál"
+      },
+      {
+        "id": "18800_18838",
+        "author": "Petőfi Sándor",
+        "title": "A helység kalapácsa"
+      },
+      {
+        "id": "18900_18907",
+        "author": "Nógrádi Gábor",
+        "title": "Angyali üzenet"
+      },
+      {
+        "id": "16000_16092",
+        "author": "Vöröss István",
+        "title": "Holt zendülőVöröss István összegyűjtött versei"
+      },
+      {
+        "id": "09400_09475",
+        "author": "Gárdonyi Géza",
+        "title": "Veszödelmek"
+      }
+    ]
   },
   {
     "id": "02200_02268",
@@ -233,7 +314,34 @@
         "title": "5 - IV. ének"
       }
     ],
-    "url": "https://mek.oszk.hu/02200/02268"
+    "url": "https://mek.oszk.hu/02200/02268",
+    "similar_books": [
+      {
+        "id": "02800_02800",
+        "author": "Reményik Sándor",
+        "title": "Reményik Sándor összes versei"
+      },
+      {
+        "id": "08700_08789",
+        "author": "Petőfi Sándor",
+        "title": "János vitéz"
+      },
+      {
+        "id": "02700_02778",
+        "author": "Bródy Sándor",
+        "title": "Az ezüst kecske ; A nap lovagja"
+      },
+      {
+        "id": "08700_08799",
+        "author": "Petőfi Sándor",
+        "title": "Az apostol"
+      },
+      {
+        "id": "18800_18838",
+        "author": "Petőfi Sándor",
+        "title": "A helység kalapácsa"
+      }
+    ]
   },
   {
     "id": "18800_18838",
@@ -260,7 +368,34 @@
         "title": "04 - Negyedik ének"
       }
     ],
-    "url": "https://mek.oszk.hu/18800/18838"
+    "url": "https://mek.oszk.hu/18800/18838",
+    "similar_books": [
+      {
+        "id": "18900_18938",
+        "author": "Petőfi Sándor",
+        "title": "Az apostol"
+      },
+      {
+        "id": "23700_23762",
+        "author": "Molnár Ferenc",
+        "title": "A Pál utcai fiúk"
+      },
+      {
+        "id": "02200_02268",
+        "author": "Petőfi Sándor",
+        "title": "A helység kalapácsa"
+      },
+      {
+        "id": "14100_14175",
+        "author": "V. Pócsay Rozika",
+        "title": "Mélység és magasság"
+      },
+      {
+        "id": "17000_17009",
+        "author": "Lehoczki Károly",
+        "title": "Sétány a pokolban"
+      }
+    ]
   },
   {
     "id": "19100_19149",
@@ -379,7 +514,34 @@
         "title": "27 - XXVII."
       }
     ],
-    "url": "https://mek.oszk.hu/19100/19149"
+    "url": "https://mek.oszk.hu/19100/19149",
+    "similar_books": [
+      {
+        "id": "21900_21995",
+        "author": "Németh Árpád",
+        "title": "A kő"
+      },
+      {
+        "id": "10500_10570",
+        "author": "Gárdonyi Géza",
+        "title": "Kátsa"
+      },
+      {
+        "id": "13800_13810",
+        "author": "Jenei András",
+        "title": "Nyeregben a Konstantin-kereszt"
+      },
+      {
+        "id": "25100_25131",
+        "author": "Dézsi Zoltán",
+        "title": "Bubu a kopasz sárkány"
+      },
+      {
+        "id": "16100_16149",
+        "author": "Menyhei József",
+        "title": "Múltbanéző"
+      }
+    ]
   },
   {
     "id": "08700_08789",
@@ -502,7 +664,34 @@
         "title": "28-janosvitez-27-enek.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/08700/08789"
+    "url": "https://mek.oszk.hu/08700/08789",
+    "similar_books": [
+      {
+        "id": "22200_22217",
+        "author": "Petőfi Sándor",
+        "title": "Petőfi Sándor válogatott költeményei"
+      },
+      {
+        "id": "02200_02268",
+        "author": "Petőfi Sándor",
+        "title": "A helység kalapácsa"
+      },
+      {
+        "id": "02300_02321",
+        "author": "Vészi Endre",
+        "title": "Az ezüst kehely"
+      },
+      {
+        "id": "05400_05486",
+        "author": "Móricz Zsigmond",
+        "title": "Betyár"
+      },
+      {
+        "id": "07600_07604",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+      }
+    ]
   },
   {
     "id": "22200_22217",
@@ -529,6 +718,33 @@
         "title": "04. rész"
       }
     ],
-    "url": "https://mek.oszk.hu/22200/22217"
+    "url": "https://mek.oszk.hu/22200/22217",
+    "similar_books": [
+      {
+        "id": "08700_08789",
+        "author": "Petőfi Sándor",
+        "title": "János vitéz"
+      },
+      {
+        "id": "19100_19149",
+        "author": "Petőfi Sándor",
+        "title": "János vitéz"
+      },
+      {
+        "id": "15200_15201",
+        "author": "Máté G. Péter",
+        "title": "Eldobott asszony"
+      },
+      {
+        "id": "02200_02268",
+        "author": "Petőfi Sándor",
+        "title": "A helység kalapácsa"
+      },
+      {
+        "id": "18800_18838",
+        "author": "Petőfi Sándor",
+        "title": "A helység kalapácsa"
+      }
+    ]
   }
 ]

@@ -204,6 +204,33 @@
         "title": "49_Confiteor_Gyulai.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/11600/11676"
+    "url": "https://mek.oszk.hu/11600/11676",
+    "similar_books": [
+      {
+        "id": "21900_21995",
+        "author": "Németh Árpád",
+        "title": "A kő"
+      },
+      {
+        "id": "11200_11236",
+        "author": "Krúdy Gyula",
+        "title": "Jézuska csizmájaHangoskönyv"
+      },
+      {
+        "id": "19100_19149",
+        "author": "Petőfi Sándor",
+        "title": "János vitéz"
+      },
+      {
+        "id": "03100_03170",
+        "author": "Alexandr Szolzsenyicin",
+        "title": "Ivan Gyenyiszovics egy napja"
+      },
+      {
+        "id": "06400_06439",
+        "author": "",
+        "title": "Öt magyar népmese hangillusztrációval"
+      }
+    ]
   }
 ]

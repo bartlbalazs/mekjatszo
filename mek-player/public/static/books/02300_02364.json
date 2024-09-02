@@ -215,5 +215,32 @@
       "title": "50. ének"
     }
   ],
-  "url": "https://mek.oszk.hu/02300/02364"
+  "url": "https://mek.oszk.hu/02300/02364",
+  "similar_books": [
+    {
+      "id": "04400_04480",
+      "author": "Nyikolaj Vasziljevics Gogol",
+      "title": "Az orr"
+    },
+    {
+      "id": "02200_02289",
+      "author": "Mikszáth Kálmán",
+      "title": "Kísértet Lublón"
+    },
+    {
+      "id": "02500_02596",
+      "author": "Karel Čapek",
+      "title": "A repülő ember és más furcsa történetek"
+    },
+    {
+      "id": "03300_03391",
+      "author": "Eötvös József",
+      "title": "Magyarország 1514-ben"
+    },
+    {
+      "id": "04200_04248",
+      "author": "Juhász Gyula",
+      "title": "Orbán lelke"
+    }
+  ]
 }

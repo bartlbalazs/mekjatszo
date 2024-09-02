@@ -107,5 +107,32 @@
       "title": "25_Track_25.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/25100/25132"
+  "url": "https://mek.oszk.hu/25100/25132",
+  "similar_books": [
+    {
+      "id": "17000_17009",
+      "author": "Lehoczki Károly",
+      "title": "Sétány a pokolban"
+    },
+    {
+      "id": "19400_19476",
+      "author": "Szente B. Levente",
+      "title": "Csillagtitok"
+    },
+    {
+      "id": "23500_23596",
+      "author": "Rozványi Dávid",
+      "title": "Erdélyi útiképek"
+    },
+    {
+      "id": "24900_24935",
+      "author": "Krúdy Gyula",
+      "title": "Az élet álom"
+    },
+    {
+      "id": "24900_24991",
+      "author": "Rozványi Dávid",
+      "title": "Felvidéki útiképek (Hangoskönyv)"
+    }
+  ]
 }

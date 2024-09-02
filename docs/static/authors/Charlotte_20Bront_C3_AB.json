@@ -164,6 +164,33 @@
         "title": "38. fejezet"
       }
     ],
-    "url": "https://mek.oszk.hu/03300/03314"
+    "url": "https://mek.oszk.hu/03300/03314",
+    "similar_books": [
+      {
+        "id": "03300_03379",
+        "author": "Emily Brontë",
+        "title": "Üvöltő szelek"
+      },
+      {
+        "id": "06000_06058",
+        "author": "Jane Austen",
+        "title": "Büszkeség és balítélet"
+      },
+      {
+        "id": "03900_03994",
+        "author": "Gustave Flaubert",
+        "title": "Bovaryné"
+      },
+      {
+        "id": "02300_02359",
+        "author": "Jókai Mór",
+        "title": "Csataképek a magyar szabadságharcból"
+      },
+      {
+        "id": "09700_09700",
+        "author": "Jókai Mór",
+        "title": "A kőszívű ember fiai"
+      }
+    ]
   }
 ]

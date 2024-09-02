@@ -103,5 +103,32 @@
       "title": "24. ének"
     }
   ],
-  "url": "https://mek.oszk.hu/03300/03319"
+  "url": "https://mek.oszk.hu/03300/03319",
+  "similar_books": [
+    {
+      "id": "03300_03320",
+      "author": "Homérosz",
+      "title": "Odüsszeia"
+    },
+    {
+      "id": "09700_09700",
+      "author": "Jókai Mór",
+      "title": "A kőszívű ember fiai"
+    },
+    {
+      "id": "11700_11747",
+      "author": "Tar Károly",
+      "title": "Hajnalban vadnyuszik ablakom alatt"
+    },
+    {
+      "id": "05300_05312",
+      "author": "Mikszáth Kálmán",
+      "title": "A fekete város"
+    },
+    {
+      "id": "11200_11242",
+      "author": "Gárdonyi Géza",
+      "title": "Láthatatlan ember"
+    }
+  ]
 }

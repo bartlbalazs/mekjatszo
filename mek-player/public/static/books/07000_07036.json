@@ -39,5 +39,32 @@
       "title": "07 - Ötödik felvonás"
     }
   ],
-  "url": "https://mek.oszk.hu/07000/07036"
+  "url": "https://mek.oszk.hu/07000/07036",
+  "similar_books": [
+    {
+      "id": "03900_03980",
+      "author": "William Shakespeare",
+      "title": "William Shakespeare szonettjei"
+    },
+    {
+      "id": "03300_03379",
+      "author": "Emily Brontë",
+      "title": "Üvöltő szelek"
+    },
+    {
+      "id": "03300_03376",
+      "author": "Stendhal",
+      "title": "A pármai kolostor"
+    },
+    {
+      "id": "12300_12396",
+      "author": "Rejtő Jenő",
+      "title": "Az utolsó szó jogán"
+    },
+    {
+      "id": "03900_03994",
+      "author": "Gustave Flaubert",
+      "title": "Bovaryné"
+    }
+  ]
 }

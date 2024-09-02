@@ -27,5 +27,32 @@
       "title": "4. fejezet"
     }
   ],
-  "url": "https://mek.oszk.hu/02900/02965"
+  "url": "https://mek.oszk.hu/02900/02965",
+  "similar_books": [
+    {
+      "id": "03700_03741",
+      "author": "Tamási Áron",
+      "title": "Ábel az országban"
+    },
+    {
+      "id": "03700_03740",
+      "author": "Tamási Áron",
+      "title": "Ábel Amerikában"
+    },
+    {
+      "id": "03100_03171",
+      "author": "Tamási Áron",
+      "title": "Vadrózsa ága"
+    },
+    {
+      "id": "05400_05486",
+      "author": "Móricz Zsigmond",
+      "title": "Betyár"
+    },
+    {
+      "id": "02900_02970",
+      "author": "Tamási Áron",
+      "title": "Bölcső és Bagoly"
+    }
+  ]
 }

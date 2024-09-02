@@ -108,6 +108,33 @@
         "title": "24 - A válogatásról (Szalay Károly)"
       }
     ],
-    "url": "https://mek.oszk.hu/02600/02671"
+    "url": "https://mek.oszk.hu/02600/02671",
+    "similar_books": [
+      {
+        "id": "02600_02616",
+        "author": "Krúdy Gyula",
+        "title": "Bukfenc ; Az útitárs"
+      },
+      {
+        "id": "05300_05312",
+        "author": "Mikszáth Kálmán",
+        "title": "A fekete város"
+      },
+      {
+        "id": "03300_03391",
+        "author": "Eötvös József",
+        "title": "Magyarország 1514-ben"
+      },
+      {
+        "id": "02300_02388",
+        "author": "Csáth Géza",
+        "title": "Egy elmebeteg nő naplója"
+      },
+      {
+        "id": "02900_02970",
+        "author": "Tamási Áron",
+        "title": "Bölcső és Bagoly"
+      }
+    ]
   }
 ]

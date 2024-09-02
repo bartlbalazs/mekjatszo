@@ -35,5 +35,32 @@
       "title": "07 - John visszamenőleg szédül"
     }
   ],
-  "url": "https://mek.oszk.hu/12300/12368"
+  "url": "https://mek.oszk.hu/12300/12368",
+  "similar_books": [
+    {
+      "id": "12300_12396",
+      "author": "Rejtő Jenő",
+      "title": "Az utolsó szó jogán"
+    },
+    {
+      "id": "11700_11747",
+      "author": "Tar Károly",
+      "title": "Hajnalban vadnyuszik ablakom alatt"
+    },
+    {
+      "id": "03100_03172",
+      "author": "Rejtő Jenő",
+      "title": "A tizennégy karátos autó"
+    },
+    {
+      "id": "09700_09700",
+      "author": "Jókai Mór",
+      "title": "A kőszívű ember fiai"
+    },
+    {
+      "id": "12300_12398",
+      "author": "Rejtő Jenő",
+      "title": "Drótnélküli gyilkosság"
+    }
+  ]
 }

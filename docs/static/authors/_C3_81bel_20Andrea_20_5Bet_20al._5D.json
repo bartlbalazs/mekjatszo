@@ -420,6 +420,33 @@
         "title": "103-FullExtra-2008.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/06700/06786"
+    "url": "https://mek.oszk.hu/06700/06786",
+    "similar_books": [
+      {
+        "id": "03000_03071",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekTolna megye - Váralja,Baranya megye - Zengővárkony"
+      },
+      {
+        "id": "14100_14175",
+        "author": "V. Pócsay Rozika",
+        "title": "Mélység és magasság"
+      },
+      {
+        "id": "12500_12529",
+        "author": "Gubcsi Lajos",
+        "title": "Jut eszembe... ami kimaradt"
+      },
+      {
+        "id": "24900_24935",
+        "author": "Krúdy Gyula",
+        "title": "Az élet álom"
+      },
+      {
+        "id": "15800_15812",
+        "author": "Jenei András",
+        "title": "Az enyém"
+      }
+    ]
   }
 ]

@@ -63,5 +63,32 @@
       "title": "14. rész"
     }
   ],
-  "url": "https://mek.oszk.hu/22200/22243"
+  "url": "https://mek.oszk.hu/22200/22243",
+  "similar_books": [
+    {
+      "id": "02500_02581",
+      "author": "Kosztolányi Dezső",
+      "title": "Pacsirta"
+    },
+    {
+      "id": "10900_10945",
+      "author": "Kosztolányi Dezső",
+      "title": "Zsivajgó természet"
+    },
+    {
+      "id": "02500_02580",
+      "author": "Kosztolányi Dezső",
+      "title": "A rossz orvos"
+    },
+    {
+      "id": "10500_10570",
+      "author": "Gárdonyi Géza",
+      "title": "Kátsa"
+    },
+    {
+      "id": "22100_22166",
+      "author": "Kosztolányi Dezső",
+      "title": "Édes Anna"
+    }
+  ]
 }

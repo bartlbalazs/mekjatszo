@@ -55,5 +55,32 @@
       "title": "11 - Orvosi kifejezések szótára"
     }
   ],
-  "url": "https://mek.oszk.hu/02300/02388"
+  "url": "https://mek.oszk.hu/02300/02388",
+  "similar_books": [
+    {
+      "id": "02500_02595",
+      "author": "Csáth Géza",
+      "title": "Lidércálmok"
+    },
+    {
+      "id": "03000_03082",
+      "author": "Gárdonyi Géza",
+      "title": "Az én falum"
+    },
+    {
+      "id": "02300_02358",
+      "author": "Jókai Mór",
+      "title": "A gazdag szegények"
+    },
+    {
+      "id": "03100_03168",
+      "author": "Móricz Zsigmond",
+      "title": "Árvácska"
+    },
+    {
+      "id": "04700_04754",
+      "author": "Gárdonyi Géza",
+      "title": "Égre néző lélek"
+    }
+  ]
 }

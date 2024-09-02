@@ -91,5 +91,32 @@
       "title": "20-az_apostol-20resz.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/08700/08799"
+  "url": "https://mek.oszk.hu/08700/08799",
+  "similar_books": [
+    {
+      "id": "02200_02268",
+      "author": "Petőfi Sándor",
+      "title": "A helység kalapácsa"
+    },
+    {
+      "id": "18900_18938",
+      "author": "Petőfi Sándor",
+      "title": "Az apostol"
+    },
+    {
+      "id": "02800_02800",
+      "author": "Reményik Sándor",
+      "title": "Reményik Sándor összes versei"
+    },
+    {
+      "id": "03300_03391",
+      "author": "Eötvös József",
+      "title": "Magyarország 1514-ben"
+    },
+    {
+      "id": "03300_03321",
+      "author": "Benedek Elek",
+      "title": "Honszerző Árpád"
+    }
+  ]
 }

@@ -191,5 +191,32 @@
       "title": "45 - Utószó"
     }
   ],
-  "url": "https://mek.oszk.hu/02600/02650"
+  "url": "https://mek.oszk.hu/02600/02650",
+  "similar_books": [
+    {
+      "id": "02400_02402",
+      "author": "Alexandre Dumas",
+      "title": "Korzikai testvérek ; Herminie"
+    },
+    {
+      "id": "02700_02750",
+      "author": "Denis Diderot",
+      "title": "Az apáca"
+    },
+    {
+      "id": "02200_02284",
+      "author": "Jules Verne",
+      "title": "Az ostromzáron át"
+    },
+    {
+      "id": "03100_03171",
+      "author": "Tamási Áron",
+      "title": "Vadrózsa ága"
+    },
+    {
+      "id": "07100_07120",
+      "author": "Fazekas Mihály",
+      "title": "Lúdas Matyi"
+    }
+  ]
 }

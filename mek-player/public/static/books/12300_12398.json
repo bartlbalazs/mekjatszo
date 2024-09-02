@@ -31,5 +31,32 @@
       "title": "06 - A történet végébe bekapcsolódik Manfréd"
     }
   ],
-  "url": "https://mek.oszk.hu/12300/12398"
+  "url": "https://mek.oszk.hu/12300/12398",
+  "similar_books": [
+    {
+      "id": "11700_11747",
+      "author": "Tar Károly",
+      "title": "Hajnalban vadnyuszik ablakom alatt"
+    },
+    {
+      "id": "12400_12421",
+      "author": "Rejtő Jenő",
+      "title": "Trópusi pokol"
+    },
+    {
+      "id": "12400_12453",
+      "author": "Rejtő Jenő",
+      "title": "Gyilkos?!"
+    },
+    {
+      "id": "09900_09914",
+      "author": "Gárdonyi Géza",
+      "title": "Göre Gábor biró úr könyve"
+    },
+    {
+      "id": "12400_12410",
+      "author": "Nagy Károly",
+      "title": "Csempészháború"
+    }
+  ]
 }

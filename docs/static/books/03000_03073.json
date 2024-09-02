@@ -71,5 +71,32 @@
       "title": "16. Záróhangok"
     }
   ],
-  "url": "https://mek.oszk.hu/03000/03073"
+  "url": "https://mek.oszk.hu/03000/03073",
+  "similar_books": [
+    {
+      "id": "03000_03087",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekZala megye - Keménfai mesék"
+    },
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    },
+    {
+      "id": "03000_03071",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekTolna megye - Váralja,Baranya megye - Zengővárkony"
+    },
+    {
+      "id": "02300_02321",
+      "author": "Vészi Endre",
+      "title": "Az ezüst kehely"
+    },
+    {
+      "id": "14800_14870",
+      "author": "Barsi Ödön",
+      "title": "A nevető halál"
+    }
+  ]
 }

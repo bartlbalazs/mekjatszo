@@ -95,5 +95,32 @@
       "title": "21._A_veres_ful_titka.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/11200/11241"
+  "url": "https://mek.oszk.hu/11200/11241",
+  "similar_books": [
+    {
+      "id": "19100_19144",
+      "author": "Karinthy Frigyes",
+      "title": "Tanár úr kérem"
+    },
+    {
+      "id": "09900_09931",
+      "author": "Móra Ferenc",
+      "title": "Kincskereső kisködmön"
+    },
+    {
+      "id": "02900_02970",
+      "author": "Tamási Áron",
+      "title": "Bölcső és Bagoly"
+    },
+    {
+      "id": "04400_04481",
+      "author": "Karinthy Frigyes",
+      "title": "Így írtok ti"
+    },
+    {
+      "id": "02600_02660",
+      "author": "Karinthy Frigyes",
+      "title": "Jelbeszéd 1."
+    }
+  ]
 }

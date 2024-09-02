@@ -91,5 +91,32 @@
       "title": "20 - Egészen : Családi kör... 1940"
     }
   ],
-  "url": "https://mek.oszk.hu/02800/02800"
+  "url": "https://mek.oszk.hu/02800/02800",
+  "similar_books": [
+    {
+      "id": "02200_02268",
+      "author": "Petőfi Sándor",
+      "title": "A helység kalapácsa"
+    },
+    {
+      "id": "02700_02778",
+      "author": "Bródy Sándor",
+      "title": "Az ezüst kecske ; A nap lovagja"
+    },
+    {
+      "id": "07700_07736",
+      "author": "Nagy László",
+      "title": "Versek és versfordításokMVGYOSZ hangoskönyvek1. Összegyűjtött versek"
+    },
+    {
+      "id": "03100_03168",
+      "author": "Móricz Zsigmond",
+      "title": "Árvácska"
+    },
+    {
+      "id": "03300_03310",
+      "author": "Benedek Elek",
+      "title": "Édes anyaföldem!"
+    }
+  ]
 }

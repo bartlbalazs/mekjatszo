@@ -24,6 +24,33 @@
         "title": "3 - A küzdő Sámson"
       }
     ],
-    "url": "https://mek.oszk.hu/04700/04771"
+    "url": "https://mek.oszk.hu/04700/04771",
+    "similar_books": [
+      {
+        "id": "02700_02750",
+        "author": "Denis Diderot",
+        "title": "Az apáca"
+      },
+      {
+        "id": "12300_12368",
+        "author": "Rejtő Jenő",
+        "title": "A fekete kapitány"
+      },
+      {
+        "id": "03900_03981",
+        "author": "Voltaire",
+        "title": "Candide, vagy Az optimizmus"
+      },
+      {
+        "id": "03900_03980",
+        "author": "William Shakespeare",
+        "title": "William Shakespeare szonettjei"
+      },
+      {
+        "id": "12100_12199",
+        "author": "Jonathan Swift",
+        "title": "Gulliver utazásai"
+      }
+    ]
   }
 ]

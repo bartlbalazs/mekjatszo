@@ -47,5 +47,32 @@
       "title": "9 - A falu démona"
     }
   ],
-  "url": "https://mek.oszk.hu/04700/04742"
+  "url": "https://mek.oszk.hu/04700/04742",
+  "similar_books": [
+    {
+      "id": "05000_05003",
+      "author": "Gilbert Keith Chesterton",
+      "title": "Páter Brown bölcsessége"
+    },
+    {
+      "id": "03300_03379",
+      "author": "Emily Brontë",
+      "title": "Üvöltő szelek"
+    },
+    {
+      "id": "03700_03743",
+      "author": "Mikszáth Kálmán",
+      "title": "Szent Péter esernyője"
+    },
+    {
+      "id": "03900_03994",
+      "author": "Gustave Flaubert",
+      "title": "Bovaryné"
+    },
+    {
+      "id": "02300_02388",
+      "author": "Csáth Géza",
+      "title": "Egy elmebeteg nő naplója"
+    }
+  ]
 }

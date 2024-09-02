@@ -75,5 +75,32 @@
       "title": "17 - Az utolsó szó jogán"
     }
   ],
-  "url": "https://mek.oszk.hu/12300/12396"
+  "url": "https://mek.oszk.hu/12300/12396",
+  "similar_books": [
+    {
+      "id": "12300_12378",
+      "author": "Rejtő Jenő",
+      "title": "A pokol zsoldosai"
+    },
+    {
+      "id": "12300_12368",
+      "author": "Rejtő Jenő",
+      "title": "A fekete kapitány"
+    },
+    {
+      "id": "12300_12379",
+      "author": "Rejtő Jenő",
+      "title": "Akik életet cseréltek"
+    },
+    {
+      "id": "04700_04770",
+      "author": "Reményik László",
+      "title": "Könnyű neked..."
+    },
+    {
+      "id": "03100_03172",
+      "author": "Rejtő Jenő",
+      "title": "A tizennégy karátos autó"
+    }
+  ]
 }

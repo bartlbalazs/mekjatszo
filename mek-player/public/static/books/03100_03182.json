@@ -199,5 +199,32 @@
       "title": "47 - Tréfás hírlapi versek, rögtönzések [1928]"
     }
   ],
-  "url": "https://mek.oszk.hu/03100/03182"
+  "url": "https://mek.oszk.hu/03100/03182",
+  "similar_books": [
+    {
+      "id": "22200_22247",
+      "author": "Radnóti Miklós",
+      "title": "Radnóti Miklós összes versei és versfordításai"
+    },
+    {
+      "id": "08900_08958",
+      "author": "NTK Horváth Sándor",
+      "title": "Már rég kihajoltak"
+    },
+    {
+      "id": "15800_15812",
+      "author": "Jenei András",
+      "title": "Az enyém"
+    },
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    },
+    {
+      "id": "03200_03295",
+      "author": "Pálnagy László",
+      "title": "Árpád-házi álmok és királyokHangfelvétel"
+    }
+  ]
 }

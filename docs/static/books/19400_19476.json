@@ -459,5 +459,32 @@
       "title": "113-Szente-B-Levente-Csillagtitok.mp3 -"
     }
   ],
-  "url": "https://mek.oszk.hu/19400/19476"
+  "url": "https://mek.oszk.hu/19400/19476",
+  "similar_books": [
+    {
+      "id": "19000_19059",
+      "author": "Szente B. Levente",
+      "title": "Az ezüsthajú tündérleány"
+    },
+    {
+      "id": "19400_19472",
+      "author": "Szente B. Levente",
+      "title": "Az első éj"
+    },
+    {
+      "id": "19200_19258",
+      "author": "Szente B. Levente",
+      "title": "Tollkalitka"
+    },
+    {
+      "id": "19300_19341",
+      "author": "Szente B. Levente",
+      "title": "Tücsök, Zöld Manó és a többiek"
+    },
+    {
+      "id": "19500_19566",
+      "author": "Boér Péter Pál",
+      "title": "Szabályerősítő"
+    }
+  ]
 }

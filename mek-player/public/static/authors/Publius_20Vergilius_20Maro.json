@@ -68,6 +68,33 @@
         "title": "14 - Trencsényi-Waldapfel Imre: Vergilius"
       }
     ],
-    "url": "https://mek.oszk.hu/03300/03388"
+    "url": "https://mek.oszk.hu/03300/03388",
+    "similar_books": [
+      {
+        "id": "03300_03319",
+        "author": "Homérosz",
+        "title": "Iliász"
+      },
+      {
+        "id": "04200_04249",
+        "author": "Henryk Sienkiewicz",
+        "title": "Quo vadis"
+      },
+      {
+        "id": "03300_03320",
+        "author": "Homérosz",
+        "title": "Odüsszeia"
+      },
+      {
+        "id": "03900_03979",
+        "author": "Lucius Apuleius",
+        "title": "Az aranyszamár"
+      },
+      {
+        "id": "11200_11242",
+        "author": "Gárdonyi Géza",
+        "title": "Láthatatlan ember"
+      }
+    ]
   }
 ]

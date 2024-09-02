@@ -63,5 +63,32 @@
       "title": "13 - XII. Epilog"
     }
   ],
-  "url": "https://mek.oszk.hu/03300/03308"
+  "url": "https://mek.oszk.hu/03300/03308",
+  "similar_books": [
+    {
+      "id": "05300_05312",
+      "author": "Mikszáth Kálmán",
+      "title": "A fekete város"
+    },
+    {
+      "id": "03300_03391",
+      "author": "Eötvös József",
+      "title": "Magyarország 1514-ben"
+    },
+    {
+      "id": "03100_03167",
+      "author": "Zrínyi Miklós",
+      "title": "Szigeti veszedelem"
+    },
+    {
+      "id": "02500_02580",
+      "author": "Kosztolányi Dezső",
+      "title": "A rossz orvos"
+    },
+    {
+      "id": "03300_03306",
+      "author": "Mikszáth Kálmán",
+      "title": "A Noszty fiú esete Tóth Marival"
+    }
+  ]
 }

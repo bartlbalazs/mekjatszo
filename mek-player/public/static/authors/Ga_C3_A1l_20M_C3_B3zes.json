@@ -112,6 +112,33 @@
         "title": "25 - Huszonötödik fejezet"
       }
     ],
-    "url": "https://mek.oszk.hu/25100/25126"
+    "url": "https://mek.oszk.hu/25100/25126",
+    "similar_books": [
+      {
+        "id": "10600_10621",
+        "author": "Gárdonyi Géza",
+        "title": "No még öggyet"
+      },
+      {
+        "id": "22100_22188",
+        "author": "Jókai Mór",
+        "title": "És mégis mozog a föld"
+      },
+      {
+        "id": "09300_09387",
+        "author": "Gárdonyi Géza",
+        "title": "Bojgás az világba"
+      },
+      {
+        "id": "09900_09914",
+        "author": "Gárdonyi Géza",
+        "title": "Göre Gábor biró úr könyve"
+      },
+      {
+        "id": "24800_24803",
+        "author": "Mikszáth Kálmán",
+        "title": "Beszterce ostroma"
+      }
+    ]
   }
 ]

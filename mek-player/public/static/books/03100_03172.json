@@ -95,5 +95,32 @@
       "title": "21. fejezet"
     }
   ],
-  "url": "https://mek.oszk.hu/03100/03172"
+  "url": "https://mek.oszk.hu/03100/03172",
+  "similar_books": [
+    {
+      "id": "02500_02545",
+      "author": "Rejtő Jenő",
+      "title": "Az előretolt helyőrség"
+    },
+    {
+      "id": "12300_12368",
+      "author": "Rejtő Jenő",
+      "title": "A fekete kapitány"
+    },
+    {
+      "id": "03700_03743",
+      "author": "Mikszáth Kálmán",
+      "title": "Szent Péter esernyője"
+    },
+    {
+      "id": "12300_12396",
+      "author": "Rejtő Jenő",
+      "title": "Az utolsó szó jogán"
+    },
+    {
+      "id": "11200_11242",
+      "author": "Gárdonyi Géza",
+      "title": "Láthatatlan ember"
+    }
+  ]
 }

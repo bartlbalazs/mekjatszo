@@ -1,92 +1,5 @@
 [
   {
-    "id": "22100_22166",
-    "title": "Édes Anna",
-    "author": "Kosztolányi Dezső",
-    "lead": "\"Az újság, hogy Annának valami kérőféléje akadt, nem maradt titokban, megtudta az egész ház, s a lakókat két pártra szakította. Báthory úr gondoskodott arról, hogy távollétében hátvédeket teremtsen magának, és megdolgozza a közvéleményt. Mindenekelőtt a cselédekre támaszkodott. Ficsorné, akinek ígért valamit, ha Annát megszerzi, föltétlen híve volt.\"",
-    "cover": "/22100/22166/borito.jpg",
-    "description": null,
-    "audio_files": [
-      {
-        "url": "Kosztolanyi_Dezso-Edes_Anna_01.mp3",
-        "title": "01. rész"
-      },
-      {
-        "url": "Kosztolanyi_Dezso-Edes_Anna_02.mp3",
-        "title": "02. rész"
-      },
-      {
-        "url": "Kosztolanyi_Dezso-Edes_Anna_03.mp3",
-        "title": "03. rész"
-      },
-      {
-        "url": "Kosztolanyi_Dezso-Edes_Anna_04.mp3",
-        "title": "04. rész"
-      },
-      {
-        "url": "Kosztolanyi_Dezso-Edes_Anna_05.mp3",
-        "title": "05. rész"
-      },
-      {
-        "url": "Kosztolanyi_Dezso-Edes_Anna_06.mp3",
-        "title": "06. rész"
-      },
-      {
-        "url": "Kosztolanyi_Dezso-Edes_Anna_07.mp3",
-        "title": "07. rész"
-      },
-      {
-        "url": "Kosztolanyi_Dezso-Edes_Anna_08.mp3",
-        "title": "08. rész"
-      },
-      {
-        "url": "Kosztolanyi_Dezso-Edes_Anna_09.mp3",
-        "title": "09. rész"
-      },
-      {
-        "url": "Kosztolanyi_Dezso-Edes_Anna_10.mp3",
-        "title": "10. rész"
-      },
-      {
-        "url": "Kosztolanyi_Dezso-Edes_Anna_11.mp3",
-        "title": "11. rész"
-      },
-      {
-        "url": "Kosztolanyi_Dezso-Edes_Anna_12.mp3",
-        "title": "12. rész"
-      },
-      {
-        "url": "Kosztolanyi_Dezso-Edes_Anna_13.mp3",
-        "title": "13. rész"
-      },
-      {
-        "url": "Kosztolanyi_Dezso-Edes_Anna_14.mp3",
-        "title": "14. rész"
-      },
-      {
-        "url": "Kosztolanyi_Dezso-Edes_Anna_15.mp3",
-        "title": "15. rész"
-      },
-      {
-        "url": "Kosztolanyi_Dezso-Edes_Anna_16.mp3",
-        "title": "16. rész"
-      },
-      {
-        "url": "Kosztolanyi_Dezso-Edes_Anna_17.mp3",
-        "title": "17. rész"
-      },
-      {
-        "url": "Kosztolanyi_Dezso-Edes_Anna_18.mp3",
-        "title": "18. rész"
-      },
-      {
-        "url": "Kosztolanyi_Dezso-Edes_Anna_19.mp3",
-        "title": "19. rész"
-      }
-    ],
-    "url": "https://mek.oszk.hu/22100/22166"
-  },
-  {
     "id": "11500_11545",
     "title": "Édes Anna",
     "author": "Kosztolányi Dezső",
@@ -183,7 +96,148 @@
         "title": "20_huszadik_fejezet.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/11500/11545"
+    "url": "https://mek.oszk.hu/11500/11545",
+    "similar_books": [
+      {
+        "id": "02500_02580",
+        "author": "Kosztolányi Dezső",
+        "title": "A rossz orvos"
+      },
+      {
+        "id": "22100_22166",
+        "author": "Kosztolányi Dezső",
+        "title": "Édes Anna"
+      },
+      {
+        "id": "10900_10945",
+        "author": "Kosztolányi Dezső",
+        "title": "Zsivajgó természet"
+      },
+      {
+        "id": "22200_22224",
+        "author": "Kosztolányi Dezső",
+        "title": "Kosztolányi Dezső összes novellája"
+      },
+      {
+        "id": "05300_05354",
+        "author": "Jókai Anna",
+        "title": "Ne féljetek"
+      }
+    ]
+  },
+  {
+    "id": "22100_22166",
+    "title": "Édes Anna",
+    "author": "Kosztolányi Dezső",
+    "lead": "\"Az újság, hogy Annának valami kérőféléje akadt, nem maradt titokban, megtudta az egész ház, s a lakókat két pártra szakította. Báthory úr gondoskodott arról, hogy távollétében hátvédeket teremtsen magának, és megdolgozza a közvéleményt. Mindenekelőtt a cselédekre támaszkodott. Ficsorné, akinek ígért valamit, ha Annát megszerzi, föltétlen híve volt.\"",
+    "cover": "/22100/22166/borito.jpg",
+    "description": null,
+    "audio_files": [
+      {
+        "url": "Kosztolanyi_Dezso-Edes_Anna_01.mp3",
+        "title": "01. rész"
+      },
+      {
+        "url": "Kosztolanyi_Dezso-Edes_Anna_02.mp3",
+        "title": "02. rész"
+      },
+      {
+        "url": "Kosztolanyi_Dezso-Edes_Anna_03.mp3",
+        "title": "03. rész"
+      },
+      {
+        "url": "Kosztolanyi_Dezso-Edes_Anna_04.mp3",
+        "title": "04. rész"
+      },
+      {
+        "url": "Kosztolanyi_Dezso-Edes_Anna_05.mp3",
+        "title": "05. rész"
+      },
+      {
+        "url": "Kosztolanyi_Dezso-Edes_Anna_06.mp3",
+        "title": "06. rész"
+      },
+      {
+        "url": "Kosztolanyi_Dezso-Edes_Anna_07.mp3",
+        "title": "07. rész"
+      },
+      {
+        "url": "Kosztolanyi_Dezso-Edes_Anna_08.mp3",
+        "title": "08. rész"
+      },
+      {
+        "url": "Kosztolanyi_Dezso-Edes_Anna_09.mp3",
+        "title": "09. rész"
+      },
+      {
+        "url": "Kosztolanyi_Dezso-Edes_Anna_10.mp3",
+        "title": "10. rész"
+      },
+      {
+        "url": "Kosztolanyi_Dezso-Edes_Anna_11.mp3",
+        "title": "11. rész"
+      },
+      {
+        "url": "Kosztolanyi_Dezso-Edes_Anna_12.mp3",
+        "title": "12. rész"
+      },
+      {
+        "url": "Kosztolanyi_Dezso-Edes_Anna_13.mp3",
+        "title": "13. rész"
+      },
+      {
+        "url": "Kosztolanyi_Dezso-Edes_Anna_14.mp3",
+        "title": "14. rész"
+      },
+      {
+        "url": "Kosztolanyi_Dezso-Edes_Anna_15.mp3",
+        "title": "15. rész"
+      },
+      {
+        "url": "Kosztolanyi_Dezso-Edes_Anna_16.mp3",
+        "title": "16. rész"
+      },
+      {
+        "url": "Kosztolanyi_Dezso-Edes_Anna_17.mp3",
+        "title": "17. rész"
+      },
+      {
+        "url": "Kosztolanyi_Dezso-Edes_Anna_18.mp3",
+        "title": "18. rész"
+      },
+      {
+        "url": "Kosztolanyi_Dezso-Edes_Anna_19.mp3",
+        "title": "19. rész"
+      }
+    ],
+    "url": "https://mek.oszk.hu/22100/22166",
+    "similar_books": [
+      {
+        "id": "18700_18753",
+        "author": "Mihályi Antal",
+        "title": "Ili néni állatkertje"
+      },
+      {
+        "id": "10900_10945",
+        "author": "Kosztolányi Dezső",
+        "title": "Zsivajgó természet"
+      },
+      {
+        "id": "22200_22224",
+        "author": "Kosztolányi Dezső",
+        "title": "Kosztolányi Dezső összes novellája"
+      },
+      {
+        "id": "05300_05354",
+        "author": "Jókai Anna",
+        "title": "Ne féljetek"
+      },
+      {
+        "id": "02500_02580",
+        "author": "Kosztolányi Dezső",
+        "title": "A rossz orvos"
+      }
+    ]
   },
   {
     "id": "11300_11319",
@@ -270,7 +324,34 @@
         "title": "18_Esti_Kornel.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/11300/11319"
+    "url": "https://mek.oszk.hu/11300/11319",
+    "similar_books": [
+      {
+        "id": "02500_02580",
+        "author": "Kosztolányi Dezső",
+        "title": "A rossz orvos"
+      },
+      {
+        "id": "22200_22224",
+        "author": "Kosztolányi Dezső",
+        "title": "Kosztolányi Dezső összes novellája"
+      },
+      {
+        "id": "10900_10945",
+        "author": "Kosztolányi Dezső",
+        "title": "Zsivajgó természet"
+      },
+      {
+        "id": "04400_04480",
+        "author": "Nyikolaj Vasziljevics Gogol",
+        "title": "Az orr"
+      },
+      {
+        "id": "02500_02581",
+        "author": "Kosztolányi Dezső",
+        "title": "Pacsirta"
+      }
+    ]
   },
   {
     "id": "21600_21672",
@@ -449,7 +530,34 @@
         "title": "42 - Kása Ilona szerencséje"
       }
     ],
-    "url": "https://mek.oszk.hu/21600/21672"
+    "url": "https://mek.oszk.hu/21600/21672",
+    "similar_books": [
+      {
+        "id": "15800_15812",
+        "author": "Jenei András",
+        "title": "Az enyém"
+      },
+      {
+        "id": "22500_22519",
+        "author": "Gárdonyi Géza",
+        "title": "Ida regénye"
+      },
+      {
+        "id": "10600_10621",
+        "author": "Gárdonyi Géza",
+        "title": "No még öggyet"
+      },
+      {
+        "id": "10500_10570",
+        "author": "Gárdonyi Géza",
+        "title": "Kátsa"
+      },
+      {
+        "id": "22600_22667",
+        "author": null,
+        "title": "Mesepelyhek"
+      }
+    ]
   },
   {
     "id": "22200_22224",
@@ -508,7 +616,34 @@
         "title": "12. rész"
       }
     ],
-    "url": "https://mek.oszk.hu/22200/22224"
+    "url": "https://mek.oszk.hu/22200/22224",
+    "similar_books": [
+      {
+        "id": "10900_10945",
+        "author": "Kosztolányi Dezső",
+        "title": "Zsivajgó természet"
+      },
+      {
+        "id": "02500_02580",
+        "author": "Kosztolányi Dezső",
+        "title": "A rossz orvos"
+      },
+      {
+        "id": "22100_22166",
+        "author": "Kosztolányi Dezső",
+        "title": "Édes Anna"
+      },
+      {
+        "id": "02500_02595",
+        "author": "Csáth Géza",
+        "title": "Lidércálmok"
+      },
+      {
+        "id": "02700_02778",
+        "author": "Bródy Sándor",
+        "title": "Az ezüst kecske ; A nap lovagja"
+      }
+    ]
   },
   {
     "id": "22100_22195",
@@ -567,7 +702,34 @@
         "title": "12. rész"
       }
     ],
-    "url": "https://mek.oszk.hu/22100/22195"
+    "url": "https://mek.oszk.hu/22100/22195",
+    "similar_books": [
+      {
+        "id": "03000_03087",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekZala megye - Keménfai mesék"
+      },
+      {
+        "id": "10900_10945",
+        "author": "Kosztolányi Dezső",
+        "title": "Zsivajgó természet"
+      },
+      {
+        "id": "18700_18753",
+        "author": "Mihályi Antal",
+        "title": "Ili néni állatkertje"
+      },
+      {
+        "id": "15800_15812",
+        "author": "Jenei András",
+        "title": "Az enyém"
+      },
+      {
+        "id": "07600_07604",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+      }
+    ]
   },
   {
     "id": "02500_02581",
@@ -638,7 +800,34 @@
         "title": "14 - Utószó"
       }
     ],
-    "url": "https://mek.oszk.hu/02500/02581"
+    "url": "https://mek.oszk.hu/02500/02581",
+    "similar_books": [
+      {
+        "id": "22200_22243",
+        "author": "Kosztolányi Dezső",
+        "title": "Pacsirta"
+      },
+      {
+        "id": "10900_10945",
+        "author": "Kosztolányi Dezső",
+        "title": "Zsivajgó természet"
+      },
+      {
+        "id": "02500_02580",
+        "author": "Kosztolányi Dezső",
+        "title": "A rossz orvos"
+      },
+      {
+        "id": "11200_11242",
+        "author": "Gárdonyi Géza",
+        "title": "Láthatatlan ember"
+      },
+      {
+        "id": "05300_05354",
+        "author": "Jókai Anna",
+        "title": "Ne féljetek"
+      }
+    ]
   },
   {
     "id": "22200_22243",
@@ -705,7 +894,34 @@
         "title": "14. rész"
       }
     ],
-    "url": "https://mek.oszk.hu/22200/22243"
+    "url": "https://mek.oszk.hu/22200/22243",
+    "similar_books": [
+      {
+        "id": "02500_02581",
+        "author": "Kosztolányi Dezső",
+        "title": "Pacsirta"
+      },
+      {
+        "id": "10900_10945",
+        "author": "Kosztolányi Dezső",
+        "title": "Zsivajgó természet"
+      },
+      {
+        "id": "02500_02580",
+        "author": "Kosztolányi Dezső",
+        "title": "A rossz orvos"
+      },
+      {
+        "id": "10500_10570",
+        "author": "Gárdonyi Géza",
+        "title": "Kátsa"
+      },
+      {
+        "id": "22100_22166",
+        "author": "Kosztolányi Dezső",
+        "title": "Édes Anna"
+      }
+    ]
   },
   {
     "id": "02500_02580",
@@ -768,7 +984,34 @@
         "title": "12. fejezet"
       }
     ],
-    "url": "https://mek.oszk.hu/02500/02580"
+    "url": "https://mek.oszk.hu/02500/02580",
+    "similar_books": [
+      {
+        "id": "10900_10945",
+        "author": "Kosztolányi Dezső",
+        "title": "Zsivajgó természet"
+      },
+      {
+        "id": "02500_02581",
+        "author": "Kosztolányi Dezső",
+        "title": "Pacsirta"
+      },
+      {
+        "id": "22200_22224",
+        "author": "Kosztolányi Dezső",
+        "title": "Kosztolányi Dezső összes novellája"
+      },
+      {
+        "id": "03300_03308",
+        "author": "Mikszáth Kálmán",
+        "title": "Új Zrínyiász"
+      },
+      {
+        "id": "22200_22243",
+        "author": "Kosztolányi Dezső",
+        "title": "Pacsirta"
+      }
+    ]
   },
   {
     "id": "10900_10945",
@@ -819,6 +1062,33 @@
         "title": "10_Dragakovek_beszede.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/10900/10945"
+    "url": "https://mek.oszk.hu/10900/10945",
+    "similar_books": [
+      {
+        "id": "02500_02580",
+        "author": "Kosztolányi Dezső",
+        "title": "A rossz orvos"
+      },
+      {
+        "id": "02500_02581",
+        "author": "Kosztolányi Dezső",
+        "title": "Pacsirta"
+      },
+      {
+        "id": "22200_22243",
+        "author": "Kosztolányi Dezső",
+        "title": "Pacsirta"
+      },
+      {
+        "id": "22200_22224",
+        "author": "Kosztolányi Dezső",
+        "title": "Kosztolányi Dezső összes novellája"
+      },
+      {
+        "id": "22100_22166",
+        "author": "Kosztolányi Dezső",
+        "title": "Édes Anna"
+      }
+    ]
   }
 ]

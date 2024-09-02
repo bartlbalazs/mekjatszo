@@ -59,5 +59,32 @@
       "title": "13 - Befejezés"
     }
   ],
-  "url": "https://mek.oszk.hu/12400/12471"
+  "url": "https://mek.oszk.hu/12400/12471",
+  "similar_books": [
+    {
+      "id": "09700_09700",
+      "author": "Jókai Mór",
+      "title": "A kőszívű ember fiai"
+    },
+    {
+      "id": "11700_11747",
+      "author": "Tar Károly",
+      "title": "Hajnalban vadnyuszik ablakom alatt"
+    },
+    {
+      "id": "12300_12368",
+      "author": "Rejtő Jenő",
+      "title": "A fekete kapitány"
+    },
+    {
+      "id": "02900_02954",
+      "author": "Babits Mihály",
+      "title": "A gólyakalifa"
+    },
+    {
+      "id": "02900_02965",
+      "author": "Tamási Áron",
+      "title": "Ábel a rengetegben"
+    }
+  ]
 }

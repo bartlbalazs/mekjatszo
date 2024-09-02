@@ -31,5 +31,32 @@
       "title": "06 - Johnson megtudja, hogy semmi baja csak meg kell halnia"
     }
   ],
-  "url": "https://mek.oszk.hu/12300/12369"
+  "url": "https://mek.oszk.hu/12300/12369",
+  "similar_books": [
+    {
+      "id": "11700_11747",
+      "author": "Tar Károly",
+      "title": "Hajnalban vadnyuszik ablakom alatt"
+    },
+    {
+      "id": "12300_12398",
+      "author": "Rejtő Jenő",
+      "title": "Drótnélküli gyilkosság"
+    },
+    {
+      "id": "12200_12244",
+      "author": "Komor Zoltán",
+      "title": "Fekete múzsák"
+    },
+    {
+      "id": "12400_12439",
+      "author": "Rejtő Jenő",
+      "title": "Halálsziget"
+    },
+    {
+      "id": "12300_12368",
+      "author": "Rejtő Jenő",
+      "title": "A fekete kapitány"
+    }
+  ]
 }

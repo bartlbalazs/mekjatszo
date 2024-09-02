@@ -127,5 +127,32 @@
       "title": "29-Cserfes_csitri.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/12500/12534"
+  "url": "https://mek.oszk.hu/12500/12534",
+  "similar_books": [
+    {
+      "id": "11800_11839",
+      "author": "Végh Miki",
+      "title": "Humor-morzsák"
+    },
+    {
+      "id": "02300_02386",
+      "author": "Mikszáth Kálmán",
+      "title": "A gyerekek"
+    },
+    {
+      "id": "03700_03743",
+      "author": "Mikszáth Kálmán",
+      "title": "Szent Péter esernyője"
+    },
+    {
+      "id": "18700_18753",
+      "author": "Mihályi Antal",
+      "title": "Ili néni állatkertje"
+    },
+    {
+      "id": "11200_11236",
+      "author": "Krúdy Gyula",
+      "title": "Jézuska csizmájaHangoskönyv"
+    }
+  ]
 }

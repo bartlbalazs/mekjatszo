@@ -51,5 +51,32 @@
       "title": "11 - Egy elfajzott utód"
     }
   ],
-  "url": "https://mek.oszk.hu/12400/12446"
+  "url": "https://mek.oszk.hu/12400/12446",
+  "similar_books": [
+    {
+      "id": "24600_24657",
+      "author": "Rejtő Jenő",
+      "title": "Legény a talpán"
+    },
+    {
+      "id": "12300_12398",
+      "author": "Rejtő Jenő",
+      "title": "Drótnélküli gyilkosság"
+    },
+    {
+      "id": "02900_02953",
+      "author": "Rejtő Jenő",
+      "title": "Piszkos Fred, a kapitány"
+    },
+    {
+      "id": "23300_23314",
+      "author": null,
+      "title": "Kató mint asszony"
+    },
+    {
+      "id": "02900_02965",
+      "author": "Tamási Áron",
+      "title": "Ábel a rengetegben"
+    }
+  ]
 }

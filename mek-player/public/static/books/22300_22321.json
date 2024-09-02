@@ -47,5 +47,32 @@
       "title": "10. rész"
     }
   ],
-  "url": "https://mek.oszk.hu/22300/22321"
+  "url": "https://mek.oszk.hu/22300/22321",
+  "similar_books": [
+    {
+      "id": "14600_14639",
+      "author": "Lehoczki Károly",
+      "title": "Az ismeretlen kert"
+    },
+    {
+      "id": "17000_17009",
+      "author": "Lehoczki Károly",
+      "title": "Sétány a pokolban"
+    },
+    {
+      "id": "18700_18753",
+      "author": "Mihályi Antal",
+      "title": "Ili néni állatkertje"
+    },
+    {
+      "id": "06700_06785",
+      "author": "Tar Károly",
+      "title": "Szerenád dobra, cintányérra és más ütős hangszerekreHangoskönyv"
+    },
+    {
+      "id": "19500_19501",
+      "author": "Lehoczki Károly",
+      "title": "Szobrok huzatban"
+    }
+  ]
 }

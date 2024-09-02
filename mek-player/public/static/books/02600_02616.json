@@ -103,5 +103,32 @@
       "title": "23 - Utószó"
     }
   ],
-  "url": "https://mek.oszk.hu/02600/02616"
+  "url": "https://mek.oszk.hu/02600/02616",
+  "similar_books": [
+    {
+      "id": "02600_02671",
+      "author": "Tóth Béla",
+      "title": "A magyar anekdotakincs"
+    },
+    {
+      "id": "02700_02778",
+      "author": "Bródy Sándor",
+      "title": "Az ezüst kecske ; A nap lovagja"
+    },
+    {
+      "id": "03000_03082",
+      "author": "Gárdonyi Géza",
+      "title": "Az én falum"
+    },
+    {
+      "id": "02900_02970",
+      "author": "Tamási Áron",
+      "title": "Bölcső és Bagoly"
+    },
+    {
+      "id": "03300_03322",
+      "author": "Reményik László",
+      "title": "Ezermester kutyák"
+    }
+  ]
 }

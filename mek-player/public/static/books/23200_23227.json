@@ -155,5 +155,32 @@
       "title": "36-Brown_C_C-Sorscsapda.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/23200/23227"
+  "url": "https://mek.oszk.hu/23200/23227",
+  "similar_books": [
+    {
+      "id": "23100_23187",
+      "author": "Braun Krisztina",
+      "title": "Halime"
+    },
+    {
+      "id": "06700_06785",
+      "author": "Tar Károly",
+      "title": "Szerenád dobra, cintányérra és más ütős hangszerekreHangoskönyv"
+    },
+    {
+      "id": "19500_19566",
+      "author": "Boér Péter Pál",
+      "title": "Szabályerősítő"
+    },
+    {
+      "id": "13800_13810",
+      "author": "Jenei András",
+      "title": "Nyeregben a Konstantin-kereszt"
+    },
+    {
+      "id": "06000_06060",
+      "author": "Móra Ferenc",
+      "title": "A körtemuzsika"
+    }
+  ]
 }

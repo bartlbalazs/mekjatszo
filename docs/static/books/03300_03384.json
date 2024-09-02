@@ -459,5 +459,32 @@
       "title": "112 - Végezetül szól az íródeák"
     }
   ],
-  "url": "https://mek.oszk.hu/03300/03384"
+  "url": "https://mek.oszk.hu/03300/03384",
+  "similar_books": [
+    {
+      "id": "22200_22224",
+      "author": "Kosztolányi Dezső",
+      "title": "Kosztolányi Dezső összes novellája"
+    },
+    {
+      "id": "03900_03994",
+      "author": "Gustave Flaubert",
+      "title": "Bovaryné"
+    },
+    {
+      "id": "02700_02751",
+      "author": "Daniel Defoe",
+      "title": "Robinson"
+    },
+    {
+      "id": "03900_03979",
+      "author": "Lucius Apuleius",
+      "title": "Az aranyszamár"
+    },
+    {
+      "id": "03300_03379",
+      "author": "Emily Brontë",
+      "title": "Üvöltő szelek"
+    }
+  ]
 }

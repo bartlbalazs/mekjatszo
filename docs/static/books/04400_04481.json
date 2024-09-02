@@ -271,5 +271,32 @@
       "title": "65 - Függelék"
     }
   ],
-  "url": "https://mek.oszk.hu/04400/04481"
+  "url": "https://mek.oszk.hu/04400/04481",
+  "similar_books": [
+    {
+      "id": "11200_11241",
+      "author": "Karinthy Frigyes",
+      "title": "Tanár úr kérem"
+    },
+    {
+      "id": "02300_02376",
+      "author": "Karinthy Frigyes",
+      "title": "Az utolsó palackposta"
+    },
+    {
+      "id": "18300_18384",
+      "author": "Karinthy Frigyes",
+      "title": "100 új humoreszk"
+    },
+    {
+      "id": "19100_19144",
+      "author": "Karinthy Frigyes",
+      "title": "Tanár úr kérem"
+    },
+    {
+      "id": "02600_02660",
+      "author": "Karinthy Frigyes",
+      "title": "Jelbeszéd 1."
+    }
+  ]
 }

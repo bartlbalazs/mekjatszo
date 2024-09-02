@@ -108,7 +108,34 @@
         "title": "25 - 25. ének"
       }
     ],
-    "url": "https://mek.oszk.hu/03200/03295"
+    "url": "https://mek.oszk.hu/03200/03295",
+    "similar_books": [
+      {
+        "id": "03000_03087",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekZala megye - Keménfai mesék"
+      },
+      {
+        "id": "17000_17009",
+        "author": "Lehoczki Károly",
+        "title": "Sétány a pokolban"
+      },
+      {
+        "id": "14600_14639",
+        "author": "Lehoczki Károly",
+        "title": "Az ismeretlen kert"
+      },
+      {
+        "id": "07600_07604",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+      },
+      {
+        "id": "11200_11267",
+        "author": "Móricz Zsigmond",
+        "title": "A szerelmes levél"
+      }
+    ]
   },
   {
     "id": "20800_20808",
@@ -143,7 +170,34 @@
         "title": "06 - Ismét Holli-Bolliában"
       }
     ],
-    "url": "https://mek.oszk.hu/20800/20808"
+    "url": "https://mek.oszk.hu/20800/20808",
+    "similar_books": [
+      {
+        "id": "18700_18753",
+        "author": "Mihályi Antal",
+        "title": "Ili néni állatkertje"
+      },
+      {
+        "id": "17000_17009",
+        "author": "Lehoczki Károly",
+        "title": "Sétány a pokolban"
+      },
+      {
+        "id": "22200_22250",
+        "author": "Vidra Szabó Ferenc",
+        "title": "Uszadékfa"
+      },
+      {
+        "id": "06700_06785",
+        "author": "Tar Károly",
+        "title": "Szerenád dobra, cintányérra és más ütős hangszerekreHangoskönyv"
+      },
+      {
+        "id": "22300_22321",
+        "author": "Lehoczki Károly",
+        "title": "Dal a semmiből"
+      }
+    ]
   },
   {
     "id": "20800_20809",
@@ -182,6 +236,33 @@
         "title": "07 - Hófüllencs Galádor"
       }
     ],
-    "url": "https://mek.oszk.hu/20800/20809"
+    "url": "https://mek.oszk.hu/20800/20809",
+    "similar_books": [
+      {
+        "id": "20800_20808",
+        "author": "Pálnagy László",
+        "title": "Digitelló Holli-Bolliában"
+      },
+      {
+        "id": "15600_15626",
+        "author": "Komor Zoltán",
+        "title": "Húgycsőbalerina"
+      },
+      {
+        "id": "09900_09914",
+        "author": "Gárdonyi Géza",
+        "title": "Göre Gábor biró úr könyve"
+      },
+      {
+        "id": "06200_06227",
+        "author": "",
+        "title": "Folyik a híd"
+      },
+      {
+        "id": "09300_09387",
+        "author": "Gárdonyi Géza",
+        "title": "Bojgás az világba"
+      }
+    ]
   }
 ]

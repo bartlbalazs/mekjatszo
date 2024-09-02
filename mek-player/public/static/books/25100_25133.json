@@ -107,5 +107,32 @@
       "title": "25_track_25.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/25100/25133"
+  "url": "https://mek.oszk.hu/25100/25133",
+  "similar_books": [
+    {
+      "id": "06400_06439",
+      "author": "",
+      "title": "Öt magyar népmese hangillusztrációval"
+    },
+    {
+      "id": "15200_15200",
+      "author": "Benedek Elek",
+      "title": "Válogatott mesék"
+    },
+    {
+      "id": "18000_18022",
+      "author": "Arany János",
+      "title": "Rózsa és Ibolya"
+    },
+    {
+      "id": "14000_14087",
+      "author": "Vígh Kristóf",
+      "title": "Magyar virrasztásBizánci alkonyati és napkeleti zsolozsma ősi magyar dallamokon"
+    },
+    {
+      "id": "11900_11997",
+      "author": "V. Pócsay Rozika",
+      "title": "A puding próbája"
+    }
+  ]
 }

@@ -47,5 +47,32 @@
       "title": "10 - 10. fejezet"
     }
   ],
-  "url": "https://mek.oszk.hu/14000/14010"
+  "url": "https://mek.oszk.hu/14000/14010",
+  "similar_books": [
+    {
+      "id": "16200_16225",
+      "author": "Nagy Károly",
+      "title": "A légió kísértete"
+    },
+    {
+      "id": "12100_12107",
+      "author": "Nagy Károly",
+      "title": "Az elátkozott erőd"
+    },
+    {
+      "id": "11300_11304",
+      "author": "Nagy Károly",
+      "title": "Sivatagi őrjárat"
+    },
+    {
+      "id": "15600_15626",
+      "author": "Komor Zoltán",
+      "title": "Húgycsőbalerina"
+    },
+    {
+      "id": "12400_12409",
+      "author": "Nagy Károly",
+      "title": "Csempészháború"
+    }
+  ]
 }

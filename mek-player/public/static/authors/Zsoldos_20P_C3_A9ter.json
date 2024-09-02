@@ -248,7 +248,34 @@
         "title": "59 - Utószó"
       }
     ],
-    "url": "https://mek.oszk.hu/03000/03093"
+    "url": "https://mek.oszk.hu/03000/03093",
+    "similar_books": [
+      {
+        "id": "03000_03082",
+        "author": "Gárdonyi Géza",
+        "title": "Az én falum"
+      },
+      {
+        "id": "09700_09700",
+        "author": "Jókai Mór",
+        "title": "A kőszívű ember fiai"
+      },
+      {
+        "id": "02500_02595",
+        "author": "Csáth Géza",
+        "title": "Lidércálmok"
+      },
+      {
+        "id": "11700_11747",
+        "author": "Tar Károly",
+        "title": "Hajnalban vadnyuszik ablakom alatt"
+      },
+      {
+        "id": "11200_11242",
+        "author": "Gárdonyi Géza",
+        "title": "Láthatatlan ember"
+      }
+    ]
   },
   {
     "id": "02300_02375",
@@ -355,6 +382,33 @@
         "title": "23 - XXIV."
       }
     ],
-    "url": "https://mek.oszk.hu/02300/02375"
+    "url": "https://mek.oszk.hu/02300/02375",
+    "similar_books": [
+      {
+        "id": "12300_12378",
+        "author": "Rejtő Jenő",
+        "title": "A pokol zsoldosai"
+      },
+      {
+        "id": "05300_05312",
+        "author": "Mikszáth Kálmán",
+        "title": "A fekete város"
+      },
+      {
+        "id": "03300_03391",
+        "author": "Eötvös József",
+        "title": "Magyarország 1514-ben"
+      },
+      {
+        "id": "02300_02358",
+        "author": "Jókai Mór",
+        "title": "A gazdag szegények"
+      },
+      {
+        "id": "05400_05486",
+        "author": "Móricz Zsigmond",
+        "title": "Betyár"
+      }
+    ]
   }
 ]

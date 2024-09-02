@@ -115,5 +115,32 @@
       "title": "27 - XXVII."
     }
   ],
-  "url": "https://mek.oszk.hu/19100/19149"
+  "url": "https://mek.oszk.hu/19100/19149",
+  "similar_books": [
+    {
+      "id": "21900_21995",
+      "author": "Németh Árpád",
+      "title": "A kő"
+    },
+    {
+      "id": "10500_10570",
+      "author": "Gárdonyi Géza",
+      "title": "Kátsa"
+    },
+    {
+      "id": "13800_13810",
+      "author": "Jenei András",
+      "title": "Nyeregben a Konstantin-kereszt"
+    },
+    {
+      "id": "25100_25131",
+      "author": "Dézsi Zoltán",
+      "title": "Bubu a kopasz sárkány"
+    },
+    {
+      "id": "16100_16149",
+      "author": "Menyhei József",
+      "title": "Múltbanéző"
+    }
+  ]
 }

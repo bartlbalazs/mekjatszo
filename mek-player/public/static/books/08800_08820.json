@@ -5319,5 +5319,32 @@
       "title": "22"
     }
   ],
-  "url": "https://mek.oszk.hu/08800/08820"
+  "url": "https://mek.oszk.hu/08800/08820",
+  "similar_books": [
+    {
+      "id": "03100_03179",
+      "author": "Balázs Ferenc",
+      "title": "A rög alatt"
+    },
+    {
+      "id": "11200_11242",
+      "author": "Gárdonyi Géza",
+      "title": "Láthatatlan ember"
+    },
+    {
+      "id": "03000_03071",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekTolna megye - Váralja,Baranya megye - Zengővárkony"
+    },
+    {
+      "id": "11700_11747",
+      "author": "Tar Károly",
+      "title": "Hajnalban vadnyuszik ablakom alatt"
+    },
+    {
+      "id": "03700_03741",
+      "author": "Tamási Áron",
+      "title": "Ábel az országban"
+    }
+  ]
 }

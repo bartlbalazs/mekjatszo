@@ -168,6 +168,33 @@
         "title": "39 - Epilógus : Augusztus Rómában"
       }
     ],
-    "url": "https://mek.oszk.hu/02300/02377"
+    "url": "https://mek.oszk.hu/02300/02377",
+    "similar_books": [
+      {
+        "id": "11200_11242",
+        "author": "Gárdonyi Géza",
+        "title": "Láthatatlan ember"
+      },
+      {
+        "id": "03000_03082",
+        "author": "Gárdonyi Géza",
+        "title": "Az én falum"
+      },
+      {
+        "id": "04700_04754",
+        "author": "Gárdonyi Géza",
+        "title": "Égre néző lélek"
+      },
+      {
+        "id": "05400_05486",
+        "author": "Móricz Zsigmond",
+        "title": "Betyár"
+      },
+      {
+        "id": "22500_22519",
+        "author": "Gárdonyi Géza",
+        "title": "Ida regénye"
+      }
+    ]
   }
 ]

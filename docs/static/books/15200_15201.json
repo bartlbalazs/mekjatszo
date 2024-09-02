@@ -139,5 +139,32 @@
       "title": "32-Mate_G_Peter-Eldobott_asszony.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/15200/15201"
+  "url": "https://mek.oszk.hu/15200/15201",
+  "similar_books": [
+    {
+      "id": "19500_19566",
+      "author": "Boér Péter Pál",
+      "title": "Szabályerősítő"
+    },
+    {
+      "id": "19300_19312",
+      "author": "Máté G. Péter",
+      "title": "Józsefváros hercegnője ; Olyan, mint az egyszeregy ; Apatitok"
+    },
+    {
+      "id": "18900_18972",
+      "author": "Máté G. Péter",
+      "title": "Láthatatlan lények"
+    },
+    {
+      "id": "14800_14800",
+      "author": "Máté G. Péter",
+      "title": "A szakállas angyal"
+    },
+    {
+      "id": "02900_02972",
+      "author": "Benedek Elek",
+      "title": "Többsincs királyfi és más mesék"
+    }
+  ]
 }

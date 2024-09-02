@@ -127,5 +127,32 @@
       "title": "30_gore_gabor.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/09900/09914"
+  "url": "https://mek.oszk.hu/09900/09914",
+  "similar_books": [
+    {
+      "id": "10600_10621",
+      "author": "Gárdonyi Géza",
+      "title": "No még öggyet"
+    },
+    {
+      "id": "09300_09387",
+      "author": "Gárdonyi Géza",
+      "title": "Bojgás az világba"
+    },
+    {
+      "id": "09300_09340",
+      "author": "Gárdonyi Géza",
+      "title": "Göre Martsa lakodalma"
+    },
+    {
+      "id": "24900_24935",
+      "author": "Krúdy Gyula",
+      "title": "Az élet álom"
+    },
+    {
+      "id": "10000_10018",
+      "author": "Gárdonyi Géza",
+      "title": "Vakarts"
+    }
+  ]
 }

@@ -83,5 +83,32 @@
       "title": "18_Esti_Kornel.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/11300/11319"
+  "url": "https://mek.oszk.hu/11300/11319",
+  "similar_books": [
+    {
+      "id": "02500_02580",
+      "author": "Kosztolányi Dezső",
+      "title": "A rossz orvos"
+    },
+    {
+      "id": "22200_22224",
+      "author": "Kosztolányi Dezső",
+      "title": "Kosztolányi Dezső összes novellája"
+    },
+    {
+      "id": "10900_10945",
+      "author": "Kosztolányi Dezső",
+      "title": "Zsivajgó természet"
+    },
+    {
+      "id": "04400_04480",
+      "author": "Nyikolaj Vasziljevics Gogol",
+      "title": "Az orr"
+    },
+    {
+      "id": "02500_02581",
+      "author": "Kosztolányi Dezső",
+      "title": "Pacsirta"
+    }
+  ]
 }

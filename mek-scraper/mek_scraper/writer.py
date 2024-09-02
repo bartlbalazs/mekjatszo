@@ -3,6 +3,7 @@ import logging
 import os
 
 import util
+from model import Book
 
 FULL_JSON = 'full_list.json'
 AUTHOR_LIST_JSON = 'author_list.json'
@@ -12,17 +13,17 @@ class Writer:
     def __init__(self):
         self.logger = logging.getLogger(__name__)
 
-    def write(self, books: list, output_path: str) -> None:
-        self.write_full_data_to_file(books, output_path)
-        self.write_book_data_to_files(books, output_path)
-        self.write_grouped_by_author_to_files(books, output_path)
+    def write(self, books: list[Book], output_path: str) -> None:
+        self._write_full_data_to_file(books, output_path)
+        self._write_book_data_to_files(books, output_path)
+        self._write_grouped_by_author_to_files(books, output_path)
 
-    def write_full_data_to_file(self, books, output_path):
+    def _write_full_data_to_file(self, books, output_path):
         file_path = os.path.join(output_path, FULL_JSON)
         self.logger.info(f"Starting to write full to {file_path}")
-        self._write_books_to_file(books, file_path, keys_to_remove=['audio_files', 'description'])
+        self._write_books_to_file(books, file_path, keys_to_remove=['audio_files', 'description', 'similar_books'])
 
-    def write_book_data_to_files(self, books, output_path):
+    def _write_book_data_to_files(self, books, output_path):
         os.makedirs(os.path.join(output_path, 'books'), exist_ok=True)
         for book in books:
             file_path = os.path.join(output_path, 'books', f"{book.id}.json")
@@ -34,7 +35,7 @@ class Writer:
             except Exception as e:
                 self.logger.error(f"Failed to write data to {file_path}: {e}")
 
-    def write_grouped_by_author_to_files(self, books, output_path):
+    def _write_grouped_by_author_to_files(self, books, output_path):
 
         def _group_books_by_author(books):
             grouped_dict = {}

@@ -107,5 +107,32 @@
       "title": "24 - Negyedik ének 6."
     }
   ],
-  "url": "https://mek.oszk.hu/05400/05486"
+  "url": "https://mek.oszk.hu/05400/05486",
+  "similar_books": [
+    {
+      "id": "02900_02965",
+      "author": "Tamási Áron",
+      "title": "Ábel a rengetegben"
+    },
+    {
+      "id": "09700_09700",
+      "author": "Jókai Mór",
+      "title": "A kőszívű ember fiai"
+    },
+    {
+      "id": "11200_11242",
+      "author": "Gárdonyi Géza",
+      "title": "Láthatatlan ember"
+    },
+    {
+      "id": "03900_03985",
+      "author": "Móra Ferenc",
+      "title": "Rab ember fiai"
+    },
+    {
+      "id": "02700_02778",
+      "author": "Bródy Sándor",
+      "title": "Az ezüst kecske ; A nap lovagja"
+    }
+  ]
 }

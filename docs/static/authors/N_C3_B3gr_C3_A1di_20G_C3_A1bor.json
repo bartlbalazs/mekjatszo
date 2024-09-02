@@ -64,7 +64,34 @@
         "title": "14 - Megfelel Jézusnak"
       }
     ],
-    "url": "https://mek.oszk.hu/18900/18907"
+    "url": "https://mek.oszk.hu/18900/18907",
+    "similar_books": [
+      {
+        "id": "09900_09914",
+        "author": "Gárdonyi Géza",
+        "title": "Göre Gábor biró úr könyve"
+      },
+      {
+        "id": "10600_10621",
+        "author": "Gárdonyi Géza",
+        "title": "No még öggyet"
+      },
+      {
+        "id": "06400_06439",
+        "author": "",
+        "title": "Öt magyar népmese hangillusztrációval"
+      },
+      {
+        "id": "22600_22667",
+        "author": null,
+        "title": "Mesepelyhek"
+      },
+      {
+        "id": "12500_12529",
+        "author": "Gubcsi Lajos",
+        "title": "Jut eszembe... ami kimaradt"
+      }
+    ]
   },
   {
     "id": "18900_18906",
@@ -79,6 +106,33 @@
         "title": "0 - Szerelmünk, Sisi"
       }
     ],
-    "url": "https://mek.oszk.hu/18900/18906"
+    "url": "https://mek.oszk.hu/18900/18906",
+    "similar_books": [
+      {
+        "id": "25100_25113",
+        "author": "Krúdy Gyula",
+        "title": "Rózsa Sándor"
+      },
+      {
+        "id": "22500_22519",
+        "author": "Gárdonyi Géza",
+        "title": "Ida regénye"
+      },
+      {
+        "id": "07600_07604",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+      },
+      {
+        "id": "10500_10570",
+        "author": "Gárdonyi Géza",
+        "title": "Kátsa"
+      },
+      {
+        "id": "15800_15812",
+        "author": "Jenei András",
+        "title": "Az enyém"
+      }
+    ]
   }
 ]

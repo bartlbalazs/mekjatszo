@@ -36,6 +36,33 @@
         "title": "6 - Negyedik könyv"
       }
     ],
-    "url": "https://mek.oszk.hu/02500/02546"
+    "url": "https://mek.oszk.hu/02500/02546",
+    "similar_books": [
+      {
+        "id": "02500_02580",
+        "author": "Kosztolányi Dezső",
+        "title": "A rossz orvos"
+      },
+      {
+        "id": "10900_10945",
+        "author": "Kosztolányi Dezső",
+        "title": "Zsivajgó természet"
+      },
+      {
+        "id": "02500_02581",
+        "author": "Kosztolányi Dezső",
+        "title": "Pacsirta"
+      },
+      {
+        "id": "10500_10570",
+        "author": "Gárdonyi Géza",
+        "title": "Kátsa"
+      },
+      {
+        "id": "22200_22243",
+        "author": "Kosztolányi Dezső",
+        "title": "Pacsirta"
+      }
+    ]
   }
 ]

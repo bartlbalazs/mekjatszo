@@ -151,5 +151,32 @@
       "title": "35 - Indiaiak"
     }
   ],
-  "url": "https://mek.oszk.hu/07100/07153"
+  "url": "https://mek.oszk.hu/07100/07153",
+  "similar_books": [
+    {
+      "id": "06700_06785",
+      "author": "Tar Károly",
+      "title": "Szerenád dobra, cintányérra és más ütős hangszerekreHangoskönyv"
+    },
+    {
+      "id": "11700_11747",
+      "author": "Tar Károly",
+      "title": "Hajnalban vadnyuszik ablakom alatt"
+    },
+    {
+      "id": "22100_22167",
+      "author": "Móricz Zsigmond",
+      "title": "Pillangó és válogatott elbeszélések"
+    },
+    {
+      "id": "21400_21457",
+      "author": "Fekete Árpád",
+      "title": "A kereszténység kritikája"
+    },
+    {
+      "id": "10400_10454",
+      "author": "Gárdonyi Géza",
+      "title": "Tapasztalatok"
+    }
+  ]
 }

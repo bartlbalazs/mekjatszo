@@ -71,5 +71,32 @@
       "title": "15 - Egyszer jóllakni"
     }
   ],
-  "url": "https://mek.oszk.hu/22100/22167"
+  "url": "https://mek.oszk.hu/22100/22167",
+  "similar_books": [
+    {
+      "id": "06700_06785",
+      "author": "Tar Károly",
+      "title": "Szerenád dobra, cintányérra és más ütős hangszerekreHangoskönyv"
+    },
+    {
+      "id": "07100_07153",
+      "author": "Tornai József",
+      "title": "Villámsújtotta kor"
+    },
+    {
+      "id": "16100_16149",
+      "author": "Menyhei József",
+      "title": "Múltbanéző"
+    },
+    {
+      "id": "09300_09387",
+      "author": "Gárdonyi Géza",
+      "title": "Bojgás az világba"
+    },
+    {
+      "id": "10600_10621",
+      "author": "Gárdonyi Géza",
+      "title": "No még öggyet"
+    }
+  ]
 }

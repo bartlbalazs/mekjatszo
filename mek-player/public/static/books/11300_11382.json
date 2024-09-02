@@ -87,5 +87,32 @@
       "title": "19 - A szerzőről"
     }
   ],
-  "url": "https://mek.oszk.hu/11300/11382"
+  "url": "https://mek.oszk.hu/11300/11382",
+  "similar_books": [
+    {
+      "id": "05400_05486",
+      "author": "Móricz Zsigmond",
+      "title": "Betyár"
+    },
+    {
+      "id": "02300_02388",
+      "author": "Csáth Géza",
+      "title": "Egy elmebeteg nő naplója"
+    },
+    {
+      "id": "02900_02965",
+      "author": "Tamási Áron",
+      "title": "Ábel a rengetegben"
+    },
+    {
+      "id": "04700_04787",
+      "author": "Juhász Gyula",
+      "title": "Szakállszárító"
+    },
+    {
+      "id": "02600_02671",
+      "author": "Tóth Béla",
+      "title": "A magyar anekdotakincs"
+    }
+  ]
 }

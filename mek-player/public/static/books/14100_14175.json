@@ -99,5 +99,32 @@
       "title": "23_Melyseg_es_magassag.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/14100/14175"
+  "url": "https://mek.oszk.hu/14100/14175",
+  "similar_books": [
+    {
+      "id": "11900_11997",
+      "author": "V. Pócsay Rozika",
+      "title": "A puding próbája"
+    },
+    {
+      "id": "17000_17009",
+      "author": "Lehoczki Károly",
+      "title": "Sétány a pokolban"
+    },
+    {
+      "id": "23500_23596",
+      "author": "Rozványi Dávid",
+      "title": "Erdélyi útiképek"
+    },
+    {
+      "id": "03000_03071",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekTolna megye - Váralja,Baranya megye - Zengővárkony"
+    },
+    {
+      "id": "24900_24935",
+      "author": "Krúdy Gyula",
+      "title": "Az élet álom"
+    }
+  ]
 }

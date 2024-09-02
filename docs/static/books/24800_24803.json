@@ -103,5 +103,32 @@
       "title": "23 - Függelék"
     }
   ],
-  "url": "https://mek.oszk.hu/24800/24803"
+  "url": "https://mek.oszk.hu/24800/24803",
+  "similar_books": [
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    },
+    {
+      "id": "03100_03179",
+      "author": "Balázs Ferenc",
+      "title": "A rög alatt"
+    },
+    {
+      "id": "02300_02386",
+      "author": "Mikszáth Kálmán",
+      "title": "A gyerekek"
+    },
+    {
+      "id": "21900_21995",
+      "author": "Németh Árpád",
+      "title": "A kő"
+    },
+    {
+      "id": "22200_22227",
+      "author": "Mikszáth Kálmán",
+      "title": "A gavallérok"
+    }
+  ]
 }

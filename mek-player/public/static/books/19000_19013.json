@@ -11,5 +11,32 @@
       "title": "0 - Bingyó Bernyó Nekeresdországban"
     }
   ],
-  "url": "https://mek.oszk.hu/19000/19013"
+  "url": "https://mek.oszk.hu/19000/19013",
+  "similar_books": [
+    {
+      "id": "19000_19059",
+      "author": "Szente B. Levente",
+      "title": "Az ezüsthajú tündérleány"
+    },
+    {
+      "id": "19400_19476",
+      "author": "Szente B. Levente",
+      "title": "Csillagtitok"
+    },
+    {
+      "id": "19400_19472",
+      "author": "Szente B. Levente",
+      "title": "Az első éj"
+    },
+    {
+      "id": "19500_19566",
+      "author": "Boér Péter Pál",
+      "title": "Szabályerősítő"
+    },
+    {
+      "id": "19300_19341",
+      "author": "Szente B. Levente",
+      "title": "Tücsök, Zöld Manó és a többiek"
+    }
+  ]
 }

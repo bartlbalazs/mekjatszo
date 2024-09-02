@@ -51,5 +51,32 @@
       "title": "10_tot_atyafiak.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/07600/07625"
+  "url": "https://mek.oszk.hu/07600/07625",
+  "similar_books": [
+    {
+      "id": "09500_09586",
+      "author": "Mikszáth Kálmán",
+      "title": "A jó palócok"
+    },
+    {
+      "id": "11400_11424",
+      "author": "",
+      "title": "Klasszikusok novellái a magyar szabadságharcról"
+    },
+    {
+      "id": "09700_09700",
+      "author": "Jókai Mór",
+      "title": "A kőszívű ember fiai"
+    },
+    {
+      "id": "09800_09885",
+      "author": "",
+      "title": "A szív árnyaiHangoskönyv"
+    },
+    {
+      "id": "11700_11747",
+      "author": "Tar Károly",
+      "title": "Hajnalban vadnyuszik ablakom alatt"
+    }
+  ]
 }

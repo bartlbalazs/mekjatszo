@@ -159,5 +159,32 @@
       "title": "37 - Még egyszer a fekete hattyú"
     }
   ],
-  "url": "https://mek.oszk.hu/02300/02358"
+  "url": "https://mek.oszk.hu/02300/02358",
+  "similar_books": [
+    {
+      "id": "09700_09700",
+      "author": "Jókai Mór",
+      "title": "A kőszívű ember fiai"
+    },
+    {
+      "id": "07300_07363",
+      "author": "Gárdonyi Géza",
+      "title": "Egri csillagok"
+    },
+    {
+      "id": "02500_02595",
+      "author": "Csáth Géza",
+      "title": "Lidércálmok"
+    },
+    {
+      "id": "02300_02328",
+      "author": "Jókai Mór",
+      "title": "A janicsárok végnapjai"
+    },
+    {
+      "id": "03300_03313",
+      "author": "Jókai Mór",
+      "title": "A jövő század regénye"
+    }
+  ]
 }

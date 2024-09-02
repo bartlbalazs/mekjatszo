@@ -43,5 +43,32 @@
       "title": "09 - A nagy küzdelem 2/2"
     }
   ],
-  "url": "https://mek.oszk.hu/12400/12462"
+  "url": "https://mek.oszk.hu/12400/12462",
+  "similar_books": [
+    {
+      "id": "04700_04770",
+      "author": "Reményik László",
+      "title": "Könnyű neked..."
+    },
+    {
+      "id": "11700_11747",
+      "author": "Tar Károly",
+      "title": "Hajnalban vadnyuszik ablakom alatt"
+    },
+    {
+      "id": "11200_11242",
+      "author": "Gárdonyi Géza",
+      "title": "Láthatatlan ember"
+    },
+    {
+      "id": "09800_09885",
+      "author": "",
+      "title": "A szív árnyaiHangoskönyv"
+    },
+    {
+      "id": "12100_12181",
+      "author": "Nagy Károly",
+      "title": "A sátánlégió"
+    }
+  ]
 }

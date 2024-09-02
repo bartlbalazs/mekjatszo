@@ -67,5 +67,32 @@
       "title": "14 - Utószó"
     }
   ],
-  "url": "https://mek.oszk.hu/02500/02581"
+  "url": "https://mek.oszk.hu/02500/02581",
+  "similar_books": [
+    {
+      "id": "22200_22243",
+      "author": "Kosztolányi Dezső",
+      "title": "Pacsirta"
+    },
+    {
+      "id": "10900_10945",
+      "author": "Kosztolányi Dezső",
+      "title": "Zsivajgó természet"
+    },
+    {
+      "id": "02500_02580",
+      "author": "Kosztolányi Dezső",
+      "title": "A rossz orvos"
+    },
+    {
+      "id": "11200_11242",
+      "author": "Gárdonyi Géza",
+      "title": "Láthatatlan ember"
+    },
+    {
+      "id": "05300_05354",
+      "author": "Jókai Anna",
+      "title": "Ne féljetek"
+    }
+  ]
 }

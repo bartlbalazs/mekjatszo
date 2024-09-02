@@ -252,7 +252,34 @@
         "title": "61 Év vége"
       }
     ],
-    "url": "https://mek.oszk.hu/08800/08839"
+    "url": "https://mek.oszk.hu/08800/08839",
+    "similar_books": [
+      {
+        "id": "07600_07604",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+      },
+      {
+        "id": "03000_03087",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekZala megye - Keménfai mesék"
+      },
+      {
+        "id": "12500_12529",
+        "author": "Gubcsi Lajos",
+        "title": "Jut eszembe... ami kimaradt"
+      },
+      {
+        "id": "09900_09914",
+        "author": "Gárdonyi Géza",
+        "title": "Göre Gábor biró úr könyve"
+      },
+      {
+        "id": "19000_19059",
+        "author": "Szente B. Levente",
+        "title": "Az ezüsthajú tündérleány"
+      }
+    ]
   },
   {
     "id": "19400_19479",
@@ -467,6 +494,33 @@
         "title": "50 - 2015. 04. [50-világképlet]"
       }
     ],
-    "url": "https://mek.oszk.hu/19400/19479"
+    "url": "https://mek.oszk.hu/19400/19479",
+    "similar_books": [
+      {
+        "id": "23500_23596",
+        "author": "Rozványi Dávid",
+        "title": "Erdélyi útiképek"
+      },
+      {
+        "id": "22200_22250",
+        "author": "Vidra Szabó Ferenc",
+        "title": "Uszadékfa"
+      },
+      {
+        "id": "19400_19476",
+        "author": "Szente B. Levente",
+        "title": "Csillagtitok"
+      },
+      {
+        "id": "14100_14175",
+        "author": "V. Pócsay Rozika",
+        "title": "Mélység és magasság"
+      },
+      {
+        "id": "07600_07604",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+      }
+    ]
   }
 ]

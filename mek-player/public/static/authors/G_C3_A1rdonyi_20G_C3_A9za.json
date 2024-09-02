@@ -112,7 +112,34 @@
         "title": "26_bojgas.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/09300/09387"
+    "url": "https://mek.oszk.hu/09300/09387",
+    "similar_books": [
+      {
+        "id": "10600_10621",
+        "author": "Gárdonyi Géza",
+        "title": "No még öggyet"
+      },
+      {
+        "id": "09900_09914",
+        "author": "Gárdonyi Géza",
+        "title": "Göre Gábor biró úr könyve"
+      },
+      {
+        "id": "22500_22519",
+        "author": "Gárdonyi Géza",
+        "title": "Ida regénye"
+      },
+      {
+        "id": "10400_10454",
+        "author": "Gárdonyi Géza",
+        "title": "Tapasztalatok"
+      },
+      {
+        "id": "10000_10018",
+        "author": "Gárdonyi Géza",
+        "title": "Vakarts"
+      }
+    ]
   },
   {
     "id": "09400_09405",
@@ -199,7 +226,34 @@
         "title": "19_durbints.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/09400/09405"
+    "url": "https://mek.oszk.hu/09400/09405",
+    "similar_books": [
+      {
+        "id": "10600_10621",
+        "author": "Gárdonyi Géza",
+        "title": "No még öggyet"
+      },
+      {
+        "id": "09400_09475",
+        "author": "Gárdonyi Géza",
+        "title": "Veszödelmek"
+      },
+      {
+        "id": "10400_10454",
+        "author": "Gárdonyi Géza",
+        "title": "Tapasztalatok"
+      },
+      {
+        "id": "09300_09387",
+        "author": "Gárdonyi Géza",
+        "title": "Bojgás az világba"
+      },
+      {
+        "id": "09900_09914",
+        "author": "Gárdonyi Géza",
+        "title": "Göre Gábor biró úr könyve"
+      }
+    ]
   },
   {
     "id": "04700_04754",
@@ -318,7 +372,34 @@
         "title": "26 - Életutaink"
       }
     ],
-    "url": "https://mek.oszk.hu/04700/04754"
+    "url": "https://mek.oszk.hu/04700/04754",
+    "similar_books": [
+      {
+        "id": "10600_10621",
+        "author": "Gárdonyi Géza",
+        "title": "No még öggyet"
+      },
+      {
+        "id": "10400_10454",
+        "author": "Gárdonyi Géza",
+        "title": "Tapasztalatok"
+      },
+      {
+        "id": "03000_03082",
+        "author": "Gárdonyi Géza",
+        "title": "Az én falum"
+      },
+      {
+        "id": "22500_22519",
+        "author": "Gárdonyi Géza",
+        "title": "Ida regénye"
+      },
+      {
+        "id": "09900_09914",
+        "author": "Gárdonyi Géza",
+        "title": "Göre Gábor biró úr könyve"
+      }
+    ]
   },
   {
     "id": "09100_09129",
@@ -697,7 +778,34 @@
         "title": "91 - Holdfogyatkozás - 23. fejezet és Befejezés"
       }
     ],
-    "url": "https://mek.oszk.hu/09100/09129"
+    "url": "https://mek.oszk.hu/09100/09129",
+    "similar_books": [
+      {
+        "id": "07300_07363",
+        "author": "Gárdonyi Géza",
+        "title": "Egri csillagok"
+      },
+      {
+        "id": "04700_04754",
+        "author": "Gárdonyi Géza",
+        "title": "Égre néző lélek"
+      },
+      {
+        "id": "03300_03391",
+        "author": "Eötvös József",
+        "title": "Magyarország 1514-ben"
+      },
+      {
+        "id": "11200_11242",
+        "author": "Gárdonyi Géza",
+        "title": "Láthatatlan ember"
+      },
+      {
+        "id": "03300_03308",
+        "author": "Mikszáth Kálmán",
+        "title": "Új Zrínyiász"
+      }
+    ]
   },
   {
     "id": "07300_07363",
@@ -1104,7 +1212,34 @@
         "title": "98 - Jegyzetek, névsor"
       }
     ],
-    "url": "https://mek.oszk.hu/07300/07363"
+    "url": "https://mek.oszk.hu/07300/07363",
+    "similar_books": [
+      {
+        "id": "09100_09129",
+        "author": "Gárdonyi Géza",
+        "title": "Egri csillagok"
+      },
+      {
+        "id": "04700_04754",
+        "author": "Gárdonyi Géza",
+        "title": "Égre néző lélek"
+      },
+      {
+        "id": "11200_11242",
+        "author": "Gárdonyi Géza",
+        "title": "Láthatatlan ember"
+      },
+      {
+        "id": "02300_02358",
+        "author": "Jókai Mór",
+        "title": "A gazdag szegények"
+      },
+      {
+        "id": "03000_03082",
+        "author": "Gárdonyi Géza",
+        "title": "Az én falum"
+      }
+    ]
   },
   {
     "id": "03000_03082",
@@ -1303,7 +1438,34 @@
         "title": "46 - A mi temetőnk"
       }
     ],
-    "url": "https://mek.oszk.hu/03000/03082"
+    "url": "https://mek.oszk.hu/03000/03082",
+    "similar_books": [
+      {
+        "id": "04700_04754",
+        "author": "Gárdonyi Géza",
+        "title": "Égre néző lélek"
+      },
+      {
+        "id": "11200_11242",
+        "author": "Gárdonyi Géza",
+        "title": "Láthatatlan ember"
+      },
+      {
+        "id": "02300_02388",
+        "author": "Csáth Géza",
+        "title": "Egy elmebeteg nő naplója"
+      },
+      {
+        "id": "02300_02377",
+        "author": "Ottlik Géza",
+        "title": "Próza"
+      },
+      {
+        "id": "09700_09700",
+        "author": "Jókai Mór",
+        "title": "A kőszívű ember fiai"
+      }
+    ]
   },
   {
     "id": "09900_09914",
@@ -1434,7 +1596,34 @@
         "title": "30_gore_gabor.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/09900/09914"
+    "url": "https://mek.oszk.hu/09900/09914",
+    "similar_books": [
+      {
+        "id": "10600_10621",
+        "author": "Gárdonyi Géza",
+        "title": "No még öggyet"
+      },
+      {
+        "id": "09300_09387",
+        "author": "Gárdonyi Géza",
+        "title": "Bojgás az világba"
+      },
+      {
+        "id": "09300_09340",
+        "author": "Gárdonyi Géza",
+        "title": "Göre Martsa lakodalma"
+      },
+      {
+        "id": "24900_24935",
+        "author": "Krúdy Gyula",
+        "title": "Az élet álom"
+      },
+      {
+        "id": "10000_10018",
+        "author": "Gárdonyi Géza",
+        "title": "Vakarts"
+      }
+    ]
   },
   {
     "id": "09300_09340",
@@ -1497,7 +1686,34 @@
         "title": "13_martsa.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/09300/09340"
+    "url": "https://mek.oszk.hu/09300/09340",
+    "similar_books": [
+      {
+        "id": "09900_09914",
+        "author": "Gárdonyi Géza",
+        "title": "Göre Gábor biró úr könyve"
+      },
+      {
+        "id": "10400_10454",
+        "author": "Gárdonyi Géza",
+        "title": "Tapasztalatok"
+      },
+      {
+        "id": "10600_10621",
+        "author": "Gárdonyi Géza",
+        "title": "No még öggyet"
+      },
+      {
+        "id": "22500_22519",
+        "author": "Gárdonyi Géza",
+        "title": "Ida regénye"
+      },
+      {
+        "id": "09300_09387",
+        "author": "Gárdonyi Géza",
+        "title": "Bojgás az világba"
+      }
+    ]
   },
   {
     "id": "22500_22519",
@@ -1548,7 +1764,34 @@
         "title": "10. rész"
       }
     ],
-    "url": "https://mek.oszk.hu/22500/22519"
+    "url": "https://mek.oszk.hu/22500/22519",
+    "similar_books": [
+      {
+        "id": "10600_10621",
+        "author": "Gárdonyi Géza",
+        "title": "No még öggyet"
+      },
+      {
+        "id": "10400_10454",
+        "author": "Gárdonyi Géza",
+        "title": "Tapasztalatok"
+      },
+      {
+        "id": "10500_10570",
+        "author": "Gárdonyi Géza",
+        "title": "Kátsa"
+      },
+      {
+        "id": "09900_09914",
+        "author": "Gárdonyi Géza",
+        "title": "Göre Gábor biró úr könyve"
+      },
+      {
+        "id": "09300_09387",
+        "author": "Gárdonyi Géza",
+        "title": "Bojgás az világba"
+      }
+    ]
   },
   {
     "id": "10500_10570",
@@ -1635,7 +1878,34 @@
         "title": "18_katsa.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/10500/10570"
+    "url": "https://mek.oszk.hu/10500/10570",
+    "similar_books": [
+      {
+        "id": "10600_10621",
+        "author": "Gárdonyi Géza",
+        "title": "No még öggyet"
+      },
+      {
+        "id": "22500_22519",
+        "author": "Gárdonyi Géza",
+        "title": "Ida regénye"
+      },
+      {
+        "id": "10400_10454",
+        "author": "Gárdonyi Géza",
+        "title": "Tapasztalatok"
+      },
+      {
+        "id": "09300_09387",
+        "author": "Gárdonyi Géza",
+        "title": "Bojgás az világba"
+      },
+      {
+        "id": "04700_04754",
+        "author": "Gárdonyi Géza",
+        "title": "Égre néző lélek"
+      }
+    ]
   },
   {
     "id": "11200_11242",
@@ -1926,7 +2196,34 @@
         "title": "68_Jegyzetek_3.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/11200/11242"
+    "url": "https://mek.oszk.hu/11200/11242",
+    "similar_books": [
+      {
+        "id": "03000_03082",
+        "author": "Gárdonyi Géza",
+        "title": "Az én falum"
+      },
+      {
+        "id": "22500_22519",
+        "author": "Gárdonyi Géza",
+        "title": "Ida regénye"
+      },
+      {
+        "id": "04700_04754",
+        "author": "Gárdonyi Géza",
+        "title": "Égre néző lélek"
+      },
+      {
+        "id": "02300_02377",
+        "author": "Ottlik Géza",
+        "title": "Próza"
+      },
+      {
+        "id": "03100_03179",
+        "author": "Balázs Ferenc",
+        "title": "A rög alatt"
+      }
+    ]
   },
   {
     "id": "10600_10621",
@@ -2049,7 +2346,34 @@
         "title": "27_nomeg.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/10600/10621"
+    "url": "https://mek.oszk.hu/10600/10621",
+    "similar_books": [
+      {
+        "id": "09300_09387",
+        "author": "Gárdonyi Géza",
+        "title": "Bojgás az világba"
+      },
+      {
+        "id": "10400_10454",
+        "author": "Gárdonyi Géza",
+        "title": "Tapasztalatok"
+      },
+      {
+        "id": "09900_09914",
+        "author": "Gárdonyi Géza",
+        "title": "Göre Gábor biró úr könyve"
+      },
+      {
+        "id": "22500_22519",
+        "author": "Gárdonyi Géza",
+        "title": "Ida regénye"
+      },
+      {
+        "id": "10500_10570",
+        "author": "Gárdonyi Géza",
+        "title": "Kátsa"
+      }
+    ]
   },
   {
     "id": "09300_09361",
@@ -2140,7 +2464,34 @@
         "title": "20_pesti.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/09300/09361"
+    "url": "https://mek.oszk.hu/09300/09361",
+    "similar_books": [
+      {
+        "id": "10600_10621",
+        "author": "Gárdonyi Géza",
+        "title": "No még öggyet"
+      },
+      {
+        "id": "09900_09914",
+        "author": "Gárdonyi Géza",
+        "title": "Göre Gábor biró úr könyve"
+      },
+      {
+        "id": "22500_22519",
+        "author": "Gárdonyi Géza",
+        "title": "Ida regénye"
+      },
+      {
+        "id": "09300_09387",
+        "author": "Gárdonyi Géza",
+        "title": "Bojgás az világba"
+      },
+      {
+        "id": "04700_04754",
+        "author": "Gárdonyi Géza",
+        "title": "Égre néző lélek"
+      }
+    ]
   },
   {
     "id": "10400_10454",
@@ -2275,7 +2626,34 @@
         "title": "30_tapasztalatok.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/10400/10454"
+    "url": "https://mek.oszk.hu/10400/10454",
+    "similar_books": [
+      {
+        "id": "10600_10621",
+        "author": "Gárdonyi Géza",
+        "title": "No még öggyet"
+      },
+      {
+        "id": "22500_22519",
+        "author": "Gárdonyi Géza",
+        "title": "Ida regénye"
+      },
+      {
+        "id": "04700_04754",
+        "author": "Gárdonyi Géza",
+        "title": "Égre néző lélek"
+      },
+      {
+        "id": "09900_09914",
+        "author": "Gárdonyi Géza",
+        "title": "Göre Gábor biró úr könyve"
+      },
+      {
+        "id": "09300_09340",
+        "author": "Gárdonyi Géza",
+        "title": "Göre Martsa lakodalma"
+      }
+    ]
   },
   {
     "id": "10000_10018",
@@ -2406,7 +2784,34 @@
         "title": "30_vakarts.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/10000/10018"
+    "url": "https://mek.oszk.hu/10000/10018",
+    "similar_books": [
+      {
+        "id": "09900_09914",
+        "author": "Gárdonyi Géza",
+        "title": "Göre Gábor biró úr könyve"
+      },
+      {
+        "id": "09300_09387",
+        "author": "Gárdonyi Géza",
+        "title": "Bojgás az világba"
+      },
+      {
+        "id": "10600_10621",
+        "author": "Gárdonyi Géza",
+        "title": "No még öggyet"
+      },
+      {
+        "id": "10400_10454",
+        "author": "Gárdonyi Géza",
+        "title": "Tapasztalatok"
+      },
+      {
+        "id": "12500_12529",
+        "author": "Gubcsi Lajos",
+        "title": "Jut eszembe... ami kimaradt"
+      }
+    ]
   },
   {
     "id": "09400_09475",
@@ -2525,6 +2930,33 @@
         "title": "27_veszodelmek.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/09400/09475"
+    "url": "https://mek.oszk.hu/09400/09475",
+    "similar_books": [
+      {
+        "id": "10600_10621",
+        "author": "Gárdonyi Géza",
+        "title": "No még öggyet"
+      },
+      {
+        "id": "09900_09914",
+        "author": "Gárdonyi Géza",
+        "title": "Göre Gábor biró úr könyve"
+      },
+      {
+        "id": "22500_22519",
+        "author": "Gárdonyi Géza",
+        "title": "Ida regénye"
+      },
+      {
+        "id": "09300_09387",
+        "author": "Gárdonyi Géza",
+        "title": "Bojgás az világba"
+      },
+      {
+        "id": "10400_10454",
+        "author": "Gárdonyi Géza",
+        "title": "Tapasztalatok"
+      }
+    ]
   }
 ]

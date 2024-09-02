@@ -71,5 +71,32 @@
       "title": "16 - Minden jó, ha..."
     }
   ],
-  "url": "https://mek.oszk.hu/19900/19901"
+  "url": "https://mek.oszk.hu/19900/19901",
+  "similar_books": [
+    {
+      "id": "20000_20040",
+      "author": "Mihályi Antal",
+      "title": "Egbert egér rendet rak"
+    },
+    {
+      "id": "19700_19760",
+      "author": "Mihályi Antal",
+      "title": "Egbert egér útrakél"
+    },
+    {
+      "id": "20200_20290",
+      "author": "Mihályi Antal",
+      "title": "A szkarabeusz titka"
+    },
+    {
+      "id": "19500_19566",
+      "author": "Boér Péter Pál",
+      "title": "Szabályerősítő"
+    },
+    {
+      "id": "18700_18753",
+      "author": "Mihályi Antal",
+      "title": "Ili néni állatkertje"
+    }
+  ]
 }

@@ -76,6 +76,33 @@
         "title": "17_zartART.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/12400/12476"
+    "url": "https://mek.oszk.hu/12400/12476",
+    "similar_books": [
+      {
+        "id": "24900_24935",
+        "author": "Krúdy Gyula",
+        "title": "Az élet álom"
+      },
+      {
+        "id": "25100_25132",
+        "author": "Dézsi Zoltán",
+        "title": "Csillogó december"
+      },
+      {
+        "id": "01800_01895",
+        "author": "Ladik Katalin",
+        "title": "Kiűzetés, JegyességHangköltemények"
+      },
+      {
+        "id": "24900_24991",
+        "author": "Rozványi Dávid",
+        "title": "Felvidéki útiképek (Hangoskönyv)"
+      },
+      {
+        "id": "18900_18907",
+        "author": "Nógrádi Gábor",
+        "title": "Angyali üzenet"
+      }
+    ]
   }
 ]

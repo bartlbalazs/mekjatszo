@@ -83,5 +83,32 @@
       "title": "18 - Epilógus"
     }
   ],
-  "url": "https://mek.oszk.hu/02500/02544"
+  "url": "https://mek.oszk.hu/02500/02544",
+  "similar_books": [
+    {
+      "id": "02500_02545",
+      "author": "Rejtő Jenő",
+      "title": "Az előretolt helyőrség"
+    },
+    {
+      "id": "11200_11242",
+      "author": "Gárdonyi Géza",
+      "title": "Láthatatlan ember"
+    },
+    {
+      "id": "12400_12445",
+      "author": "Rejtő Jenő",
+      "title": "El a pokolból"
+    },
+    {
+      "id": "03100_03172",
+      "author": "Rejtő Jenő",
+      "title": "A tizennégy karátos autó"
+    },
+    {
+      "id": "12300_12378",
+      "author": "Rejtő Jenő",
+      "title": "A pokol zsoldosai"
+    }
+  ]
 }

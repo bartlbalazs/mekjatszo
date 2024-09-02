@@ -139,5 +139,32 @@
       "title": "32 - Lovat 10 pengőért...megvéd engemet, mert rúg"
     }
   ],
-  "url": "https://mek.oszk.hu/05700/05778"
+  "url": "https://mek.oszk.hu/05700/05778",
+  "similar_books": [
+    {
+      "id": "05700_05747",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekBukovinából Magyarországra -2."
+    },
+    {
+      "id": "03000_03071",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekTolna megye - Váralja,Baranya megye - Zengővárkony"
+    },
+    {
+      "id": "10500_10519",
+      "author": "Brodarics István",
+      "title": "Igaz leírás a magyaroknak a törökökkel Mohácsnál vívott csatájáról"
+    },
+    {
+      "id": "02900_02970",
+      "author": "Tamási Áron",
+      "title": "Bölcső és Bagoly"
+    },
+    {
+      "id": "11200_11242",
+      "author": "Gárdonyi Géza",
+      "title": "Láthatatlan ember"
+    }
+  ]
 }

@@ -44,7 +44,34 @@
         "title": "8 - Fiat voluntas tua"
       }
     ],
-    "url": "https://mek.oszk.hu/02500/02569"
+    "url": "https://mek.oszk.hu/02500/02569",
+    "similar_books": [
+      {
+        "id": "02300_02328",
+        "author": "Jókai Mór",
+        "title": "A janicsárok végnapjai"
+      },
+      {
+        "id": "03300_03313",
+        "author": "Jókai Mór",
+        "title": "A jövő század regénye"
+      },
+      {
+        "id": "02300_02358",
+        "author": "Jókai Mór",
+        "title": "A gazdag szegények"
+      },
+      {
+        "id": "02300_02359",
+        "author": "Jókai Mór",
+        "title": "Csataképek a magyar szabadságharcból"
+      },
+      {
+        "id": "22100_22188",
+        "author": "Jókai Mór",
+        "title": "És mégis mozog a föld"
+      }
+    ]
   },
   {
     "id": "02300_02359",
@@ -199,7 +226,34 @@
         "title": "22. A két menekült"
       }
     ],
-    "url": "https://mek.oszk.hu/02300/02359"
+    "url": "https://mek.oszk.hu/02300/02359",
+    "similar_books": [
+      {
+        "id": "09700_09700",
+        "author": "Jókai Mór",
+        "title": "A kőszívű ember fiai"
+      },
+      {
+        "id": "02300_02367",
+        "author": "Jókai Mór",
+        "title": "Törökvilág Magyarországon"
+      },
+      {
+        "id": "02500_02595",
+        "author": "Csáth Géza",
+        "title": "Lidércálmok"
+      },
+      {
+        "id": "22100_22187",
+        "author": "Jókai Mór",
+        "title": "Sárga rózsa"
+      },
+      {
+        "id": "09500_09586",
+        "author": "Mikszáth Kálmán",
+        "title": "A jó palócok"
+      }
+    ]
   },
   {
     "id": "22100_22188",
@@ -362,7 +416,34 @@
         "title": "37 - II. kötet, 18. rész"
       }
     ],
-    "url": "https://mek.oszk.hu/22100/22188"
+    "url": "https://mek.oszk.hu/22100/22188",
+    "similar_books": [
+      {
+        "id": "22100_22187",
+        "author": "Jókai Mór",
+        "title": "Sárga rózsa"
+      },
+      {
+        "id": "09300_09387",
+        "author": "Gárdonyi Géza",
+        "title": "Bojgás az világba"
+      },
+      {
+        "id": "16100_16149",
+        "author": "Menyhei József",
+        "title": "Múltbanéző"
+      },
+      {
+        "id": "12500_12529",
+        "author": "Gubcsi Lajos",
+        "title": "Jut eszembe... ami kimaradt"
+      },
+      {
+        "id": "09900_09914",
+        "author": "Gárdonyi Géza",
+        "title": "Göre Gábor biró úr könyve"
+      }
+    ]
   },
   {
     "id": "22500_22518",
@@ -437,7 +518,34 @@
         "title": "16. rész"
       }
     ],
-    "url": "https://mek.oszk.hu/22500/22518"
+    "url": "https://mek.oszk.hu/22500/22518",
+    "similar_books": [
+      {
+        "id": "04700_04754",
+        "author": "Gárdonyi Géza",
+        "title": "Égre néző lélek"
+      },
+      {
+        "id": "15900_15993",
+        "author": "Maderspach Viktor",
+        "title": "Páreng - Retyezát"
+      },
+      {
+        "id": "10500_10570",
+        "author": "Gárdonyi Géza",
+        "title": "Kátsa"
+      },
+      {
+        "id": "12200_12297",
+        "author": "Gubcsi Lajos",
+        "title": "Magyar pokol - 1514"
+      },
+      {
+        "id": "11200_11236",
+        "author": "Krúdy Gyula",
+        "title": "Jézuska csizmájaHangoskönyv"
+      }
+    ]
   },
   {
     "id": "02300_02358",
@@ -600,7 +708,34 @@
         "title": "37 - Még egyszer a fekete hattyú"
       }
     ],
-    "url": "https://mek.oszk.hu/02300/02358"
+    "url": "https://mek.oszk.hu/02300/02358",
+    "similar_books": [
+      {
+        "id": "09700_09700",
+        "author": "Jókai Mór",
+        "title": "A kőszívű ember fiai"
+      },
+      {
+        "id": "07300_07363",
+        "author": "Gárdonyi Géza",
+        "title": "Egri csillagok"
+      },
+      {
+        "id": "02500_02595",
+        "author": "Csáth Géza",
+        "title": "Lidércálmok"
+      },
+      {
+        "id": "02300_02328",
+        "author": "Jókai Mór",
+        "title": "A janicsárok végnapjai"
+      },
+      {
+        "id": "03300_03313",
+        "author": "Jókai Mór",
+        "title": "A jövő század regénye"
+      }
+    ]
   },
   {
     "id": "02300_02328",
@@ -687,7 +822,34 @@
         "title": "18 - A kettétört kardok"
       }
     ],
-    "url": "https://mek.oszk.hu/02300/02328"
+    "url": "https://mek.oszk.hu/02300/02328",
+    "similar_books": [
+      {
+        "id": "03300_03313",
+        "author": "Jókai Mór",
+        "title": "A jövő század regénye"
+      },
+      {
+        "id": "02300_02358",
+        "author": "Jókai Mór",
+        "title": "A gazdag szegények"
+      },
+      {
+        "id": "02500_02569",
+        "author": "Jókai Mór",
+        "title": "A cigánybáró"
+      },
+      {
+        "id": "02300_02359",
+        "author": "Jókai Mór",
+        "title": "Csataképek a magyar szabadságharcból"
+      },
+      {
+        "id": "09700_09700",
+        "author": "Jókai Mór",
+        "title": "A kőszívű ember fiai"
+      }
+    ]
   },
   {
     "id": "03300_03313",
@@ -942,7 +1104,34 @@
         "title": "60 - Jegyzet"
       }
     ],
-    "url": "https://mek.oszk.hu/03300/03313"
+    "url": "https://mek.oszk.hu/03300/03313",
+    "similar_books": [
+      {
+        "id": "02300_02328",
+        "author": "Jókai Mór",
+        "title": "A janicsárok végnapjai"
+      },
+      {
+        "id": "02300_02358",
+        "author": "Jókai Mór",
+        "title": "A gazdag szegények"
+      },
+      {
+        "id": "02500_02569",
+        "author": "Jókai Mór",
+        "title": "A cigánybáró"
+      },
+      {
+        "id": "02300_02387",
+        "author": "Mikszáth Kálmán",
+        "title": "Jókai Mór élete és kora"
+      },
+      {
+        "id": "09700_09700",
+        "author": "Jókai Mór",
+        "title": "A kőszívű ember fiai"
+      }
+    ]
   },
   {
     "id": "09700_09700",
@@ -1157,7 +1346,34 @@
         "title": "50_koszivu.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/09700/09700"
+    "url": "https://mek.oszk.hu/09700/09700",
+    "similar_books": [
+      {
+        "id": "02300_02359",
+        "author": "Jókai Mór",
+        "title": "Csataképek a magyar szabadságharcból"
+      },
+      {
+        "id": "02300_02358",
+        "author": "Jókai Mór",
+        "title": "A gazdag szegények"
+      },
+      {
+        "id": "09500_09586",
+        "author": "Mikszáth Kálmán",
+        "title": "A jó palócok"
+      },
+      {
+        "id": "02300_02387",
+        "author": "Mikszáth Kálmán",
+        "title": "Jókai Mór élete és kora"
+      },
+      {
+        "id": "03000_03082",
+        "author": "Gárdonyi Géza",
+        "title": "Az én falum"
+      }
+    ]
   },
   {
     "id": "02300_02363",
@@ -1312,7 +1528,34 @@
         "title": "35 - Clio vétója"
       }
     ],
-    "url": "https://mek.oszk.hu/02300/02363"
+    "url": "https://mek.oszk.hu/02300/02363",
+    "similar_books": [
+      {
+        "id": "11800_11839",
+        "author": "Végh Miki",
+        "title": "Humor-morzsák"
+      },
+      {
+        "id": "22100_22188",
+        "author": "Jókai Mór",
+        "title": "És mégis mozog a föld"
+      },
+      {
+        "id": "16100_16149",
+        "author": "Menyhei József",
+        "title": "Múltbanéző"
+      },
+      {
+        "id": "10200_10222",
+        "author": "Móra Ferenc",
+        "title": "Nekopogi kovács"
+      },
+      {
+        "id": "06000_06060",
+        "author": "Móra Ferenc",
+        "title": "A körtemuzsika"
+      }
+    ]
   },
   {
     "id": "22100_22187",
@@ -1355,7 +1598,34 @@
         "title": "08. rész"
       }
     ],
-    "url": "https://mek.oszk.hu/22100/22187"
+    "url": "https://mek.oszk.hu/22100/22187",
+    "similar_books": [
+      {
+        "id": "22100_22188",
+        "author": "Jókai Mór",
+        "title": "És mégis mozog a föld"
+      },
+      {
+        "id": "09300_09387",
+        "author": "Gárdonyi Géza",
+        "title": "Bojgás az világba"
+      },
+      {
+        "id": "12500_12529",
+        "author": "Gubcsi Lajos",
+        "title": "Jut eszembe... ami kimaradt"
+      },
+      {
+        "id": "10500_10570",
+        "author": "Gárdonyi Géza",
+        "title": "Kátsa"
+      },
+      {
+        "id": "09900_09914",
+        "author": "Gárdonyi Géza",
+        "title": "Göre Gábor biró úr könyve"
+      }
+    ]
   },
   {
     "id": "02300_02367",
@@ -1510,6 +1780,33 @@
         "title": "35 - XXXIV. Az utolsó nap"
       }
     ],
-    "url": "https://mek.oszk.hu/02300/02367"
+    "url": "https://mek.oszk.hu/02300/02367",
+    "similar_books": [
+      {
+        "id": "02300_02359",
+        "author": "Jókai Mór",
+        "title": "Csataképek a magyar szabadságharcból"
+      },
+      {
+        "id": "03300_03391",
+        "author": "Eötvös József",
+        "title": "Magyarország 1514-ben"
+      },
+      {
+        "id": "02900_02965",
+        "author": "Tamási Áron",
+        "title": "Ábel a rengetegben"
+      },
+      {
+        "id": "11200_11242",
+        "author": "Gárdonyi Géza",
+        "title": "Láthatatlan ember"
+      },
+      {
+        "id": "07500_07547",
+        "author": "Móricz Zsigmond",
+        "title": "Erdély-trilógiaGéphangoskönyv"
+      }
+    ]
   }
 ]

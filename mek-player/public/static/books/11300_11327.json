@@ -23,5 +23,32 @@
       "title": "03_Garay_Janos-Az_obsitos.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/11300/11327"
+  "url": "https://mek.oszk.hu/11300/11327",
+  "similar_books": [
+    {
+      "id": "10000_10018",
+      "author": "Gárdonyi Géza",
+      "title": "Vakarts"
+    },
+    {
+      "id": "18800_18884",
+      "author": "Epiktétos",
+      "title": "Epiktétos kézikönyvecskéje vagyis A stoikus bölcs breviáriuma"
+    },
+    {
+      "id": "18000_18022",
+      "author": "Arany János",
+      "title": "Rózsa és Ibolya"
+    },
+    {
+      "id": "10600_10621",
+      "author": "Gárdonyi Géza",
+      "title": "No még öggyet"
+    },
+    {
+      "id": "22100_22187",
+      "author": "Jókai Mór",
+      "title": "Sárga rózsa"
+    }
+  ]
 }

@@ -71,5 +71,32 @@
       "title": "15 - Egy biztos nyár"
     }
   ],
-  "url": "https://mek.oszk.hu/03000/03076"
+  "url": "https://mek.oszk.hu/03000/03076",
+  "similar_books": [
+    {
+      "id": "11700_11747",
+      "author": "Tar Károly",
+      "title": "Hajnalban vadnyuszik ablakom alatt"
+    },
+    {
+      "id": "03300_03319",
+      "author": "Homérosz",
+      "title": "Iliász"
+    },
+    {
+      "id": "09700_09700",
+      "author": "Jókai Mór",
+      "title": "A kőszívű ember fiai"
+    },
+    {
+      "id": "03000_03082",
+      "author": "Gárdonyi Géza",
+      "title": "Az én falum"
+    },
+    {
+      "id": "02900_02954",
+      "author": "Babits Mihály",
+      "title": "A gólyakalifa"
+    }
+  ]
 }

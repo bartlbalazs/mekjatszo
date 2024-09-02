@@ -287,5 +287,32 @@
       "title": "68_Jegyzetek_3.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/11200/11242"
+  "url": "https://mek.oszk.hu/11200/11242",
+  "similar_books": [
+    {
+      "id": "03000_03082",
+      "author": "Gárdonyi Géza",
+      "title": "Az én falum"
+    },
+    {
+      "id": "22500_22519",
+      "author": "Gárdonyi Géza",
+      "title": "Ida regénye"
+    },
+    {
+      "id": "04700_04754",
+      "author": "Gárdonyi Géza",
+      "title": "Égre néző lélek"
+    },
+    {
+      "id": "02300_02377",
+      "author": "Ottlik Géza",
+      "title": "Próza"
+    },
+    {
+      "id": "03100_03179",
+      "author": "Balázs Ferenc",
+      "title": "A rög alatt"
+    }
+  ]
 }

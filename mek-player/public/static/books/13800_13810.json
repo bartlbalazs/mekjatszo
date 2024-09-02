@@ -39,5 +39,32 @@
       "title": "08 - VIII. fejezet"
     }
   ],
-  "url": "https://mek.oszk.hu/13800/13810"
+  "url": "https://mek.oszk.hu/13800/13810",
+  "similar_books": [
+    {
+      "id": "21900_21995",
+      "author": "Németh Árpád",
+      "title": "A kő"
+    },
+    {
+      "id": "19500_19566",
+      "author": "Boér Péter Pál",
+      "title": "Szabályerősítő"
+    },
+    {
+      "id": "06700_06785",
+      "author": "Tar Károly",
+      "title": "Szerenád dobra, cintányérra és más ütős hangszerekreHangoskönyv"
+    },
+    {
+      "id": "13700_13790",
+      "author": "Jenei András",
+      "title": "Tengercseppek"
+    },
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    }
+  ]
 }

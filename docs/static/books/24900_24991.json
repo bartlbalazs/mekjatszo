@@ -6,5 +6,32 @@
   "cover": null,
   "description": null,
   "audio_files": [],
-  "url": "https://mek.oszk.hu/24900/24991"
+  "url": "https://mek.oszk.hu/24900/24991",
+  "similar_books": [
+    {
+      "id": "23500_23596",
+      "author": "Rozványi Dávid",
+      "title": "Erdélyi útiképek"
+    },
+    {
+      "id": "07600_07603",
+      "author": "Csorcsán Szűcs Imre",
+      "title": "Parasztversek (válogatás)Csongrád megye - Hódmezővásárhely"
+    },
+    {
+      "id": "14100_14175",
+      "author": "V. Pócsay Rozika",
+      "title": "Mélység és magasság"
+    },
+    {
+      "id": "17000_17009",
+      "author": "Lehoczki Károly",
+      "title": "Sétány a pokolban"
+    },
+    {
+      "id": "03000_03071",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekTolna megye - Váralja,Baranya megye - Zengővárkony"
+    }
+  ]
 }

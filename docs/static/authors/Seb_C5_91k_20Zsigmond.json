@@ -28,6 +28,33 @@
         "title": "05 - 5. rész"
       }
     ],
-    "url": "https://mek.oszk.hu/12000/12066"
+    "url": "https://mek.oszk.hu/12000/12066",
+    "similar_books": [
+      {
+        "id": "02700_02778",
+        "author": "Bródy Sándor",
+        "title": "Az ezüst kecske ; A nap lovagja"
+      },
+      {
+        "id": "05400_05486",
+        "author": "Móricz Zsigmond",
+        "title": "Betyár"
+      },
+      {
+        "id": "02700_02788",
+        "author": "Reményik László",
+        "title": "Életbajnokok"
+      },
+      {
+        "id": "03300_03307",
+        "author": "Móricz Zsigmond",
+        "title": "Rokonok"
+      },
+      {
+        "id": "02900_02971",
+        "author": "Benedek Elek",
+        "title": "Székely Tündérország"
+      }
+    ]
   }
 ]

@@ -75,5 +75,32 @@
       "title": "17 - A Jóka ördöge 7."
     }
   ],
-  "url": "https://mek.oszk.hu/18000/18022"
+  "url": "https://mek.oszk.hu/18000/18022",
+  "similar_books": [
+    {
+      "id": "11900_11997",
+      "author": "V. Pócsay Rozika",
+      "title": "A puding próbája"
+    },
+    {
+      "id": "06400_06439",
+      "author": "",
+      "title": "Öt magyar népmese hangillusztrációval"
+    },
+    {
+      "id": "15200_15200",
+      "author": "Benedek Elek",
+      "title": "Válogatott mesék"
+    },
+    {
+      "id": "25100_25133",
+      "author": "Dézsi Zoltán",
+      "title": "A drótostót meséi"
+    },
+    {
+      "id": "03000_03071",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekTolna megye - Váralja,Baranya megye - Zengővárkony"
+    }
+  ]
 }

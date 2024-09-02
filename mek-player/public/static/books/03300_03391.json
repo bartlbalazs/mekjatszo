@@ -147,5 +147,32 @@
       "title": "34 - XXXIII. fejezet"
     }
   ],
-  "url": "https://mek.oszk.hu/03300/03391"
+  "url": "https://mek.oszk.hu/03300/03391",
+  "similar_books": [
+    {
+      "id": "03300_03308",
+      "author": "Mikszáth Kálmán",
+      "title": "Új Zrínyiász"
+    },
+    {
+      "id": "05300_05312",
+      "author": "Mikszáth Kálmán",
+      "title": "A fekete város"
+    },
+    {
+      "id": "09100_09129",
+      "author": "Gárdonyi Géza",
+      "title": "Egri csillagok"
+    },
+    {
+      "id": "03100_03167",
+      "author": "Zrínyi Miklós",
+      "title": "Szigeti veszedelem"
+    },
+    {
+      "id": "02300_02367",
+      "author": "Jókai Mór",
+      "title": "Törökvilág Magyarországon"
+    }
+  ]
 }

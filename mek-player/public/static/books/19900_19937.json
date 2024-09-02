@@ -303,5 +303,32 @@
       "title": "73 - Pár szó az íróról"
     }
   ],
-  "url": "https://mek.oszk.hu/19900/19937"
+  "url": "https://mek.oszk.hu/19900/19937",
+  "similar_books": [
+    {
+      "id": "21900_21995",
+      "author": "Németh Árpád",
+      "title": "A kő"
+    },
+    {
+      "id": "16100_16149",
+      "author": "Menyhei József",
+      "title": "Múltbanéző"
+    },
+    {
+      "id": "06200_06227",
+      "author": "",
+      "title": "Folyik a híd"
+    },
+    {
+      "id": "18700_18753",
+      "author": "Mihályi Antal",
+      "title": "Ili néni állatkertje"
+    },
+    {
+      "id": "14600_14639",
+      "author": "Lehoczki Károly",
+      "title": "Az ismeretlen kert"
+    }
+  ]
 }

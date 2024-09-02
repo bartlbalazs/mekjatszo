@@ -344,7 +344,34 @@
         "title": "83 - IV. kötet (17) 19. fejezet"
       }
     ],
-    "url": "https://mek.oszk.hu/03000/03086"
+    "url": "https://mek.oszk.hu/03000/03086",
+    "similar_books": [
+      {
+        "id": "02500_02580",
+        "author": "Kosztolányi Dezső",
+        "title": "A rossz orvos"
+      },
+      {
+        "id": "03300_03308",
+        "author": "Mikszáth Kálmán",
+        "title": "Új Zrínyiász"
+      },
+      {
+        "id": "05400_05486",
+        "author": "Móricz Zsigmond",
+        "title": "Betyár"
+      },
+      {
+        "id": "02700_02778",
+        "author": "Bródy Sándor",
+        "title": "Az ezüst kecske ; A nap lovagja"
+      },
+      {
+        "id": "10500_10570",
+        "author": "Gárdonyi Géza",
+        "title": "Kátsa"
+      }
+    ]
   },
   {
     "id": "13700_13793",
@@ -507,6 +534,33 @@
         "title": "38 - XXXVIII. fejezet"
       }
     ],
-    "url": "https://mek.oszk.hu/13700/13793"
+    "url": "https://mek.oszk.hu/13700/13793",
+    "similar_books": [
+      {
+        "id": "03000_03087",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekZala megye - Keménfai mesék"
+      },
+      {
+        "id": "23100_23187",
+        "author": "Braun Krisztina",
+        "title": "Halime"
+      },
+      {
+        "id": "13800_13810",
+        "author": "Jenei András",
+        "title": "Nyeregben a Konstantin-kereszt"
+      },
+      {
+        "id": "21900_21995",
+        "author": "Németh Árpád",
+        "title": "A kő"
+      },
+      {
+        "id": "02300_02386",
+        "author": "Mikszáth Kálmán",
+        "title": "A gyerekek"
+      }
+    ]
   }
 ]

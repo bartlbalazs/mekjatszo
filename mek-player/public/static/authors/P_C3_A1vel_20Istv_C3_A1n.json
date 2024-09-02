@@ -7,6 +7,33 @@
     "cover": null,
     "description": "",
     "audio_files": [],
-    "url": "https://mek.oszk.hu/08900/08956"
+    "url": "https://mek.oszk.hu/08900/08956",
+    "similar_books": [
+      {
+        "id": "07600_07603",
+        "author": "Csorcsán Szűcs Imre",
+        "title": "Parasztversek (válogatás)Csongrád megye - Hódmezővásárhely"
+      },
+      {
+        "id": "17000_17009",
+        "author": "Lehoczki Károly",
+        "title": "Sétány a pokolban"
+      },
+      {
+        "id": "01800_01897",
+        "author": "Ladik Katalin",
+        "title": "Ikarosz biciklijénHangköltemények"
+      },
+      {
+        "id": "06700_06785",
+        "author": "Tar Károly",
+        "title": "Szerenád dobra, cintányérra és más ütős hangszerekreHangoskönyv"
+      },
+      {
+        "id": "14100_14175",
+        "author": "V. Pócsay Rozika",
+        "title": "Mélység és magasság"
+      }
+    ]
   }
 ]

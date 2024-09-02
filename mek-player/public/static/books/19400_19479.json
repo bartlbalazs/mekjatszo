@@ -211,5 +211,32 @@
       "title": "50 - 2015. 04. [50-világképlet]"
     }
   ],
-  "url": "https://mek.oszk.hu/19400/19479"
+  "url": "https://mek.oszk.hu/19400/19479",
+  "similar_books": [
+    {
+      "id": "23500_23596",
+      "author": "Rozványi Dávid",
+      "title": "Erdélyi útiképek"
+    },
+    {
+      "id": "22200_22250",
+      "author": "Vidra Szabó Ferenc",
+      "title": "Uszadékfa"
+    },
+    {
+      "id": "19400_19476",
+      "author": "Szente B. Levente",
+      "title": "Csillagtitok"
+    },
+    {
+      "id": "14100_14175",
+      "author": "V. Pócsay Rozika",
+      "title": "Mélység és magasság"
+    },
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    }
+  ]
 }

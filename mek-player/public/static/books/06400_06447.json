@@ -351,5 +351,32 @@
       "title": "85 - Visszatérés a Belvárosba"
     }
   ],
-  "url": "https://mek.oszk.hu/06400/06447"
+  "url": "https://mek.oszk.hu/06400/06447",
+  "similar_books": [
+    {
+      "id": "09300_09387",
+      "author": "Gárdonyi Géza",
+      "title": "Bojgás az világba"
+    },
+    {
+      "id": "21400_21457",
+      "author": "Fekete Árpád",
+      "title": "A kereszténység kritikája"
+    },
+    {
+      "id": "10600_10621",
+      "author": "Gárdonyi Géza",
+      "title": "No még öggyet"
+    },
+    {
+      "id": "16100_16149",
+      "author": "Menyhei József",
+      "title": "Múltbanéző"
+    },
+    {
+      "id": "15500_15513",
+      "author": "Maderspach Viktor",
+      "title": "Menekülésem Erdélyből"
+    }
+  ]
 }

@@ -67,5 +67,32 @@
       "title": "15_track_15.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/25100/25135"
+  "url": "https://mek.oszk.hu/25100/25135",
+  "similar_books": [
+    {
+      "id": "02300_02321",
+      "author": "Vészi Endre",
+      "title": "Az ezüst kehely"
+    },
+    {
+      "id": "03000_03087",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekZala megye - Keménfai mesék"
+    },
+    {
+      "id": "06400_06439",
+      "author": "",
+      "title": "Öt magyar népmese hangillusztrációval"
+    },
+    {
+      "id": "19400_19472",
+      "author": "Szente B. Levente",
+      "title": "Az első éj"
+    },
+    {
+      "id": "25100_25133",
+      "author": "Dézsi Zoltán",
+      "title": "A drótostót meséi"
+    }
+  ]
 }

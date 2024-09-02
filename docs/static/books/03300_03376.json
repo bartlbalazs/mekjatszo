@@ -127,5 +127,32 @@
       "title": "28. fejezet"
     }
   ],
-  "url": "https://mek.oszk.hu/03300/03376"
+  "url": "https://mek.oszk.hu/03300/03376",
+  "similar_books": [
+    {
+      "id": "07300_07363",
+      "author": "Gárdonyi Géza",
+      "title": "Egri csillagok"
+    },
+    {
+      "id": "11200_11242",
+      "author": "Gárdonyi Géza",
+      "title": "Láthatatlan ember"
+    },
+    {
+      "id": "09700_09700",
+      "author": "Jókai Mór",
+      "title": "A kőszívű ember fiai"
+    },
+    {
+      "id": "03000_03082",
+      "author": "Gárdonyi Géza",
+      "title": "Az én falum"
+    },
+    {
+      "id": "03300_03321",
+      "author": "Benedek Elek",
+      "title": "Honszerző Árpád"
+    }
+  ]
 }

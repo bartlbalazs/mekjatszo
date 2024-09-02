@@ -95,5 +95,32 @@
       "title": "20_huszadik_fejezet.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/11500/11545"
+  "url": "https://mek.oszk.hu/11500/11545",
+  "similar_books": [
+    {
+      "id": "02500_02580",
+      "author": "Kosztolányi Dezső",
+      "title": "A rossz orvos"
+    },
+    {
+      "id": "22100_22166",
+      "author": "Kosztolányi Dezső",
+      "title": "Édes Anna"
+    },
+    {
+      "id": "10900_10945",
+      "author": "Kosztolányi Dezső",
+      "title": "Zsivajgó természet"
+    },
+    {
+      "id": "22200_22224",
+      "author": "Kosztolányi Dezső",
+      "title": "Kosztolányi Dezső összes novellája"
+    },
+    {
+      "id": "05300_05354",
+      "author": "Jókai Anna",
+      "title": "Ne féljetek"
+    }
+  ]
 }

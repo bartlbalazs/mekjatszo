@@ -59,5 +59,32 @@
       "title": "12. fejezet"
     }
   ],
-  "url": "https://mek.oszk.hu/02500/02580"
+  "url": "https://mek.oszk.hu/02500/02580",
+  "similar_books": [
+    {
+      "id": "10900_10945",
+      "author": "Kosztolányi Dezső",
+      "title": "Zsivajgó természet"
+    },
+    {
+      "id": "02500_02581",
+      "author": "Kosztolányi Dezső",
+      "title": "Pacsirta"
+    },
+    {
+      "id": "22200_22224",
+      "author": "Kosztolányi Dezső",
+      "title": "Kosztolányi Dezső összes novellája"
+    },
+    {
+      "id": "03300_03308",
+      "author": "Mikszáth Kálmán",
+      "title": "Új Zrínyiász"
+    },
+    {
+      "id": "22200_22243",
+      "author": "Kosztolányi Dezső",
+      "title": "Pacsirta"
+    }
+  ]
 }

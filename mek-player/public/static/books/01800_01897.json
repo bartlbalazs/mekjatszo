@@ -47,5 +47,32 @@
       "title": "9 - versek_5.mp3"
     }
   ],
-  "url": "https://mek.oszk.hu/01800/01897"
+  "url": "https://mek.oszk.hu/01800/01897",
+  "similar_books": [
+    {
+      "id": "01800_01895",
+      "author": "Ladik Katalin",
+      "title": "Kiűzetés, JegyességHangköltemények"
+    },
+    {
+      "id": "06500_06566",
+      "author": "Kéri Katalin",
+      "title": "Karácsonyi hanganyag"
+    },
+    {
+      "id": "01300_01329",
+      "author": "Ladik Katalin",
+      "title": "FűketrecHangköltemények"
+    },
+    {
+      "id": "12500_12529",
+      "author": "Gubcsi Lajos",
+      "title": "Jut eszembe... ami kimaradt"
+    },
+    {
+      "id": "18700_18753",
+      "author": "Mihályi Antal",
+      "title": "Ili néni állatkertje"
+    }
+  ]
 }

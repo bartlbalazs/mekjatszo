@@ -51,5 +51,32 @@
       "title": "11. rész"
     }
   ],
-  "url": "https://mek.oszk.hu/22200/22239"
+  "url": "https://mek.oszk.hu/22200/22239",
+  "similar_books": [
+    {
+      "id": "11200_11267",
+      "author": "Móricz Zsigmond",
+      "title": "A szerelmes levél"
+    },
+    {
+      "id": "11300_11390",
+      "author": "Móricz Zsigmond",
+      "title": "Móricz Zsigmond válogatott művei a Nyugatból"
+    },
+    {
+      "id": "02200_02289",
+      "author": "Mikszáth Kálmán",
+      "title": "Kísértet Lublón"
+    },
+    {
+      "id": "03100_03168",
+      "author": "Móricz Zsigmond",
+      "title": "Árvácska"
+    },
+    {
+      "id": "11200_11236",
+      "author": "Krúdy Gyula",
+      "title": "Jézuska csizmájaHangoskönyv"
+    }
+  ]
 }

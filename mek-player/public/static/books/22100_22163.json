@@ -23,5 +23,32 @@
       "title": "4. rész"
     }
   ],
-  "url": "https://mek.oszk.hu/22100/22163"
+  "url": "https://mek.oszk.hu/22100/22163",
+  "similar_books": [
+    {
+      "id": "06400_06439",
+      "author": "",
+      "title": "Öt magyar népmese hangillusztrációval"
+    },
+    {
+      "id": "02300_02321",
+      "author": "Vészi Endre",
+      "title": "Az ezüst kehely"
+    },
+    {
+      "id": "15200_15200",
+      "author": "Benedek Elek",
+      "title": "Válogatott mesék"
+    },
+    {
+      "id": "20200_20290",
+      "author": "Mihályi Antal",
+      "title": "A szkarabeusz titka"
+    },
+    {
+      "id": "18700_18753",
+      "author": "Mihályi Antal",
+      "title": "Ili néni állatkertje"
+    }
+  ]
 }

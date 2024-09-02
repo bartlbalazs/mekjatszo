@@ -6,5 +6,32 @@
   "cover": null,
   "description": null,
   "audio_files": [],
-  "url": "https://mek.oszk.hu/04000/04085"
+  "url": "https://mek.oszk.hu/04000/04085",
+  "similar_books": [
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    },
+    {
+      "id": "25100_25135",
+      "author": "Dézsi Zoltán",
+      "title": "Hargitai medvetánc"
+    },
+    {
+      "id": "02300_02321",
+      "author": "Vészi Endre",
+      "title": "Az ezüst kehely"
+    },
+    {
+      "id": "03100_03179",
+      "author": "Balázs Ferenc",
+      "title": "A rög alatt"
+    },
+    {
+      "id": "05000_05004",
+      "author": "",
+      "title": "A reformkor prózairodalma"
+    }
+  ]
 }

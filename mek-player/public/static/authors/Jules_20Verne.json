@@ -100,7 +100,34 @@
         "title": "22. fejezet: A vén Silfax legendája"
       }
     ],
-    "url": "https://mek.oszk.hu/02300/02385"
+    "url": "https://mek.oszk.hu/02300/02385",
+    "similar_books": [
+      {
+        "id": "12300_12378",
+        "author": "Rejtő Jenő",
+        "title": "A pokol zsoldosai"
+      },
+      {
+        "id": "12300_12368",
+        "author": "Rejtő Jenő",
+        "title": "A fekete kapitány"
+      },
+      {
+        "id": "03300_03386",
+        "author": "Henrik Ibsen",
+        "title": "A vadkacsa ; Solness építőmester"
+      },
+      {
+        "id": "03300_03310",
+        "author": "Benedek Elek",
+        "title": "Édes anyaföldem!"
+      },
+      {
+        "id": "02900_02953",
+        "author": "Rejtő Jenő",
+        "title": "Piszkos Fred, a kapitány"
+      }
+    ]
   },
   {
     "id": "02200_02284",
@@ -155,6 +182,33 @@
         "title": "10 - X. fejezet - A Szent Mungo székesegyházban"
       }
     ],
-    "url": "https://mek.oszk.hu/02200/02284"
+    "url": "https://mek.oszk.hu/02200/02284",
+    "similar_books": [
+      {
+        "id": "03100_03166",
+        "author": "Antoine de Saint-Exupéry",
+        "title": "A kis herceg"
+      },
+      {
+        "id": "12300_12368",
+        "author": "Rejtő Jenő",
+        "title": "A fekete kapitány"
+      },
+      {
+        "id": "25100_25126",
+        "author": "Gaál Mózes",
+        "title": "Münchhausen"
+      },
+      {
+        "id": "04700_04787",
+        "author": "Juhász Gyula",
+        "title": "Szakállszárító"
+      },
+      {
+        "id": "03000_03093",
+        "author": "Zsoldos Péter",
+        "title": "Távoli tűz"
+      }
+    ]
   }
 ]

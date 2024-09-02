@@ -35,5 +35,32 @@
       "title": "07 - Mr. Howard célbalő"
     }
   ],
-  "url": "https://mek.oszk.hu/12400/12463"
+  "url": "https://mek.oszk.hu/12400/12463",
+  "similar_books": [
+    {
+      "id": "02300_02359",
+      "author": "Jókai Mór",
+      "title": "Csataképek a magyar szabadságharcból"
+    },
+    {
+      "id": "03700_03743",
+      "author": "Mikszáth Kálmán",
+      "title": "Szent Péter esernyője"
+    },
+    {
+      "id": "12400_12447",
+      "author": "Rejtő Jenő",
+      "title": "Vissza a pokolba"
+    },
+    {
+      "id": "03100_03179",
+      "author": "Balázs Ferenc",
+      "title": "A rög alatt"
+    },
+    {
+      "id": "02900_02965",
+      "author": "Tamási Áron",
+      "title": "Ábel a rengetegben"
+    }
+  ]
 }

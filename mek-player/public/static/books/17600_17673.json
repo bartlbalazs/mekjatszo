@@ -59,5 +59,32 @@
       "title": "13 - Hans Christian Andersen: A fenyőfa"
     }
   ],
-  "url": "https://mek.oszk.hu/17600/17673"
+  "url": "https://mek.oszk.hu/17600/17673",
+  "similar_books": [
+    {
+      "id": "11200_11236",
+      "author": "Krúdy Gyula",
+      "title": "Jézuska csizmájaHangoskönyv"
+    },
+    {
+      "id": "16100_16149",
+      "author": "Menyhei József",
+      "title": "Múltbanéző"
+    },
+    {
+      "id": "17700_17713",
+      "author": "Komor Zoltán",
+      "title": "Klitorisz-krampusz és karácsonyfa bukkake"
+    },
+    {
+      "id": "10500_10570",
+      "author": "Gárdonyi Géza",
+      "title": "Kátsa"
+    },
+    {
+      "id": "03000_03087",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekZala megye - Keménfai mesék"
+    }
+  ]
 }

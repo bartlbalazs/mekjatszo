@@ -64,6 +64,33 @@
         "title": "13 - CSORCSÁN SZŰCS IMRE saját versét mondja"
       }
     ],
-    "url": "https://mek.oszk.hu/07600/07603"
+    "url": "https://mek.oszk.hu/07600/07603",
+    "similar_books": [
+      {
+        "id": "17000_17009",
+        "author": "Lehoczki Károly",
+        "title": "Sétány a pokolban"
+      },
+      {
+        "id": "24900_24991",
+        "author": "Rozványi Dávid",
+        "title": "Felvidéki útiképek (Hangoskönyv)"
+      },
+      {
+        "id": "19400_19476",
+        "author": "Szente B. Levente",
+        "title": "Csillagtitok"
+      },
+      {
+        "id": "14100_14175",
+        "author": "V. Pócsay Rozika",
+        "title": "Mélység és magasság"
+      },
+      {
+        "id": "06700_06785",
+        "author": "Tar Károly",
+        "title": "Szerenád dobra, cintányérra és más ütős hangszerekreHangoskönyv"
+      }
+    ]
   }
 ]

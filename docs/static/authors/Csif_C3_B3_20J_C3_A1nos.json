@@ -288,6 +288,33 @@
         "title": "70_zrinyi_endre_muzeologus.mp3"
       }
     ],
-    "url": "https://mek.oszk.hu/12100/12115"
+    "url": "https://mek.oszk.hu/12100/12115",
+    "similar_books": [
+      {
+        "id": "25200_25201",
+        "author": "Komor Zoltán",
+        "title": "Magyalország"
+      },
+      {
+        "id": "11200_11236",
+        "author": "Krúdy Gyula",
+        "title": "Jézuska csizmájaHangoskönyv"
+      },
+      {
+        "id": "09800_09885",
+        "author": "",
+        "title": "A szív árnyaiHangoskönyv"
+      },
+      {
+        "id": "03000_03071",
+        "author": "",
+        "title": "Tájnyelvi hangfelvételekTolna megye - Váralja,Baranya megye - Zengővárkony"
+      },
+      {
+        "id": "14100_14175",
+        "author": "V. Pócsay Rozika",
+        "title": "Mélység és magasság"
+      }
+    ]
   }
 ]

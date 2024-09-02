@@ -140,6 +140,33 @@
         "title": "33 - 33. óra: Az ujságíró halála"
       }
     ],
-    "url": "https://mek.oszk.hu/20500/20593"
+    "url": "https://mek.oszk.hu/20500/20593",
+    "similar_books": [
+      {
+        "id": "12300_12378",
+        "author": "Rejtő Jenő",
+        "title": "A pokol zsoldosai"
+      },
+      {
+        "id": "10500_10570",
+        "author": "Gárdonyi Géza",
+        "title": "Kátsa"
+      },
+      {
+        "id": "03000_03075",
+        "author": "Móricz Zsigmond",
+        "title": "Légy jó mindhalálig"
+      },
+      {
+        "id": "11200_11236",
+        "author": "Krúdy Gyula",
+        "title": "Jézuska csizmájaHangoskönyv"
+      },
+      {
+        "id": "02500_02547",
+        "author": "Krúdy Gyula",
+        "title": "Jézuska csizmája"
+      }
+    ]
   }
 ]

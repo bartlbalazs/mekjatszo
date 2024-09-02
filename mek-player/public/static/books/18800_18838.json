@@ -23,5 +23,32 @@
       "title": "04 - Negyedik ének"
     }
   ],
-  "url": "https://mek.oszk.hu/18800/18838"
+  "url": "https://mek.oszk.hu/18800/18838",
+  "similar_books": [
+    {
+      "id": "18900_18938",
+      "author": "Petőfi Sándor",
+      "title": "Az apostol"
+    },
+    {
+      "id": "23700_23762",
+      "author": "Molnár Ferenc",
+      "title": "A Pál utcai fiúk"
+    },
+    {
+      "id": "02200_02268",
+      "author": "Petőfi Sándor",
+      "title": "A helység kalapácsa"
+    },
+    {
+      "id": "14100_14175",
+      "author": "V. Pócsay Rozika",
+      "title": "Mélység és magasság"
+    },
+    {
+      "id": "17000_17009",
+      "author": "Lehoczki Károly",
+      "title": "Sétány a pokolban"
+    }
+  ]
 }

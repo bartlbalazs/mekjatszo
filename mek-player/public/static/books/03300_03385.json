@@ -51,5 +51,32 @@
       "title": "10 - Gyuri levelet kap"
     }
   ],
-  "url": "https://mek.oszk.hu/03300/03385"
+  "url": "https://mek.oszk.hu/03300/03385",
+  "similar_books": [
+    {
+      "id": "09700_09700",
+      "author": "Jókai Mór",
+      "title": "A kőszívű ember fiai"
+    },
+    {
+      "id": "02500_02595",
+      "author": "Csáth Géza",
+      "title": "Lidércálmok"
+    },
+    {
+      "id": "03100_03168",
+      "author": "Móricz Zsigmond",
+      "title": "Árvácska"
+    },
+    {
+      "id": "04400_04480",
+      "author": "Nyikolaj Vasziljevics Gogol",
+      "title": "Az orr"
+    },
+    {
+      "id": "03000_03082",
+      "author": "Gárdonyi Géza",
+      "title": "Az én falum"
+    }
+  ]
 }
