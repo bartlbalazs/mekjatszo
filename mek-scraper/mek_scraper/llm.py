@@ -51,6 +51,5 @@ class LLM:
             similar_books = [SimilarBook(id=book.payload['metadata']['id'], author=book.payload['metadata']['author'],
                                          title=book.payload['metadata']['title']) for book in similar_books]
             books[ind].similar_books = similar_books
-        qdrant_client.query_points(collection_name=BOOKS_COLLECTION_NAME, query=uuids[0], with_vectors=True, limit=5)
 
         return books
