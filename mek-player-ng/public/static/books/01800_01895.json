@@ -1,0 +1,66 @@
+{
+  "id": "01800_01895",
+  "title": "Kiűzetés, JegyességHangköltemények",
+  "author": "Ladik Katalin",
+  "lead": "\"Lassú, váró mozdulattal gyilkolsz, Ezüst rovar. Sápadtan karjaidban Mézet eresztesz belém.\"",
+  "cover": "/01800/01895/borito.jpg",
+  "description": "",
+  "audio_files": [
+    {
+      "url": "aki_darazsakrol_almodik_1.mp3",
+      "title": "0 - aki_darazsakrol_almodik_1.mp3"
+    },
+    {
+      "url": "aki_darazsakrol_almodik_2.mp3",
+      "title": "1 - aki_darazsakrol_almodik_2.mp3"
+    },
+    {
+      "url": "aki_darazsakrol_almodik_3.mp3",
+      "title": "2 - aki_darazsakrol_almodik_3.mp3"
+    },
+    {
+      "url": "aki_darazsakrol_almodik_4.mp3",
+      "title": "3 - aki_darazsakrol_almodik_4.mp3"
+    },
+    {
+      "url": "versek_1.mp3",
+      "title": "4 - versek_1.mp3"
+    },
+    {
+      "url": "versek_2.mp3",
+      "title": "5 - versek_2.mp3"
+    },
+    {
+      "url": "versek_3.mp3",
+      "title": "6 - versek_3.mp3"
+    }
+  ],
+  "url": "https://mek.oszk.hu/01800/01895",
+  "similar_books": [
+    {
+      "id": "01800_01897",
+      "author": "Ladik Katalin",
+      "title": "Ikarosz biciklijénHangköltemények"
+    },
+    {
+      "id": "01300_01329",
+      "author": "Ladik Katalin",
+      "title": "FűketrecHangköltemények"
+    },
+    {
+      "id": "06500_06566",
+      "author": "Kéri Katalin",
+      "title": "Karácsonyi hanganyag"
+    },
+    {
+      "id": "24900_24935",
+      "author": "Krúdy Gyula",
+      "title": "Az élet álom"
+    },
+    {
+      "id": "12500_12529",
+      "author": "Gubcsi Lajos",
+      "title": "Jut eszembe... ami kimaradt"
+    }
+  ]
+}

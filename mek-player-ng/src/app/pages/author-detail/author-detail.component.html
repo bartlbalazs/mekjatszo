@@ -1,0 +1,30 @@
+<div class="author-detail-container">
+  <button class="back-btn" (click)="goBack()">
+    ← Vissza a szerzőkhöz
+  </button>
+
+  @if (loading()) {
+    <div class="loading">Betöltés...</div>
+  } @else {
+    <header class="page-header">
+      <h1>{{ authorName() }}</h1>
+      <p class="subtitle">{{ books().length }} hangoskönyv</p>
+    </header>
+
+    <div class="books-grid">
+      @for (book of books(); track book.id) {
+        <div class="book-card" (click)="onBookClick(book)">
+          @if (book.cover) {
+            <div class="book-cover">
+              <img [src]="book.cover" [alt]="book.title" />
+            </div>
+          }
+          <div class="book-info">
+            <h3 class="book-title">{{ book.title }}</h3>
+            <p class="book-lead">{{ book.lead }}</p>
+          </div>
+        </div>
+      }
+    </div>
+  }
+</div>

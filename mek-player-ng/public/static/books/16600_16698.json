@@ -1,0 +1,42 @@
+{
+  "id": "16600_16698",
+  "title": "A kettévált milliomos",
+  "author": "Aszlányi Károly",
+  "lead": "\"Az egyik Awk előrántotta revolverét. A másik nyugodtan szivarozott tovább. Az egyik megütődve nézett a másikra; a másik megvetően az egyikre. Csakhogy, míg az igazi Awk nem jutott szóhoz, addig Garry lármát csapott. A gallérját tépte és morgott. Awk már maga is kételkedett a saját személyazonosságában.\"",
+  "cover": "/16600/16698/borito.jpg",
+  "description": null,
+  "audio_files": [
+    {
+      "url": "Aszlanyi_Karoly-A_kettevalt_milliomos.mp3",
+      "title": "0 - A kettévált milliomos"
+    }
+  ],
+  "url": "https://mek.oszk.hu/16600/16698",
+  "similar_books": [
+    {
+      "id": "16200_16225",
+      "author": "Nagy Károly",
+      "title": "A légió kísértete"
+    },
+    {
+      "id": "02300_02386",
+      "author": "Mikszáth Kálmán",
+      "title": "A gyerekek"
+    },
+    {
+      "id": "09900_09914",
+      "author": "Gárdonyi Géza",
+      "title": "Göre Gábor biró úr könyve"
+    },
+    {
+      "id": "14600_14639",
+      "author": "Lehoczki Károly",
+      "title": "Az ismeretlen kert"
+    },
+    {
+      "id": "09300_09340",
+      "author": "Gárdonyi Géza",
+      "title": "Göre Martsa lakodalma"
+    }
+  ]
+}

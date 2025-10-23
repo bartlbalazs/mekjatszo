@@ -1,0 +1,42 @@
+{
+  "id": "19000_19013",
+  "title": "Bingyó Bernyó Nekeresdországban",
+  "author": "Szente B. Levente",
+  "lead": "\"Bingyó Bernyó ne legyen a nevem, ha én kalandorkodásra sok szeretettel és bátorkodva fel nem kerekedem. És felkerekedett!\"",
+  "cover": "/19000/19013/borito.jpg",
+  "description": null,
+  "audio_files": [
+    {
+      "url": "Szente-B_Levente-Bingyo_Bernyo_Nekeresdorszagban.mp3",
+      "title": "0 - Bingyó Bernyó Nekeresdországban"
+    }
+  ],
+  "url": "https://mek.oszk.hu/19000/19013",
+  "similar_books": [
+    {
+      "id": "19000_19059",
+      "author": "Szente B. Levente",
+      "title": "Az ezüsthajú tündérleány"
+    },
+    {
+      "id": "19400_19476",
+      "author": "Szente B. Levente",
+      "title": "Csillagtitok"
+    },
+    {
+      "id": "19400_19472",
+      "author": "Szente B. Levente",
+      "title": "Az első éj"
+    },
+    {
+      "id": "19500_19566",
+      "author": "Boér Péter Pál",
+      "title": "Szabályerősítő"
+    },
+    {
+      "id": "19300_19341",
+      "author": "Szente B. Levente",
+      "title": "Tücsök, Zöld Manó és a többiek"
+    }
+  ]
+}

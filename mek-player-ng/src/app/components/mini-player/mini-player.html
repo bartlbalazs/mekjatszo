@@ -1,0 +1,52 @@
+@if (isVisible()) {
+  <div class="mini-player">
+    <div class="mini-player-content">
+      <div class="book-info" (click)="openBook()">
+        @if (currentBookCover()) {
+          <img [src]="currentBookCover()" [alt]="currentBookTitle()" class="mini-cover" />
+        } @else {
+          <div class="mini-cover-placeholder">📖</div>
+        }
+        <div class="book-details">
+          <div class="mini-title">{{ currentBookTitle() }}</div>
+          <div class="mini-author">{{ currentBookAuthor() }}</div>
+          <div class="mini-chapter">{{ audioServiceRef.currentChapter()?.title }}</div>
+        </div>
+      </div>
+      
+      <div class="mini-controls">
+        @if (audioServiceRef.chapters().length > 1) {
+          <button class="mini-btn" (click)="skipPrev()" title="Előző fejezet">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M6 6h2v12H6zm3.5 6l8.5 6V6z"/>
+            </svg>
+          </button>
+        }
+        
+        <button class="mini-btn play-pause" (click)="togglePlayPause()" [title]="audioServiceRef.isPlaying() ? 'Szünet' : 'Lejátszás'">
+          @if (audioServiceRef.isPlaying()) {
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/>
+            </svg>
+          } @else {
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M8 5v14l11-7z"/>
+            </svg>
+          }
+        </button>
+        
+        @if (audioServiceRef.chapters().length > 1) {
+          <button class="mini-btn" (click)="skipNext()" title="Következő fejezet">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M6 18l8.5-6L6 6v12zM16 6v12h2V6h-2z"/>
+            </svg>
+          </button>
+        }
+      </div>
+      
+      <div class="mini-progress">
+        <div class="mini-progress-bar" [style.width.%]="audioServiceRef.progress()"></div>
+      </div>
+    </div>
+  </div>
+}

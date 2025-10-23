@@ -1,0 +1,184 @@
+[
+  {
+    "id": "06200_06233",
+    "title": "Hamlet",
+    "author": "William Shakespeare",
+    "lead": "\"Hadd lám. Haj, szegény Yorick! Ismertem, Horatio; végtelen tréfás, szikrázó elmésségű fiú volt: engem a hátán hurcolt ezerszer: és most hogy irtózik tőle a képzeletem! A gyomrom is émelyedik rá. Itt függött az ajk, melyet én összecsókoltam, azt se tudom, hányszor. Hová lettek gúnyjaid, bakugrásid, dalaid?\"",
+    "cover": "/06200/06233/borito.jpg",
+    "description": null,
+    "audio_files": [
+      {
+        "url": "00_hamlet_focim.mp3",
+        "title": "00 - Hangos katalóguscédula"
+      },
+      {
+        "url": "00_hamlet_szemelyek.mp3",
+        "title": "00 - Személyek"
+      },
+      {
+        "url": "01_hamlet_1felv.mp3",
+        "title": "01 - I. felvonás"
+      },
+      {
+        "url": "02_hamlet_2felv.mp3",
+        "title": "02 - II. felvonás"
+      },
+      {
+        "url": "03_hamlet_3felv.mp3",
+        "title": "03 - III. felvonás"
+      },
+      {
+        "url": "04_hamlet_4felv.mp3",
+        "title": "04 - IV. felvonás"
+      },
+      {
+        "url": "05_hamlet_5felv.mp3",
+        "title": "05 - V. felvonás"
+      }
+    ],
+    "url": "https://mek.oszk.hu/06200/06233",
+    "similar_books": [
+      {
+        "id": "03900_03980",
+        "author": "William Shakespeare",
+        "title": "William Shakespeare szonettjei"
+      },
+      {
+        "id": "16000_16079",
+        "author": "Lipcsey Emőke",
+        "title": "Sziklarajzok"
+      },
+      {
+        "id": "22100_22199",
+        "author": "Babits Mihály",
+        "title": "Halálfiai"
+      },
+      {
+        "id": "06200_06227",
+        "author": "",
+        "title": "Folyik a híd"
+      },
+      {
+        "id": "15800_15812",
+        "author": "Jenei András",
+        "title": "Az enyém"
+      }
+    ]
+  },
+  {
+    "id": "07000_07036",
+    "title": "Romeo és Júlia",
+    "author": "William Shakespeare",
+    "lead": "\"Két nagy család élt a szép Veronába, Ez lesz a szín, utunk ide vezet. Vak gyűlölettel harcoltak hiába, S polgárvér fertezett polgárkezet.\"",
+    "cover": "/07000/07036/borito.jpg",
+    "description": "A szerelmespár fogalommá, szimbólummá, szinte már-már mítosszá változott, az ellenséges családok gyermekeinek tragikus sorsa, halálukon is győzedelmeskedő szerelme nagy hatást gyakorolt századok óta az olvasókra. A darab nagy része Verona utcáin játszódik, mulatós, tréfás, szemtelen, disznóságokat beszélő, békés járókelőket, köztük öregasszonyokat is molesztáló ifjak között. A mai olvasó számára a műnek ezek a vonásai nemcsak meglepőek, de fölöttébb vonzóak is, ugyanakkor igen kitűnő keretet adnak a nagyon is \"édes\" szerelmi történetnek. Minden ellenkező látszat dacára a pezsgő, nyüzsgő, reneszánsz frissességű és léhaságú környezet hitelesíti nemcsak a végzetes szenvedélyt, a halált is vállaló elszántságot, szinte már földöntúlian absztrakt szerelmet is. (Ugyanezt a funkciót tölti be Rómeó és Júlia kapcsolatának, nászának erotikus töltésű \"tálalása\" is.) Ajánlani valószínűleg fölösleges, minden Shakespeare-be kezdő olvasó ezzel a művel fog elsőül megismerkedni. Forrás: Legeza Ilona könyvismertetői https://legeza.oszk.hu/",
+    "audio_files": [
+      {
+        "url": "00_romeo_focim.mp3",
+        "title": "00 - Hangos katalóguscédula"
+      },
+      {
+        "url": "01_romeo_szemelyek.mp3",
+        "title": "01 - Személyek"
+      },
+      {
+        "url": "02_romeo_elohang.mp3",
+        "title": "02 - Előhang"
+      },
+      {
+        "url": "03_romeo_1felv.mp3",
+        "title": "03 - Első felvonás"
+      },
+      {
+        "url": "04_romeo_2felv.mp3",
+        "title": "04 - Második felvonás"
+      },
+      {
+        "url": "05_romeo_3felv.mp3",
+        "title": "05 - Harmadik felvonás"
+      },
+      {
+        "url": "06_romeo_4felv.mp3",
+        "title": "06 - Negyedik felvonás"
+      },
+      {
+        "url": "07_romeo_5felv.mp3",
+        "title": "07 - Ötödik felvonás"
+      }
+    ],
+    "url": "https://mek.oszk.hu/07000/07036",
+    "similar_books": [
+      {
+        "id": "03900_03980",
+        "author": "William Shakespeare",
+        "title": "William Shakespeare szonettjei"
+      },
+      {
+        "id": "03300_03379",
+        "author": "Emily Brontë",
+        "title": "Üvöltő szelek"
+      },
+      {
+        "id": "03300_03376",
+        "author": "Stendhal",
+        "title": "A pármai kolostor"
+      },
+      {
+        "id": "12300_12396",
+        "author": "Rejtő Jenő",
+        "title": "Az utolsó szó jogán"
+      },
+      {
+        "id": "03900_03994",
+        "author": "Gustave Flaubert",
+        "title": "Bovaryné"
+      }
+    ]
+  },
+  {
+    "id": "03900_03980",
+    "title": "William Shakespeare szonettjei",
+    "author": "William Shakespeare",
+    "lead": "\"A gyönyörűt szaporítani vágyunk, Hogy így örökké rózsáljon a Szép, S emlékét, ha hull érettebb virágunk, Őrizhesse a zsenge ivadék.\"",
+    "cover": "/03900/03980/borito.jpg",
+    "description": "A világirodalom legnagyobbjai, költői és drámaírói közé tartozó William Shakespeare (1564-1616) minden általa művelt műfajban kiemelkedőt alkotott. Szonettjei is a reneszánsz költészet élvonalába tartoznak. A legszeretőbb és legnemesebb, ma már elképzelhetetlenül mély barátság hangja szól belőlük, és ez a barátság oly erős, oly nagy, hogy a vágyódást, a gyötrelmet, a féltést és féltékenységet, tehát a szerelmet is magában foglalja, miközben barátja árulásáról, majd barátnője hűtlenségéről panaszkodik. A költői szépségnek és meditációnak, a tökéletes zeneiségnek, a gondolat és érzelem mélységének, a tömörségnek, a képzelet elevenségének, a képek és kifejezések gazdagságának és merészségének csodálatos példáit látva az olvasó maga is érezni fogja, hogy e szonettek elég erősek megbírni az Örökkévalóságot.",
+    "audio_files": [
+      {
+        "url": "1006aa00.mp3",
+        "title": "0 - Hangos katalóguscédula"
+      },
+      {
+        "url": "1006af01.mp3",
+        "title": "1 - Szonettek"
+      }
+    ],
+    "url": "https://mek.oszk.hu/03900/03980",
+    "similar_books": [
+      {
+        "id": "07000_07036",
+        "author": "William Shakespeare",
+        "title": "Romeo és Júlia"
+      },
+      {
+        "id": "03300_03391",
+        "author": "Eötvös József",
+        "title": "Magyarország 1514-ben"
+      },
+      {
+        "id": "03100_03167",
+        "author": "Zrínyi Miklós",
+        "title": "Szigeti veszedelem"
+      },
+      {
+        "id": "03900_03979",
+        "author": "Lucius Apuleius",
+        "title": "Az aranyszamár"
+      },
+      {
+        "id": "07300_07363",
+        "author": "Gárdonyi Géza",
+        "title": "Egri csillagok"
+      }
+    ]
+  }
+]

@@ -1,0 +1,195 @@
+<div class="book-detail-container">
+  <div class="header-actions">
+    <button class="back-btn" (click)="goBack()">
+      ← Vissza a könyvekhez
+    </button>
+    
+    @if (book()) {
+      <button 
+        class="favorite-btn" 
+        [class.active]="isFavorite()"
+        (click)="toggleFavorite()"
+        [title]="isFavorite() ? 'Kedvencek eltávolítása' : 'Hozzáadás a kedvencekhez'"
+      >
+        @if (isFavorite()) {
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/>
+          </svg>
+        } @else {
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/>
+          </svg>
+        }
+      </button>
+    }
+  </div>
+
+  @if (error()) {
+    <div class="error-message">
+      <p>{{ error() }}</p>
+      <button class="retry-btn" (click)="retryLoad()">Újrapróbálás</button>
+    </div>
+  }
+
+  @if (loading()) {
+    <div class="loading">Betöltés...</div>
+  } @else if (book()) {
+    <div class="player-layout">
+      <section class="player-section">
+        <div class="book-header">
+          <h1 class="author-name">{{ book()!.author }}</h1>
+          <h2 class="book-title">{{ book()!.title }}</h2>
+        </div>
+
+        @if (cover()) {
+          <div class="cover-wrapper" (click)="openCoverModal()">
+            <img [src]="cover()" [alt]="book()!.title" class="cover-image" />
+          </div>
+        }
+
+        <div class="chapter-details">
+          <h3 class="chapter-title">
+            {{ audioService.currentChapter()?.title || 'Válassz egy fejezetet' }}
+          </h3>
+          
+          <input 
+            type="range" 
+            min="0" 
+            max="100" 
+            [value]="audioService.progress()"
+            (input)="onSeek($event)"
+            class="progress-slider"
+          />
+          
+          <div class="timer">
+            <span class="start">{{ audioService.currentTime() }}</span>
+            <span class="end">{{ audioService.totalTime() }}</span>
+          </div>
+          
+          <div class="playback-controls">
+            <label for="playback-speed">Lejátszási sebesség:</label>
+            <select 
+              id="playback-speed" 
+              [value]="audioService.playbackSpeed()" 
+              (change)="onSpeedChange($event)"
+              class="speed-select"
+            >
+              <option value="0.5">0.5x</option>
+              <option value="0.75">0.75x</option>
+              <option value="1">1x</option>
+              <option value="1.25">1.25x</option>
+              <option value="1.5">1.5x</option>
+              <option value="1.75">1.75x</option>
+              <option value="2">2x</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="controls">
+          @if (audioService.chapters().length > 1) {
+            <button class="control-btn prev" (click)="onPrev()" title="Előző fejezet">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M6 6h2v12H6zm3.5 6l8.5 6V6z"/>
+              </svg>
+            </button>
+            <button class="control-btn rewind" (click)="onRewind()" title="10 másodperc vissza">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M11.99 5V1l-5 5 5 5V7c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6h-2c0 4.42 3.58 8 8 8s8-3.58 8-8-3.58-8-8-8z"/>
+              </svg>
+            </button>
+          }
+
+          @if (!audioService.isPlaying()) {
+            <button class="control-btn play" (click)="onPlay()" title="Lejátszás">
+              <svg width="32" height="32" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M8 5v14l11-7z"/>
+              </svg>
+            </button>
+          } @else {
+            <button class="control-btn pause" (click)="onPause()" title="Szünet">
+              <svg width="32" height="32" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/>
+              </svg>
+            </button>
+          }
+
+          @if (audioService.chapters().length > 1) {
+            <button class="control-btn forward" (click)="onForward()" title="10 másodperc előre">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M12 5V1l5 5-5 5V7c-3.31 0-6 2.69-6 6s2.69 6 6 6 6-2.69 6-6h2c0 4.42-3.58 8-8 8s-8-3.58-8-8 3.58-8 8-8z"/>
+              </svg>
+            </button>
+            <button class="control-btn next" (click)="onNext()" title="Következő fejezet">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M6 18l8.5-6L6 6v12zM16 6v12h2V6h-2z"/>
+              </svg>
+            </button>
+          }
+        </div>
+      </section>
+
+      @if (audioService.chapters().length > 1) {
+        <section class="playlist-section">
+          <h3 class="playlist-title">Fejezetek</h3>
+          <ul class="playlist">
+            @for (chapter of audioService.chapters(); track chapter.src) {
+              <li 
+                class="chapter-item"
+                [class.active]="audioService.currentChapter()?.src === chapter.src"
+                [class.completed]="audioService.isChapterCompleted($index)"
+                (click)="onChapterClick(chapter)"
+              >
+                <div class="chapter-item-content">
+                  <span class="chapter-number">{{ $index + 1 }}.</span>
+                  <span class="chapter-item-title">{{ chapter.title }}</span>
+                  @if (audioService.isChapterCompleted($index)) {
+                    <span class="completed-badge">✓</span>
+                  }
+                </div>
+              </li>
+            }
+          </ul>
+        </section>
+      }
+    </div>
+
+    <div class="book-info">
+      <div class="info-section">
+        <h3>Leírás</h3>
+        <p class="lead">{{ book()!.lead }}</p>
+        @if (book()!.description) {
+          <p class="description">{{ book()!.description }}</p>
+        }
+        <p class="source">
+          Forrás: <a [href]="book()!.url" target="_blank">{{ book()!.url }}</a>
+        </p>
+      </div>
+
+      @if (book()!.similar_books && book()!.similar_books!.length > 0) {
+        <div class="similar-books">
+          <h3>Hasonló könyvek</h3>
+          <ul class="similar-list">
+            @for (similar of book()!.similar_books; track similar.id) {
+              <li class="similar-item" (click)="onSimilarBookClick(similar.id)">
+                <span class="similar-author">{{ similar.author }}</span>
+                @if (similar.author) {
+                  <span class="separator">-</span>
+                }
+                <span class="similar-title">{{ similar.title }}</span>
+              </li>
+            }
+          </ul>
+        </div>
+      }
+    </div>
+  }
+
+  @if (showCoverModal()) {
+    <div class="cover-modal" (click)="closeCoverModal()">
+      <div class="cover-modal-content">
+        <button class="close-modal" (click)="closeCoverModal()" title="Bezárás">×</button>
+        <img [src]="cover()" [alt]="book()!.title" class="cover-image-large" />
+      </div>
+    </div>
+  }
+</div>
