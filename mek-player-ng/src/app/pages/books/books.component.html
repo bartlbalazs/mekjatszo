@@ -1,0 +1,178 @@
+<div class="books-container">
+  <header class="page-header">
+    <h1>Hangoskönyvek</h1>
+    <p class="subtitle">{{ filteredBooks().length }} hangoskönyv található</p>
+  </header>
+
+  @if (currentlyPlayingBook()) {
+    <div class="continue-playing-card" (click)="onBookClick(currentlyPlayingBook()!)">
+      <div class="continue-icon">▶️</div>
+      <div class="continue-content">
+        <div class="continue-label">Folytatás</div>
+        <h3 class="continue-title">{{ currentlyPlayingBook()!.title }}</h3>
+        <p class="continue-author">{{ currentlyPlayingBook()!.author }}</p>
+        <p class="continue-progress">Fejezet: {{ currentlyPlayingBook()!.chapterIndex + 1 }}</p>
+      </div>
+      @if (currentlyPlayingBook()!.cover && currentlyPlayingBook()!.cover !== '') {
+        <img 
+          [src]="currentlyPlayingBook()!.cover" 
+          [alt]="currentlyPlayingBook()!.title"
+          class="continue-cover"
+          (error)="onImageError($event)"
+        />
+      } @else {
+        <div class="continue-cover-placeholder">
+          <div class="placeholder-text">📖</div>
+        </div>
+      }
+    </div>
+  }
+
+  <div class="filter-tabs">
+    <button 
+      class="filter-tab"
+      [class.active]="filterMode() === 'all'"
+      (click)="onFilterChange('all')"
+    >
+      Összes ({{ books().length }})
+    </button>
+    <button 
+      class="filter-tab"
+      [class.active]="filterMode() === 'favorites'"
+      (click)="onFilterChange('favorites')"
+    >
+      ❤️ Kedvencek ({{ favoriteBooks().length }})
+    </button>
+    <button 
+      class="filter-tab"
+      [class.active]="filterMode() === 'recent'"
+      (click)="onFilterChange('recent')"
+    >
+      🕒 Legutóbbiak ({{ recentBooks().length }})
+    </button>
+  </div>
+
+  <div class="controls-bar">
+    <input 
+      type="text" 
+      placeholder="Keresés cím vagy szerző alapján..." 
+      [value]="searchTerm()"
+      (input)="onSearchChange($any($event.target).value)"
+      class="search-input"
+    />
+    
+    <button class="view-toggle" (click)="toggleViewMode()" [title]="viewMode() === 'table' ? 'Rács nézet' : 'Táblázat nézet'">
+      @if (viewMode() === 'table') {
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M3 3h8v8H3V3zm10 0h8v8h-8V3zM3 13h8v8H3v-8zm10 0h8v8h-8v-8z"/>
+        </svg>
+      } @else {
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M3 4h18v3H3V4zm0 7h18v3H3v-3zm0 7h18v3H3v-3z"/>
+        </svg>
+      }
+    </button>
+  </div>
+
+  @if (viewMode() === 'table') {
+    <div class="table-container">
+    <table class="books-table">
+      <thead>
+        <tr>
+          <th (click)="onSort('title')" class="sortable">
+            Cím
+            @if (sortField() === 'title') {
+              <span class="sort-icon">{{ sortDirection() === 'asc' ? '▲' : '▼' }}</span>
+            }
+          </th>
+          <th (click)="onSort('author')" class="sortable">
+            Szerző
+            @if (sortField() === 'author') {
+              <span class="sort-icon">{{ sortDirection() === 'asc' ? '▲' : '▼' }}</span>
+            }
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        @for (book of getPaginatedBooks(); track book.id) {
+          <tr (click)="onBookClick(book)" class="book-row">
+            <td>
+              @if (isFavorite(book.id)) {
+                <span class="favorite-badge">❤️</span>
+              }
+              @if (hasPlaybackState(book.id)) {
+                <span class="continue-badge">▶️</span>
+              }
+              {{ book.title }}
+            </td>
+            <td>{{ book.author }}</td>
+          </tr>
+        }
+      </tbody>
+    </table>
+    </div>
+  } @else {
+    <div class="grid-container">
+      @for (book of getPaginatedBooks(); track book.id) {
+        <div class="book-card" (click)="onBookClick(book)">
+          @if (book.cover) {
+            <img 
+              [src]="'https://mek.oszk.hu' + book.cover" 
+              [alt]="book.title"
+              class="book-cover"
+              (error)="onImageError($event)"
+            />
+          } @else {
+            <div class="book-cover-placeholder">
+              <div class="placeholder-text">📖</div>
+            </div>
+          }
+          <div class="book-card-content">
+            <h3 class="book-card-title">{{ book.title }}</h3>
+            <p class="book-card-author">{{ book.author }}</p>
+            <div class="book-card-badges">
+              @if (isFavorite(book.id)) {
+                <span class="badge favorite">❤️</span>
+              }
+              @if (hasPlaybackState(book.id)) {
+                <span class="badge playing">▶️</span>
+              }
+            </div>
+          </div>
+        </div>
+      }
+    </div>
+  }
+
+  <div class="pagination">
+    <button 
+      class="page-btn" 
+      (click)="changePage(currentPage() - 1)"
+      [disabled]="currentPage() === 1"
+    >
+      Előző
+    </button>
+    
+    @for (page of getPageNumbers(); track page) {
+      @if (page === -1) {
+        <span class="ellipsis">...</span>
+      } @else {
+        <button 
+          class="page-btn"
+          [class.active]="page === currentPage()"
+          (click)="changePage(page)"
+        >
+          {{ page }}
+        </button>
+      }
+    }
+    
+    <button 
+      class="page-btn" 
+      (click)="changePage(currentPage() + 1)"
+      [disabled]="currentPage() === getTotalPages()"
+    >
+      Következő
+    </button>
+  </div>
+</div>

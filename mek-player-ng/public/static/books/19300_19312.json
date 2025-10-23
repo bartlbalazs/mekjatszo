@@ -1,0 +1,54 @@
+{
+  "id": "19300_19312",
+  "title": "Józsefváros hercegnője ; Olyan, mint az egyszeregy ; Apatitok",
+  "author": "Máté G. Péter",
+  "lead": "\"Közel egy évvel azután, hogy Szabó százados beszámolt Jankovtiséknál a Józsefváros hercegnője című festmény kalandos sorsáról, már mindannyian lemondtak a képről. Ster Béláék visszatértek megszokott, monotonnak mondható mindennapjaikhoz, s bár Aranka néhanapján telefonon beszélt Marikával, mind kevesebb szó esett a festményről.\"",
+  "cover": "/19300/19312/borito.jpg",
+  "description": null,
+  "audio_files": [
+    {
+      "url": "00-Mate_G_Peter-Jozsefvaros_hercegnoje.mp3",
+      "title": "00-Mate_G_Peter-Jozsefvaros_hercegnoje.mp3"
+    },
+    {
+      "url": "01-Mate_G_Peter-Jozsefvaros_hercegnoje.mp3",
+      "title": "01-Mate_G_Peter-Jozsefvaros_hercegnoje.mp3"
+    },
+    {
+      "url": "02-Mate_G_Peter-Jozsefvaros_hercegnoje.mp3",
+      "title": "02-Mate_G_Peter-Jozsefvaros_hercegnoje.mp3"
+    },
+    {
+      "url": "03-Mate_G_Peter-Jozsefvaros_hercegnoje.mp3",
+      "title": "03-Mate_G_Peter-Jozsefvaros_hercegnoje.mp3"
+    }
+  ],
+  "url": "https://mek.oszk.hu/19300/19312",
+  "similar_books": [
+    {
+      "id": "15200_15201",
+      "author": "Máté G. Péter",
+      "title": "Eldobott asszony"
+    },
+    {
+      "id": "18900_18972",
+      "author": "Máté G. Péter",
+      "title": "Láthatatlan lények"
+    },
+    {
+      "id": "19500_19566",
+      "author": "Boér Péter Pál",
+      "title": "Szabályerősítő"
+    },
+    {
+      "id": "14800_14800",
+      "author": "Máté G. Péter",
+      "title": "A szakállas angyal"
+    },
+    {
+      "id": "10500_10570",
+      "author": "Gárdonyi Géza",
+      "title": "Kátsa"
+    }
+  ]
+}

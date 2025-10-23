@@ -1,0 +1,42 @@
+{
+  "id": "14600_14694",
+  "title": "Az álarcos fantom",
+  "author": "Barsi Ödön",
+  "lead": "\"Stanley elfojtott szitokkal fordult hátra. A régi függönyök között ott állt a jól ismert fantom. Tévedésről szó sem lehetett, mert tisztán lehetett látni a fekete selyemköpönyeget és az álarcot. A félelmetes idegen kezében revolver csillogott, és csöve farkasszemet nézett a zsarolóval.\"",
+  "cover": "/14600/14694/borito.jpg",
+  "description": null,
+  "audio_files": [
+    {
+      "url": "Wreen_C-Az_alarcos_fantom.mp3",
+      "title": "0 - Az álarcos fantom"
+    }
+  ],
+  "url": "https://mek.oszk.hu/14600/14694",
+  "similar_books": [
+    {
+      "id": "14800_14870",
+      "author": "Barsi Ödön",
+      "title": "A nevető halál"
+    },
+    {
+      "id": "15600_15654",
+      "author": "Barsi Ödön",
+      "title": "A bálványimádó"
+    },
+    {
+      "id": "22200_22224",
+      "author": "Kosztolányi Dezső",
+      "title": "Kosztolányi Dezső összes novellája"
+    },
+    {
+      "id": "03000_03073",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekBaranya megye - Egyházaskozár hangja az ezredfordulón"
+    },
+    {
+      "id": "03100_03171",
+      "author": "Tamási Áron",
+      "title": "Vadrózsa ága"
+    }
+  ]
+}

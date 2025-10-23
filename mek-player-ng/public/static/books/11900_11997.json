@@ -1,0 +1,82 @@
+{
+  "id": "11900_11997",
+  "title": "A puding próbája",
+  "author": "V. Pócsay Rozika",
+  "lead": "\"Egyszer volt... hol is volt? Valahol a valós élet kellős közepén, ott, ahol már a kurta farkú malac sem túr, ahol a száguldó idő loholásra készteti az útjába eső embereket. Ha hihető, ha nem, történetem még az Üveghegyen, az Óperenciás tengeren, sőt, biztosan tudom, más egyéb csúcsokba emelkedő hegyeken innen esett meg...\"",
+  "cover": "/11900/11997/borito.jpg",
+  "description": null,
+  "audio_files": [
+    {
+      "url": "00_eloszo.mp3",
+      "title": "00 - Előszó"
+    },
+    {
+      "url": "01_emlekezes.mp3",
+      "title": "01 - Emlékezés"
+    },
+    {
+      "url": "02_a_hosszu_hazassag_titka.mp3",
+      "title": "02 - A hosszú házasság titka"
+    },
+    {
+      "url": "03_ketten_egyert.mp3",
+      "title": "03 - Ketten egyért"
+    },
+    {
+      "url": "04_a_ket_gabo.mp3",
+      "title": "04 - A két Gabó"
+    },
+    {
+      "url": "05_szerelmi_haromszog.mp3",
+      "title": "05 - Szerelmi háromszög"
+    },
+    {
+      "url": "06_gyerekkorom_emlekezetes_karacsonyai.mp3",
+      "title": "06 - Gyerekkorom emlékezetes karácsonyai"
+    },
+    {
+      "url": "07_felnottkorom_karacsonyi_elmenyei.mp3",
+      "title": "07 - Felnőttkorom karácsonyi élményei"
+    },
+    {
+      "url": "08_a_puding_probaja.mp3",
+      "title": "08 - A puding próbája"
+    },
+    {
+      "url": "09_husegproba.mp3",
+      "title": "09 - Hűségpróba"
+    },
+    {
+      "url": "10_tulelok.mp3",
+      "title": "10 - Túlélők"
+    }
+  ],
+  "url": "https://mek.oszk.hu/11900/11997",
+  "similar_books": [
+    {
+      "id": "14100_14175",
+      "author": "V. Pócsay Rozika",
+      "title": "Mélység és magasság"
+    },
+    {
+      "id": "06400_06439",
+      "author": "",
+      "title": "Öt magyar népmese hangillusztrációval"
+    },
+    {
+      "id": "18000_18022",
+      "author": "Arany János",
+      "title": "Rózsa és Ibolya"
+    },
+    {
+      "id": "22600_22667",
+      "author": null,
+      "title": "Mesepelyhek"
+    },
+    {
+      "id": "15200_15200",
+      "author": "Benedek Elek",
+      "title": "Válogatott mesék"
+    }
+  ]
+}

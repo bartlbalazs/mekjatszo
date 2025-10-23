@@ -1,0 +1,25 @@
+<div class="app-container">
+  <nav class="navbar">
+    <div class="nav-content">
+      <a routerLink="/" class="logo">MEKplayer</a>
+      <div class="nav-links">
+        <a routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}" class="nav-link">
+          Hangoskönyvek
+        </a>
+        <a routerLink="/authors" routerLinkActive="active" class="nav-link">
+          Szerzők
+        </a>
+      </div>
+    </div>
+  </nav>
+  
+  <main class="main-content">
+    <router-outlet></router-outlet>
+  </main>
+  
+  <app-mini-player></app-mini-player>
+  
+  <footer class="footer">
+    <p>&copy; 2025 MEKplayer - Magyar Elektronikus Könyvtár Hangoskönyv Lejátszó</p>
+  </footer>
+</div>

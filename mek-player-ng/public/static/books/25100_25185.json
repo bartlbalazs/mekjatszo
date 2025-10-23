@@ -1,0 +1,37 @@
+{
+  "id": "25100_25185",
+  "title": "A köpönyeg",
+  "author": "Nyikolaj Vasziljevics Gogol",
+  "lead": "\"Ekkor Akakij Akakijevics belátta, hogy új köpönyeg elől nincs menekvés, és teljesen nekikeseredett. Hogy legyen mégis, miből, milyen pénzen készíttesse? Persze, bizonyos mértékben hagyatkozhatna a jutalompénzre, ami ünnepkor jár majd, de ennek a pénznek már jó előre megvolt a helye.\"",
+  "cover": null,
+  "description": null,
+  "audio_files": [],
+  "url": "https://mek.oszk.hu/25100/25185",
+  "similar_books": [
+    {
+      "id": "03700_03742",
+      "author": "Nyikolaj Vasziljevics Gogol",
+      "title": "A köpenyeg ; Egy kép a régi jó időből"
+    },
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    },
+    {
+      "id": "18800_18884",
+      "author": "Epiktétos",
+      "title": "Epiktétos kézikönyvecskéje vagyis A stoikus bölcs breviáriuma"
+    },
+    {
+      "id": "10200_10222",
+      "author": "Móra Ferenc",
+      "title": "Nekopogi kovács"
+    },
+    {
+      "id": "22200_22247",
+      "author": "Radnóti Miklós",
+      "title": "Radnóti Miklós összes versei és versfordításai"
+    }
+  ]
+}

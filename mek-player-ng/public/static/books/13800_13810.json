@@ -1,0 +1,70 @@
+{
+  "id": "13800_13810",
+  "title": "Nyeregben a Konstantin-kereszt",
+  "author": "Jenei András",
+  "lead": "\"A két kerékpáron hátul nyeregtáskák foglaltak helyet. Mindegyiken nagy fényvisszaverő csíkok mutattak jobb utat az arra haladónak a sötétben. A felszerelésük általános elsősegélycsomagokból és néhány eszközből állt. Az elmúlt idők alatt, ... azt a néhány dolgot, amit be tudtak szerezni, szét kellett osztani a beindult kevés egység között.\"",
+  "cover": "/13800/13810/borito.jpg",
+  "description": null,
+  "audio_files": [
+    {
+      "url": "01-Jenei_Andras-Nyeregben_a_Konstantin-kereszt.mp3",
+      "title": "01 - Előszó - I. fejezet"
+    },
+    {
+      "url": "02-Jenei_Andras-Nyeregben_a_Konstantin-kereszt.mp3",
+      "title": "02 - II. fejezet"
+    },
+    {
+      "url": "03-Jenei_Andras-Nyeregben_a_Konstantin-kereszt.mp3",
+      "title": "03 - III. fejezet"
+    },
+    {
+      "url": "04-Jenei_Andras-Nyeregben_a_Konstantin-kereszt.mp3",
+      "title": "04 - IV. fejezet"
+    },
+    {
+      "url": "05-Jenei_Andras-Nyeregben_a_Konstantin-kereszt.mp3",
+      "title": "05 - V. fejezet"
+    },
+    {
+      "url": "06-Jenei_Andras-Nyeregben_a_Konstantin-kereszt.mp3",
+      "title": "06 - VI. fejezet"
+    },
+    {
+      "url": "07-Jenei_Andras-Nyeregben_a_Konstantin-kereszt.mp3",
+      "title": "07 - VII. fejezet"
+    },
+    {
+      "url": "08-Jenei_Andras-Nyeregben_a_Konstantin-kereszt.mp3",
+      "title": "08 - VIII. fejezet"
+    }
+  ],
+  "url": "https://mek.oszk.hu/13800/13810",
+  "similar_books": [
+    {
+      "id": "21900_21995",
+      "author": "Németh Árpád",
+      "title": "A kő"
+    },
+    {
+      "id": "19500_19566",
+      "author": "Boér Péter Pál",
+      "title": "Szabályerősítő"
+    },
+    {
+      "id": "06700_06785",
+      "author": "Tar Károly",
+      "title": "Szerenád dobra, cintányérra és más ütős hangszerekreHangoskönyv"
+    },
+    {
+      "id": "13700_13790",
+      "author": "Jenei András",
+      "title": "Tengercseppek"
+    },
+    {
+      "id": "07600_07604",
+      "author": "",
+      "title": "Tájnyelvi hangfelvételekVeszprém megye - Szentgál"
+    }
+  ]
+}

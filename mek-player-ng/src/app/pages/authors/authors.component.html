@@ -1,0 +1,79 @@
+<div class="authors-container">
+  <header class="page-header">
+    <h1>Szerzők</h1>
+    <p class="subtitle">{{ filteredAuthors().length }} szerző található</p>
+  </header>
+
+  <div class="filter-tabs">
+    <button 
+      class="filter-tab"
+      [class.active]="filterMode() === 'all'"
+      (click)="onFilterChange('all')"
+    >
+      Összes ({{ authors().length }})
+    </button>
+    <button 
+      class="filter-tab"
+      [class.active]="filterMode() === 'favorites'"
+      (click)="onFilterChange('favorites')"
+    >
+      ❤️ Kedvencek ({{ favoriteAuthors().length }})
+    </button>
+  </div>
+
+  <div class="search-bar">
+    <input 
+      type="text" 
+      placeholder="Keresés szerző neve alapján..." 
+      [value]="searchTerm()"
+      (input)="onSearchChange($any($event.target).value)"
+      class="search-input"
+    />
+  </div>
+
+  <div class="authors-grid">
+    @for (author of getPaginatedAuthors(); track author.encoded) {
+      <div class="author-card" (click)="onAuthorClick(author)">
+        @if (hasFavoriteBooks(author.display_name)) {
+          <span class="favorite-badge">❤️</span>
+        }
+        <div class="author-initial">
+          {{ author.display_name.charAt(0) }}
+        </div>
+        <h3 class="author-name">{{ author.display_name }}</h3>
+      </div>
+    }
+  </div>
+
+  <div class="pagination">
+    <button 
+      class="page-btn" 
+      (click)="changePage(currentPage() - 1)"
+      [disabled]="currentPage() === 1"
+    >
+      Előző
+    </button>
+    
+    @for (page of getPageNumbers(); track page) {
+      @if (page === -1) {
+        <span class="ellipsis">...</span>
+      } @else {
+        <button 
+          class="page-btn"
+          [class.active]="page === currentPage()"
+          (click)="changePage(page)"
+        >
+          {{ page }}
+        </button>
+      }
+    }
+    
+    <button 
+      class="page-btn" 
+      (click)="changePage(currentPage() + 1)"
+      [disabled]="currentPage() === getTotalPages()"
+    >
+      Következő
+    </button>
+  </div>
+</div>
